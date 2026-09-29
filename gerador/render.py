@@ -27,7 +27,8 @@ def main(spec_path):
     html_dir = "/tmp/tt_html"; os.makedirs(html_dir, exist_ok=True)
     with sync_playwright() as p:
         b = p.chromium.launch()
-        pg = b.new_page(viewport={"width": 1080, "height": 1350}, device_scale_factor=1)
+        w, h = getattr(mod, "TAMANHO", (1080, 1350))
+        pg = b.new_page(viewport={"width": w, "height": h}, device_scale_factor=1)
         for nome, fn in mod.POSTS.items():
             destino = os.path.join(REPO, "posts", nome); os.makedirs(destino, exist_ok=True)
             for i, html in enumerate(fn(), 1):
