@@ -8,3 +8,6 @@ Uma linha por post: data de publicação · pilar · tema · formato. Consultar 
 
 ## Temas guardados para as próximas semanas
 - produto · simulação de fluxo futuro: ver o mês que vem antes de ele chegar (carrossel de 4 já aprovado em 29/09/2026)
+
+## Avulsos
+- 2026-09-29 · institucional · o sistema como um todo (pistas do dia a dia, 8 áreas, clareza) · carrossel 10 + 3 stories
