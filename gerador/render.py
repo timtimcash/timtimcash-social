@@ -2,6 +2,7 @@
 """Renderiza uma semana de artes em JPEG dentro de posts/.
 
 python3 gerador/render.py gerador/semanas/AAAA-MM-DD.py
+Com TT_SAIDA=/outra/pasta, grava fora do repositório (útil antes da aprovação).
 Baixa a fonte Inter (GitHub rsms/inter) se ainda não existir em /tmp/inter.
 """
 import os, sys, io, zipfile, importlib.util, urllib.request
@@ -30,7 +31,8 @@ def main(spec_path):
         w, h = getattr(mod, "TAMANHO", (1080, 1350))
         pg = b.new_page(viewport={"width": w, "height": h}, device_scale_factor=1)
         for nome, fn in mod.POSTS.items():
-            destino = os.path.join(REPO, "posts", nome); os.makedirs(destino, exist_ok=True)
+            base = os.environ.get("TT_SAIDA") or os.path.join(REPO, "posts")
+            destino = os.path.join(base, nome); os.makedirs(destino, exist_ok=True)
             for i, html in enumerate(fn(), 1):
                 hp = os.path.join(html_dir, f"{nome}_{i:02d}.html")
                 open(hp, "w", encoding="utf-8").write(html)
