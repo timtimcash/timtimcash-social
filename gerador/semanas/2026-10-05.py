@@ -28,7 +28,7 @@ def post1():
 <div class='p'>O padrão aparece sozinho.</div>{v_grid30()}""", 5, T))
     s.append(slide("green", f"""
 <div class='h2'>No timtimcash você enxerga isso em um lugar só.</div>
-<div class='lead' style='color:rgba(255,255,255,.9)'>Gratuito, no computador ou no celular.</div>{v_cta_pill()}""", 6, T))
+<div class='lead'>Gratuito, no computador ou no celular.</div>{v_cta_pill()}""", 6, T))
     return s
 
 def post2():
@@ -36,7 +36,7 @@ def post2():
     s = []
     s.append(slide("green", f"""
 <div class='eyebrow'>Remessas internacionais</div>
-<div class='lead' style='margin-top:0;margin-bottom:28px;color:rgba(255,255,255,.92)'>Você manda dinheiro para fora.</div>
+<div class='lead' style='margin-top:0;margin-bottom:28px'>Você manda dinheiro para fora.</div>
 <div class='h1'>Mas sabe quanto ele está rendendo?</div>{v_fx_cover()}""", 1, T))
     s.append(slide("light", f"""
 <div class='eyebrow'>O problema</div>
@@ -54,11 +54,11 @@ def post2():
 <div class='p'>com a cotação PTAX do Banco Central buscada automaticamente.</div>{v_ptax()}""", 5, T))
     s.append(slide("green", f"""
 <div class='h2'>Remessas internacionais no timtimcash.</div>
-<div class='lead' style='color:rgba(255,255,255,.9)'>Gratuito, no computador ou no celular.</div>{v_cta_pill()}""", 6, T))
+<div class='lead'>Gratuito, no computador ou no celular.</div>{v_cta_pill()}""", 6, T))
     return s
 
 def post3():
-    line = lambda t, last=False: f"<div style='padding:34px 0;border-bottom:{'none' if last else '2px solid #e8e7df'};display:flex;align-items:center;gap:30px'><span style='flex:none;width:22px;height:22px;border-radius:50%;background:{BRAND}'></span><span class='h2' style='font-size:66px;white-space:nowrap'>{t}</span></div>"
+    line = lambda t, last=False: f"<div style='padding:34px 0;border-bottom:{'none' if last else '2px solid ' + FIO};display:flex;align-items:center;gap:30px'><span style='flex:none;width:22px;height:22px;border-radius:50%;background:{BRAND}'></span><span class='h2' style='font-size:66px;white-space:nowrap'>{t}</span></div>"
     body = f"""
 <div>{line('Sem propaganda.')}{line('Sem conexão com o banco.')}{line('Sem custo.', True)}</div>
 <div class='lead accent' style='margin-top:56px;font-weight:700;font-size:52px'>Seus dados continuam seus.</div>"""
