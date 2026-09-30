@@ -10,7 +10,20 @@ Uma linha por post: data de publicação · pilar · tema · formato. Consultar 
 - 2026-10-09 · posicionamento · sem propaganda, sem conexão com o banco, sem custo · post único
 
 ## Temas guardados para as próximas semanas
-- (nenhum no momento; a simulação de fluxo futuro foi usada em 03/10/2026)
+Ideias ainda não usadas, todas com tela real em `gerador/telas/` ou funcionalidade confirmada em `gerador/FUNCIONALIDADES.md`. Ao publicar uma, tire a linha daqui.
+- remessas · câmbio de equilíbrio: a partir de qual dólar o investimento lá fora deixa de dar lucro em reais ("Câmbio: onde você está")
+- remessas · contra o CDI, bruto e líquido de IR ("Contra o CDI"); CDI e alíquotas de IR só com fonte oficial
+- remessas · por que a data de cada remessa muda o rendimento ("Ritmo do retorno", "Rendimento ano a ano")
+- remessas · o IOF do comprovante e o câmbio efetivo; alíquotas só com fonte oficial
+- simulação · o teste do susto: perder a maior renda, inflação de 5% ao ano ("E se...")
+- importação · regras que aprendem: "Categorize uma vez, o timtimcash aprende."
+- orçamentos · o ritmo do mês: "no ritmo, fecha em R$ ..." e quanto dá para gastar por dia
+- relatórios · Diagnóstico: reserva de emergência em meses e taxa de poupança contra o próprio padrão
+- comparar · o mês em curso contra o anterior, cortado no mesmo dia
+- sazonalidade · os meses caros do ano (IPVA e IPTU em janeiro, material escolar)
+- cartão de crédito · dia de fechamento, dia de vencimento e a compra que cai na fatura seguinte
+- pendentes · contas a pagar e a receber num lugar só ("Tudo em dia")
+- privacidade · "Ocultar valores" para abrir as finanças em público
 
 ## Avulsos
 - 2026-09-29 · institucional · o sistema como um todo (pistas do dia a dia, 8 áreas, clareza) · carrossel 10 + 3 stories
