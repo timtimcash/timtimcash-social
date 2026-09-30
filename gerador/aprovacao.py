@@ -32,17 +32,31 @@ IMAGENS = os.path.abspath(sys.argv[2])
 SAIDA = os.path.abspath(sys.argv[3])
 garante_fonte()
 
+LARG = CONFIG.get("largura_imagens")  # opcional: reduz as artes (ex.: 720) para o arquivo ficar leve
+
 def img_b64(caminho, qualidade=84):
     im = Image.open(caminho).convert("RGB")
+    if LARG and im.width > LARG:
+        im = im.resize((LARG, round(im.height * LARG / im.width)), Image.LANCZOS)
+        qualidade = min(qualidade, 82)
     buf = io.BytesIO()
     im.save(buf, "JPEG", quality=qualidade, optimize=True, progressive=True)
     return "data:image/jpeg;base64," + base64.b64encode(buf.getvalue()).decode()
 
-imagens = {}
-for p in POSTS:
-    fs = sorted(glob.glob(os.path.join(IMAGENS, p["pasta"], "*.jpg")))
+def _slides_do_post(p):
+    """Carrossel: <imagens_dir ou pasta_das_imagens>/<pasta>/*.jpg. Reel: a capa (campo capa)."""
+    if p.get("tipo") == "reel":
+        return [p["capa"]]
+    fs = sorted(glob.glob(os.path.join(p.get("imagens_dir") or IMAGENS, p["pasta"], "*.jpg")))
     assert len(fs) == len(p["slides"]), (p["pasta"], len(fs), len(p["slides"]))
-    imagens[str(p["n"])] = [img_b64(f) for f in fs]
+    return fs
+
+imagens, videos = {}, {}
+for p in POSTS:
+    imagens[str(p["n"])] = [img_b64(f) for f in _slides_do_post(p)]
+    if p.get("tipo") == "reel":
+        # a prévia leve (720 × 1280) vai embutida; o que é publicado é o reel.mp4 em 1080 × 1920
+        videos[str(p["n"])] = "data:video/mp4;base64," + base64.b64encode(open(p.get("previa") or p["video"], "rb").read()).decode()
 
 def img_b64_menor(caminho, largura=360, qualidade=82):
     im = Image.open(caminho).convert("RGB")
@@ -59,7 +73,7 @@ def _caminho(c):
 grades = {}
 for p in POSTS:
     if p.get("grade"):
-        capa = sorted(glob.glob(os.path.join(IMAGENS, p["pasta"], "*.jpg")))[0]
+        capa = _slides_do_post(p)[0]
         grades[str(p["n"])] = {
             "titulo": p.get("grade_titulo", "Prévia no perfil"),
             "legenda": p.get("grade_legenda", "Como o perfil fica depois deste post"),
@@ -82,8 +96,17 @@ dados_js = [{
     "n": p["n"], "plataforma": p["plataforma"], "formato": p["formato"], "formato_curto": p["formato_curto"],
     "tema": p["tema"], "pilar": p["pilar"], "data_longa": p["data_longa"], "data_curta": p["data_curta"],
     "data_mockup": p["data_mockup"], "hora": p["hora"], "slides": p["slides"], "legenda": p["legenda"],
-    "justificativa": p["justificativa"],
+    "justificativa": p["justificativa"], "tipo": p.get("tipo", "carrossel"),
+    "status_atual": p.get("status_atual", ""), "status_tipo": p.get("status_tipo", ""),
+    "iso": p.get("iso", ""), "titulo_curto": p.get("titulo_curto", ""),
 } for p in POSTS]
+
+# prévia da grade do mês (opcional): CONFIG["grade_mes"] = {"titulo", "legenda", "itens": [(rótulo, caminho, tipo)]}
+grade_mes = None
+if CONFIG.get("grade_mes"):
+    G = CONFIG["grade_mes"]
+    grade_mes = {"titulo": G.get("titulo", "Prévia do perfil"), "legenda": G.get("legenda", ""), "nota": G.get("nota", ""),
+                 "itens": [{"rot": r, "src": img_b64_menor(_caminho(c)), "tipo": t} for r, c, t in G["itens"]]}
 import html as _html
 notas_html = "".join(f'<div class="note"><strong>{_html.escape(t)}</strong>{_html.escape(x)}</div>' for t, x in CONFIG["notas"])
 fontes_html = "".join(f'<li><a href="{u}" target="_blank" rel="noopener">{_html.escape(t)}</a></li>' for t, u in CONFIG["fontes"])
@@ -236,6 +259,36 @@ textarea:focus{outline:none;border-color:var(--brand);background:#fff}
 .lb button{position:absolute;border:none;background:rgba(255,255,255,.95);width:44px;height:44px;border-radius:50%;cursor:pointer;font-size:20px;display:flex;align-items:center;justify-content:center;color:var(--ink)}
 .lb .x{top:16px;right:16px}.lb .p{left:16px;top:50%;transform:translateY(-50%)}.lb .n{right:16px;top:50%;transform:translateY(-50%)}
 .lb .c{position:absolute;bottom:18px;left:50%;transform:translateX(-50%);color:#fff;font-size:14px;font-weight:600}
+/* Reel, situação, aprovar todos, calendário */
+.reelbox{position:relative;background:#0F1410;aspect-ratio:9/16;max-height:78vh;margin:0 auto}
+.reelbox video{width:100%;height:100%;object-fit:cover;display:block;background:#0F1410}
+.rtag{position:absolute;top:12px;left:12px;background:rgba(15,20,16,.72);color:#fff;font-size:12px;font-weight:700;letter-spacing:.06em;padding:4px 10px;border-radius:999px;pointer-events:none}
+.thumbs button.capa916 img{aspect-ratio:9/16}
+.chip.sit-novo{background:var(--soft);border-color:var(--soft);color:var(--brand-deep)}
+.chip.sit-mantem{background:var(--pend-bg);border-color:var(--pend-bg);color:var(--pend)}
+.chip.sit-muda{background:var(--amber-bg);border-color:var(--amber-bg);color:var(--amber)}
+.todos{height:32px;padding:0 14px;border-radius:999px;border:1.5px solid var(--brand);background:var(--card);color:var(--brand-dark);font:inherit;font-size:13px;font-weight:700;cursor:pointer}
+.todos:hover{background:var(--soft)}
+.mesbox{background:var(--card);border:1px solid var(--line);border-radius:24px;box-shadow:var(--shadow);padding:22px;margin:22px 0}
+.mesbox h2{font-size:clamp(22px,3vw,30px);letter-spacing:-.04em;line-height:1.1;margin:6px 0 16px}
+.cal{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:6px}
+.cal .cab{font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);padding:0 4px 2px}
+.dia{min-height:104px;border-radius:14px;border:1px solid var(--line);padding:8px;display:flex;flex-direction:column;gap:5px;background:var(--paper);text-decoration:none;color:var(--ink);overflow:hidden}
+.dia.fora{background:transparent;border-color:transparent}
+.dia.vazio{opacity:1;color:var(--muted)} .dia.fds{background:#F4F2EC}
+.dia.tem{background:#fff;border-color:var(--neutral)}
+.dia.tem:hover{border-color:var(--brand)}
+.dia .num{font-size:13px;font-weight:700;font-variant-numeric:tabular-nums}
+.dia .tp{align-self:flex-start;font-size:11px;font-weight:700;border-radius:999px;padding:2px 8px}
+.dia .tp.reel{background:var(--ink);color:#fff} .dia .tp.carr{background:var(--soft);color:var(--brand-deep)}
+.dia .tt{font-size:12px;line-height:1.25;font-weight:600;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.dia .sn{margin-top:auto;font-size:11px;font-weight:600}
+.dia .sn.novo{color:var(--brand-dark)} .dia .sn.mantem{color:var(--pend)} .dia .sn.muda{color:var(--amber)}
+@media (max-width:700px){
+  .cal{gap:3px} .cal .cab{font-size:10px;padding:0}
+  .dia{min-height:74px;padding:5px;border-radius:10px;gap:3px}
+  .dia .tt{display:none} .dia .tp{font-size:9px;padding:1px 5px} .dia .sn{font-size:9px}
+}
 @media (max-width:900px){
   .grid{grid-template-columns:1fr}
   .phone{position:relative;top:0;max-width:440px;margin:0 auto}
@@ -268,10 +321,12 @@ textarea:focus{outline:none;border-color:var(--brand);background:#fff}
   <span class="count"><span class="dot" style="background:var(--brand)"></span>Aprovados <b id="c-aprovado">0</b></span>
   <span class="count"><span class="dot" style="background:#D4A14A"></span>Alteração <b id="c-alteracao">0</b></span>
   <span class="count"><span class="dot" style="background:#C94C4C"></span>Reprovados <b id="c-reprovado">0</b></span>
-  <nav class="jump" aria-label="Ir para">__PULOS__<a href="#final">Copiar</a></nav>
+  __TODOS__<nav class="jump" aria-label="Ir para">__PULOS__<a href="#final">Copiar</a></nav>
 </div></div>
 <main class="wrap">
   <div class="notes">__NOTAS__</div>
+  <p class="muted" id="todos-msg" role="status" aria-live="polite" style="margin:0"></p>
+  <div id="mes"></div>
   <div id="posts"></div>
   <section class="final" id="final">
     <span class="eyebrow">Resumo</span>
@@ -293,6 +348,8 @@ const IMGS = __IMGS__;
 const SIMBOLO = __SIMBOLO__;
 const FUSO = __FUSO__;
 const GRADE = __GRADE__;
+const VIDEOS = __VIDEOS__;
+const GRADEMES = __GRADEMES__;
 const RESUMO_TITULO = __RESUMO_TITULO__;
 function blocoGrade(k){
   const pin = '<svg class="pin" viewBox="0 0 24 24" fill="#fff" aria-hidden="true"><path d="M15.5 2.5 21.5 8.5 19.4 9.2 15.9 12.7 16.5 17.6 14.9 19.2 11 15.3 5.3 21 3 21 3 18.7 8.7 13 4.8 9.1 6.4 7.5 11.3 8.1 14.8 4.6z"/></svg>';
@@ -333,22 +390,12 @@ function salvar(){ try{ localStorage.setItem(CHAVE, JSON.stringify(estado)); }ca
 function montar(){
   const alvo = document.getElementById("posts");
   alvo.innerHTML = POSTS.map(p=>{
-    const k=String(p.n), imgs=IMGS[k];
+    const k=String(p.n), imgs=IMGS[k], reel=(p.tipo==="reel");
     const capCurta = p.legenda.split("\n")[0];
-    return `
-<section class="post" id="post-${k}" aria-labelledby="t-${k}">
-  <div class="post-head">
-    <div>
-      <span class="eyebrow">Post ${k} · ${esc(p.plataforma)} · ${esc(p.formato_curto)}</span>
-      <h2 id="t-${k}">${esc(p.tema)}</h2>
-      <div class="meta"><span class="chip g">${esc(p.data_longa)}</span><span class="chip g">${esc(p.hora)}</span><span class="chip">${esc(p.pilar)}</span></div>
-    </div>
-    <span class="status st-pendente" id="st-${k}" aria-live="polite"><span class="dot"></span><span class="txt">Pendente de avaliação</span></span>
-  </div>
-  <div class="grid">
-    <div>
-      <div class="phone" aria-label="Prévia no Instagram">
-        <div class="ig-top"><span class="avatar">${SIMBOLO}</span><span class="ig-user">timtimcashcom<small>Prévia do feed</small></span><span class="ig-more">···</span></div>
+    const sit = p.status_atual ? `<span class="chip sit-${esc(p.status_tipo||'mantem')}">${esc(p.status_atual)}</span>` : "";
+    const midia = reel ? `
+        <div class="reelbox"><video id="vd-${k}" muted loop playsinline controls preload="none" poster="${imgs[0]}" aria-label="Reel do post ${k}"></video><span class="rtag">Reel</span></div>
+        <div class="ig-actions">${IG.heart}${IG.com}${IG.send}<div class="dots"></div>${IG.save}</div>` : `
         <div class="car">
           <div class="track" id="tr-${k}" tabindex="0" aria-label="Slides do carrossel">
             ${imgs.map((src,i)=>`<img src="${src}" alt="Post ${k}, slide ${i+1} de ${imgs.length}" data-k="${k}" data-i="${i}" ${i>1?'loading="lazy"':''}>`).join("")}
@@ -357,7 +404,21 @@ function montar(){
           <button class="nav next" type="button" data-k="${k}" data-d="1" aria-label="Próximo slide"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="m9 6 6 6-6 6"/></svg></button>
           <span class="idx" id="ix-${k}">1/${imgs.length}</span>
         </div>
-        <div class="ig-actions">${IG.heart}${IG.com}${IG.send}<div class="dots" id="dt-${k}">${imgs.map((_,i)=>`<i class="${i===0?'on':''}"></i>`).join("")}</div>${IG.save}</div>
+        <div class="ig-actions">${IG.heart}${IG.com}${IG.send}<div class="dots" id="dt-${k}">${imgs.map((_,i)=>`<i class="${i===0?'on':''}"></i>`).join("")}</div>${IG.save}</div>`;
+    return `
+<section class="post${reel?' ehreel':''}" id="post-${k}" aria-labelledby="t-${k}">
+  <div class="post-head">
+    <div>
+      <span class="eyebrow">Post ${k} · ${esc(p.plataforma)} · ${esc(p.formato_curto)}</span>
+      <h2 id="t-${k}">${esc(p.tema)}</h2>
+      <div class="meta"><span class="chip g">${esc(p.data_longa)}</span><span class="chip g">${esc(p.hora)}</span><span class="chip">${esc(p.pilar)}</span>${sit}</div>
+    </div>
+    <span class="status st-pendente" id="st-${k}" aria-live="polite"><span class="dot"></span><span class="txt">Pendente de avaliação</span></span>
+  </div>
+  <div class="grid">
+    <div>
+      <div class="phone" aria-label="Prévia no Instagram">
+        <div class="ig-top"><span class="avatar">${SIMBOLO}</span><span class="ig-user">timtimcashcom<small>${reel?'Prévia do Reel, sem som':'Prévia do feed'}</small></span><span class="ig-more">···</span></div>${midia}
         <div class="ig-cap" id="cap-${k}"><b>timtimcashcom</b> <span class="t">${esc(capCurta)}</span> <button class="mais" type="button" data-k="${k}">… mais</button></div>
         <div class="ig-date">${esc(p.data_mockup)}</div>
       </div>
@@ -373,8 +434,8 @@ function montar(){
         </dl>
       </div>
       ${GRADE[k] ? blocoGrade(k) : ""}
-      <div class="block"><h3>Arte · todos os slides</h3>
-        <div class="thumbs">${imgs.map((src,i)=>`<button type="button" data-k="${k}" data-i="${i}" aria-label="Ampliar slide ${i+1}"><img src="${src}" alt=""><span>${i+1}</span></button>`).join("")}</div>
+      <div class="block"><h3>${reel?'Capa na grade e roteiro':'Arte · todos os slides'}</h3>
+        <div class="thumbs">${imgs.map((src,i)=>`<button type="button" data-k="${k}" data-i="${i}" aria-label="Ampliar ${reel?'a capa':'o slide '+(i+1)}"${reel?' class="capa916"':''}><img src="${src}" alt=""><span>${reel?'capa':i+1}</span></button>`).join("")}</div>
         <ol class="slides">${p.slides.map(s=>`<li>${esc(s)}</li>`).join("")}</ol>
       </div>
       <div class="block"><h3>Legenda completa</h3><div class="caption">${esc(p.legenda)}</div></div>
@@ -425,6 +486,7 @@ function resumo(){
       `Tema: ${p.tema}`,
       `Data: ${p.data_curta}`,
       `Horário: ${p.hora} (horário de Brasília)`,
+      ...(p.status_atual ? [`Situação: ${p.status_atual}`] : []),
       `Decisão: ${ROTULO[e.status]}`,
       `Comentários: ${com ? com.replace(/\n+/g," / ") : "sem comentários"}`
     ].join("\n");
@@ -451,11 +513,18 @@ function ligar(){
   });
   POSTS.forEach(p=>{
     const k=String(p.n), tr=document.getElementById("tr-"+k);
+    if(!tr) return;  // Reel: sem carrossel
     let t=null; tr.addEventListener("scroll", ()=>{ clearTimeout(t); t=setTimeout(()=>marcar(k),60); }, {passive:true});
     tr.addEventListener("keydown", e=>{ if(e.key==="ArrowRight"){mover(k,1);e.preventDefault();} if(e.key==="ArrowLeft"){mover(k,-1);e.preventDefault();} });
     marcar(k);
   });
   document.getElementById("copiar").addEventListener("click", copiar);
+  const todos = document.getElementById("todos");
+  if(todos) todos.addEventListener("click", ()=>{
+    let n=0; POSTS.forEach(p=>{ const k=String(p.n); if(estado[k].status==="pendente"){ estado[k].status="aprovado"; n++; pintar(k); } });
+    salvar(); contar();
+    document.getElementById("todos-msg").textContent = n ? `${n} post(s) marcados como aprovados. Os que você já tinha avaliado não mudaram.` : "Não havia posts pendentes.";
+  });
   const lb=document.getElementById("lb");
   lb.addEventListener("click", e=>{ if(e.target===lb || e.target.classList.contains("x")) fecharLB(); if(e.target.classList.contains("p")) passoLB(-1); if(e.target.classList.contains("n")) passoLB(1); });
   document.addEventListener("keydown", e=>{ if(!lb.classList.contains("on")) return; if(e.key==="Escape") fecharLB(); if(e.key==="ArrowRight") passoLB(1); if(e.key==="ArrowLeft") passoLB(-1); });
@@ -490,7 +559,50 @@ async function copiar(){
   setTimeout(()=>{ if(ok) msg.textContent=""; }, 6000);
 }
 
-carregar(); montar(); POSTS.forEach(p=>pintar(String(p.n))); contar(); ligar();
+/* ---------- mês: calendário e grade do perfil ---------- */
+const MESES=["janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"];
+function blocoMes(){
+  const alvo=document.getElementById("mes"); if(!alvo) return;
+  const comData=POSTS.filter(p=>p.iso); if(!comData.length){ alvo.remove(); return; }
+  const d0=new Date(comData[0].iso.slice(0,10)+"T12:00:00"); const ano=d0.getFullYear(), mes=d0.getMonth();
+  const porDia={}; comData.forEach(p=>{ const d=new Date(p.iso.slice(0,10)+"T12:00:00"); if(d.getMonth()===mes) porDia[d.getDate()]=p; });
+  const prim=new Date(ano,mes,1,12), ult=new Date(ano,mes+1,0,12).getDate();
+  const off=(prim.getDay()+6)%7;  // segunda = 0
+  const cels=[]; for(let i=0;i<off;i++) cels.push('<div class="dia fora"></div>');
+  for(let d=1; d<=ult; d++){
+    const p=porDia[d], fds=((off+d-1)%7)>=5;
+    if(!p){ cels.push(`<div class="dia vazio${fds?' fds':''}"><span class="num">${d}</span></div>`); continue; }
+    const tag = p.tipo==="reel" ? '<span class="tp reel">Reel</span>' : '<span class="tp carr">Carrossel</span>';
+    const st = p.status_tipo==="novo" ? '<span class="sn novo">novo</span>' : (p.status_tipo==="muda" ? '<span class="sn muda">muda de dia</span>' : '<span class="sn mantem">já agendado</span>');
+    cels.push(`<a class="dia tem${fds?' fds':''}" href="#post-${p.n}"><span class="num">${d}</span>${tag}<span class="tt">${esc(p.titulo_curto||p.tema)}</span>${st}</a>`);
+  }
+  while(cels.length%7) cels.push('<div class="dia fora"></div>');
+  const cab=["seg","ter","qua","qui","sex","sáb","dom"].map(x=>`<div class="cab">${x}</div>`).join("");
+  const nR=comData.filter(p=>p.tipo==="reel").length;
+  let html=`<section class="mesbox" aria-label="Calendário do mês">
+    <span class="eyebrow">Calendário</span><h2>${MESES[mes][0].toUpperCase()+MESES[mes].slice(1)} de ${ano}: ${comData.length} posts, ${nR} Reels</h2>
+    <div class="cal">${cab}${cels.join("")}</div>
+    <p class="muted" style="margin:10px 0 0">Toque num dia para ir ao post.</p></section>`;
+  if(GRADEMES){
+    const tiles=GRADEMES.itens.map(g=>`<figure class="${g.tipo==='fixado'?'fix':''}"><img src="${g.src}" alt="${esc(g.rot)}">${g.tipo==='fixado'?'<svg class="pin" viewBox="0 0 24 24" fill="#fff" aria-hidden="true"><path d="M15.5 2.5 21.5 8.5 19.4 9.2 15.9 12.7 16.5 17.6 14.9 19.2 11 15.3 5.3 21 3 21 3 18.7 8.7 13 4.8 9.1 6.4 7.5 11.3 8.1 14.8 4.6z"/></svg>':''}${g.tipo==='reel'?'<svg class="pin" viewBox="0 0 24 24" fill="#fff" aria-hidden="true"><path d="M8 5.5v13l11-6.5z"/></svg>':''}<figcaption>${esc(g.rot)}</figcaption></figure>`).join("");
+    html+=`<section class="mesbox" aria-label="Prévia da grade do perfil"><span class="eyebrow">${esc(GRADEMES.titulo)}</span>
+      <div class="perfil" style="max-width:520px;margin-top:12px"><div class="perfil-top"><span class="avatar">${SIMBOLO}</span><span class="ig-user">timtimcashcom<small>${esc(GRADEMES.legenda)}</small></span></div>
+      <div class="grade">${tiles}</div></div>
+      <p class="muted" style="margin:10px 0 0">${esc(GRADEMES.nota)}</p></section>`;
+  }
+  alvo.innerHTML=html;
+}
+/* Reels: o vídeo embutido vira um endereço blob (toca melhor no Safari) e toca sozinho, sem som, quando aparece na tela */
+function ligarVideos(){
+  const obs = ("IntersectionObserver" in window) ? new IntersectionObserver(es=>es.forEach(e=>{ const v=e.target; if(e.isIntersecting && e.intersectionRatio>.6){ v.play().catch(()=>{}); } else { v.pause(); } }), {threshold:[0,.6,1]}) : null;
+  Object.keys(VIDEOS).forEach(k=>{
+    const v=document.getElementById("vd-"+k); if(!v) return;
+    v.addEventListener("error", ()=>{ if(!v.dataset.fb){ v.dataset.fb="1"; v.src=VIDEOS[k]; } });
+    fetch(VIDEOS[k]).then(r=>r.blob()).then(b=>{ v.src=URL.createObjectURL(b); if(obs) obs.observe(v); }).catch(()=>{ v.src=VIDEOS[k]; if(obs) obs.observe(v); });
+  });
+}
+
+carregar(); montar(); POSTS.forEach(p=>pintar(String(p.n))); contar(); ligar(); blocoMes(); ligarVideos();
 </script>
 </body>
 </html>
@@ -506,8 +618,11 @@ html = (HTML.replace("__FONTES__", fontes()).replace("__LOGO__", logo_h)
             .replace("__DADOS__", json.dumps(dados_js, ensure_ascii=False))
             .replace("__IMGS__", json.dumps(imagens))
             .replace("__SIMBOLO__", json.dumps(simbolo_neg))
-            .replace("__FUSO__", json.dumps(FUSO, ensure_ascii=False)))
+            .replace("__FUSO__", json.dumps(FUSO, ensure_ascii=False))
+            .replace("__VIDEOS__", json.dumps(videos))
+            .replace("__GRADEMES__", json.dumps(grade_mes, ensure_ascii=False))
+            .replace("__TODOS__", '<button class="todos" id="todos" type="button">Aprovar todos os pendentes</button>' if CONFIG.get("aprovar_todos") else ""))
 open(SAIDA, "w", encoding="utf-8").write(html)
 print(SAIDA, round(os.path.getsize(SAIDA) / 1024 / 1024, 2), "MB")
-proib = [c for c in ("—", "–") if c in re.sub(r"data:(image/jpeg|font/woff2);base64,[A-Za-z0-9+/=]+", "", html)]
+proib = [c for c in ("—", "–") if c in re.sub(r"data:(image/jpeg|font/woff2|video/mp4);base64,[A-Za-z0-9+/=]+", "", html)]
 print("travessoes:", proib)

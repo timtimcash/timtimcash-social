@@ -35,3 +35,8 @@
 Cada item de `POSTS`: `n`, `pasta` (nome da pasta das imagens), `plataforma`, `formato`, `formato_curto`, `tema`, `pilar`, `data_longa`, `data_curta`, `data_mockup`, `hora`, `iso` (data e hora do agendamento), `slides` (texto de cada slide), `legenda`, `justificativa` (lista de (título, texto)), `alt` (texto alternativo de cada slide) e, opcionais, `grade`, `grade_titulo`, `grade_legenda` e `grade_nota` para a prévia da grade do perfil. Em `grade`, cada item é (rótulo, caminho da capa): caminho `None` é o próprio post, rótulo `"fixado"` mostra o alfinete de post fixado, e caminhos relativos partem da raiz do repositório.
 
 `FUSO`: texto do fuso horário, por exemplo `"horário de Brasília (America/Sao_Paulo, UTC−3)"`.
+
+### Campos opcionais (Reels e o mês inteiro)
+
+- No post: `tipo` (`"reel"` ou `"carrossel"`); para Reel, `video` (reel.mp4 de 1080 × 1920), `previa` (a mesma em 720 × 1280, sem som, que vai embutida no arquivo) e `capa` (a capa da grade); `imagens_dir` (outra pasta de imagens só para esse post); `status_atual` e `status_tipo` (`"novo"`, `"mantem"` ou `"muda"`) para posts que já estavam agendados; `titulo_curto` para o calendário.
+- No `CONFIG`: `largura_imagens` (ex.: 720, deixa o arquivo leve), `aprovar_todos` (mostra o botão "Aprovar todos os pendentes") e `grade_mes` (`{"titulo", "legenda", "nota", "itens": [(rótulo, caminho da capa, tipo)]}`, com tipo `"fixado"`, `"reel"` ou `"carrossel"`). Com posts de um mês inteiro (campo `iso`), a página mostra o calendário do mês no topo.
