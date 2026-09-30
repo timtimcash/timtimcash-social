@@ -14,3 +14,9 @@ Uma linha por post: data de publicação · pilar · tema · formato. Consultar 
 
 ## Avulsos
 - 2026-09-29 · institucional · o sistema como um todo (pistas do dia a dia, 8 áreas, clareza) · carrossel 10 + 3 stories
+- 2026-09-30 · apresentação, post fixado no topo do perfil · Comece por aqui: o que é, as 4 perguntas, exterior em reais, planilha e extrato, privacidade, 3 passos · carrossel 8, com telas reais nos slides 2, 4, 5 e 6
+
+## Telas reais
+- `gerador/telas/` guarda telas reais do timtimcash capturadas numa conta fictícia (sem nenhum dado real), para usar nos posts.
+- Os números batem com os exemplos dos posts: setembro de 2026 com receitas R$ 9.960,00, despesas R$ 7.780,00 e sobra de R$ 2.180,00; conta corrente com R$ 14.180,00; exterior com 3 remessas (R$ 60.000 por US$ 12.000) e carteira de US$ 13.200 a R$ 5,50.
+- Sempre avisar no slide que a tela é real e os dados são de exemplo.
