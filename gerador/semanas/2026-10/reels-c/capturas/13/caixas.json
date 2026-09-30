@@ -1,0 +1,693 @@
+{
+ "antes": {
+  "rotulo": {
+   "x": 29,
+   "y": 92,
+   "w": 332,
+   "h": 16.5,
+   "txt": "Saldo em set/27"
+  },
+  "valor": {
+   "x": 29,
+   "y": 110.5,
+   "w": 332,
+   "h": 42,
+   "txt": "R$ 37.720"
+  },
+  "runs": [
+   {
+    "x": 29,
+    "y": 1149.5,
+    "w": 332,
+    "h": 40.5,
+    "txt": "Saldo de partida R$ 14.180"
+   },
+   {
+    "x": 29,
+    "y": 1198,
+    "w": 332,
+    "h": 85,
+    "txt": "set/26 a dez/264 meses+R$ 2.180/mês R$ 9.960 entra R$ 7.780 sai saldo em dez/26: R$ 22.900"
+   },
+   {
+    "x": 29,
+    "y": 1291,
+    "w": 332,
+    "h": 85,
+    "txt": "jan/271 ajuste−R$ 2.620 R$ 9.960 entra R$ 12.580 sai saldo em jan/27: R$ 20.280",
+    "saldo_trecho": null
+   },
+   {
+    "x": 29,
+    "y": 1384,
+    "w": 332,
+    "h": 85,
+    "txt": "fev/27 a ago/277 meses+R$ 2.180/mês R$ 9.960 entra R$ 7.780 sai saldo em ago/27: R$ 35.540"
+   },
+   {
+    "x": 29,
+    "y": 1477,
+    "w": 332,
+    "h": 84,
+    "txt": "set/27R$ 37.720 R$ 9.960 entra R$ 7.780 sai saldo projetado no horizonte"
+   }
+  ],
+  "canvas": {
+   "x": 29,
+   "y": 219,
+   "w": 332,
+   "h": 210,
+   "txt": ""
+  },
+  "marcos": [
+   {
+    "x": 29,
+    "y": 626,
+    "w": 332,
+    "h": 16.5,
+    "txt": "Cruza R$ 20 mil em nov/26"
+   },
+   {
+    "x": 29,
+    "y": 647.5,
+    "w": 332,
+    "h": 16.5,
+    "txt": "Cruza R$ 30 mil em jun/27"
+   }
+  ],
+  "scrollY": 1632,
+  "ilha": {
+   "x": 10,
+   "y": 8,
+   "w": 370,
+   "h": 58,
+   "txt": "Simulação futura Setembro 2026 Todas as contas Todas as contasmultiConta correnteCorretora no exteriorReserva"
+  },
+  "grafico": {
+   "labels": [
+    "Hoje",
+    "set/26",
+    "out/26",
+    "nov/26",
+    "dez/26",
+    "jan/27",
+    "fev/27",
+    "mar/27",
+    "abr/27",
+    "mai/27",
+    "jun/27",
+    "jul/27",
+    "ago/27",
+    "set/27"
+   ],
+   "canvas": {
+    "x": 29,
+    "y": 219,
+    "w": 332,
+    "h": 210
+   },
+   "datasets": [
+    {
+     "label": "cenário atual",
+     "dados": [
+      14180,
+      16360,
+      18540,
+      20720,
+      22900,
+      20280,
+      22460,
+      24640,
+      26820,
+      29000,
+      31180,
+      33360,
+      35540,
+      37720
+     ],
+     "pts": [
+      {
+       "x": 89.61407470703125,
+       "y": 364.70465341555985
+      },
+      {
+       "x": 110.02837665264423,
+       "y": 353.1625874029371
+      },
+      {
+       "x": 130.4426785982572,
+       "y": 341.6205213903143
+      },
+      {
+       "x": 150.85698054387018,
+       "y": 330.0784553776915
+      },
+      {
+       "x": 171.27128248948318,
+       "y": 318.5363893650687
+      },
+      {
+       "x": 191.68558443509616,
+       "y": 332.4080466829915
+      },
+      {
+       "x": 212.09988638070914,
+       "y": 320.8659806703687
+      },
+      {
+       "x": 232.5141883263221,
+       "y": 309.32391465774595
+      },
+      {
+       "x": 252.92849027193512,
+       "y": 297.78184864512315
+      },
+      {
+       "x": 273.3427922175481,
+       "y": 286.23978263250035
+      },
+      {
+       "x": 293.75709416316107,
+       "y": 274.69771661987755
+      },
+      {
+       "x": 314.17139610877405,
+       "y": 263.15565060725476
+      },
+      {
+       "x": 334.585698054387,
+       "y": 251.61358459463196
+      },
+      {
+       "x": 355,
+       "y": 240.07151858200916
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "antes_jan": {
+  "rotulo": {
+   "x": 29,
+   "y": 92,
+   "w": 332,
+   "h": 16.5,
+   "txt": "Saldo em set/27"
+  },
+  "valor": {
+   "x": 29,
+   "y": 110.5,
+   "w": 332,
+   "h": 42,
+   "txt": "R$ 37.720"
+  },
+  "runs": [
+   {
+    "x": 29,
+    "y": 1149.5,
+    "w": 332,
+    "h": 40.5,
+    "txt": "Saldo de partida R$ 14.180"
+   },
+   {
+    "x": 29,
+    "y": 1198,
+    "w": 332,
+    "h": 85,
+    "txt": "set/26 a dez/264 meses+R$ 2.180/mês R$ 9.960 entra R$ 7.780 sai saldo em dez/26: R$ 22.900"
+   },
+   {
+    "x": 29,
+    "y": 1291,
+    "w": 332,
+    "h": 392.5,
+    "txt": "jan/271 ajuste−R$ 2.620 R$ 9.960 entra R$ 12.580 sai saldo em jan/27: R$ 20.280 Receitas · jan/27 Salário R$ 9.960Despesas · jan/27 Impostos e Taxasajuste do mês R$ 4.800 Casa R$ 2.300 Mercado R$ 1.710 Educação R$ 1.450 Transporte R$ 1.245 Bares e restaurantes R$ 672 Saúde R$ 283 Assinaturas e serviços R$ 119"
+   },
+   {
+    "x": 29,
+    "y": 1691.5,
+    "w": 332,
+    "h": 85,
+    "txt": "fev/27 a ago/277 meses+R$ 2.180/mês R$ 9.960 entra R$ 7.780 sai saldo em ago/27: R$ 35.540"
+   },
+   {
+    "x": 29,
+    "y": 1784.5,
+    "w": 332,
+    "h": 84,
+    "txt": "set/27R$ 37.720 R$ 9.960 entra R$ 7.780 sai saldo projetado no horizonte"
+   }
+  ],
+  "canvas": {
+   "x": 29,
+   "y": 219,
+   "w": 332,
+   "h": 210,
+   "txt": ""
+  },
+  "marcos": [
+   {
+    "x": 29,
+    "y": 626,
+    "w": 332,
+    "h": 16.5,
+    "txt": "Cruza R$ 20 mil em nov/26"
+   },
+   {
+    "x": 29,
+    "y": 647.5,
+    "w": 332,
+    "h": 16.5,
+    "txt": "Cruza R$ 30 mil em jun/27"
+   }
+  ],
+  "scrollY": 1632,
+  "ilha": {
+   "x": 10,
+   "y": 8,
+   "w": 370,
+   "h": 58,
+   "txt": "Simulação futura Setembro 2026 Todas as contas Todas as contasmultiConta correnteCorretora no exteriorReserva"
+  },
+  "toque_jan": {
+   "x": 195.0,
+   "y": 1309
+  },
+  "impostos": {
+   "x": 55,
+   "y": 1479.5,
+   "w": 96.546875,
+   "h": 14,
+   "linhas": [
+    {
+     "x": 55,
+     "y": 1479.5,
+     "w": 96.546875,
+     "h": 14
+    }
+   ],
+   "texto": "Impostos e Taxas"
+  }
+ },
+ "salario": {
+  "menu": {
+   "x": 329,
+   "y": 225,
+   "w": 32,
+   "h": 32
+  },
+  "sec": {
+   "x": 14,
+   "y": 92,
+   "w": 362,
+   "h": 291
+  },
+  "linha": {
+   "x": 29,
+   "y": 213,
+   "w": 332,
+   "h": 55,
+   "tag": "DIV",
+   "txt": "Salário R$"
+  }
+ },
+ "folha": {
+  "ajustar": {
+   "x": 0,
+   "y": 768.5,
+   "w": 390,
+   "h": 50,
+   "tag": "BUTTON",
+   "txt": "Ajustar por mês"
+  },
+  "folha": {
+   "x": 0,
+   "y": 683,
+   "w": 390,
+   "h": 317,
+   "tag": "DIV",
+   "txt": "Salário Mesmo valor em todos os meses Ajustar por mês Preencher com a média Remover do cenário Cancelar"
+  }
+ },
+ "modal": {
+  "um_mes": {
+   "x": 38,
+   "y": 644,
+   "w": 314,
+   "h": 36,
+   "tag": "BUTTON",
+   "txt": "+ Um mês específico"
+  },
+  "modal": {
+   "x": 8,
+   "y": 272.5,
+   "w": 374,
+   "h": 715.5,
+   "tag": "DIV",
+   "txt": "SalárioAjuste o valor mês a mês Valor base: R$ 9.960 em 13 meses. Uma regra muda vários meses de uma vez; o ajuste de um mês solto continua embaixo. Preencher b"
+  },
+  "info": {
+   "x": 25,
+   "y": 372.5,
+   "w": 340,
+   "h": 78,
+   "tag": "DIV",
+   "txt": "Valor base: R$ 9.960 em 13 meses. Uma regra muda vários meses de uma vez; o ajuste de um mês solto continua embaixo."
+  }
+ },
+ "regra": {
+  "item": {
+   "x": 38,
+   "y": 510,
+   "w": 314,
+   "h": 82,
+   "tag": "DIV",
+   "txt": "Só emset/26out/26nov/26dez/26jan/27fev/27mar/27abr/27mai/27jun/27jul/27ago/27set/27 R$"
+  },
+  "faixa": {
+   "x": 25,
+   "y": 702,
+   "w": 340,
+   "h": 139,
+   "tag": "DIV",
+   "txt": "Resultado nos 13 meses 12 meses em R$ 9.960 · 1 em R$ 14.940 set/26set/27 baseSó em nov/26"
+  },
+  "resumo": {
+   "x": 38,
+   "y": 734,
+   "w": 314,
+   "h": 15,
+   "tag": "DIV",
+   "txt": "12 meses em R$ 9.960 · 1 em R$ 14.940"
+  },
+  "concluir": {
+   "x": 25,
+   "y": 922,
+   "w": 340,
+   "h": 50,
+   "tag": "BUTTON",
+   "txt": "Concluir"
+  },
+  "modal": {
+   "x": 8,
+   "y": 213,
+   "w": 374,
+   "h": 775,
+   "tag": "DIV",
+   "txt": "SalárioAjuste o valor mês a mês Valor base: R$ 9.960 em 13 meses. Uma regra muda vários meses de uma vez; o ajuste de um mês solto continua embaixo. Preencher b"
+  },
+  "receitas_json": "[{\"cat\":\"Salário\",\"base\":9960,\"ajustes\":{},\"regras\":[{\"id\":\"rg_cxh9np\",\"tipo\":\"mes\",\"valor\":14940,\"ym\":\"2026-11\"}]}]"
+ },
+ "salario_depois": {
+  "linha": {
+   "x": 29,
+   "y": 213,
+   "w": 332,
+   "h": 83,
+   "tag": "DIV",
+   "txt": "SalárioSó em nov/26 R$"
+  }
+ },
+ "depois": {
+  "rotulo": {
+   "x": 29,
+   "y": 92,
+   "w": 332,
+   "h": 16.5,
+   "txt": "Saldo em set/27"
+  },
+  "valor": {
+   "x": 29,
+   "y": 110.5,
+   "w": 332,
+   "h": 42,
+   "txt": "R$ 42.700"
+  },
+  "runs": [
+   {
+    "x": 29,
+    "y": 1171,
+    "w": 332,
+    "h": 40.5,
+    "txt": "Saldo de partida R$ 14.180"
+   },
+   {
+    "x": 29,
+    "y": 1219.5,
+    "w": 332,
+    "h": 85,
+    "txt": "set/26 a out/262 meses+R$ 2.180/mês R$ 9.960 entra R$ 7.780 sai saldo em out/26: R$ 18.540"
+   },
+   {
+    "x": 29,
+    "y": 1312.5,
+    "w": 332,
+    "h": 85,
+    "txt": "nov/261 regra+R$ 7.160 R$ 14.940 entra R$ 7.780 sai saldo em nov/26: R$ 25.700",
+    "saldo_trecho": {
+     "x": 42,
+     "y": 1373.5,
+     "w": 78.703125,
+     "h": 12,
+     "linhas": [
+      {
+       "x": 42,
+       "y": 1373.5,
+       "w": 78.703125,
+       "h": 12
+      }
+     ],
+     "texto": "saldo em nov/26"
+    }
+   },
+   {
+    "x": 29,
+    "y": 1405.5,
+    "w": 332,
+    "h": 84,
+    "txt": "dez/26+R$ 2.180 R$ 9.960 entra R$ 7.780 sai saldo em dez/26: R$ 27.880"
+   },
+   {
+    "x": 29,
+    "y": 1497.5,
+    "w": 332,
+    "h": 85,
+    "txt": "jan/271 ajuste−R$ 2.620 R$ 9.960 entra R$ 12.580 sai saldo em jan/27: R$ 25.260",
+    "saldo_trecho": {
+     "x": 42,
+     "y": 1558.5,
+     "w": 76.703125,
+     "h": 12,
+     "linhas": [
+      {
+       "x": 42,
+       "y": 1558.5,
+       "w": 76.703125,
+       "h": 12
+      }
+     ],
+     "texto": "saldo em jan/27"
+    }
+   },
+   {
+    "x": 29,
+    "y": 1590.5,
+    "w": 332,
+    "h": 85,
+    "txt": "fev/27 a ago/277 meses+R$ 2.180/mês R$ 9.960 entra R$ 7.780 sai saldo em ago/27: R$ 40.520"
+   },
+   {
+    "x": 29,
+    "y": 1683.5,
+    "w": 332,
+    "h": 84,
+    "txt": "set/27R$ 42.700 R$ 9.960 entra R$ 7.780 sai saldo projetado no horizonte"
+   }
+  ],
+  "canvas": {
+   "x": 29,
+   "y": 219,
+   "w": 332,
+   "h": 210,
+   "txt": ""
+  },
+  "marcos": [
+   {
+    "x": 29,
+    "y": 626,
+    "w": 332,
+    "h": 16.5,
+    "txt": "Cruza R$ 20 mil em nov/26"
+   },
+   {
+    "x": 29,
+    "y": 647.5,
+    "w": 332,
+    "h": 16.5,
+    "txt": "Cruza R$ 30 mil em abr/27"
+   },
+   {
+    "x": 29,
+    "y": 669,
+    "w": 332,
+    "h": 16.5,
+    "txt": "Cruza R$ 40 mil em ago/27"
+   }
+  ],
+  "scrollY": 1660,
+  "ilha": {
+   "x": 10,
+   "y": 8,
+   "w": 370,
+   "h": 58,
+   "txt": "Simulação futura Setembro 2026 Todas as contas Todas as contasmultiConta correnteCorretora no exteriorReserva"
+  },
+  "grafico": {
+   "labels": [
+    "Hoje",
+    "set/26",
+    "out/26",
+    "nov/26",
+    "dez/26",
+    "jan/27",
+    "fev/27",
+    "mar/27",
+    "abr/27",
+    "mai/27",
+    "jun/27",
+    "jul/27",
+    "ago/27",
+    "set/27"
+   ],
+   "canvas": {
+    "x": 29,
+    "y": 219,
+    "w": 332,
+    "h": 210
+   },
+   "datasets": [
+    {
+     "label": "cenário atual",
+     "dados": [
+      14180,
+      16360,
+      18540,
+      25700,
+      27880,
+      25260,
+      27440,
+      29620,
+      31800,
+      33980,
+      36160,
+      38340,
+      40520,
+      42700
+     ],
+     "pts": [
+      {
+       "x": 89.61407470703125,
+       "y": 370.2374327656474
+      },
+      {
+       "x": 110.02837665264423,
+       "y": 361.5808832561803
+      },
+      {
+       "x": 130.4426785982572,
+       "y": 352.9243337467132
+      },
+      {
+       "x": 150.85698054387018,
+       "y": 324.49273077066533
+      },
+      {
+       "x": 171.27128248948318,
+       "y": 315.83618126119825
+      },
+      {
+       "x": 191.68558443509616,
+       "y": 326.23992424964035
+      },
+      {
+       "x": 212.09988638070914,
+       "y": 317.5833747401732
+      },
+      {
+       "x": 232.5141883263221,
+       "y": 308.9268252307062
+      },
+      {
+       "x": 252.92849027193512,
+       "y": 300.27027572123905
+      },
+      {
+       "x": 273.3427922175481,
+       "y": 291.61372621177196
+      },
+      {
+       "x": 293.75709416316107,
+       "y": 282.9571767023049
+      },
+      {
+       "x": 314.17139610877405,
+       "y": 274.30062719283774
+      },
+      {
+       "x": 334.585698054387,
+       "y": 265.64407768337065
+      },
+      {
+       "x": 355,
+       "y": 256.98752817390357
+      }
+     ]
+    }
+   ]
+  },
+  "marca_jan": {
+   "x": 42,
+   "y": 1558.5,
+   "w": 136.015625,
+   "h": 12,
+   "linhas": [
+    {
+     "x": 42,
+     "y": 1558.5,
+     "w": 82.390625,
+     "h": 12
+    },
+    {
+     "x": 124.390625,
+     "y": 1558.5,
+     "w": 53.625,
+     "h": 12
+    }
+   ],
+   "texto": "saldo em jan/27: R$ 25.260"
+  },
+  "marca_nov": {
+   "x": 42,
+   "y": 1358.5,
+   "w": 83.703125,
+   "h": 12,
+   "linhas": [
+    {
+     "x": 42,
+     "y": 1358.5,
+     "w": 55.625,
+     "h": 12
+    },
+    {
+     "x": 97.625,
+     "y": 1358.5,
+     "w": 28.078125,
+     "h": 12
+    }
+   ],
+   "texto": "R$ 14.940 entra"
+  }
+ },
+ "erros": []
+}

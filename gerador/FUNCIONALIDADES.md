@@ -193,7 +193,8 @@ Uma página com painéis, com atalhos no topo:
 - Lançar:
   - "Nova remessa" (daqui para fora) ou "Resgate" (de volta para cá).
   - Campos: valor enviado na moeda, data, instituição, moeda, país do investimento, contas de origem e destino, total debitado em R$ e IOF (está no comprovante).
-  - A tela calcula o câmbio efetivo, com e sem IOF, e avisa se o IOF ou o câmbio parecerem errados.
+  - Uma remessa nova abre dentro da "Nova transação" (título "Nova remessa"). Ao preencher, uma linha mostra o câmbio efetivo ("Câmbio efetivo R$ X por US$"), o IOF em % e quanto os dólares custaram em reais. Não mostra o câmbio sem IOF nem avisos.
+  - Ao editar uma remessa já salva ("Editar remessa"), aparece o cálculo completo ("Calculado na hora": valor antes do IOF, câmbio sem IOF, câmbio efetivo e alíquota) e um aviso quando o câmbio ou a alíquota do IOF parecem fora do usual.
   - Também dá para importar uma planilha de remessas.
 - 18 moedas e 41 destinos (países e a zona do euro).
 - "Atualizar carteira": a pessoa informa quanto tem lá fora (valor total ou por banco), e o câmbio é sugerido.

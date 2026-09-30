@@ -1,0 +1,704 @@
+{
+ "periodo": {
+  "card": {
+   "x": 14,
+   "y": 95.5,
+   "w": 362,
+   "h": 276,
+   "txt": "Ritmo do retorno TIR das datas reais no períodoao anoao mês 11,8%na moeda+US$ 1.200,00no total 25,1%em reais+R$ 12.600,00no total De 12/07/2023 a 30/09/2026 (3,2 anos) · capital médio US$ 10.207,48 (R$ 50.941,84) Como o retorno é calculado Cada remessa entra na conta na data em que o dinheiro chegou lá, então o que ficou mais tempo investido pesa mais (TIR, a mesma conta de fundos e corretoras). O valor em reais junta os dois efeitos: rendimento na moeda e variação do câmbio. No período, ao ano e ao mês são o mesmo número medido, escrito de três jeitos: o do período é quanto essa taxa rende no tempo que você já ficou investido. Ele difere do rendimento dos selos do topo porque lá a conta é simples: ganho dividido pelo total, sem olhar quando cada remessa saiu. A janela medida vai da primeira remessa até a data em que você informou o valor da carteira: são os dois únicos momentos em que o timtimcash sabe quanto ela valia. Medir um pedaço menor exigiria saber o valor da carteira no começo desse pedaço, e chutar isso mudaria o resultado sem avisar."
+  },
+  "y": 95.5,
+  "titulo": {
+   "x": 29,
+   "y": 110.5,
+   "w": 124.734375,
+   "h": 22.5,
+   "txt": "Ritmo do retorno"
+  },
+  "ilha": {
+   "x": 10,
+   "y": 8,
+   "w": 370,
+   "h": 58,
+   "txt": "Remessas Setembro 2026 Todas as contas Todas as contasmultiConta correnteCorretora no exteriorReserva"
+  },
+  "moeda_v": {
+   "x": 29,
+   "y": 218,
+   "w": 62.015625,
+   "h": 30,
+   "txt": "11,8%"
+  },
+  "moeda_u": {
+   "x": 97.015625,
+   "y": 227,
+   "w": 59.78125,
+   "h": 18,
+   "txt": "na moeda"
+  },
+  "moeda_din": {
+   "x": 29,
+   "y": 253,
+   "w": 144.28125,
+   "h": 19.5,
+   "txt": "+US$ 1.200,00no total"
+  },
+  "reais_v": {
+   "x": 209.5,
+   "y": 218,
+   "w": 61.015625,
+   "h": 30,
+   "txt": "25,1%"
+  },
+  "reais_u": {
+   "x": 276.515625,
+   "y": 227,
+   "w": 51.78125,
+   "h": 18,
+   "txt": "em reais"
+  },
+  "reais_din": {
+   "x": 209.5,
+   "y": 253,
+   "w": 143.28125,
+   "h": 19.5,
+   "txt": "+R$ 12.600,00no total"
+  },
+  "par": {
+   "x": 29,
+   "y": 218,
+   "w": 332,
+   "h": 54.5,
+   "txt": "11,8%na moeda+US$ 1.200,00no total 25,1%em reais+R$ 12.600,00no total"
+  },
+  "periodo": {
+   "x": 29,
+   "y": 279.5,
+   "w": 332,
+   "h": 33,
+   "txt": "De 12/07/2023 a 30/09/2026 (3,2 anos) · capital médio US$ 10.207,48 (R$ 50.941,84)"
+  },
+  "segs": [
+   {
+    "x": 32,
+    "y": 167,
+    "w": 108.671875,
+    "h": 34,
+    "txt": "no período",
+    "ativo": true
+   },
+   {
+    "x": 140.671875,
+    "y": 167,
+    "w": 108.671875,
+    "h": 34,
+    "txt": "ao ano",
+    "ativo": false
+   },
+   {
+    "x": 249.34375,
+    "y": 167,
+    "w": 108.671875,
+    "h": 34,
+    "txt": "ao mês",
+    "ativo": false
+   }
+  ],
+  "scrollY": 1608,
+  "trecho_periodo": {
+   "x": 29,
+   "y": 280.5,
+   "w": 214.3125,
+   "h": 14,
+   "linhas": [
+    {
+     "x": 29,
+     "y": 280.5,
+     "w": 214.3125,
+     "h": 14
+    }
+   ],
+   "texto": "De 12/07/2023 a 30/09/2026 (3,2 anos)"
+  }
+ },
+ "ano": {
+  "card": {
+   "x": 14,
+   "y": 95.5,
+   "w": 362,
+   "h": 276,
+   "txt": "Ritmo do retorno TIR das datas reais no períodoao anoao mês 3,5%na moeda+US$ 1.200,00no total 7,2%em reais+R$ 12.600,00no total De 12/07/2023 a 30/09/2026 (3,2 anos) · capital médio US$ 10.207,48 (R$ 50.941,84) Como o retorno é calculado Cada remessa entra na conta na data em que o dinheiro chegou lá, então o que ficou mais tempo investido pesa mais (TIR, a mesma conta de fundos e corretoras). O valor em reais junta os dois efeitos: rendimento na moeda e variação do câmbio. No período, ao ano e ao mês são o mesmo número medido, escrito de três jeitos: o do período é quanto essa taxa rende no tempo que você já ficou investido. Ele difere do rendimento dos selos do topo porque lá a conta é simples: ganho dividido pelo total, sem olhar quando cada remessa saiu. A janela medida vai da primeira remessa até a data em que você informou o valor da carteira: são os dois únicos momentos em que o timtimcash sabe quanto ela valia. Medir um pedaço menor exigiria saber o valor da carteira no começo desse pedaço, e chutar isso mudaria o resultado sem avisar."
+  },
+  "y": 95.5,
+  "titulo": {
+   "x": 29,
+   "y": 110.5,
+   "w": 124.734375,
+   "h": 22.5,
+   "txt": "Ritmo do retorno"
+  },
+  "ilha": {
+   "x": 10,
+   "y": 8,
+   "w": 370,
+   "h": 58,
+   "txt": "Remessas Setembro 2026 Todas as contas Todas as contasmultiConta correnteCorretora no exteriorReserva"
+  },
+  "moeda_v": {
+   "x": 29,
+   "y": 218,
+   "w": 48.609375,
+   "h": 30,
+   "txt": "3,5%"
+  },
+  "moeda_u": {
+   "x": 83.609375,
+   "y": 227,
+   "w": 59.78125,
+   "h": 18,
+   "txt": "na moeda"
+  },
+  "moeda_din": {
+   "x": 29,
+   "y": 253,
+   "w": 144.28125,
+   "h": 19.5,
+   "txt": "+US$ 1.200,00no total"
+  },
+  "reais_v": {
+   "x": 209.5,
+   "y": 218,
+   "w": 47.609375,
+   "h": 30,
+   "txt": "7,2%"
+  },
+  "reais_u": {
+   "x": 263.109375,
+   "y": 227,
+   "w": 51.78125,
+   "h": 18,
+   "txt": "em reais"
+  },
+  "reais_din": {
+   "x": 209.5,
+   "y": 253,
+   "w": 143.28125,
+   "h": 19.5,
+   "txt": "+R$ 12.600,00no total"
+  },
+  "par": {
+   "x": 29,
+   "y": 218,
+   "w": 332,
+   "h": 54.5,
+   "txt": "3,5%na moeda+US$ 1.200,00no total 7,2%em reais+R$ 12.600,00no total"
+  },
+  "periodo": {
+   "x": 29,
+   "y": 279.5,
+   "w": 332,
+   "h": 33,
+   "txt": "De 12/07/2023 a 30/09/2026 (3,2 anos) · capital médio US$ 10.207,48 (R$ 50.941,84)"
+  },
+  "segs": [
+   {
+    "x": 32,
+    "y": 167,
+    "w": 108.671875,
+    "h": 34,
+    "txt": "no período",
+    "ativo": false
+   },
+   {
+    "x": 140.671875,
+    "y": 167,
+    "w": 108.671875,
+    "h": 34,
+    "txt": "ao ano",
+    "ativo": true
+   },
+   {
+    "x": 249.34375,
+    "y": 167,
+    "w": 108.671875,
+    "h": 34,
+    "txt": "ao mês",
+    "ativo": false
+   }
+  ],
+  "scrollY": 1608,
+  "trecho_periodo": {
+   "x": 29,
+   "y": 280.5,
+   "w": 214.3125,
+   "h": 14,
+   "linhas": [
+    {
+     "x": 29,
+     "y": 280.5,
+     "w": 214.3125,
+     "h": 14
+    }
+   ],
+   "texto": "De 12/07/2023 a 30/09/2026 (3,2 anos)"
+  }
+ },
+ "mes": {
+  "card": {
+   "x": 14,
+   "y": 95.5,
+   "w": 362,
+   "h": 276,
+   "txt": "Ritmo do retorno TIR das datas reais no períodoao anoao mês 0,29%na moeda+US$ 1.200,00no total 0,58%em reais+R$ 12.600,00no total De 12/07/2023 a 30/09/2026 (3,2 anos) · capital médio US$ 10.207,48 (R$ 50.941,84) Como o retorno é calculado Cada remessa entra na conta na data em que o dinheiro chegou lá, então o que ficou mais tempo investido pesa mais (TIR, a mesma conta de fundos e corretoras). O valor em reais junta os dois efeitos: rendimento na moeda e variação do câmbio. No período, ao ano e ao mês são o mesmo número medido, escrito de três jeitos: o do período é quanto essa taxa rende no tempo que você já ficou investido. Ele difere do rendimento dos selos do topo porque lá a conta é simples: ganho dividido pelo total, sem olhar quando cada remessa saiu. A janela medida vai da primeira remessa até a data em que você informou o valor da carteira: são os dois únicos momentos em que o timtimcash sabe quanto ela valia. Medir um pedaço menor exigiria saber o valor da carteira no começo desse pedaço, e chutar isso mudaria o resultado sem avisar."
+  },
+  "y": 95.5,
+  "titulo": {
+   "x": 29,
+   "y": 110.5,
+   "w": 124.734375,
+   "h": 22.5,
+   "txt": "Ritmo do retorno"
+  },
+  "ilha": {
+   "x": 10,
+   "y": 8,
+   "w": 370,
+   "h": 58,
+   "txt": "Remessas Setembro 2026 Todas as contas Todas as contasmultiConta correnteCorretora no exteriorReserva"
+  },
+  "moeda_v": {
+   "x": 29,
+   "y": 218,
+   "w": 61.015625,
+   "h": 30,
+   "txt": "0,29%"
+  },
+  "moeda_u": {
+   "x": 96.015625,
+   "y": 227,
+   "w": 59.78125,
+   "h": 18,
+   "txt": "na moeda"
+  },
+  "moeda_din": {
+   "x": 29,
+   "y": 253,
+   "w": 144.28125,
+   "h": 19.5,
+   "txt": "+US$ 1.200,00no total"
+  },
+  "reais_v": {
+   "x": 209.5,
+   "y": 218,
+   "w": 62.015625,
+   "h": 30,
+   "txt": "0,58%"
+  },
+  "reais_u": {
+   "x": 277.515625,
+   "y": 227,
+   "w": 51.78125,
+   "h": 18,
+   "txt": "em reais"
+  },
+  "reais_din": {
+   "x": 209.5,
+   "y": 253,
+   "w": 143.28125,
+   "h": 19.5,
+   "txt": "+R$ 12.600,00no total"
+  },
+  "par": {
+   "x": 29,
+   "y": 218,
+   "w": 332,
+   "h": 54.5,
+   "txt": "0,29%na moeda+US$ 1.200,00no total 0,58%em reais+R$ 12.600,00no total"
+  },
+  "periodo": {
+   "x": 29,
+   "y": 279.5,
+   "w": 332,
+   "h": 33,
+   "txt": "De 12/07/2023 a 30/09/2026 (3,2 anos) · capital médio US$ 10.207,48 (R$ 50.941,84)"
+  },
+  "segs": [
+   {
+    "x": 32,
+    "y": 167,
+    "w": 108.671875,
+    "h": 34,
+    "txt": "no período",
+    "ativo": false
+   },
+   {
+    "x": 140.671875,
+    "y": 167,
+    "w": 108.671875,
+    "h": 34,
+    "txt": "ao ano",
+    "ativo": false
+   },
+   {
+    "x": 249.34375,
+    "y": 167,
+    "w": 108.671875,
+    "h": 34,
+    "txt": "ao mês",
+    "ativo": true
+   }
+  ],
+  "scrollY": 1608,
+  "trecho_periodo": {
+   "x": 29,
+   "y": 280.5,
+   "w": 214.3125,
+   "h": 14,
+   "linhas": [
+    {
+     "x": 29,
+     "y": 280.5,
+     "w": 214.3125,
+     "h": 14
+    }
+   ],
+   "texto": "De 12/07/2023 a 30/09/2026 (3,2 anos)"
+  }
+ },
+ "como_summary": {
+  "x": 29,
+  "y": 332.5,
+  "w": 332,
+  "h": 30
+ },
+ "como": {
+  "card": {
+   "x": 14,
+   "y": 95.5,
+   "w": 362,
+   "h": 654,
+   "txt": "Ritmo do retorno TIR das datas reais no períodoao anoao mês 0,29%na moeda+US$ 1.200,00no total 0,58%em reais+R$ 12.600,00no total De 12/07/2023 a 30/09/2026 (3,2 anos) · capital médio US$ 10.207,48 (R$ 50.941,84) Como o retorno é calculado Cada remessa entra na conta na data em que o dinheiro chegou lá, então o que ficou mais tempo investido pesa mais (TIR, a mesma conta de fundos e corretoras). O valor em reais junta os dois efeitos: rendimento na moeda e variação do câmbio. No período, ao ano e ao mês são o mesmo número medido, escrito de três jeitos: o do período é quanto essa taxa rende no tempo que você já ficou investido. Ele difere do rendimento dos selos do topo porque lá a conta é simples: ganho dividido pelo total, sem olhar quando cada remessa saiu. A janela medida vai da primeira remessa até a data em que você informou o valor da carteira: são os dois únicos momentos em que o timtimcash sabe quanto ela valia. Medir um pedaço menor exigiria saber o valor da carteira no começo desse pedaço, e chutar isso mudaria o resultado sem avisar."
+  },
+  "y": 95.5,
+  "titulo": {
+   "x": 29,
+   "y": 110.5,
+   "w": 124.734375,
+   "h": 22.5,
+   "txt": "Ritmo do retorno"
+  },
+  "ilha": {
+   "x": 10,
+   "y": 8,
+   "w": 370,
+   "h": 58,
+   "txt": "Remessas Setembro 2026 Todas as contas Todas as contasmultiConta correnteCorretora no exteriorReserva"
+  },
+  "moeda_v": {
+   "x": 29,
+   "y": 218,
+   "w": 61.015625,
+   "h": 30,
+   "txt": "0,29%"
+  },
+  "moeda_u": {
+   "x": 96.015625,
+   "y": 227,
+   "w": 59.78125,
+   "h": 18,
+   "txt": "na moeda"
+  },
+  "moeda_din": {
+   "x": 29,
+   "y": 253,
+   "w": 144.28125,
+   "h": 19.5,
+   "txt": "+US$ 1.200,00no total"
+  },
+  "reais_v": {
+   "x": 209.5,
+   "y": 218,
+   "w": 62.015625,
+   "h": 30,
+   "txt": "0,58%"
+  },
+  "reais_u": {
+   "x": 277.515625,
+   "y": 227,
+   "w": 51.78125,
+   "h": 18,
+   "txt": "em reais"
+  },
+  "reais_din": {
+   "x": 209.5,
+   "y": 253,
+   "w": 143.28125,
+   "h": 19.5,
+   "txt": "+R$ 12.600,00no total"
+  },
+  "par": {
+   "x": 29,
+   "y": 218,
+   "w": 332,
+   "h": 54.5,
+   "txt": "0,29%na moeda+US$ 1.200,00no total 0,58%em reais+R$ 12.600,00no total"
+  },
+  "periodo": {
+   "x": 29,
+   "y": 279.5,
+   "w": 332,
+   "h": 33,
+   "txt": "De 12/07/2023 a 30/09/2026 (3,2 anos) · capital médio US$ 10.207,48 (R$ 50.941,84)"
+  },
+  "segs": [
+   {
+    "x": 32,
+    "y": 167,
+    "w": 108.671875,
+    "h": 34,
+    "txt": "no período",
+    "ativo": false
+   },
+   {
+    "x": 140.671875,
+    "y": 167,
+    "w": 108.671875,
+    "h": 34,
+    "txt": "ao ano",
+    "ativo": false
+   },
+   {
+    "x": 249.34375,
+    "y": 167,
+    "w": 108.671875,
+    "h": 34,
+    "txt": "ao mês",
+    "ativo": true
+   }
+  ],
+  "scrollY": 1608,
+  "como": {
+   "aberto": true,
+   "texto": "Cada remessa entra na conta na data em que o dinheiro chegou lá, então o que ficou mais tempo investido pesa mais (TIR, a mesma conta de fundos e corretoras). O valor em reais junta os dois efeitos: rendimento na moeda e variação do câmbio. No período, ao ano e ao mês são o mesmo número medido, escrito de três jeitos: o do período é quanto essa taxa rende no tempo que você já ficou investido. Ele difere do rendimento dos selos do topo porque lá a conta é simples: ganho dividido pelo total, sem olhar quando cada remessa saiu. A janela medida vai da primeira remessa até a data em que você informou o valor da carteira: são os dois únicos momentos em que o timtimcash sabe quanto ela valia. Medir um pedaço menor exigiria saber o valor da carteira no começo desse pedaço, e chutar isso mudaria o resultado sem avisar.",
+   "trechos": [
+    {
+     "t": "Cada remessa entra na conta na data em que o dinheiro chegou lá, então o que ficou mais tempo investido pesa mais",
+     "x": 69,
+     "y": 380.5,
+     "w": 274.234375,
+     "h": 51,
+     "linhas": [
+      {
+       "x": 69,
+       "y": 380.5,
+       "w": 274.234375,
+       "h": 15
+      },
+      {
+       "x": 69,
+       "y": 398.5,
+       "w": 242.546875,
+       "h": 15
+      },
+      {
+       "x": 69,
+       "y": 416.5,
+       "w": 156.15625,
+       "h": 15
+      }
+     ]
+    },
+    {
+     "t": "No período, ao ano e ao mês são o mesmo número medido, escrito de três jeitos",
+     "x": 69,
+     "y": 470.5,
+     "w": 264.421875,
+     "h": 51,
+     "linhas": [
+      {
+       "x": 191.921875,
+       "y": 470.5,
+       "w": 66.46875,
+       "h": 15
+      },
+      {
+       "x": 258.390625,
+       "y": 470.5,
+       "w": 5.703125,
+       "h": 15
+      },
+      {
+       "x": 264.09375,
+       "y": 470.5,
+       "w": 41.078125,
+       "h": 15
+      },
+      {
+       "x": 264.09375,
+       "y": 470.5,
+       "w": 41.078125,
+       "h": 15
+      },
+      {
+       "x": 305.171875,
+       "y": 470.5,
+       "w": 12.546875,
+       "h": 15
+      },
+      {
+       "x": 317.71875,
+       "y": 470.5,
+       "w": 15.703125,
+       "h": 15
+      },
+      {
+       "x": 69,
+       "y": 488.5,
+       "w": 25.546875,
+       "h": 15
+      },
+      {
+       "x": 317.71875,
+       "y": 470.5,
+       "w": 15.703125,
+       "h": 15
+      },
+      {
+       "x": 69,
+       "y": 488.5,
+       "w": 25.546875,
+       "h": 15
+      },
+      {
+       "x": 94.546875,
+       "y": 488.5,
+       "w": 237.15625,
+       "h": 15
+      },
+      {
+       "x": 69,
+       "y": 506.5,
+       "w": 55.3125,
+       "h": 15
+      }
+     ]
+    }
+   ],
+   "caixa": {
+    "x": 29,
+    "y": 366.5,
+    "w": 332,
+    "h": 368
+   },
+   "frase1": {
+    "x": 69,
+    "y": 380.5,
+    "w": 274.234375,
+    "h": 69,
+    "linhas": [
+     {
+      "x": 69,
+      "y": 380.5,
+      "w": 274.234375,
+      "h": 15
+     },
+     {
+      "x": 69,
+      "y": 398.5,
+      "w": 242.546875,
+      "h": 15
+     },
+     {
+      "x": 69,
+      "y": 416.5,
+      "w": 242,
+      "h": 15
+     },
+     {
+      "x": 69,
+      "y": 434.5,
+      "w": 173.390625,
+      "h": 15
+     }
+    ],
+    "texto": "Cada remessa entra na conta na data em que o dinheiro chegou lá, então o que ficou mais tempo investido pesa mais (TIR, a mesma conta de fundos e corretoras)."
+   },
+   "frase_tres": {
+    "x": 69,
+    "y": 470.5,
+    "w": 264.421875,
+    "h": 51,
+    "linhas": [
+     {
+      "x": 191.921875,
+      "y": 470.5,
+      "w": 66.46875,
+      "h": 15
+     },
+     {
+      "x": 258.390625,
+      "y": 470.5,
+      "w": 5.703125,
+      "h": 15
+     },
+     {
+      "x": 264.09375,
+      "y": 470.5,
+      "w": 41.078125,
+      "h": 15
+     },
+     {
+      "x": 264.09375,
+      "y": 470.5,
+      "w": 41.078125,
+      "h": 15
+     },
+     {
+      "x": 305.171875,
+      "y": 470.5,
+      "w": 12.546875,
+      "h": 15
+     },
+     {
+      "x": 317.71875,
+      "y": 470.5,
+      "w": 15.703125,
+      "h": 15
+     },
+     {
+      "x": 69,
+      "y": 488.5,
+      "w": 25.546875,
+      "h": 15
+     },
+     {
+      "x": 317.71875,
+      "y": 470.5,
+      "w": 15.703125,
+      "h": 15
+     },
+     {
+      "x": 69,
+      "y": 488.5,
+      "w": 25.546875,
+      "h": 15
+     },
+     {
+      "x": 94.546875,
+      "y": 488.5,
+      "w": 237.15625,
+      "h": 15
+     },
+     {
+      "x": 69,
+      "y": 506.5,
+      "w": 55.3125,
+      "h": 15
+     }
+    ],
+    "texto": "No período, ao ano e ao mês são o mesmo número medido, escrito de três jeitos"
+   }
+  }
+ },
+ "erros": []
+}
