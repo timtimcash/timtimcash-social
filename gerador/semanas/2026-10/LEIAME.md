@@ -5,7 +5,7 @@ Aprovados pelo Samuel em 30/09/2026, junto com os 7 que já estavam agendados: 2
 ## O que tem aqui
 - `dados/`: um arquivo por post, com legenda, texto alternativo de cada imagem, roteiro dos slides ou das cenas, justificativa e fontes.
 - `aprovacao_outubro_dados.py`: monta a página de aprovação do mês (`gerador/aprovacao.py`), com os 13 novos e os 7 já agendados.
-- `PAUTA.md`: a pauta do mês, com o calendário e o motivo de cada data.
+- `PAUTA.md`: a pauta do mês, com o calendário e o motivo de cada data, como foi aprovada. Depois da aprovação, quatro posts foram para o fim de semana (05/10 para 04/10, 13/10 para 11/10, 19/10 para 17/10 e 26/10 para 25/10); as datas finais estão em `gerador/historico.md`.
 - `carrosseis-a/`, `carrosseis-b/`: geradores dos 5 carrosséis (15, 19, 23, 26 e 29/10).
 - `reels-a/` (06, 14 e 27/10), `reels-b/` (08 e 20/10), `reels-c/` (22 e 30/10) e `reels-d/` (16/10, com o kit de `reels-b/`): um `reelkit.py` por pasta e um roteiro por Reel. Cada quadro é desenhado no Chromium por `render(t)` e vai direto para o ffmpeg (1080 × 1920, 30 fps, H.264 e AAC, com `+faststart`).
 - `telas/<pasta>/`, `reels-c/capturas/` e `carrosseis-a/telas_novas/`: telas reais do timtimcash numa conta fictícia, sem nenhum dado real.
