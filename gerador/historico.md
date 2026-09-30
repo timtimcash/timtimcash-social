@@ -13,7 +13,8 @@ Uma linha por post: data de publicação · pilar · tema · formato. Consultar 
 Ideias ainda não usadas, todas com tela real em `gerador/telas/` ou funcionalidade confirmada em `gerador/FUNCIONALIDADES.md`. Ao publicar uma, tire a linha daqui.
 - remessas · câmbio de equilíbrio: a partir de qual dólar o investimento lá fora deixa de dar lucro em reais ("Câmbio: onde você está")
 - remessas · contra o CDI, bruto e líquido de IR ("Contra o CDI"); CDI e alíquotas de IR só com fonte oficial
-- remessas · por que a data de cada remessa muda o rendimento ("Ritmo do retorno", "Rendimento ano a ano")
+- remessas · o mesmo investimento, anos muito diferentes em reais: rendeu em dólar todos os anos, mas em reais 2024 deu +34,4% e 2025 deu −7,7% ("Rendimento ano a ano", tela real em `telas/secoes/`)
+- remessas · por que a data de cada remessa muda o rendimento ("Ritmo do retorno", a TIR com as datas reais)
 - remessas · o IOF do comprovante e o câmbio efetivo; alíquotas só com fonte oficial
 - simulação · o teste do susto: perder a maior renda, inflação de 5% ao ano ("E se...")
 - importação · regras que aprendem: "Categorize uma vez, o timtimcash aprende."
