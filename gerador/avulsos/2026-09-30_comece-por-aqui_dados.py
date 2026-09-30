@@ -79,11 +79,14 @@ POSTS = [{
         "Logotipo do timtimcash. Seu dinheiro, com a clareza que ele merece. Gratuito para o controle financeiro. No computador ou no celular. Link na bio.",
     ],
     # grade do perfil como fica no sábado 03/10, com este post fixado no topo
+    "grade_titulo": "Prévia no perfil · fixado no topo",
+    "grade_legenda": "Como o perfil fica no sábado, 03/10",
+    "grade_nota": "O título da capa continua legível na miniatura.",
     "grade": [
         ("fixado", None),
-        ("03/10", "/home/claude/timtimcash-social/posts/2026-10-03_outubro-comecou/01.jpg"),
-        ("02/10", "/home/claude/timtimcash-social/posts/2026-10-02_rendeu-em-dolar-e-em-reais/01.jpg"),
-        ("30/09", "/home/claude/timtimcash-social/posts/2026-09-30_hoje-o-mes-fecha/01.jpg"),
-        ("29/09", "/home/claude/timtimcash-social/posts/2026-09-29_conheca-o-timtimcash/01.jpg"),
+        ("03/10", "posts/2026-10-03_outubro-comecou/01.jpg"),
+        ("02/10", "posts/2026-10-02_rendeu-em-dolar-e-em-reais/01.jpg"),
+        ("30/09", "posts/2026-09-30_hoje-o-mes-fecha/01.jpg"),
+        ("29/09", "posts/2026-09-29_conheca-o-timtimcash/01.jpg"),
     ],
 }]
