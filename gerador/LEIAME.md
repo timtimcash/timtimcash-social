@@ -16,7 +16,7 @@
 1. Escrever `semanas/AAAA-MM-DD.py` (artes) e `semanas/AAAA-MM-DD_dados.py` (textos da proposta). Se o nome já existir, acrescentar `_v2`, `_v3`...
 2. Renderizar fora do repositório, porque nada que não foi aprovado fica público:
    `TT_SAIDA=/tmp/semana-AAAA-MM-DD python3 gerador/render.py gerador/semanas/AAAA-MM-DD.py`
-3. Abrir e conferir cada imagem (o render avisa `ATENCAO: texto estourou`).
+3. Abrir e conferir cada imagem (o render avisa `ATENCAO: texto estourou`). Conferir também as capas juntas: cada uma com fundo e visual diferentes e pouco texto, sem repetir o fundo verde (regra das capas em `MARCA.md`).
 4. Montar o arquivo de aprovação:
    `python3 gerador/aprovacao.py gerador/semanas/AAAA-MM-DD_dados.py /tmp/semana-AAAA-MM-DD /tmp/aprovacao/timtimcash-aprovacao-AAAA-MM-DD.html`
    O comando imprime o tamanho e `travessoes: []`. A lista precisa sair vazia.
