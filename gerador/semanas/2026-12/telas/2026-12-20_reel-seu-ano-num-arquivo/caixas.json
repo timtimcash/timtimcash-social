@@ -1,0 +1,433 @@
+{
+ "celular-exportar-1-visao-geral.jpg": {
+  "menu": [
+   20,
+   19,
+   38,
+   38
+  ],
+  "texto": "Visão geral\nDezembro 2026\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nPatrimônio\nR$\n116.729\n,56\nalta de\n4,4% em relação a nov/26\n4 contas somadas\nJan/26\nDez/26\nMovimento de dezembro 2026\nPARCIAL\nGuardou 39,4% da receita\n39,4%\n60,6%\nReceitas R$ 12.393,36\nDespesas R$ 7.513,00\nResultado do período\nR$ 4.880,36\nReceitas\nR$ 12.393\nalta de\n20,5%\nDespesas\nR$ 7.513\nqueda de\n10,8%\nResultado\nR$ 4.880\nalta de\n162,1%\nÚltimos 12 meses\nFluxo mensal\nJan/26 a Dez/26\nMédia por mês · Dez/25 a Nov/26\nReceitas\nR$ 10.281,67\nDespesas\nR$ 8.419,65\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nReceita média\nR$ 10.281,67\nDez/25 a Nov/26 · meses fechados\n↑ 20,5% (este mês vs média)\nDespesa média\nR$ 8.419,65\nDez/25 a Nov/26 · meses fechados\n↓ 10,8% (este mês vs média)\nSaldo acumulado\nR$ 116.729,56\n+R$ 27.544,56\nJan/26\nDez/26\nReserva financeira\n13,9\nmeses\nR$ 116.729,56 ÷ R$ 8.419,65/mês (despesa média)\nmédia de 12 meses com movimento\nPor categoria\nDespesas do período\nDespesas\nReceitas\nPeríodo global\nDespesas\nR$ 7.513,00\n9 categorias\nTop saídas\nMaiores despesas do período\nCasa\nR$ 2.300,00 31%\nEducação\nR$ 1.450,00 19%\nMercado\nR$ 1.307,80 17%\nTransporte\nR$ 910,00 12%\nPresentes e doações\nR$ 774,40 10%\nBares e restaurantes\nR$ 304,30 4%\nMinhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 116.729,56\nPOSITIVAS\nR$ 116.729,56\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nRes"
+ },
+ "celular-exportar-2-menu.jpg": {
+  "exportar": [
+   26,
+   779.5,
+   256,
+   48
+  ],
+  "importar": [
+   26,
+   729.5,
+   256,
+   48
+  ],
+  "texto": "$\n$\ntimtimcash\nBuscar transações, contas, telas…\nMENU\nVisão geral\nTransações\nPendentes\n1\nFluxo\nRelatórios\nComparar\nResultado (DRE)\nOrçamentos\nSimulação futura\nRemessas ao exterior\nImportar\nExportar\nCONFIGURAR\nContas e carteiras\nCartões de crédito\nCategorias\nPreferências\nCONTAS\n4\n+\nBanco na Europa\nR$ 11.525,40\nConta corrente\nR$ 22.229,56\nCorretora no exterior\nR$ 60.000,00\nReserva\nR$ 22.974,60\nTotal geral\nR$ 116.729,56\n4 contas\nMA\nMarina Alves\nmarina@exemplo.com\nVisão geral\nDezembro 2026\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nPatrimônio\nR$\n116.729\n,56\nalta de\n4,4% em relação a nov/26\n4 contas somadas\nJan/26\nDez/26\nMovimento de dezembro 2026\nPARCIAL\nGuardou 39,4% da receita\n39,4%\n60,6%\nReceitas R$ 12.393,36\nDespesas R$ 7.513,00\nResultado do período\nR$ 4.880,36\nReceitas\nR$ 12.393\nalta de\n20,5%\nDespesas\nR$ 7.513\nqueda de\n10,8%\nResultado\nR$ 4.880\nalta de\n162,1%\nÚltimos 12 meses\nFluxo mensal\nJan/26 a Dez/26\nMédia por mês · Dez/25 a Nov/26\nReceitas\nR$ 10.281,67\nDespesas\nR$ 8.419,65\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nReceita média\nR$ 10.281,67\nDez/25 a Nov/26 · meses fechados\n↑ 20,5% (este mês vs média)\nDespesa média\nR$ 8.419,65\nDez/25 a Nov/26 · meses fechados\n↓ 10,8% (este mês vs média)\nSaldo acumulado\nR$ 116.729,56\n+R$ 27.544,56\nJan/26\nDez/26\nReserva financeira\n13,9\nmeses\nR$ 116.729,56 ÷ R$ 8.419,65/mês (despesa média)\nmédia de 12 meses com mo"
+ },
+ "celular-exportar-3-janela.jpg": {
+  "sheet": [
+   0,
+   67.5,
+   390,
+   776.5
+  ],
+  "titulo": [
+   17,
+   89.5,
+   228,
+   30
+  ],
+  "r_atual": [
+   17,
+   199,
+   356,
+   63
+  ],
+  "r_ano": [
+   17,
+   270,
+   356,
+   63
+  ],
+  "r_tudo": [
+   17,
+   341,
+   356,
+   63
+  ],
+  "r_custom": [
+   17,
+   412,
+   356,
+   63
+  ],
+  "contas": [
+   17,
+   524.5,
+   356,
+   121
+  ],
+  "todas": [
+   17,
+   524.5,
+   160.5,
+   35
+  ],
+  "f_xlsx": [
+   17,
+   695,
+   173,
+   113
+  ],
+  "f_pdf": [
+   200,
+   695,
+   173,
+   113
+  ],
+  "f_csv": [
+   17,
+   818,
+   173,
+   113
+  ],
+  "contador": [
+   17,
+   746.5,
+   356,
+   19.5
+  ],
+  "exportar": [
+   122.5,
+   778,
+   250.5,
+   50
+  ],
+  "cancelar": [
+   17,
+   778,
+   95.5,
+   50
+  ],
+  "texto": "Exportar transações\nEscolha o período, as contas e o formato\nPeríodo\nPeríodo atual filtrado\nDezembro 2026\nAno atual\n2026\nTodas as transações\n762 lançamentos totais\nPersonalizado\nEscolha as datas abaixo\nContas\nTodas as contas\nConta corrente\nCorretora no exterior\nReserva\nBanco na Europa\nFormato\nExcel\n.xlsx · editável\nPDF\nRelatório pronto\nCSV\nTexto universal\n24 lançamentos\nCancelar\nExportar"
+ },
+ "celular-exportar-4-ano.jpg": {
+  "sheet": [
+   0,
+   67.5,
+   390,
+   776.5
+  ],
+  "titulo": [
+   17,
+   89.5,
+   228,
+   30
+  ],
+  "r_atual": [
+   17,
+   199,
+   356,
+   63
+  ],
+  "r_ano": [
+   17,
+   270,
+   356,
+   63
+  ],
+  "r_tudo": [
+   17,
+   341,
+   356,
+   63
+  ],
+  "r_custom": [
+   17,
+   412,
+   356,
+   63
+  ],
+  "contas": [
+   17,
+   524.5,
+   356,
+   121
+  ],
+  "todas": [
+   17,
+   524.5,
+   160.5,
+   35
+  ],
+  "f_xlsx": [
+   17,
+   695,
+   173,
+   113
+  ],
+  "f_pdf": [
+   200,
+   695,
+   173,
+   113
+  ],
+  "f_csv": [
+   17,
+   818,
+   173,
+   113
+  ],
+  "contador": [
+   17,
+   746.5,
+   356,
+   19.5
+  ],
+  "exportar": [
+   122.5,
+   778,
+   250.5,
+   50
+  ],
+  "cancelar": [
+   17,
+   778,
+   95.5,
+   50
+  ],
+  "texto": "Exportar transações\nEscolha o período, as contas e o formato\nPeríodo\nPeríodo atual filtrado\nDezembro 2026\nAno atual\n2026\nTodas as transações\n762 lançamentos totais\nPersonalizado\nEscolha as datas abaixo\nContas\nTodas as contas\nConta corrente\nCorretora no exterior\nReserva\nBanco na Europa\nFormato\nExcel\n.xlsx · editável\nPDF\nRelatório pronto\nCSV\nTexto universal\n328 lançamentos\nCancelar\nExportar"
+ },
+ "celular-exportar-5-formatos.jpg": {
+  "sheet": [
+   0,
+   67.5,
+   390,
+   776.5
+  ],
+  "titulo": [
+   17,
+   89.5,
+   228,
+   30
+  ],
+  "r_atual": [
+   17,
+   -13,
+   356,
+   63
+  ],
+  "r_ano": [
+   17,
+   58,
+   356,
+   63
+  ],
+  "r_tudo": [
+   17,
+   129,
+   356,
+   63
+  ],
+  "r_custom": [
+   17,
+   200,
+   356,
+   63
+  ],
+  "contas": [
+   17,
+   312.5,
+   356,
+   121
+  ],
+  "todas": [
+   17,
+   312.5,
+   160.5,
+   35
+  ],
+  "f_xlsx": [
+   17,
+   483,
+   173,
+   113
+  ],
+  "f_pdf": [
+   200,
+   483,
+   173,
+   113
+  ],
+  "f_csv": [
+   17,
+   606,
+   173,
+   113
+  ],
+  "contador": [
+   17,
+   746.5,
+   356,
+   19.5
+  ],
+  "exportar": [
+   122.5,
+   778,
+   250.5,
+   50
+  ],
+  "cancelar": [
+   17,
+   778,
+   95.5,
+   50
+  ],
+  "texto": "Exportar transações\nEscolha o período, as contas e o formato\nPeríodo\nPeríodo atual filtrado\nDezembro 2026\nAno atual\n2026\nTodas as transações\n762 lançamentos totais\nPersonalizado\nEscolha as datas abaixo\nContas\nTodas as contas\nConta corrente\nCorretora no exterior\nReserva\nBanco na Europa\nFormato\nExcel\n.xlsx · editável\nPDF\nRelatório pronto\nCSV\nTexto universal\n328 lançamentos\nCancelar\nExportar"
+ },
+ "celular-exportar-6-pdf.jpg": {
+  "sheet": [
+   0,
+   67.5,
+   390,
+   776.5
+  ],
+  "titulo": [
+   17,
+   89.5,
+   228,
+   30
+  ],
+  "r_atual": [
+   17,
+   -13,
+   356,
+   63
+  ],
+  "r_ano": [
+   17,
+   58,
+   356,
+   63
+  ],
+  "r_tudo": [
+   17,
+   129,
+   356,
+   63
+  ],
+  "r_custom": [
+   17,
+   200,
+   356,
+   63
+  ],
+  "contas": [
+   17,
+   312.5,
+   356,
+   121
+  ],
+  "todas": [
+   17,
+   312.5,
+   160.5,
+   35
+  ],
+  "f_xlsx": [
+   17,
+   483,
+   173,
+   113
+  ],
+  "f_pdf": [
+   200,
+   483,
+   173,
+   113
+  ],
+  "f_csv": [
+   17,
+   606,
+   173,
+   113
+  ],
+  "contador": [
+   17,
+   746.5,
+   356,
+   19.5
+  ],
+  "exportar": [
+   122.5,
+   778,
+   250.5,
+   50
+  ],
+  "cancelar": [
+   17,
+   778,
+   95.5,
+   50
+  ],
+  "texto": "Exportar transações\nEscolha o período, as contas e o formato\nPeríodo\nPeríodo atual filtrado\nDezembro 2026\nAno atual\n2026\nTodas as transações\n762 lançamentos totais\nPersonalizado\nEscolha as datas abaixo\nContas\nTodas as contas\nConta corrente\nCorretora no exterior\nReserva\nBanco na Europa\nFormato\nExcel\n.xlsx · editável\nPDF\nRelatório pronto\nCSV\nTexto universal\n328 lançamentos\nCancelar\nExportar"
+ },
+ "relatorio_texto": "$\n$\ntimtimcash\nRelatório financeiro\nPeríodo: 01/01/2026 até 31/12/2026\nGerado em 20/12/2026\n328 transações\nMarina Alves\nRECEITAS\nR$ 126.293,36\nDESPESAS\nR$ 99.048,80\nRESULTADO\nR$ 27.244,56\nLANÇAMENTOS\n328\nDespesas por categoria\nCasa\nR$ 29.839,30 30.1%\nMercado\nR$ 18.131,00 18.3%\nEducação\nR$ 17.400,00 17.6%\nTransporte\nR$ 12.995,49 13.1%\nBares e restaurantes\nR$ 7.266,02 7.3%\nLazer e hobbies\nR$ 4.266,65 4.3%\nSaúde\nR$ 3.429,44 3.5%\nAssinaturas e serviços\nR$ 1.437,60 1.5%\nTransações do período\nDATA\tDESCRIÇÃO\tCATEGORIA\tCONTA\tVALOR\tSTATUS\n02/01/2026\tMercado da Vila\tMercado\tConta corrente\t- R$ 337,82\t✓ pago\n03/01/2026\tPedido delivery\tBares e restaurantes\tConta corrente\t- R$ 73,90\t✓ pago\n04/01/2026\tCombustível\tTransporte\tConta corrente\t- R$ 349,76\t✓ pago\n05/01/2026\tSalário\tSalário\tConta corrente\t+ R$ 9.480,00\t✓ pago\n06/01/2026\tAplicação na reserva\tTransferência\tConta corrente\tR$ 1.500,00\t✓ pago\n07/",
+ "celular-exportar-7-relatorio-gerado.jpg": {
+  "aviso": [
+   48.8,
+   714.5,
+   292.5,
+   47.5
+  ],
+  "texto": "Relatório de 328 transações gerado\nRelatório de 328 transações gerado\nVisão geral\nDezembro 2026\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nPatrimônio\nR$\n116.729\n,56\nalta de\n4,4% em relação a nov/26\n4 contas somadas\nJan/26\nDez/26\nMovimento de dezembro 2026\nPARCIAL\nGuardou 39,4% da receita\n39,4%\n60,6%\nReceitas R$ 12.393,36\nDespesas R$ 7.513,00\nResultado do período\nR$ 4.880,36\nReceitas\nR$ 12.393\nalta de\n20,5%\nDespesas\nR$ 7.513\nqueda de\n10,8%\nResultado\nR$ 4.880\nalta de\n162,1%\nÚltimos 12 meses\nFluxo mensal\nJan/26 a Dez/26\nMédia por mês · Dez/25 a Nov/26\nReceitas\nR$ 10.281,67\nDespesas\nR$ 8.419,65\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nReceita média\nR$ 10.281,67\nDez/25 a Nov/26 · meses fechados\n↑ 20,5% (este mês vs média)\nDespesa média\nR$ 8.419,65\nDez/25 a Nov/26 · meses fechados\n↓ 10,8% (este mês vs média)\nSaldo acumulado\nR$ 116.729,56\n+R$ 27.544,56\nJan/26\nDez/26\nReserva financeira\n13,9\nmeses\nR$ 116.729,56 ÷ R$ 8.419,65/mês (despesa média)\nmédia de 12 meses com movimento\nPor categoria\nDespesas do período\nDespesas\nReceitas\nPeríodo global\nDespesas\nR$ 7.513,00\n9 categorias\nTop saídas\nMaiores despesas do período\nCasa\nR$ 2.300,00 31%\nEducação\nR$ 1.450,00 19%\nMercado\nR$ 1.307,80 17%\nTransporte\nR$ 910,00 12%\nPresentes e doações\nR$ 774,40 10%\nBares e restaurantes\nR$ 304,30 4%\nMinhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 116.729,56\nPOSIT"
+ },
+ "aviso": "Relatório de 328 transações gerado",
+ "celular-preferencias-backup.jpg": {
+  "backup_tit": [
+   17,
+   150,
+   356,
+   19.5
+  ],
+  "backup": [
+   33,
+   197.5,
+   324,
+   21
+  ],
+  "desc": [
+   33,
+   222.5,
+   324,
+   54
+  ],
+  "baixar": [
+   33,
+   292.5,
+   83.8,
+   30
+  ],
+  "restaurar": [
+   33,
+   539.5,
+   252.1,
+   21
+  ],
+  "sheet": [
+   0,
+   67.5,
+   390,
+   776.5
+  ],
+  "corpo": [
+   1,
+   136.5,
+   388,
+   702.8
+  ],
+  "texto": "Preferências\nAparência\nClaro\nEscuro\nAuto\nConta\nM\nMarina Alves\nmarina@exemplo.com\nSair\nNome\nMarina Alves\nAlterar\nE-mail\nmarina@exemplo.com\nAlterar\nCPF\n529.982.247-25\nAlterar\nTutorial de atalhos\nBackup\nExportar backup completo\nArquivo JSON com contas, transações, categorias e orçamentos.\nGuarde em local seguro para restaurar depois.\nBaixar\nCópias no servidor\nUma por dia, guardada sozinha quando você abre o timtimcash, à parte da versão em uso.\nNenhuma cópia ainda. A primeira é guardada na próxima vez que você abrir o timtimcash.\nRestaurar de backup\nRestaura um JSON exportado anteriormente.\nAtenção: os dados atuais serão substituídos.\nRestaurar\nZONA DE RISCO\nApagar todas as transações\nRemove os 762 lançamentos permanentemente.\nContas, categorias e orçamentos são mantidos.\nApagar tudo\nResetar conta completamente\nRemove transações, contas, categorias e orçamentos.\nRestaura as configurações de fábrica.\nResetar\nExcluir minha conta\nPedido por e-mail a contato@timtimcash.com: apaga o acesso, o CPF e os dados.\nBaixe o backup antes, se quiser guardar algo.\nPedir exclusão"
+ },
+ "cpf_visivel": false,
+ "relogio": "Sun Dec 20 2026 10:00:22 GMT-0300 (Horário Padrão de Brasília)",
+ "erros": []
+}

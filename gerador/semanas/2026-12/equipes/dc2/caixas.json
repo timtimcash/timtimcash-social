@@ -1,0 +1,879 @@
+{
+ "16": {
+  "titulo": [
+   29,
+   2731,
+   200.6,
+   2753.5
+  ],
+  "sub": [
+   29,
+   2756.5,
+   200.6,
+   2774.5
+  ],
+  "Casa": [
+   75,
+   3109.3,
+   240.8,
+   3128.8
+  ],
+  "Mercado": [
+   75,
+   3167.3,
+   240.8,
+   3186.8
+  ],
+  "Educação": [
+   75,
+   3225.3,
+   240.8,
+   3244.8
+  ],
+  "Transporte": [
+   75,
+   3283.3,
+   240.8,
+   3302.8
+  ],
+  "Bares e restaurantes": [
+   75,
+   3341.3,
+   252.4,
+   3360.8
+  ],
+  "Compras": [
+   75,
+   3399.3,
+   252.4,
+   3418.8
+  ],
+  "Lazer e hobbies": [
+   75,
+   3457.3,
+   252.4,
+   3476.8
+  ],
+  "Saúde": [
+   75,
+   3515.3,
+   252.4,
+   3534.8
+  ],
+  "Assinaturas e serviços": [
+   75,
+   3573.3,
+   252.4,
+   3592.8
+  ],
+  "TOTAL": null,
+  "linhas": [
+   [
+    "Casa",
+    "Casa | R$ 2.501,80 | 27,3%",
+    29,
+    3091,
+    361,
+    3148
+   ],
+   [
+    "Mercado",
+    "Mercado | R$ 1.844,90 | 20,2%",
+    29,
+    3149,
+    361,
+    3206
+   ],
+   [
+    "Educação",
+    "Educação | R$ 1.450,00 | 15,8%",
+    29,
+    3207,
+    361,
+    3264
+   ],
+   [
+    "Transporte",
+    "Transporte | R$ 1.210,00 | 13,2%",
+    29,
+    3265,
+    361,
+    3322
+   ],
+   [
+    "Bares e restaurantes",
+    "Bares e restaurantes | R$ 928,60 | 10,1%",
+    29,
+    3323,
+    361,
+    3380
+   ],
+   [
+    "Compras",
+    "Compras | R$ 659,00 | 7,2%",
+    29,
+    3381,
+    361,
+    3438
+   ],
+   [
+    "Lazer e hobbies",
+    "Lazer e hobbies | R$ 308,00 | 3,4%",
+    29,
+    3439,
+    361,
+    3496
+   ],
+   [
+    "Saúde",
+    "Saúde | R$ 127,30 | 1,4%",
+    29,
+    3497,
+    361,
+    3554
+   ],
+   [
+    "Assinaturas e serviços",
+    "Assinaturas e serviços | R$ 119,80 | 1,3%",
+    29,
+    3555,
+    361,
+    3612
+   ]
+  ],
+  "painel": [
+   14,
+   2716,
+   376,
+   3681
+  ],
+  "texto": "Despesas por categoria\n9 categorias · Total R$ 9.149,40\nDespesas\nR$ 9.149,40\n9 categorias\nCasa\nR$ 2.501,80\n27,3%\nMercado\nR$ 1.844,90\n20,2%\nEducação\nR$ 1.450,00\n15,8%\nTransporte\nR$ 1.210,00\n13,2%\nBares e restaurantes\nR$ 928,60\n10,1%\nCompras\nR$ 659,00\n7,2%\nLazer e hobbies\nR$ 308,00\n3,4%\nSaúde\nR$ 127,30\n1,4%\nAssinaturas e serviços\nR$ 119,80\n1,3%\nTOTAL\nR$ 9.149,40",
+  "topo": "Relatórios\nNovembro 2026\nTodas\nas contas\nDiagnóstico\nO que mudou\nConcentração\nReceitas × Despesas\nCascata\nReceitas\nDespesas\nMapa de calor\nVariações\nRecorrentes\nSazonalidade\nSaldo\nDiagnóstico de novembro 2026\nComparado com seus últimos 12 meses\nAjustar cálculo\nTodas as categorias\n39%\nBem acima do seu padrão\nVocê guardou 2,1 vezes mais do que costuma guardar. O maior desvio veio de Compras: +R$ 604,"
+ },
+ "18a": {
+  "sheet": null,
+  "titulo": [
+   17,
+   896,
+   231.5,
+   926
+  ],
+  "sub": [
+   17,
+   929,
+   231.5,
+   947
+  ],
+  "total": [
+   17,
+   974,
+   373,
+   1020
+  ],
+  "corpo": [
+   1,
+   960,
+   389,
+   1321
+  ],
+  "rodape": [
+   1,
+   1321,
+   389,
+   1400
+  ],
+  "linhas": [
+   [
+    "Banco na Europa | Investimento · | No total | R$ 11.525,40",
+    17,
+    1032,
+    373,
+    1101
+   ],
+   [
+    "Conta corrente | Banco / Digital · | No total | R$ 22.551,46",
+    17,
+    1101,
+    373,
+    1170
+   ],
+   [
+    "Corretora no exterior | Investimento · | No total | R$ 60.000,00",
+    17,
+    1170,
+    373,
+    1239
+   ],
+   [
+    "Reserva | Investimento · | No total | R$ 22.974,60",
+    17,
+    1239,
+    373,
+    1307
+   ]
+  ],
+  "texto": "Contas e carteiras\n4 contas · todas no total do patrimônio\nPATRIMÔNIO CONSOLIDADO\nR$ 117.051,46\nBanco na Europa\nInvestimento ·\nNo total\nR$ 11.525,40\nConta corrente\nBanco / Digital ·\nNo total\nR$ 22.551,46\nCorretora no exterior\nInvestimento ·\nNo total\nR$ 60.000,00\nReserva\nInvestimento ·\nNo total\nR$ 22.974,60\nNova conta",
+  "scrollY": 0
+ },
+ "18b": {
+  "sheet": [
+   0,
+   625.5,
+   390,
+   1400
+  ],
+  "cab": [
+   1,
+   641,
+   389,
+   719
+  ],
+  "nome": [
+   65,
+   736.3,
+   101.3,
+   755.8
+  ],
+  "tipo": [
+   65,
+   791,
+   92,
+   807
+  ],
+  "saldo": [
+   65,
+   836,
+   183.4,
+   855.5
+  ],
+  "incluir": [
+   65,
+   895,
+   311,
+   914.5
+  ],
+  "cor": [
+   81,
+   688.8,
+   321,
+   706.8
+  ],
+  "linha_incluir": [
+   "tx-row rem-li cf-incl-row",
+   17,
+   885,
+   373,
+   943
+  ],
+  "texto": "Editar conta\nCorretora no exterior\nNome\nTipo\nInvestimento\nBanco / Digital\nDinheiro / Carteira\nInvestimento\nOutro\nSaldo inicial\nantes dos lançamentos\nIncluir no patrimônio total\no saldo soma ao total geral de contas\nCor\nÍcone\nCancelar\nSalvar alterações\nExcluir conta",
+  "scrollY": 0
+ },
+ "18c": {
+  "chips": [
+   29,
+   153,
+   361,
+   183
+  ],
+  "investido": [
+   29,
+   199,
+   361,
+   244.5
+  ],
+  "selo": [
+   29,
+   225.5,
+   216.4,
+   244.5
+  ],
+  "carteira": [
+   162.6,
+   262.5,
+   277.6,
+   281.5
+  ],
+  "cambio_hoje": [
+   29,
+   367.5,
+   278.6,
+   385.5
+  ],
+  "atualizar": [
+   29,
+   393.5,
+   186.2,
+   423.5
+  ],
+  "resgate": [
+   29,
+   437.5,
+   189,
+   481.5
+  ],
+  "cartao": [
+   29,
+   153,
+   361,
+   183
+  ],
+  "cartao_topo": [
+   "panel rem-cab",
+   14,
+   138,
+   376,
+   497
+  ],
+  "texto": "Remessas\nDezembro 2026\nTodas\nas contas\n🇺🇸 USD\n🇪🇺 EUR\nInvestido no exterior\n🇺🇸\nEstados Unidos\nno patrimônio · conta de destino\nUS$13.310 na carteira hoje\n+US$ 1.310,00\n+10,9% em US$\n+R$ 7.235,46\n+12,1% em R$\nR$ 67.235,47 ao câmbio de hoje (R$ 5,0515)\nAtualizar\n· há 18 dias\nResgate\nNova remessa\nDe onde veio o resultado em reais\nRendimento dos investimentos convertido no câmbio de hoje, e o efeito do câmbio sobre o que você enviou.\n60 mil\nvocê enviou\n+6,6 mil\nrendimento\n+618\nefeito do câmbio\n67,2 mil\nhoje\nOs investimentos renderam +US$ 1.310,00 (+10,9%). O câmbio subiu 1,0% desde o câmbio médio do que ainda está lá fora (R$ 5,00 → R$ 5,0515) e somou R$ 618. Sobrou +R$ 7.235,46 (+12,1%).\nCâmbio: onde você está\nO equilíbrio é o câmbio que zera o resultado em reais: abaixo dele, prejuízo.\nR$ 5,0515\nhoje\nR$ 4,5079\nR$ 5,00\nNo equilíbrio (R$ 4,5079)\nR$ 0\nHoje (R$ 5,0515)\n+R$ 7.235,46\nNo seu médio"
+ },
+ "18d": {
+  "chips": [
+   29,
+   153,
+   361,
+   183
+  ],
+  "investido": [
+   29,
+   199,
+   361,
+   244.5
+  ],
+  "selo": [
+   29,
+   225.5,
+   216.4,
+   244.5
+  ],
+  "carteira": [
+   124.9,
+   262.5,
+   239.9,
+   281.5
+  ],
+  "cambio_hoje": [
+   29,
+   335,
+   280.6,
+   353
+  ],
+  "atualizar": [
+   29,
+   361,
+   181.6,
+   391
+  ],
+  "resgate": [
+   29,
+   405,
+   189,
+   449
+  ],
+  "cartao": [
+   29,
+   153,
+   361,
+   183
+  ],
+  "texto": "Remessas\nDezembro 2026\nTodas\nas contas\n🇺🇸 USD\n🇪🇺 EUR\nInvestido no exterior\n🇵🇹\nPortugal\nno patrimônio · conta de destino\n€2.012 na carteira hoje\n+€ 12,00\n+0,6% em €\n−R$ 139,09\n−1,2% em R$\nR$ 11.386,31 ao câmbio de hoje (R$ 5,6592)\nAtualizar\n· há 3 dias\nResgate\nNova remessa\nDe onde veio o resultado em reais\nRendimento dos investimentos convertido no câmbio de hoje, e o efeito do câmbio sobre o que você enviou.\n11,5 mil\nvocê enviou\n+68\nrendimento\n−207\nefeito do câmbio\n11,4 mil\nhoje\nOs investimentos renderam +€ 12,00 (+0,6%). O câmbio caiu 1,8% desde o câmbio médio do que ainda está lá fora (R$ 5,7627 → R$ 5,6592) e devolveu R$ 207. Falta −R$ 139,09 (−1,2%).\nCâmbio: onde você está\nO equilíbrio é o câmbio que zera o resultado em reais: abaixo dele, prejuízo.\nR$ 5,6592\nhoje\nR$ 5,7283\nR$ 5,7627\nNo equilíbrio (R$ 5,7283)\nR$ 0\nHoje (R$ 5,6592)\n−R$ 139,09\nNo seu médio (R$ 5,7627)\n+R$ 69,15\nResulta"
+ },
+ "21a": {
+  "sheet": [
+   0,
+   133.5,
+   390,
+   1400
+  ],
+  "cab": [
+   1,
+   149,
+   389,
+   270
+  ],
+  "metas": [
+   21,
+   846.5,
+   369,
+   863
+  ],
+  "receita": [
+   21,
+   875,
+   207,
+   894.5
+  ],
+  "reserva": [
+   21,
+   989.5,
+   207,
+   1009
+  ],
+  "previa": [
+   21,
+   1112,
+   369,
+   1128.5
+  ],
+  "com_param": [
+   36,
+   1152.5,
+   354,
+   1169
+  ],
+  "meses_usados": [
+   202,
+   1246.5,
+   354,
+   1263
+  ],
+  "rodape": [
+   1,
+   1330,
+   389,
+   1399
+  ],
+  "previa_caixa": [
+   "mp-prev",
+   21,
+   1139,
+   369,
+   1318
+  ],
+  "texto": "Como o diagnóstico é calculado\nAjuste a janela, as metas e veja o efeito na hora\nJANELA DE ANÁLISE\n3 meses\n6 meses\n12 meses\n24 meses\nD\nJ\nF\nM\nA\nM\nJ\nJ\nA\nS\nO\nN\nOs 12 meses da janela têm lançamentos e entram na média.\nMESES SEM LANÇAMENTO\nIgnorar meses vazios\nMeses em que você não registrou nada ficam fora da média. Incluí-los diria que você gastou pouco quando, na verdade, só não usou o timtimcash.\nA CONTA COM SEUS NÚMEROS\nReceita média por mês\nR$ 10.281,67\nDespesa média por mês\nR$ 8.419,65\nResultado médio\nR$ 1.862,02\nR$ 1.862,02 ÷ R$ 10.281,67 = 18,1%\n\nO resultado médio dividido pela receita média dá a sua receita guardada. Só entram lançamentos pagos ou recebidos; compras no cartão entram no mês da compra, como na Visão geral e no Fluxo.\n\nSUAS METAS\nReceita guardada\nQuanto da receita você quer guardar por mês. 20% é a referência mais usada em finanças pessoais.\n−\n20%\n+\nReserva de emergência\nPor quantos meses o patrimônio deve cobrir sua despesa média. O consenso é de 6 meses para renda estável.\n−\n6 meses\n+\nPRÉVIA\nCOM OS PARÂMETROS ACIMA\nSua média\n18,1%\nda receita\nDespesa média\nR$ 8.419,65\npor mês\nReserva\n13,8m\nmeta 6m\nMeses usados\n12\nde 12 meses\nRestaurar padrão\nCancelar\nSalvar",
+  "scrollY": 0
+ },
+ "21b": {
+  "progresso": [
+   29,
+   1039.5,
+   197.3,
+   1062
+  ],
+  "no_limite": [
+   29,
+   1206,
+   91.1,
+   1222.5
+  ],
+  "tranquilas": [
+   29,
+   1371.5,
+   107.9,
+   1388
+  ],
+  "legenda": null,
+  "itens": [
+   [
+    "Mercado | R$ 1.307 de R$ 2.000 | 65% | no ritmo, fecha em | R$ 1.930 | NO LIMITE",
+    29,
+    1239,
+    361,
+    1342
+   ],
+   [
+    "Bares e restaurantes | R$ 304 de R$ 600 | 51% | no ritmo, fecha em | R$ 449 | 75% DO LIMITE",
+    29,
+    1404,
+    361,
+    1507
+   ],
+   [
+    "Transporte | R$ 910 de R$ 1.950 | 47% | no ritmo, fecha em | R$ 1.343 | 69% DO LIMITE",
+    29,
+    1521,
+    361,
+    1624
+   ],
+   [
+    "Saúde | R$ 66 de R$ 500 | 13% | no ritmo, fecha em | R$ 98 | 20% DO LIMITE",
+    29,
+    1638,
+    361,
+    1741
+   ],
+   [
+    "Lazer e hobbies | R$ 0 de R$ 400 | 0%",
+    29,
+    1755,
+    361,
+    1826
+   ]
+  ],
+  "grupos": [
+   [
+    "No limite",
+    29,
+    1206,
+    91,
+    1223
+   ],
+   [
+    "no limite",
+    185,
+    1312,
+    256,
+    1329
+   ],
+   [
+    "Tranquilas",
+    29,
+    1372,
+    108,
+    1388
+   ]
+  ],
+  "texto": "Orçamentos\nDezembro 2026\nTodas\nas contas\nGasto total no período\nR$7.711\nDezembro 2026\n21 de 31 dias · 68% do período\n48% do limite\n68% do período\nR$ 2.588,90 no orçamento de R$ 5.450,00\nR$ 5.122,10 sem limite · 66% do gasto · 5 categorias\nLimite definido\nR$ 5.450,00\n5 de 10 categorias\nUsado do limite\nR$ 2.588,90\n48% do limite · o período está em 68%\nSobra do limite\nR$ 2.861,10\nR$ 286 por dia nos 10 dias que faltam\nOnde definir limite primeiro SUGESTÕES\nR$ 5.122,10 do período está em categorias sem limite. Os valores abaixo vêm da sua própria média e servem de ponto de partida.\nCasa\nR$ 2.300\nno período\nsugestão pela média de 12 meses\nUsar\nR$ 2.500\noutro valor\nEducação\nR$ 1.450\nno período\nsugestão pela média de 12 meses\nUsar\nR$ 1.500\noutro valor\nPresentes e doações\nR$ 972\nno período\nsugestão pela média de 2 meses\nUsar\nR$ 580\noutro valor\nProgresso por categoria\nDezembro 2026 · 5 categorias\nRisco\nSó com limite\nDefinir limites\na marca vertical é hoje (dia 21 de 31 do período), e a barra à esquerda dela está dentro do ritmo\nNO LIMITE\n1 categoria\n= hoje\nMercado\nR$ 1.307 de R$ 2.000\n65%\nno ritmo, fecha em\nR$ 1.930\nNO LIMITE\nTRANQUILAS\n4 categorias\n= hoje\nBares e restaurantes\nR$ 304 de R$ 600\n51%\nno ritmo, fecha em\nR$ 449\n75% DO LIMITE\nTransporte\nR$ 910 de R$ 1.950\n47%\nno ritmo, fecha em\nR$ 1.343\n69% DO LIMITE\nSaúde\nR$ 66 de R$ 500\n13%\nno ritmo, fecha em\nR$ 98\n20% DO LIMITE\nLazer e hobbies\nR$ 0 de R$ 400\n0%\nMostrar as outras 5 categorias com gasto e sem limite"
+ },
+ "21c": {
+  "saldo_em": [
+   29,
+   1740,
+   361,
+   1759.5
+  ],
+  "pill": [
+   29,
+   1832,
+   242.4,
+   1856
+  ],
+  "grafico": [
+   29,
+   1870,
+   361,
+   2080
+  ],
+  "ese": null,
+  "cruza": null,
+  "horizonte": null,
+  "titulo": [
+   29,
+   140,
+   155,
+   170
+  ],
+  "cadeia": [
+   [
+    "BUTTON",
+    "sim-meta-pill",
+    29,
+    1832,
+    242,
+    1856
+   ],
+   [
+    "DIV",
+    "",
+    29,
+    1823,
+    361,
+    1856
+   ],
+   [
+    "DIV",
+    "sim-hero",
+    29,
+    1740,
+    361,
+    1856
+   ],
+   [
+    "DIV",
+    "panel sim-panel sim-result-panel",
+    14,
+    1725,
+    376,
+    3261
+   ],
+   [
+    "DIV",
+    "sim-col-result",
+    14,
+    1725,
+    376,
+    3261
+   ],
+   [
+    "DIV",
+    "sim-editor-grid",
+    14,
+    125,
+    376,
+    3261
+   ],
+   [
+    "DIV",
+    "sim-wrap-page sim-wrap-editor",
+    14,
+    84,
+    376,
+    3307
+   ],
+   [
+    "DIV",
+    "content tab-enter",
+    0,
+    66,
+    390,
+    3403
+   ],
+   [
+    "MAIN",
+    "main",
+    0,
+    8,
+    390,
+    3403
+   ],
+   [
+    "DIV",
+    "app",
+    0,
+    8,
+    390,
+    3403
+   ],
+   [
+    "DIV",
+    "",
+    0,
+    8,
+    390,
+    3403
+   ]
+  ],
+  "texto": "Simulação futura\nCenários\nCenário base\n6 meses\n1 ano\n2 anos\n5 anos\nNovembro de 2027\nSaldo de partida\nSaldo atual no timtimcash\nValor manual\nDe quanto este cenário parte\nR$\nHoje o timtimcash soma R$ 116.531,56 em todas as contas\nReceitas estimadas / mês\nR$ 9.960\nEstes valores se repetem todo mês até novembro de 2027, menos nos meses que você ajustar.\nSalário\nR$\nAdicionar receita\nPreencher com média\nDespesas estimadas / mês\nR$ 7.780\nEstes valores se repetem todo mês até novembro de 2027, menos nos meses que você ajustar.\n3 categorias respondem por 70% da despesa do cenário. Mexer nelas muda o resultado; nas outras 4, quase não.\nCasa\n30% da despesa\nR$\nMercado\n22%\nR$\nEducação\n19%\nR$\nTransporte\n16%\nR$\nBares e restaurantes\n9%\nR$\nSaúde\n4%\nR$\nAssinaturas e serviços\n2%\nR$\nImpostos e Taxas\n1 ajuste · jan/27\nR$\nAdicionar despesa\nPreencher com média\nSaldo em nov/27\nR$35.540\n+R$ 1.780 por mês · 12 meses\nMeta R$ 35 mil · atinge em nov/27\nE se…\nTesta um susto sobre o cenário, sem alterar nada.\nReceita −10%\nDespesa +10%\nPerde a maior renda\nInflação 5% a.a.\nOutro valor\nCruza R$ 20 mil em abr/27\nCruza R$ 30 mil em set/27\nReceitas / mês\nR$ 9.960\nDespesas / mês\nR$ 7.780\nPlano contra realidade\nquanto o cenário conta que sobre por mês, e quanto sobrou de fato\nO PLANO PREVÊ\n+R$ 2.180\npor mês\n×\nACONTECEU\n+R$ 2.464\nmédia de 6 meses\njun\njul\nago\nset\nout\nnov\nprevisto\nreal\nSobra R$ 284 por mês a mais que o plano previa (13% acima).\nMês mais distante: jul/26, que fechou +R$ 1.339 contra +R$ 2.180 previstos.\nNesse ritmo real a meta de R$ 35 mil antecipa 3 meses: ago/27 no lugar de nov/27.\nAjustar o plano pelo real\nSaldo de partida\nR$ 14.180\ndez/26\n+R$ 2.180\nR$ 9.960 entra\nR$ 7.780 sai\nsaldo em dez/26: R$ 16.360\njan/271 AJUSTE\n−R$ 2.620\nR$ 9.960 entra\nR$ 12.580 sai\nsaldo em jan/27: R$ 13.740\nfev/27 a out/279 MESES\n+R$ 2.180/mês\nR$ 9.960 entra\nR$ 7.780 sai\nsaldo em out/27: R$ 33.360\nnov/27\nR$ 35.540\nR$ 9.960 entra\nR$ 7.780 sai\nsaldo projetado no horizonte"
+ },
+ "23": {
+  "modal": null,
+  "titulo": [
+   17,
+   860.5,
+   305,
+   890.5
+  ],
+  "abas": [
+   19,
+   936.5,
+   371,
+   976.5
+  ],
+  "busca": [
+   -5,
+   968.5,
+   395,
+   1039.5
+  ],
+  "viagem": [
+   62,
+   1110,
+   234,
+   1129.5
+  ],
+  "campo": [
+   243,
+   1095.5,
+   365,
+   1143.5
+  ],
+  "semmov": [
+   17,
+   1182.5,
+   373,
+   1223.5
+  ],
+  "total": [
+   1,
+   1237.5,
+   389,
+   1321
+  ],
+  "rodape": [
+   1,
+   1321,
+   389,
+   1400
+  ],
+  "campo_valor": "R$ 5.300,00",
+  "texto": "Definir orçamentos\nLimite mensal de despesa e meta mensal de receita\nDespesas\nReceitas\n21 categorias\nPreencher em lote\nViagem\nmédia R$ 640\nusar R$ 700\n8 categorias sem movimento em 12 meses\nmostrar\nLIMITE TOTAL POR MÊS\n6 categorias\nR$ 10.750,00\n+R$ 6.047,97 129% acima da média de 12 meses\nCancelar\nSalvar",
+  "scrollY": 0
+ },
+ "28a": {
+  "titulo": [
+   29,
+   2109.5,
+   241,
+   2132
+  ],
+  "editar": [
+   29,
+   2174,
+   166.1,
+   2204
+  ],
+  "a2023": [
+   29,
+   2251.8,
+   287.6,
+   2274.3
+  ],
+  "a2025": [
+   29,
+   2506.8,
+   277.8,
+   2529.3
+  ],
+  "a2026": null,
+  "desde": [
+   29,
+   2774.8,
+   277.8,
+   2794.3
+  ],
+  "nota": [
+   29,
+   2950,
+   361,
+   3016
+  ],
+  "leg": [
+   29,
+   2892,
+   361,
+   2937
+  ],
+  "painel": [
+   14,
+   2095,
+   376,
+   3031
+  ],
+  "texto": "Rendimento ano a ano\nTaxa de cada ano, em US$ e em reais\nEditar fechamentos\n2023\n+6,5%\n+120,00\n+3,8%\n+R$ 343,68\naportes 4.000,00 · a R$ 4,90 · fim 4.120,00\n2024\n+3,6%\n+360,00\n+34,4%\n+R$ 16.928,73\naportes 8.000,00 · a R$ 5,05 · fim 12.480,00\n2025\n+3,9%\n+480,00\n−7,7%\n−R$ 5.969,09\nfim 12.960,00\n2026\naté hoje\n+3,0%\n+350,00\n−6,2%\n−R$ 4.067,86\nhoje 13.310,00\nDesde 2023\n+3,6%\n+1.310,00\n+4,0%\n+R$ 7.235,46\nas taxas ao ano que o painel de rendimento já mostra\na barra de cima é a taxa em US$\na de baixo, a mesma em R$\nrégua até +34%\nEm US$ é o rendimento do investimento. Em R$ é o mesmo rendimento mais a variação do câmbio no ano. Cada ano usa as datas reais dos envios: aporte de novembro pesa dois meses, não doze.",
+  "linhas": [
+   [
+    "rya-r",
+    "2023 | +6,5% | +120,00 | +3,8% | +R$ 343,68 | aportes 4.000,00 · a R$ 4,90 · fim 4.120,00",
+    29,
+    2232,
+    361,
+    2360
+   ],
+   [
+    "rya-r",
+    "2024 | +3,6% | +360,00 | +34,4% | +R$ 16.928,73 | aportes 8.000,00 · a R$ 5,05 · fim 12.480,00",
+    29,
+    2360,
+    361,
+    2487
+   ],
+   [
+    "rya-r",
+    "2025 | +3,9% | +480,00 | −7,7% | −R$ 5.969,09 | fim 12.960,00",
+    29,
+    2487,
+    361,
+    2615
+   ],
+   [
+    "rya-r corrente",
+    "2026 | até hoje | +3,0% | +350,00 | −6,2% | −R$ 4.067,86 | hoje 13.310,00",
+    29,
+    2615,
+    361,
+    2743
+   ],
+   [
+    "rya-r rya-tot",
+    "Desde 2023 | +3,6% | +1.310,00 | +4,0% | +R$ 7.235,46 | as taxas ao ano que o painel de rendimento já mostra",
+    29,
+    2753,
+    361,
+    2880
+   ],
+   [
+    "rya-leg",
+    "a barra de cima é a taxa em US$ | a de baixo, a mesma em R$ | régua até +34%",
+    29,
+    2892,
+    361,
+    2937
+   ]
+  ]
+ },
+ "28b": {
+  "modal": null,
+  "titulo": [
+   17,
+   1861.5,
+   339,
+   1891.5
+  ],
+  "sub": [
+   17,
+   1894.5,
+   339,
+   1948.5
+  ],
+  "rotulo": [
+   17,
+   1975.5,
+   373,
+   1992
+  ],
+  "tabela": [
+   17,
+   1999,
+   373,
+   2633
+  ],
+  "r2023": [
+   18,
+   2000,
+   372,
+   2158
+  ],
+  "r2025": [
+   18,
+   2316,
+   372,
+   2474
+  ],
+  "hoje": [
+   18,
+   2474,
+   372,
+   2632
+  ],
+  "dica": [
+   17,
+   2646,
+   373,
+   2758
+  ],
+  "rodape": [
+   1,
+   2772,
+   389,
+   2851
+  ],
+  "scrollY": 1451,
+  "valores": [
+   [
+    "2023",
+    "4.120,00",
+    "4,8407"
+   ],
+   [
+    "2024",
+    "12.480,00",
+    "6,1917"
+   ],
+   [
+    "2025",
+    "12.960,00",
+    "5,5018"
+   ]
+  ],
+  "texto": "Quanto havia no fim de cada ano\nCom o saldo de 31 de dezembro, o timtimcash separa o rendimento ano a ano. Sem ele, só dá para medir o período inteiro.\nSALDO EM US$ NO ÚLTIMO DIA DO ANO\n202331/12/2023\nR$\nPTAX\n202431/12/2024\nR$\nPTAX\n202531/12/2025\nR$\nPTAX\n2026hoje, em curso\n13.310,00\nR$\n5,0515\nO botão ao lado de cada câmbio busca o PTAX de compra do fecho daquele ano no Banco Central. O campo é opcional: sem ele o ano aparece só em US$, porque converter pelo câmbio de hoje daria um rendimento em reais que não aconteceu naquele ano.\nCancelar\nSalvar"
+ }
+}

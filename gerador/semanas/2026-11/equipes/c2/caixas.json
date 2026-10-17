@@ -1,0 +1,630 @@
+{
+ "16": {
+  "modal": [
+   0,
+   153,
+   390,
+   1200
+  ],
+  "titulo": [
+   23,
+   183.3,
+   139.5,
+   208.8
+  ],
+  "valor": [
+   1,
+   278,
+   389,
+   410
+  ],
+  "data": [
+   67,
+   426.3,
+   249.4,
+   445.8
+  ],
+  "de": [
+   58.1,
+   245.5,
+   116.5,
+   262.5
+  ],
+  "para": [
+   67,
+   591.3,
+   156.5,
+   610.8
+  ],
+  "remessa_linha": [
+   1,
+   628,
+   389,
+   687
+  ],
+  "caixa_rem": [
+   1,
+   689,
+   389,
+   1069
+  ],
+  "sentido": [
+   16,
+   704,
+   374,
+   751
+  ],
+  "enviado": [
+   2,
+   765,
+   388,
+   824
+  ],
+  "instituicao": [
+   2,
+   824,
+   388,
+   877
+  ],
+  "iof": [
+   2,
+   929,
+   388,
+   987
+  ],
+  "deriva": [
+   16,
+   999,
+   374,
+   1054
+  ],
+  "rodape": [
+   1,
+   1127,
+   389,
+   1200
+  ],
+  "texto_deriva": "Câmbio efetivo R$ 5,1056 por US$ · IOF 1,10% · US$ 4.000 custaram R$ 20.422,20",
+  "campos": {
+   "valor": "20.422,20",
+   "enviado": "4.000,00",
+   "iof": "222,20",
+   "data": "2026-11-16",
+   "titulo": "Nova remessa",
+   "instituicao": "Corretora no exterior"
+  }
+ },
+ "19": {
+  "topo": [
+   -274,
+   198.5,
+   -18,
+   246.5
+  ],
+  "periodo": [
+   178.1,
+   74,
+   214.1,
+   110
+  ],
+  "seg": [
+   14,
+   138,
+   376,
+   178
+  ],
+  "pat": [
+   14,
+   192,
+   376,
+   623.5
+  ],
+  "mov": [
+   31,
+   432,
+   359,
+   472
+  ],
+  "guardar": [
+   31,
+   478,
+   359,
+   496
+  ],
+  "fita": [
+   31,
+   504,
+   359,
+   534
+  ],
+  "receitas": null,
+  "sobrar": null,
+  "kpis": null,
+  "ponte": null,
+  "ultimas": [
+   29,
+   2979.5,
+   176,
+   3002
+  ],
+  "nuvem": [
+   81,
+   3152.1,
+   261.5,
+   3168.9
+  ],
+  "salario": [
+   81,
+   3715.1,
+   128.1,
+   3731.9
+  ],
+  "insights": [
+   29,
+   3802.5,
+   199,
+   3825
+  ],
+  "texto": "Visão geral\nDezembro 2026\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nPatrimônio\nR$\n109.035\n,10\nalta de\n2,8% em relação a out/26\n3 contas somadas\nDez/25\nNov/26\nMovimento de dezembro 2026\nPREVISTO\nDeve guardar 61,1% da receita\n61,1%\n38,9%\nReceitas R$ 9.960,00\nDespesas R$ 3.869,80\nResultado previsto\nR$ 6.090,20\nReceitas\nR$ 9.960\nalta de\n1,4%\nDespesas\nR$ 3.869\nqueda de\n53,6%\nResultado\nR$ 6.090\nalta de\n308,0%\nÚltimos 12 meses\nFluxo mensal\nDez/25 a Nov/26\nMédia por mês · Nov/25 a Out/26\nReceitas\nR$ 9.826,67\nDespesas\nR$ 8.333,87\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nReceita média\nR$ 9.826,67\nNov/25 a Out/26 · meses fechados\n↓ 100,0% (dezembro vs média)\nDespesa média\nR$ 8.333,87\nNov/25 a Out/26 · meses fechados\n↓ 100,0% (dezembro vs média)\nSaldo acumulado\nR$ 109.035,10\n+R$ 19.910,10\nDez/25\nNov/26\nReserva financeira\n13,1\nmeses\nR$ 109.035,10 ÷ R$ 8.333,87/mês (despesa média)\nmédia de 12 meses com movimento\nPor categoria\nDespesas do período\nDespesas\nReceitas\nPeríodo global\nDespesas\nR$ 3.869,80\n3 categorias\nTop saídas\nMaiores despesas do período\nCasa\nR$ 2.300,00 59%\nEducação\nR$ 1.450,00 37%\nAssinaturas e serviços\nR$ 119,80 3%\nMinhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 109.035,10\nPOSITIVAS\nR$ 109.035,10\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nReserva\nINVESTIMENTO\nR$ 33.000,00\nConta corrente\nR$ 16.035,10\nÚltimas transações\nToque em uma para editar\nVer todas →\ndom · 20 de dezembro\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nter · 15 de dezembro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npendente\nsáb · 12 de dezembro\nEditar\nExcluir\nStreaming de vídeo\nFixaAssinaturas e serviços · Conta corrente\n−R$ 55,90\npendente\nqui · 10 de dezembro\nEditar\nExcluir\nEscola\nFixaEducação · Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nAluguel\nFixaCasa · Conta corrente\n−R$ 2.300,00\npendente\nsáb · 5 de dezembro\nEditar\nExcluir\nSalário\nFixaConta corrente\n+R$ 9.960,00\npendente\nInsights\nAnálise automática do período\nMaior receita guardada em 12 meses\nVocê deve guardar 61% da receita em dezembro.\nCasa: 59% das despesas\nConcentra R$ 2.300,00 dos seus gastos, proporção elevada que vale analisar."
+ },
+ "23": {
+  "card": [
+   296,
+   146,
+   780,
+   1025
+  ],
+  "resultado": [
+   323,
+   264.5,
+   753,
+   335
+  ],
+  "cab_rec": [
+   323,
+   343,
+   753,
+   388.5
+  ],
+  "cab_des": [
+   323,
+   498.5,
+   753,
+   544
+  ],
+  "periodo": [
+   557.5,
+   31,
+   707.5,
+   61
+  ],
+  "Salário": [
+   397,
+   408,
+   570.3,
+   429
+  ],
+  "Outras receitas": [
+   397,
+   456,
+   589.8,
+   477
+  ],
+  "Casa": [
+   397,
+   563.5,
+   570.3,
+   584.5
+  ],
+  "Mercado": [
+   397,
+   611.5,
+   570.3,
+   632.5
+  ],
+  "Educação": [
+   397,
+   659.5,
+   570.3,
+   680.5
+  ],
+  "Transporte": [
+   397,
+   707.5,
+   570.3,
+   728.5
+  ],
+  "Bares e restaurantes": [
+   397,
+   755.5,
+   589.8,
+   776.5
+  ],
+  "Lazer e hobbies": [
+   397,
+   803.5,
+   589.8,
+   824.5
+  ],
+  "Presentes e doações": [
+   397,
+   851.5,
+   589.8,
+   872.5
+  ],
+  "Saúde": [
+   397,
+   899.5,
+   589.8,
+   920.5
+  ],
+  "Assinaturas e serviços": [
+   397,
+   947.5,
+   589.8,
+   968.5
+  ],
+  "linhas": [
+   [
+    "Salário",
+    "96,9%",
+    "R$ 9.960,00",
+    323,
+    395,
+    753,
+    443
+   ],
+   [
+    "Outras receitas",
+    "3,1%",
+    "R$ 320,00",
+    323,
+    443,
+    753,
+    491
+   ],
+   [
+    "Casa",
+    "24,2%",
+    "R$ 2.492,60",
+    323,
+    550,
+    753,
+    598
+   ],
+   [
+    "Mercado",
+    "16,8%",
+    "R$ 1.725,00",
+    323,
+    598,
+    753,
+    646
+   ],
+   [
+    "Educação",
+    "14,1%",
+    "R$ 1.450,00",
+    323,
+    646,
+    753,
+    694
+   ],
+   [
+    "Transporte",
+    "11,7%",
+    "R$ 1.207,00",
+    323,
+    694,
+    753,
+    742
+   ],
+   [
+    "Bares e restaurantes",
+    "6,6%",
+    "R$ 681,40",
+    323,
+    742,
+    753,
+    790
+   ],
+   [
+    "Lazer e hobbies",
+    "2,1%",
+    "R$ 214,90",
+    323,
+    790,
+    753,
+    838
+   ],
+   [
+    "Presentes e doações",
+    "1,8%",
+    "R$ 180,00",
+    323,
+    838,
+    753,
+    886
+   ],
+   [
+    "Saúde",
+    "1,4%",
+    "R$ 144,30",
+    323,
+    886,
+    753,
+    934
+   ],
+   [
+    "Assinaturas e serviços",
+    "1,2%",
+    "R$ 119,80",
+    323,
+    934,
+    753,
+    982
+   ]
+  ],
+  "texto": "Demonstrativo de resultado\n1 a 31 de outubro de 2026\nRESULTADO\nReceitas menos despesas\n+R$ 2.065,00\nRECEITAS\nR$ 10.280,00\nSalário\n96,9%\nR$ 9.960,00\nOutras receitas\n3,1%\nR$ 320,00\nDESPESAS\n79,9%\n da receita\nR$ 8.215,00\nCasa\n24,2%\nR$ 2.492,60\nMercado\n16,8%\nR$ 1.725,00\nEducação\n14,1%\nR$ 1.450,00\nTransporte\n11,7%\nR$ 1.207,00\nBares e restaurantes\n6,6%\nR$ 681,40\nLazer e hobbies\n2,1%\nR$ 214,90\nPresentes e doações\n1,8%\nR$ 180,00\nSaúde\n1,4%\nR$ 144,30\nAssinaturas e serviços\n1,2%\nR$ 119,80"
+ },
+ "26": {
+  "topo": {
+   "periodo": [
+    62,
+    76,
+    164.2,
+    108
+   ],
+   "atalhos": [
+    29,
+    147.5,
+    102.8,
+    160.5
+   ]
+  },
+  "painel": [
+   14,
+   1117,
+   376,
+   1387
+  ],
+  "texto": "Concentração\n3 categorias respondem por 69% do que você gastou\nCasa\n30,3%\nR$ 2.492,60\nMercado\n21,0%\nR$ 1.725,00\nEducação\n17,7%\nR$ 1.450,00\nOutras 6 categorias\n31,0%\nR$ 2.547,40"
+ },
+ "28a": {
+  "modal": [
+   0,
+   180,
+   390,
+   1200
+  ],
+  "titulo": [
+   23,
+   210.3,
+   131.1,
+   235.8
+  ],
+  "valor": [
+   1,
+   305,
+   389,
+   437
+  ],
+  "data": [
+   67,
+   453.3,
+   245.6,
+   472.8
+  ],
+  "de": [
+   58.1,
+   272.5,
+   116.5,
+   289.5
+  ],
+  "para": [
+   67,
+   618.3,
+   200.8,
+   637.8
+  ],
+  "remessa_linha": [
+   1,
+   655,
+   389,
+   714
+  ],
+  "caixa_rem": [
+   1,
+   716,
+   389,
+   1069
+  ],
+  "sentido": [
+   16,
+   731,
+   374,
+   778
+  ],
+  "resgatado": [
+   2,
+   792,
+   388,
+   851
+  ],
+  "instituicao": [
+   2,
+   851,
+   388,
+   903
+  ],
+  "iof_mais": [
+   2,
+   956,
+   388,
+   987
+  ],
+  "deriva": [
+   16,
+   999,
+   374,
+   1054
+  ],
+  "rodape": [
+   1,
+   1127,
+   389,
+   1200
+  ],
+  "texto_deriva": "Câmbio efetivo R$ 5,0200 por US$ · US$ 1.000 viraram R$ 5.020,00",
+  "campos": {
+   "valor": "5.020,00",
+   "resgatado": "1.000,00",
+   "data": "2026-11-28",
+   "titulo": "Novo resgate"
+  }
+ },
+ "28b": {
+  "topo": [
+   29,
+   153,
+   361,
+   198.5
+  ],
+  "aviso": [
+   29,
+   385.5,
+   336.8,
+   403
+  ],
+  "botoes": [
+   29,
+   417,
+   189,
+   461
+  ],
+  "kpis": [
+   29,
+   3145,
+   361,
+   3292.5
+  ],
+  "remetido": [
+   29,
+   3145,
+   190,
+   3161.5
+  ],
+  "tabela_tit": [
+   -274,
+   648.5,
+   -18,
+   696.5
+  ],
+  "por_remessa": [
+   32,
+   3459,
+   195,
+   3493
+  ],
+  "resgate_selo": null,
+  "linha_2024": [
+   41,
+   3879.5,
+   104.5,
+   3896
+  ],
+  "linha_2024b": [
+   41,
+   4048.5,
+   104.5,
+   4065
+  ],
+  "linha_2023": [
+   29,
+   1554.5,
+   190,
+   1575.5
+  ],
+  "total": [
+   -256,
+   1368.5,
+   -36,
+   1385
+  ],
+  "cartoes": [
+   [
+    "SPAN",
+    "rem-tag-saida",
+    3620,
+    3639,
+    149,
+    212
+   ],
+   [
+    "SPAN",
+    "rem-c-dest",
+    3620,
+    3639,
+    41,
+    349
+   ],
+   [
+    "DIV",
+    "rem-row saida",
+    3570,
+    3740,
+    29,
+    361
+   ],
+   [
+    "DIV",
+    "rem-tab-rolo",
+    3570,
+    4359,
+    29,
+    361
+   ],
+   [
+    "DIV",
+    "panel rem-tab-panel com-hoje",
+    3326,
+    4374,
+    14,
+    376
+   ],
+   [
+    "DIV",
+    "content tab-enter",
+    120,
+    4470,
+    0,
+    390
+   ],
+   [
+    "MAIN",
+    "main",
+    8,
+    4470,
+    0,
+    390
+   ],
+   [
+    "DIV",
+    "app",
+    8,
+    4470,
+    0,
+    390
+   ],
+   [
+    "DIV",
+    "",
+    8,
+    4470,
+    0,
+    390
+   ]
+  ],
+  "texto": "Transferência registrada. Resgate criado em Remessas\nRemessas\nNovembro 2026\nTodas\nas contas\nInvestido no exterior\n🇺🇸\nEstados Unidos\nno patrimônio · conta de destino\nUS$13.260 na carteira hoje\n+US$ 1.260,00\n+10,5% em US$\n+R$ 6.982,89\n+11,6% em R$\nR$ 66.982,89 ao câmbio de hoje (R$ 5,0515)\nAtualizar\n· há 29 dias\n1 movimentação posterior ao valor informado, fora do ganho\nResgate\nNova remessa\nDe onde veio o resultado em reais\nRendimento dos investimentos convertido no câmbio de hoje, e o efeito do câmbio sobre o que você enviou.\n60 mil\nvocê enviou\n+6,4 mil\nrendimento\n+618\nefeito do câmbio\n67 mil\nhoje\nOs investimentos renderam +US$ 1.260,00 (+10,5%). O câmbio subiu 1,0% desde o câmbio médio do que ainda está lá fora (R$ 5,00 → R$ 5,0515) e somou R$ 618. Sobrou +R$ 6.982,89 (+11,6%).\nCâmbio: onde você está\nO equilíbrio é o câmbio que zera o resultado em reais: abaixo dele, prejuízo.\nR$ 5,0515\nhoje\nR$ 4,5249\nR$ 5,00\nNo equilíbrio (R$ 4,5249)\nR$ 0\nHoje (R$ 5,0515)\n+R$ 6.982,89\nNo seu médio (R$ 5,00)\n+R$ 6.300,00\nResultado em reais da carteira de hoje em cada cotação. No seu câmbio médio, o resultado em reais igualaria o retorno na moeda.\nA jornada, desde jul/23\nO afastamento entre o degrau e a trajetória é o rendimento.\nenviado acumulado\ntrajetória na taxa medida\nvalor informado\n0\n5 mil\n10 mil\njul/23\nmar/25\nnov/26\nUS$ 13.260\nenviados: US$ 11.000\nPrimeira remessa\n12/07/2023\n3 anos atrás\nEnvios\n3 · 1 resg.\na cada 14 meses, em média\nMaior envio\n4.000,00\n12/07/2023\nMédia por envio\n4.000,00\nO degrau soma as remessas nas datas reais (resgate desconta). A linha tracejada não é medição nova: é a mesma TIR (taxa interna de retorno) de Ritmo do retorno, desenhada como trajetória de taxa constante. O timtimcash conhece o valor da carteira só no ponto verde, informado em 30/10/2026.\nRitmo do retorno\nTIR (taxa interna de retorno) das datas reais\nno período\nao ano\nao mês\n12,4%\nna moeda\n+US$ 1.260,00no total\n13,8%\nem reais\n+R$ 6.982,89no total\nDe 12/07/2023 a 30/10/2026 (3,3 anos) · capital médio US$ 10.252,07 (R$ 51.167,16)\n1 movimentação é posterior à avaliação da carteira e não entra nesta conta. Atualize o valor atual da carteira para incluir.\nComo o retorno é calculado\nRendimento ano a ano\nTaxa de cada ano, em US$ e em reais\nEditar fechamentos\n2023\n+6,5%\n+120,00\n+3,8%\n+R$ 343,68\naportes 4.000,00 · a R$ 4,90 · fim 4.120,00\n2024\n+3,6%\n+360,00\n+34,4%\n+R$ 16.928,73\naportes 8.000,00 · a R$ 5,05 · fim 12.480,00\n2025\n+3,9%\n+480,00\n−7,7%\n−R$ 5.969,09\nfim 12.960,00\n2026\naté hoje\n+2,8%\n+300,00\n−7,3%\n−R$ 4.320,44\nhoje 13.260,00\nDesde 2023\n+3,6%\n+1.260,00\n+4,0%\n+R$ 6.982,89\nas taxas ao ano que o painel de rendimento já mostra\na barra de cima é a taxa em US$\na de baixo, a mesma em R$\nrégua até +34%\nEm US$ é o rendimento do investimento. Em R$ é o mesmo rendimento mais a variação do câmbio no ano. Cada ano usa as datas reais dos envios: aporte de novembro pesa dois meses, não doze. 1 remessa fica de fora: foi feita depois da data em que você informou o valor da carteira, então esse dinheiro ainda não está dentro do valor medido.\nRemetido\nUS$ 11.000,00\n3 remessas · 1 resgate · desde jul/23\nCusto total\nR$ 54.980,00\nenviado menos o que voltou, com IOF\nCâmbio médio efetivo\nR$ 5,0000\ncom IOF · sem IOF R$ 5,0000\nIOF pago\nR$ 0,00\n0,00% do valor enviado\nRemessas\n3 envios · 1 resgate · o câmbio efetivo já inclui o IOF · planilha modelo\nPor remessa\nPor ano\nExcluir todas\nA coluna Hoje em R$ converte a mesma quantia em USD pela cotação de R$ 5,0515 que você informou. O percentual compara com o que a remessa custou: ele mede a variação do câmbio, não o rendimento do investimento.\n28/11/2026\n🇺🇸\nCorretora no exterior\nConta corrente\nRESGATE\n−US$ 1.000,00\nR$ 5,0200\n−R$ 5.020,00\n–\neste mês\n18/04/2024\nConta corrente\n🇺🇸\nCorretora no exterior\nUS$ 4.000,00\nR$ 5,1000\nR$ 20.400,00\nR$ 20.206,00\n−1,0%\n31,3 meses\n14/03/2024\nConta corrente\n🇺🇸\nCorretora no exterior\nUS$ 4.000,00\nR$ 5,0000\nR$ 20.000,00\nR$ 20.206,00\n+1,0%\n32,5 meses\n12/07/2023\nConta corrente\n🇺🇸\nCorretora no exterior\nUS$ 4.000,00\nR$ 4,9000\nR$ 19.600,00\nR$ 20.206,00\n+3,1%\n40,6 meses\nTotal\n3 remessas · 1 resgate\nUS$ 11.000,00\nR$ 54.980,00\nR$ 55.566,50\n+1,1%"
+ }
+}

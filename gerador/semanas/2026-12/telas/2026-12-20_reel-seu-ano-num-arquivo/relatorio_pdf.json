@@ -1,0 +1,42 @@
+{
+ "fontes": [
+  "Inter 400 loaded",
+  "Inter 500 unloaded",
+  "Inter 600 loaded",
+  "Inter 700 loaded",
+  "Inter 800 loaded",
+  "DM Serif Display 400 loaded"
+ ],
+ "usadas": [
+  "\"DM Serif Display\", Georgia, serif",
+  true,
+  true,
+  "\"DM Serif Display\", Georgia, serif"
+ ],
+ "viewport": [
+  980,
+  2121,
+  3,
+  10514
+ ],
+ "texto": "$\n$\ntimtimcash\nRelatório financeiro\nPeríodo: 01/01/2026 até 31/12/2026\nGerado em 20/12/2026\n328 transações\nMarina Alves\nRECEITAS\nR$ 126.293,36\nDESPESAS\nR$ 99.048,80\nRESULTADO\nR$ 27.244,56\nLANÇAMENTOS\n328\nDespesas por categoria\nCasa\nR$ 29.839,30 30.1%\nMercado\nR$ 18.131,00 18.3%\nEducação\nR$ 17.400,00 17.6%\nTransporte\nR$ 12.995,49 13.1%\nBares e restaurantes\nR$ 7.266,02 7.3%\nLazer e hobbies\nR$ 4.266,65 4.3%\nSaúde\nR$ 3.429,44 3.5%\nAssinaturas e serviços\nR$ 1.437,60 1.5%\nTransações do período\nDATA\tDESCRIÇÃO\tCATEGORIA\tCONTA\tVALOR\tSTATUS\n02/01/2026\tMercado da Vila\tMercado\tConta corrente\t- R$ 337,82\t✓ pago\n03/01/2026\tPedido delivery\tBares e restaurantes\tConta corrente\t- R$ 73,90\t✓ pago\n04/01/2026\tCombustível\tTransporte\tConta corrente\t- R$ 349,76\t✓ pago\n05/01/2026\tSalário\tSalário\tConta corrente\t+ R$ 9.480,00\t✓ pago\n06/01/2026\tAplicação na reserva\tTransferência\tConta corrente\tR$ 1.500,00\t✓ pago\n07/01/2026\tRestaurante\tBares e restaurantes\tConta corrente\t- R$ 127,11\t✓ pago\n08/01/2026\tFarmácia\tSaúde\tConta corrente\t- R$ 186,82\t✓ pago\n09/01/2026\tMercado da Vila\tMercado\tConta corrente\t- R$ 313,71\t✓ pago\n10/01/2026\tAluguel\tCasa\tConta corrente\t- R$ 2.300,00\t✓ pago\n10/01/2026\tEscola\tEducação\tConta corrente\t- R$ 1.450,00\t✓ pago\n12/01/2026\tStreaming de vídeo\tAssinaturas e serviços\tConta corrente\t- R$ 55,90\t✓ pago\n12/01/2026\tIPTU · 1ª parcela\tImpostos e Taxas\tConta corrente\t- R$ 210,00\t✓ pago\n13/01/2026\tCinema\tLazer e hobbies\tConta corrente\t- R$ 274,50\t✓ pago\n14/01/2026\tPadaria\tBares e restaurantes\tConta corrente\t- R$ 92,58\t✓ pago\n15/01/2026\tStreaming de música\tAssinaturas e serviços\tConta corren",
+ "alto_recorte": 664,
+ "tamanho_cheia": [
+  2940,
+  31542
+ ],
+ "erros": [],
+ "log": [],
+ "folhas": [
+  [
+   null,
+   32,
+   0
+  ],
+  [
+   null,
+   6,
+   6
+  ]
+ ]
+}

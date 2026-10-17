@@ -1,0 +1,319 @@
+{
+ "celular-simulacao-1-cenarios.jpg": {
+  "base": [
+   44,
+   212,
+   95.4,
+   22.5
+  ],
+  "carro": [
+   44,
+   346.5,
+   110.4,
+   22.5
+  ],
+  "resumo": [
+   29,
+   124.5,
+   215.1,
+   36
+  ],
+  "rolagem": 0,
+  "texto": "Simulação futura\nSimulação de fluxo futuro\n2 cenários · partindo de R$ 14.180,00 · base: Cenário base\nComparar\nCenário base\nBASE\n10 meses · até set/27 · +R$ 1.700 por mês\nR$ 31,2 mil\n+120%\nTrocar de carro\n10 meses · até set/27 · +R$ 100 por mês\n−R$ 16 mil que a base\nR$ 15,2 mil\n+7%\nNovo cenário"
+ },
+ "celular-simulacao-2-cenario.jpg": {
+  "titulo": [
+   29,
+   140,
+   126,
+   30
+  ],
+  "chip_data": [
+   29,
+   219,
+   152.2,
+   31
+  ],
+  "chips": [
+   29,
+   182,
+   75.4,
+   31
+  ],
+  "saldo_partida": [
+   29,
+   298,
+   332,
+   21
+  ],
+  "rolagem": 0,
+  "texto": "Simulação futura\nCenários\nCenário base\n6 meses\n1 ano\n2 anos\n5 anos\nSetembro de 2027\nSaldo de partida\nSaldo atual no timtimcash\nValor manual\nDe quanto este cenário parte\nR$\nHoje o timtimcash soma R$ 113.563,66 em todas as contas\nReceitas estimadas / mês\nR$ 9.960\nEstes valores se repetem todo mês até setembro de 2027, menos nos meses que você ajustar.\nSalário\nR$\nAdicionar receita\nPreencher com média\nDespesas estimadas / mês\nR$ 7.780\nEstes valores se repetem todo mês até setembro de 2027, menos nos meses que você ajustar.\n3 categorias respondem por 70% da despesa do cenário. Mexer nelas muda o resultado; nas outras 4, quase não.\nCasa\n30% da despesa\nR$\nMercado\n22%\nR$\nEducação\n19%\nR$\nTransporte\n16%\nR$\nBares e restaurantes\n9%\nR$\nSaúde\n4%\nR$\nAssinaturas e serviços\n2%\nR$\nImpostos e Taxas\n1 ajuste · jan/27\nR$\nAdicionar despesa\nPreencher com média\nSaldo em set/27\nR$31.180\n+R$ 1.700 por mês · 10 meses\nDefinir uma meta\nE se…\nTesta um susto sobre o cenário, sem alterar nada.\nReceita −10%\nDespesa +10%\nPerde a maior renda\nInflação 5% a.a.\nOutro valor\nCruza R$ 15 mil em dez/26\nCruza R$ 20 mil em abr/27\nCruza R$ 25 mil em jul/27\nReceitas / mês\nR$ 9.960\nDespesas / mês\nR$ 7.780\nPlano contra realidade\nquanto o cenário conta que sobre por mês, e quanto sobrou de fato\nO PLANO PREVÊ\n+R$ 2.180\npor mês\n×\nACONTECEU\n+R$ 2.464\nmédia de 6 meses\njun\njul\nago\nset\nout\nnov\nprevisto\nreal\nSobra R$ 284 por mês a mais que o plano previa (13% acima).\nMês mais distante: jul/26, que fechou +R$ 1.339 contra +R$ 2.180 previstos.\nAjustar o plano pelo real\nSaldo de partida\nR$ 14.180\ndez/26\n+R$ 2.180\nR$ 9.960 entra\nR$ 7.780 sai\nsaldo em dez/26: R$ 16.360\njan/271 AJUSTE\n−R$ 2.620\nR$ 9.960 entra\nR$ 12.580 sai\nsaldo em jan/27: R$ 13.740\nfev/27 a ago/277 MESES\n+R$ 2.180/mês\nR$ 9.960 entra\nR$ 7.780 sai\nsaldo em ago/27: R$ 29.000\nset/27\nR$ 31.180\nR$ 9.960 entra\nR$ 7.780 sai\nsaldo projetado no horizonte"
+ },
+ "celular-simulacao-3-meses.jpg": {
+  "folha": [
+   16,
+   262.5,
+   358,
+   319
+  ],
+  "dez": [
+   288.5,
+   477.5,
+   84.5,
+   43
+  ],
+  "set": [
+   17,
+   477.5,
+   84.5,
+   43
+  ],
+  "rolagem": 0,
+  "texto": "2027\nJan\nFev\nMar\nAbr\nMai\nJun\nJul\nAgo\nSet\nOut\nNov\nDez\nEste mês"
+ },
+ "celular-simulacao-4-dezembro.jpg": {
+  "titulo": [
+   29,
+   140,
+   126,
+   30
+  ],
+  "chip_data": [
+   29,
+   219,
+   155.3,
+   31
+  ],
+  "chips": [
+   29,
+   182,
+   75.4,
+   31
+  ],
+  "saldo_partida": [
+   29,
+   298,
+   332,
+   21
+  ],
+  "rolagem": 0,
+  "texto": "Simulação futura\nCenários\nCenário base\n6 meses\n1 ano\n2 anos\n5 anos\nDezembro de 2027\nSaldo de partida\nSaldo atual no timtimcash\nValor manual\nDe quanto este cenário parte\nR$\nHoje o timtimcash soma R$ 113.563,66 em todas as contas\nReceitas estimadas / mês\nR$ 9.960\nEstes valores se repetem todo mês até dezembro de 2027, menos nos meses que você ajustar.\nSalário\nR$\nAdicionar receita\nPreencher com média\nDespesas estimadas / mês\nR$ 7.780\nEstes valores se repetem todo mês até dezembro de 2027, menos nos meses que você ajustar.\n3 categorias respondem por 70% da despesa do cenário. Mexer nelas muda o resultado; nas outras 4, quase não.\nCasa\n30% da despesa\nR$\nMercado\n22%\nR$\nEducação\n19%\nR$\nTransporte\n16%\nR$\nBares e restaurantes\n9%\nR$\nSaúde\n4%\nR$\nAssinaturas e serviços\n2%\nR$\nImpostos e Taxas\n1 ajuste · jan/27\nR$\nAdicionar despesa\nPreencher com média\nSaldo em dez/27\nR$37.720\n+R$ 1.810 por mês · 13 meses\nDefinir uma meta\nE se…\nTesta um susto sobre o cenário, sem alterar nada.\nReceita −10%\nDespesa +10%\nPerde a maior renda\nInflação 5% a.a.\nOutro valor\nCruza R$ 20 mil em abr/27\nCruza R$ 30 mil em set/27\nReceitas / mês\nR$ 9.960\nDespesas / mês\nR$ 7.780\nPlano contra realidade\nquanto o cenário conta que sobre por mês, e quanto sobrou de fato\nO PLANO PREVÊ\n+R$ 2.180\npor mês\n×\nACONTECEU\n+R$ 2.464\nmédia de 6 meses\njun\njul\nago\nset\nout\nnov\nprevisto\nreal\nSobra R$ 284 por mês a mais que o plano previa (13% acima).\nMês mais distante: jul/26, que fechou +R$ 1.339 contra +R$ 2.180 previstos.\nAjustar o plano pelo real\nSaldo de partida\nR$ 14.180\ndez/26\n+R$ 2.180\nR$ 9.960 entra\nR$ 7.780 sai\nsaldo em dez/26: R$ 16.360\njan/271 AJUSTE\n−R$ 2.620\nR$ 9.960 entra\nR$ 12.580 sai\nsaldo em jan/27: R$ 13.740\nfev/27 a nov/2710 MESES\n+R$ 2.180/mês\nR$ 9.960 entra\nR$ 7.780 sai\nsaldo em nov/27: R$ 35.540\ndez/27\nR$ 37.720\nR$ 9.960 entra\nR$ 7.780 sai\nsaldo projetado no horizonte"
+ },
+ "celular-simulacao-5-resultado.jpg": {
+  "saldo_em": [
+   29,
+   1740,
+   332,
+   19.5
+  ],
+  "meta_btn": [
+   29,
+   1832,
+   132.3,
+   24
+  ],
+  "plano": [
+   42,
+   2425.5,
+   306,
+   18
+  ],
+  "par": [
+   42,
+   2483.5,
+   306,
+   74
+  ],
+  "previsto": [
+   42,
+   2483.5,
+   139.4,
+   74
+  ],
+  "aconteceu": [
+   208.6,
+   2483.5,
+   139.4,
+   74
+  ],
+  "sobra": [
+   42,
+   2661.5,
+   306,
+   33
+  ],
+  "ajustar": [
+   42,
+   2738.5,
+   306,
+   36
+  ],
+  "cruza": [
+   29,
+   2298.5,
+   332,
+   16.5
+  ],
+  "e_se": [
+   29,
+   2104,
+   35.4,
+   18
+  ],
+  "cartao_saldo": [
+   14,
+   1725,
+   362,
+   1501
+  ],
+  "cartao_plano": [
+   29,
+   2413.5,
+   332,
+   373
+  ],
+  "grafico": [
+   29,
+   1870,
+   332,
+   210
+  ],
+  "altura_pagina": 3368,
+  "rolagem": 1630,
+  "texto": "Simulação futura\nCenários\nCenário base\n6 meses\n1 ano\n2 anos\n5 anos\nDezembro de 2027\nSaldo de partida\nSaldo atual no timtimcash\nValor manual\nDe quanto este cenário parte\nR$\nHoje o timtimcash soma R$ 113.563,66 em todas as contas\nReceitas estimadas / mês\nR$ 9.960\nEstes valores se repetem todo mês até dezembro de 2027, menos nos meses que você ajustar.\nSalário\nR$\nAdicionar receita\nPreencher com média\nDespesas estimadas / mês\nR$ 7.780\nEstes valores se repetem todo mês até dezembro de 2027, menos nos meses que você ajustar.\n3 categorias respondem por 70% da despesa do cenário. Mexer nelas muda o resultado; nas outras 4, quase não.\nCasa\n30% da despesa\nR$\nMercado\n22%\nR$\nEducação\n19%\nR$\nTransporte\n16%\nR$\nBares e restaurantes\n9%\nR$\nSaúde\n4%\nR$\nAssinaturas e serviços\n2%\nR$\nImpostos e Taxas\n1 ajuste · jan/27\nR$\nAdicionar despesa\nPreencher com média\nSaldo em dez/27\nR$37.720\n+R$ 1.810 por mês · 13 meses\nDefinir uma meta\nE se…\nTesta um susto sobre o cenário, sem alterar nada.\nReceita −10%\nDespesa +10%\nPerde a maior renda\nInflação 5% a.a.\nOutro valor\nCruza R$ 20 mil em abr/27\nCruza R$ 30 mil em set/27\nReceitas / mês\nR$ 9.960\nDespesas / mês\nR$ 7.780\nPlano contra realidade\nquanto o cenário conta que sobre por mês, e quanto sobrou de fato\nO PLANO PREVÊ\n+R$ 2.180\npor mês\n×\nACONTECEU\n+R$ 2.464\nmédia de 6 meses\njun\njul\nago\nset\nout\nnov\nprevisto\nreal\nSobra R$ 284 por mês a mais que o plano previa (13% acima).\nMês mais distante: jul/26, que fechou +R$ 1.339 contra +R$ 2.180 previstos.\nAjustar o plano pelo real\nSaldo de partida\nR$ 14.180\ndez/26\n+R$ 2.180\nR$ 9.960 entra\nR$ 7.780 sai\nsaldo em dez/26: R$ 16.360\njan/271 AJUSTE\n−R$ 2.620\nR$ 9.960 entra\nR$ 12.580 sai\nsaldo em jan/27: R$ 13.740\nfev/27 a nov/2710 MESES\n+R$ 2.180/mês\nR$ 9.960 entra\nR$ 7.780 sai\nsaldo em nov/27: R$ 35.540\ndez/27\nR$ 37.720\nR$ 9.960 entra\nR$ 7.780 sai\nsaldo projetado no horizonte"
+ },
+ "celular-simulacao-6-meta-0.jpg": {
+  "campo": [
+   47,
+   2044,
+   296,
+   48
+  ],
+  "rolagem": 1630,
+  "texto": "Simulação futura\nCenários\nCenário base\n6 meses\n1 ano\n2 anos\n5 anos\nDezembro de 2027\nSaldo de partida\nSaldo atual no timtimcash\nValor manual\nDe quanto este cenário parte\nR$\nHoje o timtimcash soma R$ 113.563,66 em todas as contas\nReceitas estimadas / mês\nR$ 9.960\nEstes valores se repetem todo mês até dezembro de 2027, menos nos meses que você ajustar.\nSalário\nR$\nAdicionar receita\nPreencher com média\nDespesas estimadas / mês\nR$ 7.780\nEstes valores se repetem todo mês até dezembro de 2027, menos nos meses que você ajustar.\n3 categorias respondem por 70% da despesa do cenário. Mexer nelas muda o resultado; nas outras 4, quase não.\nCasa\n30% da despesa\nR$\nMercado\n22%\nR$\nEducação\n19%\nR$\nTransporte\n16%\nR$\nBares e restaurantes\n9%\nR$\nSaúde\n4%\nR$\nAssinaturas e serviços\n2%\nR$\nImpostos e Taxas\n1 ajuste · jan/27\nR$\nAdicionar despesa\nPreencher com média\nSaldo em dez/27\nR$37.720\n+R$ 1.810 por mês · 13 meses\nDefinir uma meta\nE se…\nTesta um susto sobre o cenário, sem alterar nada.\nReceita −10%\nDespesa +10%\nPerde a maior renda\nInflação 5% a.a.\nOutro valor\nCruza R$ 20 mil em abr/27\nCruza R$ 30 mil em set/27\nReceitas / mês\nR$ 9.960\nDespesas / mês\nR$ 7.780\nPlano contra realidade\nquanto o cenário conta que sobre por mês, e quanto sobrou de fato\nO PLANO PREVÊ\n+R$ 2.180\npor mês\n×\nACONTECEU\n+R$ 2.464\nmédia de 6 meses\njun\njul\nago\nset\nout\nnov\nprevisto\nreal\nSobra R$ 284 por mês a mais que o plano previa (13% acima).\nMês mais distante: jul/26, que fechou +R$ 1.339 contra +R$ 2.180 previstos.\nAjustar o plano pelo real\nSaldo de partida\nR$ 14.180\ndez/26\n+R$ 2.180\nR$ 9.960 entra\nR$ 7.780 sai\nsaldo em dez/26: R$ 16.360\njan/271 AJUSTE\n−R$ 2.620\nR$ 9.960 entra\nR$ 12.580 sai\nsaldo em jan/27: R$ 13.740\nfev/27 a nov/2710 MESES\n+R$ 2.180/mês\nR$ 9.960 entra\nR$ 7.780 sai\nsaldo em nov/27: R$ 35.540\ndez/27\nR$ 37.720\nR$ 9.960 entra\nR$ 7.780 sai\nsaldo projetado no horizonte\nMeta do cenário\nSaldo que você quer alcançar (deixe vazio para remover)\nCancelar\nOK"
+ },
+ "digitado_1": "3",
+ "digitado_2": "35",
+ "digitado_3": "350",
+ "digitado_4": "3.500",
+ "digitado_5": "35.000",
+ "celular-simulacao-6-meta.jpg": {
+  "folha": [
+   21,
+   1916,
+   348,
+   56
+  ],
+  "campo": [
+   47,
+   2044,
+   296,
+   48
+  ],
+  "ok": [
+   200,
+   2112,
+   143,
+   50
+  ],
+  "cancelar": [
+   47,
+   2112,
+   143,
+   50
+  ],
+  "rolagem": 1630,
+  "texto": "Simulação futura\nCenários\nCenário base\n6 meses\n1 ano\n2 anos\n5 anos\nDezembro de 2027\nSaldo de partida\nSaldo atual no timtimcash\nValor manual\nDe quanto este cenário parte\nR$\nHoje o timtimcash soma R$ 113.563,66 em todas as contas\nReceitas estimadas / mês\nR$ 9.960\nEstes valores se repetem todo mês até dezembro de 2027, menos nos meses que você ajustar.\nSalário\nR$\nAdicionar receita\nPreencher com média\nDespesas estimadas / mês\nR$ 7.780\nEstes valores se repetem todo mês até dezembro de 2027, menos nos meses que você ajustar.\n3 categorias respondem por 70% da despesa do cenário. Mexer nelas muda o resultado; nas outras 4, quase não.\nCasa\n30% da despesa\nR$\nMercado\n22%\nR$\nEducação\n19%\nR$\nTransporte\n16%\nR$\nBares e restaurantes\n9%\nR$\nSaúde\n4%\nR$\nAssinaturas e serviços\n2%\nR$\nImpostos e Taxas\n1 ajuste · jan/27\nR$\nAdicionar despesa\nPreencher com média\nSaldo em dez/27\nR$37.720\n+R$ 1.810 por mês · 13 meses\nDefinir uma meta\nE se…\nTesta um susto sobre o cenário, sem alterar nada.\nReceita −10%\nDespesa +10%\nPerde a maior renda\nInflação 5% a.a.\nOutro valor\nCruza R$ 20 mil em abr/27\nCruza R$ 30 mil em set/27\nReceitas / mês\nR$ 9.960\nDespesas / mês\nR$ 7.780\nPlano contra realidade\nquanto o cenário conta que sobre por mês, e quanto sobrou de fato\nO PLANO PREVÊ\n+R$ 2.180\npor mês\n×\nACONTECEU\n+R$ 2.464\nmédia de 6 meses\njun\njul\nago\nset\nout\nnov\nprevisto\nreal\nSobra R$ 284 por mês a mais que o plano previa (13% acima).\nMês mais distante: jul/26, que fechou +R$ 1.339 contra +R$ 2.180 previstos.\nAjustar o plano pelo real\nSaldo de partida\nR$ 14.180\ndez/26\n+R$ 2.180\nR$ 9.960 entra\nR$ 7.780 sai\nsaldo em dez/26: R$ 16.360\njan/271 AJUSTE\n−R$ 2.620\nR$ 9.960 entra\nR$ 12.580 sai\nsaldo em jan/27: R$ 13.740\nfev/27 a nov/2710 MESES\n+R$ 2.180/mês\nR$ 9.960 entra\nR$ 7.780 sai\nsaldo em nov/27: R$ 35.540\ndez/27\nR$ 37.720\nR$ 9.960 entra\nR$ 7.780 sai\nsaldo projetado no horizonte\nMeta do cenário\nSaldo que você quer alcançar (deixe vazio para remover)\nCancelar\nOK"
+ },
+ "celular-simulacao-7-meta-ok.jpg": {
+  "saldo_em": [
+   29,
+   1740,
+   332,
+   19.5
+  ],
+  "meta_btn": [
+   29,
+   1832,
+   213.4,
+   24
+  ],
+  "plano": [
+   42,
+   2425.5,
+   306,
+   18
+  ],
+  "par": [
+   42,
+   2483.5,
+   306,
+   74
+  ],
+  "previsto": [
+   42,
+   2483.5,
+   139.4,
+   74
+  ],
+  "aconteceu": [
+   208.6,
+   2483.5,
+   139.4,
+   74
+  ],
+  "sobra": [
+   42,
+   2661.5,
+   306,
+   33
+  ],
+  "ajustar": [
+   42,
+   2773.5,
+   306,
+   36
+  ],
+  "cruza": [
+   29,
+   2298.5,
+   332,
+   16.5
+  ],
+  "e_se": [
+   29,
+   2104,
+   35.4,
+   18
+  ],
+  "meta_pill": [
+   29,
+   1823,
+   332,
+   33
+  ],
+  "cartao_saldo": [
+   14,
+   1725,
+   362,
+   1536
+  ],
+  "cartao_plano": [
+   29,
+   2413.5,
+   332,
+   408
+  ],
+  "grafico": [
+   29,
+   1870,
+   332,
+   210
+  ],
+  "altura_pagina": 3403,
+  "rolagem": 1630,
+  "texto": "Simulação futura\nCenários\nCenário base\n6 meses\n1 ano\n2 anos\n5 anos\nDezembro de 2027\nSaldo de partida\nSaldo atual no timtimcash\nValor manual\nDe quanto este cenário parte\nR$\nHoje o timtimcash soma R$ 113.563,66 em todas as contas\nReceitas estimadas / mês\nR$ 9.960\nEstes valores se repetem todo mês até dezembro de 2027, menos nos meses que você ajustar.\nSalário\nR$\nAdicionar receita\nPreencher com média\nDespesas estimadas / mês\nR$ 7.780\nEstes valores se repetem todo mês até dezembro de 2027, menos nos meses que você ajustar.\n3 categorias respondem por 70% da despesa do cenário. Mexer nelas muda o resultado; nas outras 4, quase não.\nCasa\n30% da despesa\nR$\nMercado\n22%\nR$\nEducação\n19%\nR$\nTransporte\n16%\nR$\nBares e restaurantes\n9%\nR$\nSaúde\n4%\nR$\nAssinaturas e serviços\n2%\nR$\nImpostos e Taxas\n1 ajuste · jan/27\nR$\nAdicionar despesa\nPreencher com média\nSaldo em dez/27\nR$37.720\n+R$ 1.810 por mês · 13 meses\nMeta R$ 35 mil · atinge em nov/27\nE se…\nTesta um susto sobre o cenário, sem alterar nada.\nReceita −10%\nDespesa +10%\nPerde a maior renda\nInflação 5% a.a.\nOutro valor\nCruza R$ 20 mil em abr/27\nCruza R$ 30 mil em set/27\nReceitas / mês\nR$ 9.960\nDespesas / mês\nR$ 7.780\nPlano contra realidade\nquanto o cenário conta que sobre por mês, e quanto sobrou de fato\nO PLANO PREVÊ\n+R$ 2.180\npor mês\n×\nACONTECEU\n+R$ 2.464\nmédia de 6 meses\njun\njul\nago\nset\nout\nnov\nprevisto\nreal\nSobra R$ 284 por mês a mais que o plano previa (13% acima).\nMês mais distante: jul/26, que fechou +R$ 1.339 contra +R$ 2.180 previstos.\nNesse ritmo real a meta de R$ 35 mil antecipa 3 meses: ago/27 no lugar de nov/27.\nAjustar o plano pelo real\nSaldo de partida\nR$ 14.180\ndez/26\n+R$ 2.180\nR$ 9.960 entra\nR$ 7.780 sai\nsaldo em dez/26: R$ 16.360\njan/271 AJUSTE\n−R$ 2.620\nR$ 9.960 entra\nR$ 12.580 sai\nsaldo em jan/27: R$ 13.740\nfev/27 a nov/2710 MESES\n+R$ 2.180/mês\nR$ 9.960 entra\nR$ 7.780 sai\nsaldo em nov/27: R$ 35.540\ndez/27\nR$ 37.720\nR$ 9.960 entra\nR$ 7.780 sai\nsaldo projetado no horizonte"
+ },
+ "relogio": "Wed Dec 30 2026 10:00:24 GMT-0300 (Horário Padrão de Brasília)",
+ "erros": []
+}

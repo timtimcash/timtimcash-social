@@ -1,0 +1,1165 @@
+{
+ "periodo_comp": [
+  "1 dez 2025 - 30 nov 2026",
+  "1 dez 2025 - 30 nov 2026"
+ ],
+ "mapa": {
+  "cel": [
+   [
+    "2,5 mil",
+    false,
+    168.5,
+    115.5,
+    66,
+    26
+   ],
+   [
+    "2,5 mil",
+    false,
+    238.4,
+    115.5,
+    66,
+    26
+   ],
+   [
+    "2,5 mil",
+    false,
+    308.4,
+    115.5,
+    66,
+    26
+   ],
+   [
+    "2,5 mil",
+    false,
+    378.3,
+    115.5,
+    66,
+    26
+   ],
+   [
+    "2,5 mil",
+    false,
+    448.3,
+    115.5,
+    66,
+    26
+   ],
+   [
+    "2,5 mil",
+    false,
+    518.2,
+    115.5,
+    66,
+    26
+   ],
+   [
+    "2,5 mil",
+    false,
+    588.2,
+    115.5,
+    66,
+    26
+   ],
+   [
+    "2,5 mil",
+    false,
+    658.2,
+    115.5,
+    66,
+    26
+   ],
+   [
+    "2,5 mil",
+    false,
+    728.1,
+    115.5,
+    66,
+    26
+   ],
+   [
+    "2,5 mil",
+    false,
+    798.1,
+    115.5,
+    66,
+    26
+   ],
+   [
+    "2,5 mil",
+    false,
+    868,
+    115.5,
+    66,
+    26
+   ],
+   [
+    "2,3 mil",
+    false,
+    938,
+    115.5,
+    66,
+    26
+   ],
+   [
+    "1,8 mil",
+    false,
+    168.5,
+    145.5,
+    66,
+    26
+   ],
+   [
+    "1,5 mil",
+    false,
+    238.4,
+    145.5,
+    66,
+    26
+   ],
+   [
+    "1,5 mil",
+    false,
+    308.4,
+    145.5,
+    66,
+    26
+   ],
+   [
+    "1,3 mil",
+    false,
+    378.3,
+    145.5,
+    66,
+    26
+   ],
+   [
+    "1,4 mil",
+    false,
+    448.3,
+    145.5,
+    66,
+    26
+   ],
+   [
+    "1,4 mil",
+    false,
+    518.2,
+    145.5,
+    66,
+    26
+   ],
+   [
+    "1,5 mil",
+    false,
+    588.2,
+    145.5,
+    66,
+    26
+   ],
+   [
+    "1,4 mil",
+    false,
+    658.2,
+    145.5,
+    66,
+    26
+   ],
+   [
+    "1,5 mil",
+    false,
+    728.1,
+    145.5,
+    66,
+    26
+   ],
+   [
+    "1,7 mil",
+    false,
+    798.1,
+    145.5,
+    66,
+    26
+   ],
+   [
+    "1,7 mil",
+    false,
+    868,
+    145.5,
+    66,
+    26
+   ],
+   [
+    "1,5 mil",
+    false,
+    938,
+    145.5,
+    66,
+    26
+   ],
+   [
+    "1,5 mil",
+    false,
+    168.5,
+    175.5,
+    66,
+    26
+   ],
+   [
+    "1,5 mil",
+    false,
+    238.4,
+    175.5,
+    66,
+    26
+   ],
+   [
+    "1,5 mil",
+    false,
+    308.4,
+    175.5,
+    66,
+    26
+   ],
+   [
+    "1,5 mil",
+    false,
+    378.3,
+    175.5,
+    66,
+    26
+   ],
+   [
+    "1,5 mil",
+    false,
+    448.3,
+    175.5,
+    66,
+    26
+   ],
+   [
+    "1,5 mil",
+    false,
+    518.2,
+    175.5,
+    66,
+    26
+   ],
+   [
+    "1,5 mil",
+    false,
+    588.2,
+    175.5,
+    66,
+    26
+   ],
+   [
+    "1,5 mil",
+    false,
+    658.2,
+    175.5,
+    66,
+    26
+   ],
+   [
+    "1,5 mil",
+    false,
+    728.1,
+    175.5,
+    66,
+    26
+   ],
+   [
+    "1,5 mil",
+    false,
+    798.1,
+    175.5,
+    66,
+    26
+   ],
+   [
+    "1,5 mil",
+    false,
+    868,
+    175.5,
+    66,
+    26
+   ],
+   [
+    "1,5 mil",
+    false,
+    938,
+    175.5,
+    66,
+    26
+   ],
+   [
+    "1,3 mil",
+    false,
+    168.5,
+    205.5,
+    66,
+    26
+   ],
+   [
+    "1,1 mil",
+    false,
+    238.4,
+    205.5,
+    66,
+    26
+   ],
+   [
+    "1,1 mil",
+    false,
+    308.4,
+    205.5,
+    66,
+    26
+   ],
+   [
+    "976",
+    false,
+    378.3,
+    205.5,
+    66,
+    26
+   ],
+   [
+    "1 mil",
+    false,
+    448.3,
+    205.5,
+    66,
+    26
+   ],
+   [
+    "1 mil",
+    false,
+    518.2,
+    205.5,
+    66,
+    26
+   ],
+   [
+    "1,1 mil",
+    false,
+    588.2,
+    205.5,
+    66,
+    26
+   ],
+   [
+    "1,1 mil",
+    false,
+    658.2,
+    205.5,
+    66,
+    26
+   ],
+   [
+    "1,1 mil",
+    false,
+    728.1,
+    205.5,
+    66,
+    26
+   ],
+   [
+    "1,2 mil",
+    false,
+    798.1,
+    205.5,
+    66,
+    26
+   ],
+   [
+    "1,2 mil",
+    false,
+    868,
+    205.5,
+    66,
+    26
+   ],
+   [
+    "892",
+    false,
+    938,
+    205.5,
+    66,
+    26
+   ],
+   [
+    "721",
+    false,
+    168.5,
+    235.5,
+    66,
+    26
+   ],
+   [
+    "592",
+    false,
+    238.4,
+    235.5,
+    66,
+    26
+   ],
+   [
+    "592",
+    false,
+    308.4,
+    235.5,
+    66,
+    26
+   ],
+   [
+    "542",
+    false,
+    378.3,
+    235.5,
+    66,
+    26
+   ],
+   [
+    "566",
+    false,
+    448.3,
+    235.5,
+    66,
+    26
+   ],
+   [
+    "578",
+    false,
+    518.2,
+    235.5,
+    66,
+    26
+   ],
+   [
+    "597",
+    false,
+    588.2,
+    235.5,
+    66,
+    26
+   ],
+   [
+    "586",
+    false,
+    658.2,
+    235.5,
+    66,
+    26
+   ],
+   [
+    "628",
+    false,
+    728.1,
+    235.5,
+    66,
+    26
+   ],
+   [
+    "672",
+    false,
+    798.1,
+    235.5,
+    66,
+    26
+   ],
+   [
+    "681",
+    false,
+    868,
+    235.5,
+    66,
+    26
+   ],
+   [
+    "793",
+    false,
+    938,
+    235.5,
+    66,
+    26
+   ],
+   [
+    "577",
+    false,
+    168.5,
+    265.5,
+    66,
+    26
+   ],
+   [
+    "473",
+    false,
+    238.4,
+    265.5,
+    66,
+    26
+   ],
+   [
+    "474",
+    false,
+    308.4,
+    265.5,
+    66,
+    26
+   ],
+   [
+    "434",
+    false,
+    378.3,
+    265.5,
+    66,
+    26
+   ],
+   [
+    "453",
+    false,
+    448.3,
+    265.5,
+    66,
+    26
+   ],
+   [
+    "462",
+    false,
+    518.2,
+    265.5,
+    66,
+    26
+   ],
+   [
+    "477",
+    false,
+    588.2,
+    265.5,
+    66,
+    26
+   ],
+   [
+    "469",
+    false,
+    658.2,
+    265.5,
+    66,
+    26
+   ],
+   [
+    "502",
+    false,
+    728.1,
+    265.5,
+    66,
+    26
+   ],
+   [
+    "–",
+    false,
+    798.1,
+    265.5,
+    66,
+    26
+   ],
+   [
+    "215",
+    false,
+    868,
+    265.5,
+    66,
+    26
+   ],
+   [
+    "308",
+    false,
+    938,
+    265.5,
+    66,
+    26
+   ],
+   [
+    "432",
+    false,
+    168.5,
+    295.5,
+    66,
+    26
+   ],
+   [
+    "355",
+    false,
+    238.4,
+    295.5,
+    66,
+    26
+   ],
+   [
+    "355",
+    false,
+    308.4,
+    295.5,
+    66,
+    26
+   ],
+   [
+    "325",
+    false,
+    378.3,
+    295.5,
+    66,
+    26
+   ],
+   [
+    "339",
+    false,
+    448.3,
+    295.5,
+    66,
+    26
+   ],
+   [
+    "347",
+    false,
+    518.2,
+    295.5,
+    66,
+    26
+   ],
+   [
+    "358",
+    false,
+    588.2,
+    295.5,
+    66,
+    26
+   ],
+   [
+    "351",
+    false,
+    658.2,
+    295.5,
+    66,
+    26
+   ],
+   [
+    "377",
+    false,
+    728.1,
+    295.5,
+    66,
+    26
+   ],
+   [
+    "283",
+    false,
+    798.1,
+    295.5,
+    66,
+    26
+   ],
+   [
+    "144",
+    false,
+    868,
+    295.5,
+    66,
+    26
+   ],
+   [
+    "55",
+    false,
+    938,
+    295.5,
+    66,
+    26
+   ],
+   [
+    "1,1 mil",
+    false,
+    168.5,
+    325.5,
+    66,
+    26
+   ],
+   [
+    "1,5 mil",
+    true,
+    238.4,
+    325.5,
+    66,
+    26
+   ],
+   [
+    "120",
+    false,
+    308.4,
+    325.5,
+    66,
+    26
+   ],
+   [
+    "120",
+    false,
+    378.3,
+    325.5,
+    66,
+    26
+   ],
+   [
+    "120",
+    false,
+    448.3,
+    325.5,
+    66,
+    26
+   ],
+   [
+    "120",
+    false,
+    518.2,
+    325.5,
+    66,
+    26
+   ],
+   [
+    "120",
+    false,
+    588.2,
+    325.5,
+    66,
+    26
+   ],
+   [
+    "760",
+    false,
+    658.2,
+    325.5,
+    66,
+    26
+   ],
+   [
+    "120",
+    false,
+    728.1,
+    325.5,
+    66,
+    26
+   ],
+   [
+    "120",
+    false,
+    798.1,
+    325.5,
+    66,
+    26
+   ],
+   [
+    "300",
+    false,
+    868,
+    325.5,
+    66,
+    26
+   ],
+   [
+    "120",
+    false,
+    938,
+    325.5,
+    66,
+    26
+   ]
+  ],
+  "mes": [
+   [
+    "dez/25",
+    168.5,
+    91.5,
+    66,
+    20
+   ],
+   [
+    "jan",
+    238.4,
+    91.5,
+    66,
+    20
+   ],
+   [
+    "fev",
+    308.4,
+    91.5,
+    66,
+    20
+   ],
+   [
+    "mar",
+    378.3,
+    91.5,
+    66,
+    20
+   ],
+   [
+    "abr",
+    448.3,
+    91.5,
+    66,
+    20
+   ],
+   [
+    "mai",
+    518.2,
+    91.5,
+    66,
+    20
+   ],
+   [
+    "jun",
+    588.2,
+    91.5,
+    66,
+    20
+   ],
+   [
+    "jul",
+    658.2,
+    91.5,
+    66,
+    20
+   ],
+   [
+    "ago",
+    728.1,
+    91.5,
+    66,
+    20
+   ],
+   [
+    "set",
+    798.1,
+    91.5,
+    66,
+    20
+   ],
+   [
+    "out",
+    868,
+    91.5,
+    66,
+    20
+   ],
+   [
+    "novaté 22",
+    938,
+    91.5,
+    66,
+    20
+   ]
+  ],
+  "rot": [
+   [
+    "Casa",
+    27,
+    115.5,
+    137.5,
+    26
+   ],
+   [
+    "Mercado",
+    27,
+    145.5,
+    137.5,
+    26
+   ],
+   [
+    "Educação",
+    27,
+    175.5,
+    137.5,
+    26
+   ],
+   [
+    "Transporte",
+    27,
+    205.5,
+    137.5,
+    26
+   ],
+   [
+    "Bares e restaurantes",
+    27,
+    235.5,
+    137.5,
+    26
+   ],
+   [
+    "Lazer e hobbies",
+    27,
+    265.5,
+    137.5,
+    26
+   ],
+   [
+    "Saúde",
+    27,
+    295.5,
+    137.5,
+    26
+   ],
+   [
+    "Outras",
+    27,
+    325.5,
+    137.5,
+    26
+   ]
+  ],
+  "detalhe": [
+   "Outras · janeiro\n16% das despesas do mês · média R$ 385,63/mês\nR$ 1.509,80",
+   27,
+   365.5,
+   1038,
+   59
+  ],
+  "titulo": [
+   27,
+   25,
+   376.8,
+   25.5
+  ],
+  "scrollLeft": 0,
+  "max": 0
+ },
+ "mapa_txt": "Mapa de calor\nGasto por categoria · 1 dez 2025 - 30 nov 2026 · clique numa célula\nCasa\nMercado\nEducação\nTransporte\nBares e restaurantes\nLazer e hobbies\nSaúde\nOutras\ndez/25\njan\nfev\nmar\nabr\nmai\njun\njul\nago\nset\nout\nnov\naté 22\n2,5 mil\n2,5 mil\n2,5 mil\n2,5 mil\n2,5 mil\n2,5 mil\n2,5 mil\n2,5 mil\n2,5 mil\n2,5 mil\n2,5 mil\n2,3 mil\n1,8 mil\n1,5 mil\n1,5 mil\n1,3 mil\n1,4 mil\n1,4 mil\n1,5 mil\n1,4 mil\n1,5 mil\n1,7 mil\n1,7 mil\n1,5 mil\n1,5 mil\n1,5 mil\n1,5 mil\n1,5 mil\n1,5 mil\n1,5 mil\n1,5 mil\n1,5 mil\n1,5 mil\n1,5 mil\n1,5 mil\n1,5 mil\n1,3 mil\n1,1 mil\n1,1 mil\n976\n1 mil\n1 mil\n1,1 mil\n1,1 mil\n1,1 mil\n1,2 mil\n1,2 mil\n892\n721\n592\n592\n542\n566\n578\n597\n586\n628\n672\n681\n793\n577\n473\n474\n434\n453\n462\n477\n469\n502\n–\n215\n308\n432\n355\n355\n325\n339\n347\n358\n351\n377\n283\n144\n55\n1,1 mil\n1,5 mil\n120\n120\n120\n120\n120\n760\n120\n120\n300\n120\nTOTAL\nR$ 29,8 mil\nR$ 18,2 mil\nR$ 17,4 mil\nR$ 13,1 mil\nR$ 7,5 mil\nR$ 4,8 mil\nR$ 3,7 mil\nR$ 4,6 mil\nOutras · janeiro\n16% das despesas do mês · média R$ 385,63/mês\nR$ 1.509,80\naté R$ 358\nR$ 358 a R$ 592\nR$ 592 a R$ 1,3 mil\nR$ 1,3 mil a R$ 1,5 mil\nacima de R$ 1,5 mil\nNovembro ainda está em curso: a coluna mostra até o dia 22 e fica fora do cálculo das faixas.",
+ "mapa_painel": [
+  1092,
+  503
+ ],
+ "erros_comp": [],
+ "periodo": [
+  "1 dez 2025 - 30 nov 2026",
+  "1 dez 2025 - 30 nov 2026"
+ ],
+ "rp_0": {
+  "det": [
+   15,
+   473.5,
+   332,
+   477.5
+  ],
+  "det_txt": "Recorrente · Nov/26\nR$ 7.174,7097% do mês\nAluguelFIXA\n10/11 · Casa\nR$ 2.300,00\nEscolaFIXA\n10/11 · Educação\nR$ 1.450,00\nMercado da VilaREPETIDA\n09/11 · Mercado\nR$ 468,10\nMercado da VilaREPETIDA\n02/11 · Mercado\nR$ 412,80\nCombustívelREPETIDA\n19/11 · Transporte\nR$ 412,00\nMercado da VilaREPETIDA\n16/11 · Mercado\nR$ 395,20\nCombustívelREPETIDA\n04/11 · Transporte\nR$ 388,00\nHortifruti do BairroREPETIDA\n21/11 · Mercado\nR$ 201,30\nMostrar os outros 13 lançamentos · R$ 1.147,30",
+  "linhas": [
+   [
+    "AluguelFIXA 10/11 · Casa R$ 2.300,00",
+    25,
+    512,
+    312,
+    50.5
+   ],
+   [
+    "EscolaFIXA 10/11 · Educação R$ 1.450,00",
+    25,
+    562.5,
+    312,
+    50.5
+   ],
+   [
+    "Mercado da VilaREPETIDA 09/11 · Mercado R$ 468,10",
+    25,
+    613,
+    312,
+    50.5
+   ],
+   [
+    "Mercado da VilaREPETIDA 02/11 · Mercado R$ 412,80",
+    25,
+    663.5,
+    312,
+    50.5
+   ],
+   [
+    "CombustívelREPETIDA 19/11 · Transporte R$ 412,00",
+    25,
+    714,
+    312,
+    50.5
+   ],
+   [
+    "Mercado da VilaREPETIDA 16/11 · Mercado R$ 395,20",
+    25,
+    764.5,
+    312,
+    50.5
+   ],
+   [
+    "CombustívelREPETIDA 04/11 · Transporte R$ 388,00",
+    25,
+    815,
+    312,
+    50.5
+   ],
+   [
+    "Hortifruti do BairroREPETIDA 21/11 · Mercado R$ 201,30",
+    25,
+    865.5,
+    312,
+    49.5
+   ]
+  ],
+  "canvas": [
+   15,
+   241.5,
+   332,
+   218
+  ],
+  "painel": [
+   14,
+   343,
+   362,
+   1025.5
+  ],
+  "txt": "Recorrentes vs pontuais\nComposição da despesa mensal · dez/25 a nov/26 · toque numa barra\nRecorrente\n96%\nRecorrente/mês\nR$ 7.959,26\nMaior compromisso\nAluguel\nRecorrente · Nov/26\nR$ 7.174,7097% do mês\nAluguelFIXA\n10/11 · Casa\nR$ 2.300,00\nEscolaFIXA\n10/11 · Educação\nR$ 1.450,00\nMercado da VilaREPETIDA\n09/11 · Mercado\nR$ 468,10\nMercado da VilaREPETIDA\n02/11 · Mercado\nR$ 412,80\nCombustívelREPETIDA\n19/11 · Transporte\nR$ 412,00\nMercado da VilaREPETIDA\n16/11 · Mercado\nR$ 395,20\nCombustívelREPETIDA\n04/11 · Transporte\nR$ 388,00\nHortifruti do BairroREPETIDA\n21/11 · Mercado\nR$ 201,30\nMostrar os outros 13 lançamentos · R$ 1.147,30\nEntram como recorrentes as despesas lançadas como Fixa ou Parcelada e as que se repetem com a mesma descrição em 3 ou mais meses, com valor na mesma ordem de grandeza."
+ },
+ "rp_dez": {
+  "det": [
+   15,
+   473.5,
+   332,
+   91
+  ],
+  "det_txt": "Pontual · Dez/25\nR$ 980,0010% do mês\nPresentes de Natal\n19/12 · Presentes e doações\nR$ 980,00",
+  "linhas": [
+   [
+    "Presentes de Natal 19/12 · Presentes e doações R$ 980,00",
+    25,
+    512,
+    312,
+    48.5
+   ]
+  ],
+  "canvas": [
+   15,
+   241.5,
+   332,
+   218
+  ],
+  "painel": [
+   14,
+   343,
+   362,
+   639
+  ],
+  "toque": [
+   86.0,
+   260.3
+  ],
+  "seg": {
+   "x": 100.0378901163737,
+   "y": 603.3106,
+   "topo": 596.1468,
+   "base": 610.4744,
+   "w": 11.913487625122045,
+   "label": "Dez/25"
+  },
+  "txt": "Recorrentes vs pontuais\nComposição da despesa mensal · dez/25 a nov/26 · toque numa barra\nRecorrente\n96%\nRecorrente/mês\nR$ 7.959,26\nMaior compromisso\nAluguel\nPontual · Dez/25\nR$ 980,0010% do mês\nPresentes de Natal\n19/12 · Presentes e doações\nR$ 980,00\nEntram como recorrentes as despesas lançadas como Fixa ou Parcelada e as que se repetem com a mesma descrição em 3 ou mais meses, com valor na mesma ordem de grandeza."
+ },
+ "rp_jan": {
+  "det": [
+   15,
+   473.5,
+   332,
+   140.5
+  ],
+  "det_txt": "Pontual · Jan/26\nR$ 1.390,0015% do mês\nIPVA · parcela única\n20/01 · Impostos e Taxas\nR$ 1.180,00\nIPTU · 1ª parcela\n12/01 · Impostos e Taxas\nR$ 210,00",
+  "linhas": [
+   [
+    "IPVA · parcela única 20/01 · Impostos e Taxas R$ 1.180,00",
+    25,
+    512,
+    312,
+    49.5
+   ],
+   [
+    "IPTU · 1ª parcela 12/01 · Impostos e Taxas R$ 210,00",
+    25,
+    561.5,
+    312,
+    48.5
+   ]
+  ],
+  "canvas": [
+   15,
+   241.5,
+   332,
+   218
+  ],
+  "painel": [
+   14,
+   343,
+   362,
+   688.5
+  ],
+  "toque": [
+   108.7,
+   269.7
+  ],
+  "seg": {
+   "x": 122.7302474975586,
+   "y": 612.7405,
+   "topo": 602.5796,
+   "base": 622.9014,
+   "w": 11.913487625122045,
+   "label": "Jan/26"
+  },
+  "txt": "Recorrentes vs pontuais\nComposição da despesa mensal · dez/25 a nov/26 · toque numa barra\nRecorrente\n96%\nRecorrente/mês\nR$ 7.959,26\nMaior compromisso\nAluguel\nPontual · Jan/26\nR$ 1.390,0015% do mês\nIPVA · parcela única\n20/01 · Impostos e Taxas\nR$ 1.180,00\nIPTU · 1ª parcela\n12/01 · Impostos e Taxas\nR$ 210,00\nEntram como recorrentes as despesas lançadas como Fixa ou Parcelada e as que se repetem com a mesma descrição em 3 ou mais meses, com valor na mesma ordem de grandeza."
+ },
+ "rp_jul": {
+  "det": [
+   15,
+   473.5,
+   332,
+   91
+  ],
+  "det_txt": "Pontual · Jul/26\nR$ 640,007% do mês\nHospedagem nas férias\n14/07 · Viagem\nR$ 640,00",
+  "linhas": [
+   [
+    "Hospedagem nas férias 14/07 · Viagem R$ 640,00",
+    25,
+    512,
+    312,
+    48.5
+   ]
+  ],
+  "canvas": [
+   15,
+   241.5,
+   332,
+   218
+  ],
+  "painel": [
+   14,
+   343,
+   362,
+   639
+  ],
+  "toque": [
+   244.9,
+   276.0
+  ],
+  "seg": {
+   "x": 258.88439178466797,
+   "y": 618.954,
+   "topo": 614.2755999999999,
+   "base": 623.6324,
+   "w": 11.913487625122045,
+   "label": "Jul/26"
+  },
+  "txt": "Recorrentes vs pontuais\nComposição da despesa mensal · dez/25 a nov/26 · toque numa barra\nRecorrente\n96%\nRecorrente/mês\nR$ 7.959,26\nMaior compromisso\nAluguel\nPontual · Jul/26\nR$ 640,007% do mês\nHospedagem nas férias\n14/07 · Viagem\nR$ 640,00\nEntram como recorrentes as despesas lançadas como Fixa ou Parcelada e as que se repetem com a mesma descrição em 3 ou mais meses, com valor na mesma ordem de grandeza."
+ },
+ "erros_celular": [],
+ "relogio": "Sun Nov 22 2026 10:00:20 GMT-0300 (Horário Padrão de Brasília)"
+}
