@@ -110,6 +110,8 @@ if CONFIG.get("grade_mes"):
 import html as _html
 notas_html = "".join(f'<div class="note"><strong>{_html.escape(t)}</strong>{_html.escape(x)}</div>' for t, x in CONFIG["notas"])
 fontes_html = "".join(f'<li><a href="{u}" target="_blank" rel="noopener">{_html.escape(t)}</a></li>' for t, u in CONFIG["fontes"])
+# sem fontes, a seção não aparece (antes ficava só o título "Fontes", vazio)
+fontes_bloco = f'<div class="fontes"><span class="eyebrow">Fontes</span><ul>{fontes_html}</ul></div>' if CONFIG["fontes"] else ""
 pulos_html = "".join(f'<a href="#post-{p["n"]}">Post {p["n"]}</a>' for p in POSTS)
 
 HTML = r"""<!doctype html>
@@ -335,7 +337,7 @@ textarea:focus{outline:none;border-color:var(--brand);background:#fff}
     <button class="primary" id="copiar" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="11" height="11" rx="2.5"/><path d="M5 15V6.5A1.5 1.5 0 0 1 6.5 5H15"/></svg>Copiar todas as avaliações</button><span class="copied" id="copiado" role="status" aria-live="polite"></span>
     <label class="muted" for="resumo" style="display:block;margin-top:18px">Prévia do texto copiado (se a cópia automática falhar, selecione e copie daqui):</label>
     <textarea id="resumo" readonly></textarea>
-    <div class="fontes"><span class="eyebrow">Fontes</span><ul>__FONTES_LISTA__</ul></div>
+    __FONTES_BLOCO__
   </section>
 </main>
 <div class="lb" id="lb" role="dialog" aria-modal="true" aria-label="Imagem em tamanho maior">
@@ -580,7 +582,7 @@ function blocoMes(){
   const cab=["seg","ter","qua","qui","sex","sáb","dom"].map(x=>`<div class="cab">${x}</div>`).join("");
   const nR=comData.filter(p=>p.tipo==="reel").length;
   let html=`<section class="mesbox" aria-label="Calendário do mês">
-    <span class="eyebrow">Calendário</span><h2>${MESES[mes][0].toUpperCase()+MESES[mes].slice(1)} de ${ano}: ${comData.length} posts, ${nR} Reels</h2>
+    <span class="eyebrow">Calendário</span><h2>${MESES[mes][0].toUpperCase()+MESES[mes].slice(1)} de ${ano}: ${comData.length} ${comData.length===1?"post":"posts"}, ${nR} ${nR===1?"Reel":"Reels"}</h2>
     <div class="cal">${cab}${cels.join("")}</div>
     <p class="muted" style="margin:10px 0 0">Toque num dia para ir ao post.</p></section>`;
   if(GRADEMES){
@@ -612,7 +614,7 @@ html = (HTML.replace("__FONTES__", fontes()).replace("__LOGO__", logo_h)
             .replace("__TITULO__", _html.escape(CONFIG["titulo_pagina"])).replace("__EYEBROW__", _html.escape(CONFIG["eyebrow"]))
             .replace("__H1__", _html.escape(CONFIG["h1"])).replace("__SUB__", _html.escape(CONFIG["sub"]))
             .replace("__NPOSTS__", str(len(POSTS))).replace("__PULOS__", pulos_html).replace("__NOTAS__", notas_html)
-            .replace("__FONTES_LISTA__", fontes_html).replace("__GRADE__", json.dumps(grades))
+            .replace("__FONTES_BLOCO__", fontes_bloco).replace("__GRADE__", json.dumps(grades))
             .replace("__RESUMO_TITULO__", json.dumps(CONFIG["resumo_titulo"], ensure_ascii=False))
             .replace("__CHAVE__", json.dumps(CONFIG["chave"]))
             .replace("__DADOS__", json.dumps(dados_js, ensure_ascii=False))
