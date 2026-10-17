@@ -40,7 +40,7 @@ POST = {
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Fontes: Banco Central (Resolução BCB nº 45/2020; Estudo Especial 42/2019; sistema PTAX).\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
-        "#ptax #dolar #cambio #investimentonoexterior #educacaofinanceira #timtimcash"
+        "#ptax #dolar #cambio #investimentonoexterior #timtimcash"
     ),
     "justificativa": [
         ("Por que agora", "Exterior e câmbio são o que mais alcança no perfil (Reel de 14/10 e carrossel de 04/10). Depois do câmbio efetivo (29/10), o passo natural é a referência que está por trás de toda conversão: a PTAX, com um número real e recente, o de 15/10/2026."),
