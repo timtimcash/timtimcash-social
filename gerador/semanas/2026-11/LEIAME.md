@@ -1,6 +1,6 @@
 # Novembro de 2026 · fontes dos 20 posts
 
-Planejados junto com dezembro e aprovados pelo Samuel em 16/10/2026: 20 posts no mês, 10 deles Reels, carrossel e Reel alternados, todos às 10h (horário de Brasília), com post em todo fim de semana. O Reel de 04/11 ganhou uma nova versão no mesmo dia, a pedido dele ("outro exemplo que não seja o delivery"): a busca agora é "combustível", e ela entra aqui quando for aprovada. A mídia que vai ao ar está em `posts/<pasta>/`; aqui ficam os dados, as telas e os roteiros.
+Planejados junto com dezembro e aprovados pelo Samuel em 16/10/2026: 20 posts no mês, 10 deles Reels, carrossel e Reel alternados, todos às 10h (horário de Brasília), com post em todo fim de semana. O Reel de 04/11 teve três versões: o Samuel pediu "outro exemplo que não seja o delivery" (16/10) e, na versão com combustível, sugeriu assinaturas (17/10). Como o carrossel de 07/11 já é sobre assinaturas, com a mesma tela e os mesmos números, ele escolheu outro gasto do dia a dia, e a versão com a farmácia foi aprovada em 17/10. A mídia que vai ao ar está em `posts/<pasta>/`; aqui ficam os dados, as telas e os roteiros.
 
 ## O que tem aqui
 - `dados/`: um arquivo por post, com legenda, texto alternativo, roteiro dos slides ou das cenas, justificativa, fontes e a lista das telas usadas (com o dia do relógio da captura).
