@@ -19,7 +19,7 @@ def _mod(caminho):
 
 CURTOS = {
     "2026-11-01_novembro-do-seu-dinheiro": "Novembro do seu dinheiro",
-    "2026-11-04_reel-combustivel-em-2026": "Quanto foi de combustível?",
+    "2026-11-04_reel-farmacia-em-2026": "Quanto foi na farmácia?",
     "2026-11-05_ptax-o-dolar-do-banco-central": "PTAX: o dólar do Banco Central",
     "2026-11-06_reel-a-vista-ou-parcelado": "10% à vista ou 10x sem juros?",
     "2026-11-07_assinaturas-o-preco-por-ano": "Assinaturas: o preço por ano",
