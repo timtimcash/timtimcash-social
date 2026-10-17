@@ -1,0 +1,932 @@
+{
+ "celular-remessas-1-antes.jpg": {
+  "numero": [
+   29,
+   200.5,
+   126.9,
+   46
+  ],
+  "atualizar": [
+   29,
+   347.5,
+   156.9,
+   30
+  ],
+  "reais": [
+   29,
+   321.5,
+   238,
+   18
+  ],
+  "cartao": [
+   29,
+   153,
+   332,
+   45.5
+  ],
+  "chip_us": [
+   124.7,
+   259.5,
+   85.8,
+   16.5
+  ],
+  "chip_rs": [
+   76.7,
+   3404,
+   59,
+   14
+  ],
+  "acoes": [
+   29,
+   391.5,
+   160,
+   44
+  ]
+ },
+ "texto_antes": "Remessas\nOutubro 2026\nTodas\nas contas\nInvestido no exterior\n🇺🇸\nEstados Unidos\nno patrimônio · conta de destino\nUS$13.200 na carteira hoje\n+US$ 1.200,00\n+10,0% em US$\n+R$ 12.600,00\n+21,0% em R$\nR$ 72.600,00 ao câmbio de hoje (R$ 5,50)\nAtualizar\n· há 15 dias\nResgate\nNova remessa\nDe onde veio o resultado em reais\nRendimento dos investimentos convertido no câmbio de hoje, e o efeito do câmbio sobre o que você enviou.\n60 mil\nvocê enviou\n+6,6 mil\nrendimento\n+6 mil\nefeito do câmbio\n72,6 mil\nhoje\nOs investimentos renderam +US$ 1.200,00 (+10,0%). O câmbio subiu 10,0% desde o câmbio médio do que ainda está lá fora (R$ 5,00 → R$ 5,50) e somou R$ 6.000. Sobrou +R$ 12.600,00 (+21,0%).\nCâmbio: onde você está\nO equilíbrio é o câmbio que zera o resultado em reais: abaixo dele, prejuízo.\nR$ 5,50\nhoje\nR$ 4,5455\nR$ 5,00\nNo equilíbrio (R$ 4,5455)\nR$ 0\nHoje (R$ 5,50)\n+R$ 12.600,00\nNo seu médio (R$ 5,00)\n+R$ ",
+ "celular-remessas-2-atualizar-carteira.jpg": {
+  "linha": [
+   18,
+   225,
+   354,
+   80
+  ],
+  "valor": [
+   18,
+   265,
+   316,
+   30
+  ],
+  "equivale": [
+   17,
+   364,
+   356,
+   26
+  ],
+  "era": [
+   17,
+   397,
+   356,
+   33
+  ],
+  "cambio_linha": [
+   17,
+   446,
+   356,
+   75
+  ],
+  "cambio": [
+   271,
+   456,
+   88,
+   30
+  ],
+  "tag": [
+   268.4,
+   492,
+   90.6,
+   19
+  ],
+  "botao_cot": [
+   17,
+   530,
+   220.5,
+   30
+  ],
+  "dica": [
+   17,
+   568,
+   356,
+   33
+  ],
+  "trava_cx": [
+   17,
+   611,
+   356,
+   56
+  ],
+  "conseq": null,
+  "salvar": [
+   122.5,
+   694,
+   250.5,
+   50
+  ],
+  "modal": [
+   0,
+   79.5,
+   390,
+   680.5
+  ]
+ },
+ "texto_modal": "Atualizar carteira\nSó você sabe quanto tem lá fora; o câmbio a gente sugere.\nValor atual da carteira\nem US$\nAdicionar banco\nEquivale hoje a\nR$ 72.600,00\nSalvo há 15 dias, 30/09/2026, no mesmo valor. Digite por cima: o texto já está selecionado.\nCâmbio para converter\nR$\nsalvo há 15 dias\nusar a cotação de hoje · R$ 5,0515\nPTAX de compra do Banco Central, de 15/10/2026 às 13:00. Preenche a linha; só grava no Salvar.\n⚠\n9% acima da cotação oficial (R$ 5,0515). Confere o câmbio?\nCancelar\nSalvar",
+ "celular-remessas-3-digitando-1.jpg": {
+  "linha": [
+   18,
+   206.3,
+   354,
+   80
+  ],
+  "valor": [
+   18,
+   246.3,
+   316,
+   30
+  ],
+  "equivale": [
+   17,
+   345.3,
+   356,
+   26
+  ],
+  "era": [
+   17,
+   378.3,
+   356,
+   18
+  ],
+  "cambio_linha": [
+   17,
+   496.3,
+   356,
+   75
+  ],
+  "cambio": [
+   271,
+   506.3,
+   88,
+   30
+  ],
+  "tag": [
+   268.4,
+   542.3,
+   90.6,
+   19
+  ],
+  "botao_cot": [
+   17,
+   580.3,
+   220.5,
+   30
+  ],
+  "dica": [
+   17,
+   618.3,
+   356,
+   33
+  ],
+  "trava_cx": [
+   17,
+   661.3,
+   356,
+   56
+  ],
+  "conseq": [
+   17,
+   729.3,
+   356,
+   76
+  ],
+  "salvar": [
+   122.5,
+   694,
+   250.5,
+   50
+  ],
+  "modal": [
+   0,
+   60.8,
+   390,
+   699.2
+  ]
+ },
+ "celular-remessas-3-digitando-2.jpg": {
+  "linha": [
+   18,
+   206.3,
+   354,
+   80
+  ],
+  "valor": [
+   18,
+   246.3,
+   316,
+   30
+  ],
+  "equivale": [
+   17,
+   345.3,
+   356,
+   26
+  ],
+  "era": [
+   17,
+   378.3,
+   356,
+   18
+  ],
+  "cambio_linha": [
+   17,
+   496.3,
+   356,
+   75
+  ],
+  "cambio": [
+   271,
+   506.3,
+   88,
+   30
+  ],
+  "tag": [
+   268.4,
+   542.3,
+   90.6,
+   19
+  ],
+  "botao_cot": [
+   17,
+   580.3,
+   220.5,
+   30
+  ],
+  "dica": [
+   17,
+   618.3,
+   356,
+   33
+  ],
+  "trava_cx": [
+   17,
+   661.3,
+   356,
+   56
+  ],
+  "conseq": [
+   17,
+   729.3,
+   356,
+   76
+  ],
+  "salvar": [
+   122.5,
+   694,
+   250.5,
+   50
+  ],
+  "modal": [
+   0,
+   60.8,
+   390,
+   699.2
+  ]
+ },
+ "celular-remessas-3-digitando-3.jpg": {
+  "linha": [
+   18,
+   206.3,
+   354,
+   80
+  ],
+  "valor": [
+   18,
+   246.3,
+   316,
+   30
+  ],
+  "equivale": [
+   17,
+   345.3,
+   356,
+   26
+  ],
+  "era": [
+   17,
+   378.3,
+   356,
+   18
+  ],
+  "cambio_linha": [
+   17,
+   496.3,
+   356,
+   75
+  ],
+  "cambio": [
+   271,
+   506.3,
+   88,
+   30
+  ],
+  "tag": [
+   268.4,
+   542.3,
+   90.6,
+   19
+  ],
+  "botao_cot": [
+   17,
+   580.3,
+   220.5,
+   30
+  ],
+  "dica": [
+   17,
+   618.3,
+   356,
+   33
+  ],
+  "trava_cx": [
+   17,
+   661.3,
+   356,
+   56
+  ],
+  "conseq": [
+   17,
+   729.3,
+   356,
+   76
+  ],
+  "salvar": [
+   122.5,
+   694,
+   250.5,
+   50
+  ],
+  "modal": [
+   0,
+   60.8,
+   390,
+   699.2
+  ]
+ },
+ "celular-remessas-3-digitando-4.jpg": {
+  "linha": [
+   18,
+   206.3,
+   354,
+   80
+  ],
+  "valor": [
+   18,
+   246.3,
+   316,
+   30
+  ],
+  "equivale": [
+   17,
+   345.3,
+   356,
+   26
+  ],
+  "era": [
+   17,
+   378.3,
+   356,
+   18
+  ],
+  "cambio_linha": [
+   17,
+   496.3,
+   356,
+   75
+  ],
+  "cambio": [
+   271,
+   506.3,
+   88,
+   30
+  ],
+  "tag": [
+   268.4,
+   542.3,
+   90.6,
+   19
+  ],
+  "botao_cot": [
+   17,
+   580.3,
+   220.5,
+   30
+  ],
+  "dica": [
+   17,
+   618.3,
+   356,
+   33
+  ],
+  "trava_cx": [
+   17,
+   661.3,
+   356,
+   56
+  ],
+  "conseq": [
+   17,
+   729.3,
+   356,
+   76
+  ],
+  "salvar": [
+   122.5,
+   694,
+   250.5,
+   50
+  ],
+  "modal": [
+   0,
+   60.8,
+   390,
+   699.2
+  ]
+ },
+ "celular-remessas-3-digitando-5.jpg": {
+  "linha": [
+   18,
+   206.3,
+   354,
+   80
+  ],
+  "valor": [
+   18,
+   246.3,
+   316,
+   30
+  ],
+  "equivale": [
+   17,
+   345.3,
+   356,
+   26
+  ],
+  "era": [
+   17,
+   378.3,
+   356,
+   18
+  ],
+  "cambio_linha": [
+   17,
+   496.3,
+   356,
+   75
+  ],
+  "cambio": [
+   271,
+   506.3,
+   88,
+   30
+  ],
+  "tag": [
+   268.4,
+   542.3,
+   90.6,
+   19
+  ],
+  "botao_cot": [
+   17,
+   580.3,
+   220.5,
+   30
+  ],
+  "dica": [
+   17,
+   618.3,
+   356,
+   33
+  ],
+  "trava_cx": [
+   17,
+   661.3,
+   356,
+   56
+  ],
+  "conseq": [
+   17,
+   729.3,
+   356,
+   76
+  ],
+  "salvar": [
+   122.5,
+   694,
+   250.5,
+   50
+  ],
+  "modal": [
+   0,
+   60.8,
+   390,
+   699.2
+  ]
+ },
+ "celular-remessas-3-digitando-6.jpg": {
+  "linha": [
+   18,
+   206.3,
+   354,
+   80
+  ],
+  "valor": [
+   18,
+   246.3,
+   316,
+   30
+  ],
+  "equivale": [
+   17,
+   345.3,
+   356,
+   26
+  ],
+  "era": [
+   17,
+   378.3,
+   356,
+   18
+  ],
+  "cambio_linha": [
+   17,
+   496.3,
+   356,
+   75
+  ],
+  "cambio": [
+   271,
+   506.3,
+   88,
+   30
+  ],
+  "tag": [
+   268.4,
+   542.3,
+   90.6,
+   19
+  ],
+  "botao_cot": [
+   17,
+   580.3,
+   220.5,
+   30
+  ],
+  "dica": [
+   17,
+   618.3,
+   356,
+   33
+  ],
+  "trava_cx": [
+   17,
+   661.3,
+   356,
+   56
+  ],
+  "conseq": [
+   17,
+   729.3,
+   356,
+   76
+  ],
+  "salvar": [
+   122.5,
+   694,
+   250.5,
+   50
+  ],
+  "modal": [
+   0,
+   60.8,
+   390,
+   699.2
+  ]
+ },
+ "celular-remessas-3-digitando-7.jpg": {
+  "linha": [
+   18,
+   206.3,
+   354,
+   80
+  ],
+  "valor": [
+   18,
+   246.3,
+   316,
+   30
+  ],
+  "equivale": [
+   17,
+   345.3,
+   356,
+   26
+  ],
+  "era": [
+   17,
+   378.3,
+   356,
+   18
+  ],
+  "cambio_linha": [
+   17,
+   412.3,
+   356,
+   75
+  ],
+  "cambio": [
+   271,
+   422.3,
+   88,
+   30
+  ],
+  "tag": [
+   268.4,
+   458.3,
+   90.6,
+   19
+  ],
+  "botao_cot": [
+   17,
+   496.3,
+   220.5,
+   30
+  ],
+  "dica": [
+   17,
+   534.3,
+   356,
+   33
+  ],
+  "trava_cx": [
+   17,
+   577.3,
+   356,
+   56
+  ],
+  "conseq": [
+   17,
+   645.3,
+   356,
+   74
+  ],
+  "salvar": [
+   122.5,
+   694,
+   250.5,
+   50
+  ],
+  "modal": [
+   0,
+   60.8,
+   390,
+   699.2
+  ]
+ },
+ "celular-remessas-3-digitado.jpg": {
+  "linha": [
+   18,
+   206.3,
+   354,
+   80
+  ],
+  "valor": [
+   18,
+   246.3,
+   316,
+   30
+  ],
+  "equivale": [
+   17,
+   345.3,
+   356,
+   26
+  ],
+  "era": [
+   17,
+   378.3,
+   356,
+   18
+  ],
+  "cambio_linha": [
+   17,
+   412.3,
+   356,
+   75
+  ],
+  "cambio": [
+   271,
+   422.3,
+   88,
+   30
+  ],
+  "tag": [
+   268.4,
+   458.3,
+   90.6,
+   19
+  ],
+  "botao_cot": [
+   17,
+   496.3,
+   220.5,
+   30
+  ],
+  "dica": [
+   17,
+   534.3,
+   356,
+   33
+  ],
+  "trava_cx": [
+   17,
+   577.3,
+   356,
+   56
+  ],
+  "conseq": [
+   17,
+   645.3,
+   356,
+   74
+  ],
+  "salvar": [
+   122.5,
+   694,
+   250.5,
+   50
+  ],
+  "modal": [
+   0,
+   60.8,
+   390,
+   699.2
+  ]
+ },
+ "texto_digitado": "Atualizar carteira\nSó você sabe quanto tem lá fora; o câmbio a gente sugere.\nValor atual da carteira\nem US$\nAdicionar banco\nEquivale hoje a\nR$ 72.820,00\n+US$ 40,00 (+0,3%) desde 30/09/2026\nCâmbio para converter\nR$\nsalvo há 15 dias\nusar a cotação de hoje · R$ 5,0515\nPTAX de compra do Banco Central, de 15/10/2026 às 13:00. Preenche a linha; só grava no Salvar.\n⚠\n9% acima da cotação oficial (R$ 5,0515). Confere o câmbio?\nCom isso, o rendimento passa a +US$ 1.240,00 (+10,3%) e, em reais, a carteira vale R$ 72.820,00 (+21,4% sobre o custo).\nCancelar\nSalvar",
+ "celular-remessas-4-cotacao-de-hoje.jpg": {
+  "linha": [
+   18,
+   253.5,
+   354,
+   80
+  ],
+  "valor": [
+   18,
+   293.5,
+   316,
+   30
+  ],
+  "equivale": [
+   17,
+   392.5,
+   356,
+   26
+  ],
+  "era": [
+   17,
+   425.5,
+   356,
+   18
+  ],
+  "cambio_linha": [
+   17,
+   459.5,
+   356,
+   75
+  ],
+  "cambio": [
+   271,
+   469.5,
+   88,
+   30
+  ],
+  "tag": [
+   269.2,
+   505.5,
+   89.8,
+   19
+  ],
+  "botao_cot": null,
+  "dica": [
+   17,
+   542.5,
+   356,
+   16.5
+  ],
+  "trava_cx": null,
+  "conseq": [
+   17,
+   593,
+   356,
+   74
+  ],
+  "salvar": [
+   122.5,
+   694,
+   250.5,
+   50
+  ],
+  "modal": [
+   0,
+   108,
+   390,
+   652
+  ]
+ },
+ "texto_cotacao": "Atualizar carteira\nSó você sabe quanto tem lá fora; o câmbio a gente sugere.\nValor atual da carteira\nem US$\nAdicionar banco\nEquivale hoje a\nR$ 66.881,86\n+US$ 40,00 (+0,3%) desde 30/09/2026\nCâmbio para converter\nR$\nPTAX de hoje ✓\nPTAX de compra do Banco Central, de 15/10/2026 às 13:00.\nvoltar ao câmbio salvo (R$ 5,50)\nCom isso, o rendimento passa a +US$ 1.240,00 (+10,3%) e, em reais, a carteira vale R$ 66.881,86 (+11,5% sobre o custo).\nCancelar\nSalvar",
+ "celular-remessas-5-salvo.jpg": {
+  "numero": [
+   29,
+   200.5,
+   126.9,
+   46
+  ],
+  "atualizar": [
+   29,
+   347.5,
+   127.4,
+   30
+  ],
+  "reais": [
+   29,
+   321.5,
+   249.6,
+   18
+  ],
+  "cartao": [
+   29,
+   153,
+   332,
+   45.5
+  ],
+  "chip_us": [
+   124.7,
+   259.5,
+   85.8,
+   16.5
+  ],
+  "chip_rs": [
+   76.7,
+   3386,
+   59,
+   14
+  ],
+  "acoes": [
+   29,
+   391.5,
+   160,
+   44
+  ],
+  "toast": [
+   16,
+   611,
+   358,
+   67
+  ]
+ },
+ "toast": "Carteira atualizada · +US$ 40,00 desde 30/09/2026",
+ "celular-remessas-6-depois.jpg": {
+  "numero": [
+   29,
+   200.5,
+   126.9,
+   46
+  ],
+  "atualizar": [
+   29,
+   347.5,
+   127.4,
+   30
+  ],
+  "reais": [
+   29,
+   321.5,
+   249.6,
+   18
+  ],
+  "cartao": [
+   29,
+   153,
+   332,
+   45.5
+  ],
+  "chip_us": [
+   124.7,
+   259.5,
+   85.8,
+   16.5
+  ],
+  "chip_rs": [
+   76.7,
+   3386,
+   59,
+   14
+  ],
+  "acoes": [
+   29,
+   391.5,
+   160,
+   44
+  ]
+ },
+ "texto_depois": "Carteira atualizada. +US$ 40,00 desde 30/09/2026\nRemessas\nOutubro 2026\nTodas\nas contas\nInvestido no exterior\n🇺🇸\nEstados Unidos\nno patrimônio · conta de destino\nUS$13.240 na carteira hoje\n+US$ 1.240,00\n+10,3% em US$\n+R$ 6.881,86\n+11,5% em R$\nR$ 66.881,86 ao câmbio de hoje (R$ 5,0515)\nAtualizar\n· hoje\nResgate\nNova remessa\nDe onde veio o resultado em reais\nRendimento dos investimentos convertido no câmbio de hoje, e o efeito do câmbio sobre o que você enviou.\n60 mil\nvocê enviou\n+6,3 mil\nrendimento\n+618\nefeito do câmbio\n66,9 mil\nhoje\nOs investimentos renderam +US$ 1.240,00 (+10,3%). O câmbio subiu 1,0% desde o câmbio médio do que ainda está lá fora (R$ 5,00 → R$ 5,0515) e somou R$ 618. Sobrou +R$ 6.881,86 (+11,5%).\nCâmbio: onde você está\nO equilíbrio é o câmbio que zera o resultado em reais: abaixo dele, prejuízo.\nR$ 5,0515\nhoje\nR$ 4,5317\nR$ 5,00\nNo equilíbrio (R$ 4,5317)\nR$ 0\nHoje (R$ 5,051",
+ "erros": []
+}

@@ -1,0 +1,193 @@
+{
+ "nota_txt": [
+  55,
+  503,
+  303.9,
+  76
+ ],
+ "nota": [
+  55,
+  502,
+  304,
+  77
+ ],
+ "nota_linha": [
+  29,
+  498,
+  332,
+  81
+ ],
+ "botao": [
+  55,
+  546,
+  189.1,
+  33
+ ],
+ "dif": [
+  29,
+  677.5,
+  332,
+  74.5
+ ],
+ "quase": [
+  29,
+  834,
+  332,
+  36
+ ],
+ "ponte": [
+  14,
+  1397.5,
+  362,
+  570.5
+ ],
+ "totais": [
+  14,
+  903,
+  362,
+  476.5
+ ],
+ "janela": [
+  29,
+  249,
+  332,
+  112.5
+ ],
+ "comparar": [
+  29,
+  371.5,
+  332,
+  112.5
+ ],
+ "primeiro": [
+  14,
+  138,
+  362,
+  747
+ ],
+ "ponte_linhas": [
+  [
+   "out/26",
+   29,
+   1559.7,
+   84,
+   12.6
+  ],
+  [
+   "R$ 6.349,15",
+   283,
+   1557.8,
+   78,
+   16.5
+  ],
+  [
+   "Bares e restaurantes",
+   29,
+   1585.4,
+   84,
+   25.3
+  ],
+  [
+   "+R$ 186,00",
+   283,
+   1589.8,
+   78,
+   16.5
+  ],
+  [
+   "Lazer e hobbies",
+   29,
+   1623.7,
+   84,
+   12.6
+  ],
+  [
+   "+R$ 124,00",
+   283,
+   1621.8,
+   78,
+   16.5
+  ],
+  [
+   "Mercado",
+   29,
+   1655.7,
+   84,
+   12.6
+  ],
+  [
+   "+R$ 79,85",
+   283,
+   1653.8,
+   78,
+   16.5
+  ],
+  [
+   "Presentes e doações",
+   29,
+   1681.4,
+   84,
+   25.3
+  ],
+  [
+   "−R$ 180,00",
+   283,
+   1685.8,
+   78,
+   16.5
+  ],
+  [
+   "Demais 5",
+   29,
+   1719.7,
+   84,
+   12.6
+  ],
+  [
+   "+R$ 12,50",
+   283,
+   1717.8,
+   78,
+   16.5
+  ],
+  [
+   "nov/26",
+   29,
+   1751.7,
+   84,
+   12.6
+  ],
+  [
+   "R$ 6.571,50",
+   283,
+   1749.8,
+   78,
+   16.5
+  ],
+  [
+   "R$ 6,2 mil",
+   126.6,
+   1787,
+   50,
+   14
+  ],
+  [
+   "Bares e restaurantes",
+   29,
+   1900,
+   117.9,
+   15
+  ]
+ ],
+ "textos": {
+  "nota": "Novembro está em curso, então outubro entra só até o dia 18, para a conta ser justa. Comparar os meses inteiros",
+  "dif": "Diferença\n+R$222,35\n+4%",
+  "quase": "Quase toda a alta veio de Bares e restaurantes, +R$ 186. O resto subiu R$ 36.",
+  "ponte": "Ponte de variação\nout/26 até dia 18 para nov/26 até dia 18 · o que causou a diferença\nDespesas\nReceitas\nout/26\nR$ 6.349,15\nBares e restaurantes\n+R$ 186,00\nLazer e hobbies\n+R$ 124,00\nMercado\n+R$ 79,85\nPresentes e doações\n−R$ 180,00\nDemais 5\n+R$ 12,50\nnov/26\nR$ 6.571,50\nO eixo começa em R$ 6,2 mil, não em zero. Dois períodos seguidos costumam ser parecidos, e um eixo desde o zero achataria justament",
+  "topo": "Despesas\nReceitas\nTodas as categorias\nJanela em foco\nnov/26\nEste mês\n3 meses\n6 meses\nNo ano\n12 meses\nEscolher meses…\nComparar com\nout/26\nPeríodo anterior\nMesmo período em 2025\nEscolher datas…\nNovembro está em curso, então outubro entra só até o dia 18, para a conta ser justa. Comparar os meses inteiros\nnov/26\nR$6.571,50\nDiferença\n+R$222,35\n+4%\nout/26\nR$6.349,15\nQuase toda a alta veio de Bares e restaurantes, +R$ 186. O resto subiu R$ 36."
+ },
+ "fim_ponte": 1968,
+ "altura_css": 1988,
+ "relogio": "Wed Nov 18 2026 10:00:09 GMT-0300 (Horário Padrão de Brasília)",
+ "erros": []
+}

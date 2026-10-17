@@ -1,0 +1,762 @@
+{
+ "celular-visao-geral-1-novembro.jpg": {
+  "receitas": [
+   31,
+   543,
+   128.7,
+   18
+  ],
+  "movimento": [
+   31,
+   432,
+   328,
+   40
+  ],
+  "guardou": [
+   31,
+   478,
+   328,
+   18
+  ],
+  "fab": [
+   328,
+   696,
+   48,
+   48
+  ],
+  "toast": null
+ },
+ "celular-visao-geral-2-contas-antes.jpg": {
+  "titulo": [
+   29,
+   95.5,
+   120.8,
+   22.5
+  ],
+  "total": null,
+  "reserva": [
+   78,
+   344.5,
+   182.4,
+   21
+  ],
+  "corrente": [
+   78,
+   419,
+   182.4,
+   21
+  ],
+  "corretora": [
+   78,
+   278.5,
+   182.4,
+   21
+  ]
+ },
+ "texto_contas_antes": "Minhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 111.849,20\nPOSITIVAS\nR$ 111.849,20\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nReserva\nINVESTIMENTO\nR$ 33.000,00\nConta corrente\nR$ 18.849,20\nÚltimas transações\nToque em uma para editar\nVer todas →\nseg · 30 de novembro\nEditar\nExcluir\nConta de luz\nCasa · Conta",
+ "celular-transferencia-1-nova-transacao.jpg": {
+  "despesa": [
+   26,
+   158,
+   102.3,
+   34
+  ],
+  "transf": [
+   234.6,
+   158,
+   129.4,
+   34
+  ],
+  "valor": [
+   1,
+   199,
+   388,
+   132
+  ],
+  "data": [
+   67,
+   347.3,
+   178.1,
+   19.5
+  ],
+  "feita": [
+   1,
+   384,
+   388,
+   59
+  ],
+  "de": null,
+  "para": [
+   1,
+   549,
+   388,
+   52
+  ],
+  "botao": [
+   136.1,
+   700,
+   230.9,
+   44
+  ],
+  "modal": [
+   0,
+   74,
+   390,
+   686
+  ]
+ },
+ "celular-transferencia-2-tipo.jpg": {
+  "despesa": [
+   26,
+   185,
+   101.6,
+   34
+  ],
+  "transf": [
+   233.2,
+   185,
+   130.8,
+   34
+  ],
+  "valor": [
+   1,
+   226,
+   388,
+   132
+  ],
+  "data": [
+   67,
+   374.3,
+   178.1,
+   19.5
+  ],
+  "feita": [
+   1,
+   411,
+   388,
+   59
+  ],
+  "de": [
+   1,
+   470,
+   388,
+   53
+  ],
+  "para": [
+   1,
+   576,
+   388,
+   59
+  ],
+  "botao": [
+   136.1,
+   700,
+   230.9,
+   44
+  ],
+  "modal": [
+   0,
+   101,
+   390,
+   659
+  ]
+ },
+ "celular-transferencia-3-valor-0.jpg": {
+  "despesa": [
+   26,
+   185,
+   101.6,
+   34
+  ],
+  "transf": [
+   233.2,
+   185,
+   130.8,
+   34
+  ],
+  "valor": [
+   1,
+   226,
+   388,
+   132
+  ],
+  "data": [
+   67,
+   374.3,
+   178.1,
+   19.5
+  ],
+  "feita": [
+   1,
+   411,
+   388,
+   59
+  ],
+  "de": [
+   1,
+   470,
+   388,
+   53
+  ],
+  "para": [
+   1,
+   576,
+   388,
+   59
+  ],
+  "botao": [
+   136.1,
+   700,
+   230.9,
+   44
+  ],
+  "modal": [
+   0,
+   101,
+   390,
+   659
+  ]
+ },
+ "celular-transferencia-3-valor-1.jpg": {
+  "despesa": [
+   26,
+   185,
+   101.6,
+   34
+  ],
+  "transf": [
+   233.2,
+   185,
+   130.8,
+   34
+  ],
+  "valor": [
+   1,
+   226,
+   388,
+   132
+  ],
+  "data": [
+   67,
+   374.3,
+   178.1,
+   19.5
+  ],
+  "feita": [
+   1,
+   411,
+   388,
+   59
+  ],
+  "de": [
+   1,
+   470,
+   388,
+   53
+  ],
+  "para": [
+   1,
+   576,
+   388,
+   59
+  ],
+  "botao": [
+   136.1,
+   700,
+   230.9,
+   44
+  ],
+  "modal": [
+   0,
+   101,
+   390,
+   659
+  ]
+ },
+ "celular-transferencia-3-valor-2.jpg": {
+  "despesa": [
+   26,
+   185,
+   101.6,
+   34
+  ],
+  "transf": [
+   233.2,
+   185,
+   130.8,
+   34
+  ],
+  "valor": [
+   1,
+   226,
+   388,
+   132
+  ],
+  "data": [
+   67,
+   374.3,
+   178.1,
+   19.5
+  ],
+  "feita": [
+   1,
+   411,
+   388,
+   59
+  ],
+  "de": [
+   1,
+   470,
+   388,
+   53
+  ],
+  "para": [
+   1,
+   576,
+   388,
+   59
+  ],
+  "botao": [
+   136.1,
+   700,
+   230.9,
+   44
+  ],
+  "modal": [
+   0,
+   101,
+   390,
+   659
+  ]
+ },
+ "celular-transferencia-3-valor-3.jpg": {
+  "despesa": [
+   26,
+   185,
+   101.6,
+   34
+  ],
+  "transf": [
+   233.2,
+   185,
+   130.8,
+   34
+  ],
+  "valor": [
+   1,
+   226,
+   388,
+   132
+  ],
+  "data": [
+   67,
+   374.3,
+   178.1,
+   19.5
+  ],
+  "feita": [
+   1,
+   411,
+   388,
+   59
+  ],
+  "de": [
+   1,
+   470,
+   388,
+   53
+  ],
+  "para": [
+   1,
+   576,
+   388,
+   59
+  ],
+  "botao": [
+   136.1,
+   700,
+   230.9,
+   44
+  ],
+  "modal": [
+   0,
+   101,
+   390,
+   659
+  ]
+ },
+ "celular-transferencia-3-valor-4.jpg": {
+  "despesa": [
+   26,
+   185,
+   101.6,
+   34
+  ],
+  "transf": [
+   233.2,
+   185,
+   130.8,
+   34
+  ],
+  "valor": [
+   1,
+   226,
+   388,
+   132
+  ],
+  "data": [
+   67,
+   374.3,
+   178.1,
+   19.5
+  ],
+  "feita": [
+   1,
+   411,
+   388,
+   59
+  ],
+  "de": [
+   1,
+   470,
+   388,
+   53
+  ],
+  "para": [
+   1,
+   576,
+   388,
+   59
+  ],
+  "botao": [
+   136.1,
+   700,
+   230.9,
+   44
+  ],
+  "modal": [
+   0,
+   101,
+   390,
+   659
+  ]
+ },
+ "celular-transferencia-3-valor-5.jpg": {
+  "despesa": [
+   26,
+   185,
+   101.6,
+   34
+  ],
+  "transf": [
+   233.2,
+   185,
+   130.8,
+   34
+  ],
+  "valor": [
+   1,
+   226,
+   388,
+   132
+  ],
+  "data": [
+   67,
+   374.3,
+   178.1,
+   19.5
+  ],
+  "feita": [
+   1,
+   411,
+   388,
+   59
+  ],
+  "de": [
+   1,
+   470,
+   388,
+   53
+  ],
+  "para": [
+   1,
+   576,
+   388,
+   59
+  ],
+  "botao": [
+   136.1,
+   700,
+   230.9,
+   44
+  ],
+  "modal": [
+   0,
+   101,
+   390,
+   659
+  ]
+ },
+ "celular-transferencia-3-valor-6.jpg": {
+  "despesa": [
+   26,
+   185,
+   101.6,
+   34
+  ],
+  "transf": [
+   233.2,
+   185,
+   130.8,
+   34
+  ],
+  "valor": [
+   1,
+   226,
+   388,
+   132
+  ],
+  "data": [
+   67,
+   374.3,
+   178.1,
+   19.5
+  ],
+  "feita": [
+   1,
+   411,
+   388,
+   59
+  ],
+  "de": [
+   1,
+   470,
+   388,
+   53
+  ],
+  "para": [
+   1,
+   576,
+   388,
+   59
+  ],
+  "botao": [
+   136.1,
+   700,
+   230.9,
+   44
+  ],
+  "modal": [
+   0,
+   101,
+   390,
+   659
+  ]
+ },
+ "celular-transferencia-4-para.jpg": {
+  "reserva": [
+   1,
+   699,
+   388,
+   52
+  ],
+  "lista": [
+   23,
+   536.5,
+   300,
+   37.5
+  ],
+  "itens": [
+   1,
+   595,
+   388,
+   52
+  ]
+ },
+ "picker": [
+  [
+   "Conta corrente",
+   1,
+   595,
+   388,
+   52
+  ],
+  [
+   "Corretora no exterior",
+   1,
+   647,
+   388,
+   52
+  ],
+  [
+   "Reserva",
+   1,
+   699,
+   388,
+   52
+  ]
+ ],
+ "celular-transferencia-5-preenchida.jpg": {
+  "despesa": [
+   26,
+   185,
+   101.6,
+   34
+  ],
+  "transf": [
+   233.2,
+   185,
+   130.8,
+   34
+  ],
+  "valor": [
+   1,
+   226,
+   388,
+   132
+  ],
+  "data": [
+   67,
+   374.3,
+   178.1,
+   19.5
+  ],
+  "feita": [
+   1,
+   411,
+   388,
+   59
+  ],
+  "de": [
+   1,
+   470,
+   388,
+   53
+  ],
+  "para": [
+   1,
+   576,
+   388,
+   59
+  ],
+  "botao": [
+   136.1,
+   700,
+   230.9,
+   44
+  ],
+  "modal": [
+   0,
+   101,
+   390,
+   659
+  ]
+ },
+ "texto_form": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 30/11\nJá foi feita\nAfeta o saldo das duas contas agora\nDe\nConta corrente\nPara\nReserva\nRemessa ao exterior\nDinheiro indo para fora, ou voltando de lá\nCancelar\nRegistrar transferência",
+ "linhas_form": [
+  [
+   "Data Hoje 30/11",
+   1,
+   358,
+   388,
+   53
+  ],
+  [
+   "Já foi feita Afeta o saldo das duas contas agora",
+   1,
+   411,
+   388,
+   59
+  ],
+  [
+   "De Conta corrente",
+   1,
+   470,
+   388,
+   53
+  ],
+  [
+   "Para Reserva",
+   1,
+   523,
+   388,
+   53
+  ],
+  [
+   "Remessa ao exterior Dinheiro indo para fora, ou vo",
+   1,
+   576,
+   388,
+   59
+  ],
+  [
+   "",
+   1,
+   635,
+   388,
+   52
+  ]
+ ],
+ "celular-transferencia-6-registrada.jpg": {
+  "receitas": [
+   31,
+   543,
+   128.7,
+   18
+  ],
+  "movimento": [
+   31,
+   432,
+   328,
+   40
+  ],
+  "guardou": [
+   31,
+   478,
+   328,
+   18
+  ],
+  "fab": [
+   328,
+   696,
+   48,
+   48
+  ],
+  "toast": [
+   80.2,
+   630.5,
+   229.5,
+   47.5
+  ]
+ },
+ "toast": "Transferência adicionada",
+ "celular-visao-geral-3-contas-depois.jpg": {
+  "titulo": [
+   29,
+   95.5,
+   120.8,
+   22.5
+  ],
+  "total": null,
+  "reserva": [
+   78,
+   344.5,
+   182.4,
+   21
+  ],
+  "corrente": [
+   78,
+   419,
+   182.4,
+   21
+  ],
+  "corretora": [
+   78,
+   278.5,
+   182.4,
+   21
+  ]
+ },
+ "texto_contas_depois": "Minhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 111.849,20\nPOSITIVAS\nR$ 111.849,20\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nReserva\nINVESTIMENTO\nR$ 35.000,00\nConta corrente\nR$ 16.849,20\nÚltimas transações\nToque em uma para editar\nVer todas →\nseg · 30 de novembro\nEditar\nExcluir\nTransferência\nTransf.Cont",
+ "erros": []
+}

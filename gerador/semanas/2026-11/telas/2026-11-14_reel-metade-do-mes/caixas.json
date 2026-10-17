@@ -1,0 +1,85 @@
+{
+ "cab": [
+  14,
+  138,
+  362,
+  430.5
+ ],
+ "sobra": [
+  33,
+  469.5,
+  324,
+  82
+ ],
+ "pordia": [
+  46,
+  526.5,
+  173.7,
+  12
+ ],
+ "bares": [
+  29,
+  1238.5,
+  332,
+  125.5
+ ],
+ "mercado": [
+  29,
+  1426.5,
+  332,
+  103
+ ],
+ "transporte": [
+  29,
+  1592,
+  332,
+  103
+ ],
+ "saude": [
+  29,
+  1709,
+  332,
+  103
+ ],
+ "lazer": [
+  29,
+  1826,
+  332,
+  71
+ ],
+ "tranquilas": [
+  29,
+  1559.5,
+  332,
+  337.5
+ ],
+ "faixa_passaram": [
+  29,
+  1206,
+  332,
+  16.5
+ ],
+ "faixa_nolimite": [
+  29,
+  1394,
+  332,
+  16.5
+ ],
+ "progresso": [
+  14,
+  1024.5,
+  362,
+  938.5
+ ],
+ "fim_conteudo": 1963,
+ "textos": {
+  "sobra": "Sobra do limite\nR$ 3.321,50\nR$ 207 por dia nos 16 dias que faltam",
+  "pordia": "R$ 207 por dia nos 16 dias que faltam",
+  "cab": "Gasto total no período\nR$5.934,40\nNovembro 2026\n14 de 30 dias · 47% do período\n39% do limite\n47% do período\nR$ 2.128,50 no orçamento de R$ 5.450,00\nR$ 3.805,90 sem limite · 64% do gasto · 3 categorias\nLimite definido\nR$ 5.450,00\n5 de 8 categorias\nUsado do limite\nR$ 2.128,50\n39% do limite · o período está em 47%\nSobra do limite\nR$ 3.321,50\nR$ 207 por dia nos 16 dias que faltam",
+  "bares": "Bares e restaurantes\nR$ 712 de R$ 600\n119%\nExcedeu em R$ 112\ne, no ritmo, fecha em\nR$ 1.527\n155% ACIMA",
+  "mercado": "Mercado\nR$ 880 de R$ 2.000\n44%\nno ritmo, fecha em\nR$ 1.887\nNO LIMITE"
+ },
+ "altura_css": 1987,
+ "relogio": "Sat Nov 14 2026 10:00:08 GMT-0300 (Horário Padrão de Brasília)",
+ "erros": []
+}

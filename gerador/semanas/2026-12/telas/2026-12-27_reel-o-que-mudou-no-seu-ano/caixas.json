@@ -1,0 +1,703 @@
+{
+ "celular-relatorios-1-topo.jpg": {
+  "rolagem": 0,
+  "indice": [
+   10,
+   134,
+   370,
+   48
+  ],
+  "chips": [
+   [
+    "Diagnóstico",
+    true,
+    14,
+    136,
+    103.8,
+    36
+   ],
+   [
+    "O que mudou",
+    false,
+    123.8,
+    136,
+    112.3,
+    36
+   ],
+   [
+    "Concentração",
+    false,
+    242.1,
+    136,
+    118,
+    36
+   ],
+   [
+    "Receitas × Despesas",
+    false,
+    366.1,
+    136,
+    159.2,
+    36
+   ],
+   [
+    "Cascata",
+    false,
+    531.3,
+    136,
+    82,
+    36
+   ],
+   [
+    "Receitas",
+    false,
+    619.3,
+    136,
+    83.2,
+    36
+   ],
+   [
+    "Despesas",
+    false,
+    708.5,
+    136,
+    91.2,
+    36
+   ],
+   [
+    "Mapa de calor",
+    false,
+    805.6,
+    136,
+    118.8,
+    36
+   ],
+   [
+    "Variações",
+    false,
+    930.5,
+    136,
+    92.5,
+    36
+   ],
+   [
+    "Recorrentes",
+    false,
+    1029,
+    136,
+    104.9,
+    36
+   ],
+   [
+    "Sazonalidade",
+    false,
+    1139.9,
+    136,
+    114.7,
+    36
+   ],
+   [
+    "Saldo",
+    false,
+    1260.5,
+    136,
+    65.2,
+    36
+   ]
+  ],
+  "diag": [
+   14,
+   200,
+   362,
+   552
+  ],
+  "diag_texto": "Diagnóstico de dezembro 2026 PARCIAL\nEm andamento · 88% decorrido · Comparado com seus últimos 12 meses\nAjustar cálculo\nTodas as categorias\n25%\nAcima do seu padrão · +7,0 pontos percentuais\nSua média de 12 meses é 18,1% da receita. O maior desvio veio de Presentes e doações: +R$ 875,73 em relação à média.\nReceita guardada \nsua média (12m): 18,1% · meta: 20%\n25,2%\n+7,0 p.p.\nsua média 18,1%\nDespesas do período\nsua média mensal (12m): R$ 8.419,65\nR$ 9.275,80\n+10,2%\nReserva\nquanto tempo o patrimônio cobre seus gastos\n13,7 meses\nmeta 6m",
+  "oqm": [
+   14,
+   770,
+   362,
+   346.5
+  ],
+  "oqm_texto": "O que mudou\nMaiores desvios em relação à sua média de 12 meses\nPresentes e doações\nmédia R$ 96,67 · agora R$ 972,40\n+R$ 875,73\n+906% (10,1x)\nMercado\nmédia R$ 1.550,07 · agora R$ 1.992,00\n+R$ 441,93\n+29%\nLazer e hobbies\nmédia R$ 403,60 · agora R$ 92,00\n−R$ 311,60\n−77%\nCompras\nmédia R$ 54,92 · agora R$ 360,00\n+R$ 305,08\n+556% (6,6x)",
+  "var": [
+   14,
+   4474,
+   362,
+   321
+  ],
+  "var_texto": "Maiores variações\nDespesas por categoria · Dezembro 2026 vs 1 nov - 27 nov\nPresentes e doações\nnovo\nRoupas\nnovo\nMercado\n+35%\nTransporte\n−1%\nCompras\n−45%\nBares e restaurantes\n−52%\nLazer e hobbies\n−70%",
+  "conc": [
+   14,
+   1134.5,
+   362,
+   270.5
+  ],
+  "conc_texto": "Concentração\n3 categorias respondem por 62% do que você gastou\nCasa\n24,8%\nR$ 2.300,00\nMercado\n21,5%\nR$ 1.992,00\nEducação\n15,6%\nR$ 1.450,00\nOutras 8 categorias\n38,1%\nR$ 3.533,80",
+  "diag_frase": [
+   109,
+   406.5,
+   240,
+   54
+  ],
+  "oqm_linhas": [
+   [
+    "Presentes e doações",
+    29,
+    856.5,
+    332,
+    60.5,
+    "Presentes e doações | média R$ 96,67 · agora R$ 972,40 | +R$ 875,73 | +906% (10,1x)"
+   ],
+   [
+    "Mercado",
+    29,
+    917,
+    332,
+    61.5,
+    "Mercado | média R$ 1.550,07 · agora R$ 1.992,00 | +R$ 441,93 | +29%"
+   ],
+   [
+    "Lazer e hobbies",
+    29,
+    978.5,
+    332,
+    61.5,
+    "Lazer e hobbies | média R$ 403,60 · agora R$ 92,00 | −R$ 311,60 | −77%"
+   ],
+   [
+    "Compras",
+    29,
+    1040,
+    332,
+    61.5,
+    "Compras | média R$ 54,92 · agora R$ 360,00 | +R$ 305,08 | +556% (6,6x)"
+   ]
+  ],
+  "var_linhas": [
+   [
+    "Presentes e doações",
+    29,
+    4560.5,
+    332,
+    31.5,
+    "Presentes e doações | novo"
+   ],
+   [
+    "Roupas",
+    29,
+    4592,
+    332,
+    31.5,
+    "Roupas | novo"
+   ],
+   [
+    "Mercado",
+    29,
+    4623.5,
+    332,
+    31.5,
+    "Mercado | +35%"
+   ],
+   [
+    "Transporte",
+    29,
+    4655,
+    332,
+    31.5,
+    "Transporte | −1%"
+   ],
+   [
+    "Compras",
+    29,
+    4686.5,
+    332,
+    31.5,
+    "Compras | −45%"
+   ],
+   [
+    "Bares e restaurantes",
+    29,
+    4718,
+    332,
+    31.5,
+    "Bares e restaurantes | −52%"
+   ],
+   [
+    "Lazer e hobbies",
+    29,
+    4749.5,
+    332,
+    30.5,
+    "Lazer e hobbies | −70%"
+   ]
+  ]
+ },
+ "celular-relatorios-2-o-que-mudou.jpg": {
+  "rolagem": 592,
+  "indice": [
+   10,
+   72,
+   370,
+   48
+  ],
+  "chips": [
+   [
+    "Diagnóstico",
+    false,
+    14,
+    74,
+    103.8,
+    36
+   ],
+   [
+    "O que mudou",
+    true,
+    123.8,
+    74,
+    112.3,
+    36
+   ],
+   [
+    "Concentração",
+    false,
+    242.1,
+    74,
+    118,
+    36
+   ],
+   [
+    "Receitas × Despesas",
+    false,
+    366.1,
+    74,
+    159.2,
+    36
+   ],
+   [
+    "Cascata",
+    false,
+    531.3,
+    74,
+    82,
+    36
+   ],
+   [
+    "Receitas",
+    false,
+    619.3,
+    74,
+    83.2,
+    36
+   ],
+   [
+    "Despesas",
+    false,
+    708.5,
+    74,
+    91.2,
+    36
+   ],
+   [
+    "Mapa de calor",
+    false,
+    805.6,
+    74,
+    118.8,
+    36
+   ],
+   [
+    "Variações",
+    false,
+    930.5,
+    74,
+    92.5,
+    36
+   ],
+   [
+    "Recorrentes",
+    false,
+    1029,
+    74,
+    104.9,
+    36
+   ],
+   [
+    "Sazonalidade",
+    false,
+    1139.9,
+    74,
+    114.7,
+    36
+   ],
+   [
+    "Saldo",
+    false,
+    1260.5,
+    74,
+    65.2,
+    36
+   ]
+  ],
+  "diag": [
+   14,
+   -446,
+   362,
+   552
+  ],
+  "diag_texto": "Diagnóstico de dezembro 2026 PARCIAL\nEm andamento · 88% decorrido · Comparado com seus últimos 12 meses\nAjustar cálculo\nTodas as categorias\n25%\nAcima do seu padrão · +7,0 pontos percentuais\nSua média de 12 meses é 18,1% da receita. O maior desvio veio de Presentes e doações: +R$ 875,73 em relação à média.\nReceita guardada \nsua média (12m): 18,1% · meta: 20%\n25,2%\n+7,0 p.p.\nsua média 18,1%\nDespesas do período\nsua média mensal (12m): R$ 8.419,65\nR$ 9.275,80\n+10,2%\nReserva\nquanto tempo o patrimônio cobre seus gastos\n13,7 meses\nmeta 6m",
+  "oqm": [
+   14,
+   124,
+   362,
+   346.5
+  ],
+  "oqm_texto": "O que mudou\nMaiores desvios em relação à sua média de 12 meses\nPresentes e doações\nmédia R$ 96,67 · agora R$ 972,40\n+R$ 875,73\n+906% (10,1x)\nMercado\nmédia R$ 1.550,07 · agora R$ 1.992,00\n+R$ 441,93\n+29%\nLazer e hobbies\nmédia R$ 403,60 · agora R$ 92,00\n−R$ 311,60\n−77%\nCompras\nmédia R$ 54,92 · agora R$ 360,00\n+R$ 305,08\n+556% (6,6x)",
+  "var": [
+   14,
+   3828,
+   362,
+   321
+  ],
+  "var_texto": "Maiores variações\nDespesas por categoria · Dezembro 2026 vs 1 nov - 27 nov\nPresentes e doações\nnovo\nRoupas\nnovo\nMercado\n+35%\nTransporte\n−1%\nCompras\n−45%\nBares e restaurantes\n−52%\nLazer e hobbies\n−70%",
+  "conc": [
+   14,
+   488.5,
+   362,
+   270.5
+  ],
+  "conc_texto": "Concentração\n3 categorias respondem por 62% do que você gastou\nCasa\n24,8%\nR$ 2.300,00\nMercado\n21,5%\nR$ 1.992,00\nEducação\n15,6%\nR$ 1.450,00\nOutras 8 categorias\n38,1%\nR$ 3.533,80",
+  "diag_frase": [
+   109,
+   -239.5,
+   240,
+   54
+  ],
+  "oqm_linhas": [
+   [
+    "Presentes e doações",
+    29,
+    210.5,
+    332,
+    60.5,
+    "Presentes e doações | média R$ 96,67 · agora R$ 972,40 | +R$ 875,73 | +906% (10,1x)"
+   ],
+   [
+    "Mercado",
+    29,
+    271,
+    332,
+    61.5,
+    "Mercado | média R$ 1.550,07 · agora R$ 1.992,00 | +R$ 441,93 | +29%"
+   ],
+   [
+    "Lazer e hobbies",
+    29,
+    332.5,
+    332,
+    61.5,
+    "Lazer e hobbies | média R$ 403,60 · agora R$ 92,00 | −R$ 311,60 | −77%"
+   ],
+   [
+    "Compras",
+    29,
+    394,
+    332,
+    61.5,
+    "Compras | média R$ 54,92 · agora R$ 360,00 | +R$ 305,08 | +556% (6,6x)"
+   ]
+  ],
+  "var_linhas": [
+   [
+    "Presentes e doações",
+    29,
+    3914.5,
+    332,
+    31.5,
+    "Presentes e doações | novo"
+   ],
+   [
+    "Roupas",
+    29,
+    3946,
+    332,
+    31.5,
+    "Roupas | novo"
+   ],
+   [
+    "Mercado",
+    29,
+    3977.5,
+    332,
+    31.5,
+    "Mercado | +35%"
+   ],
+   [
+    "Transporte",
+    29,
+    4009,
+    332,
+    31.5,
+    "Transporte | −1%"
+   ],
+   [
+    "Compras",
+    29,
+    4040.5,
+    332,
+    31.5,
+    "Compras | −45%"
+   ],
+   [
+    "Bares e restaurantes",
+    29,
+    4072,
+    332,
+    31.5,
+    "Bares e restaurantes | −52%"
+   ],
+   [
+    "Lazer e hobbies",
+    29,
+    4103.5,
+    332,
+    30.5,
+    "Lazer e hobbies | −70%"
+   ]
+  ]
+ },
+ "celular-relatorios-3-maiores-variacoes.jpg": {
+  "rolagem": 4296,
+  "indice": [
+   10,
+   72,
+   370,
+   48
+  ],
+  "chips": [
+   [
+    "Diagnóstico",
+    false,
+    -768,
+    74,
+    103.8,
+    36
+   ],
+   [
+    "O que mudou",
+    false,
+    -658.2,
+    74,
+    112.3,
+    36
+   ],
+   [
+    "Concentração",
+    false,
+    -539.9,
+    74,
+    118,
+    36
+   ],
+   [
+    "Receitas × Despesas",
+    false,
+    -415.9,
+    74,
+    159.2,
+    36
+   ],
+   [
+    "Cascata",
+    false,
+    -250.7,
+    74,
+    82,
+    36
+   ],
+   [
+    "Receitas",
+    false,
+    -162.7,
+    74,
+    83.2,
+    36
+   ],
+   [
+    "Despesas",
+    false,
+    -73.5,
+    74,
+    91.2,
+    36
+   ],
+   [
+    "Mapa de calor",
+    false,
+    23.6,
+    74,
+    118.8,
+    36
+   ],
+   [
+    "Variações",
+    true,
+    148.5,
+    74,
+    92.5,
+    36
+   ],
+   [
+    "Recorrentes",
+    false,
+    247,
+    74,
+    104.9,
+    36
+   ],
+   [
+    "Sazonalidade",
+    false,
+    357.9,
+    74,
+    114.7,
+    36
+   ],
+   [
+    "Saldo",
+    false,
+    478.5,
+    74,
+    65.2,
+    36
+   ]
+  ],
+  "diag": [
+   14,
+   -4150,
+   362,
+   552
+  ],
+  "diag_texto": "Diagnóstico de dezembro 2026 PARCIAL\nEm andamento · 88% decorrido · Comparado com seus últimos 12 meses\nAjustar cálculo\nTodas as categorias\n25%\nAcima do seu padrão · +7,0 pontos percentuais\nSua média de 12 meses é 18,1% da receita. O maior desvio veio de Presentes e doações: +R$ 875,73 em relação à média.\nReceita guardada \nsua média (12m): 18,1% · meta: 20%\n25,2%\n+7,0 p.p.\nsua média 18,1%\nDespesas do período\nsua média mensal (12m): R$ 8.419,65\nR$ 9.275,80\n+10,2%\nReserva\nquanto tempo o patrimônio cobre seus gastos\n13,7 meses\nmeta 6m",
+  "oqm": [
+   14,
+   -3580,
+   362,
+   346.5
+  ],
+  "oqm_texto": "O que mudou\nMaiores desvios em relação à sua média de 12 meses\nPresentes e doações\nmédia R$ 96,67 · agora R$ 972,40\n+R$ 875,73\n+906% (10,1x)\nMercado\nmédia R$ 1.550,07 · agora R$ 1.992,00\n+R$ 441,93\n+29%\nLazer e hobbies\nmédia R$ 403,60 · agora R$ 92,00\n−R$ 311,60\n−77%\nCompras\nmédia R$ 54,92 · agora R$ 360,00\n+R$ 305,08\n+556% (6,6x)",
+  "var": [
+   14,
+   124,
+   362,
+   321
+  ],
+  "var_texto": "Maiores variações\nDespesas por categoria · Dezembro 2026 vs 1 nov - 27 nov\nPresentes e doações\nnovo\nRoupas\nnovo\nMercado\n+35%\nTransporte\n−1%\nCompras\n−45%\nBares e restaurantes\n−52%\nLazer e hobbies\n−70%",
+  "conc": [
+   14,
+   -3215.5,
+   362,
+   270.5
+  ],
+  "conc_texto": "Concentração\n3 categorias respondem por 62% do que você gastou\nCasa\n24,8%\nR$ 2.300,00\nMercado\n21,5%\nR$ 1.992,00\nEducação\n15,6%\nR$ 1.450,00\nOutras 8 categorias\n38,1%\nR$ 3.533,80",
+  "diag_frase": [
+   109,
+   -3943.5,
+   240,
+   54
+  ],
+  "oqm_linhas": [
+   [
+    "Presentes e doações",
+    29,
+    -3493.5,
+    332,
+    60.5,
+    "Presentes e doações | média R$ 96,67 · agora R$ 972,40 | +R$ 875,73 | +906% (10,1x)"
+   ],
+   [
+    "Mercado",
+    29,
+    -3433,
+    332,
+    61.5,
+    "Mercado | média R$ 1.550,07 · agora R$ 1.992,00 | +R$ 441,93 | +29%"
+   ],
+   [
+    "Lazer e hobbies",
+    29,
+    -3371.5,
+    332,
+    61.5,
+    "Lazer e hobbies | média R$ 403,60 · agora R$ 92,00 | −R$ 311,60 | −77%"
+   ],
+   [
+    "Compras",
+    29,
+    -3310,
+    332,
+    61.5,
+    "Compras | média R$ 54,92 · agora R$ 360,00 | +R$ 305,08 | +556% (6,6x)"
+   ]
+  ],
+  "var_linhas": [
+   [
+    "Presentes e doações",
+    29,
+    210.5,
+    332,
+    31.5,
+    "Presentes e doações | novo"
+   ],
+   [
+    "Roupas",
+    29,
+    242,
+    332,
+    31.5,
+    "Roupas | novo"
+   ],
+   [
+    "Mercado",
+    29,
+    273.5,
+    332,
+    31.5,
+    "Mercado | +35%"
+   ],
+   [
+    "Transporte",
+    29,
+    305,
+    332,
+    31.5,
+    "Transporte | −1%"
+   ],
+   [
+    "Compras",
+    29,
+    336.5,
+    332,
+    31.5,
+    "Compras | −45%"
+   ],
+   [
+    "Bares e restaurantes",
+    29,
+    368,
+    332,
+    31.5,
+    "Bares e restaurantes | −52%"
+   ],
+   [
+    "Lazer e hobbies",
+    29,
+    399.5,
+    332,
+    30.5,
+    "Lazer e hobbies | −70%"
+   ]
+  ]
+ },
+ "relogio": "Sun Dec 27 2026 10:00:12 GMT-0300 (Horário Padrão de Brasília)",
+ "erros": []
+}
