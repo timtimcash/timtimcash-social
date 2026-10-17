@@ -1,0 +1,162 @@
+{
+ "arquivos": {
+  "a": "a-transacoes-ano-2026-delivery.png",
+  "b": "b-visao-geral-ano-2026-top-saidas.png",
+  "c": "c-fluxo-ano-2026-resultado.png",
+  "c2": "c-fluxo-ano-2026-resumo-mensal.png",
+  "d": "d-relatorios-sazonalidade.png",
+  "e": "e-remessas-rendimento-ano-a-ano.png"
+ },
+ "a_resumo": [
+  29,
+  355.1,
+  197.3,
+  54,
+  "40 transações · 40 pagas · 0 pendentes · somam R$ 3.142,40 · 750 no histórico"
+ ],
+ "a_soma": [
+  [
+   29,
+   356.1,
+   149.9,
+   15
+  ],
+  [
+   29,
+   374.1,
+   123.4,
+   15
+  ],
+  [
+   152.4,
+   374.1,
+   68.4,
+   15
+  ]
+ ],
+ "a_titulo": [
+  29,
+  329.6,
+  197.3,
+  22.5,
+  "Transações filtrado"
+ ],
+ "a_busca": [
+  68,
+  422.09375,
+  276,
+  38
+ ],
+ "a_periodo": [
+  22,
+  74,
+  170,
+  36,
+  "Ano 2026"
+ ],
+ "b_periodo_txt": "Visão geral | Ano 2026 | Todas | as contas | Realizado | Previsto | Ambos | Patrimônio | R$ | 120.894 | ,90 | alta de | 8,1% em relação a nov/26 | 4 contas somadas | Jan/26 | Dez/26 | Movimento de 2026 | PARCIAL | Guardou 25,6% da recei",
+ "b_painel": [
+  14,
+  -329.5,
+  362,
+  796,
+  "Por categoria Despesas do período Despesas Receitas Período global Despesas R$ 92.090,10 12 categorias Top saídas Maiores despesas do período Casa R$ 27.539,30 30% Mercado R$ 17.260,10 19% Educação R$ 15.950,00 17% Trans"
+ ],
+ "b_top": [
+  29,
+  53,
+  332,
+  60.5,
+  "Top saídas Maiores despesas do período"
+ ],
+ "b_casa": [
+  29,
+  127.5,
+  332,
+  44,
+  "Casa R$ 27.539,30 30%"
+ ],
+ "b_texto": "Por categoria Despesas do período Despesas Receitas Período global Despesas R$ 92.090,10 12 categorias Top saídas Maiores despesas do período Casa R$ 27.539,30 30% Mercado R$ 17.260,10 19% Educação R$ 15.950,00 17% Trans",
+ "c_cartao": [
+  33,
+  157,
+  324,
+  164,
+  "Resultado · Ano 2026 até 06/12 R$ 31.769 ,90 Guardou 25,6% do que entrou Entrou R$ 123.860 14 recebidas Saiu R$ 92.090 ,10 283 pagas"
+ ],
+ "c_guardou": [
+  33,
+  216.5,
+  324,
+  18,
+  "Guardou 25,6% do que entrou"
+ ],
+ "c_resumo": [
+  14,
+  40.5,
+  362,
+  977.5,
+  "Resumo mensal Fluxo mês a mês do período MÊS ENTRADAS SAÍDAS RESULTADO SALDO Jan de 2026 R$ 9.480,00 −R$ 9.420,00 R$ 60,00 R$ 89.185,00 Fev de 2026 R$ 9.480,00 −R$ 8.050,00 R$ 1.430,00 R$ 90.615,00 Mar de 2026 R$ 9.960,0"
+ ],
+ "c_jan": [
+  15,
+  170,
+  604.9,
+  64,
+  "Jan de 2026 R$ 9.480,00 −R$ 9.420,00 R$ 60,00 R$ 89.185,00"
+ ],
+ "c_cab": [
+  15,
+  133,
+  604.9,
+  37,
+  "MÊS ENTRADAS SAÍDAS RESULTADO SALDO"
+ ],
+ "c_resumo_txt": "Resumo mensal Fluxo mês a mês do período MÊS ENTRADAS SAÍDAS RESULTADO SALDO Jan de 2026 R$ 9.480,00 −R$ 9.420,00 R$ 60,00 R$ 89.185,00 Fev de 2026 R$ 9.480,00 −R$ 8.050,00 R$ 1.430,00 R$ 90.615,00 Mar de 2026 R$ 9.960,0",
+ "d_saz": [
+  14,
+  332,
+  362,
+  345.5,
+  "Sazonalidade Média de despesas por mês do ano · jan/26 a nov/26 (11 meses)"
+ ],
+ "e_painel": [
+  29,
+  45.5,
+  212,
+  43.5,
+  "Rendimento ano a ano Taxa de cada ano, em US$ e em reais"
+ ],
+ "e_2026": [
+  29,
+  550.5,
+  332,
+  128,
+  "2026 até hoje +3,0% +350,00 −6,2% −R$ 4.067,86 hoje 13.310,00"
+ ],
+ "e_2025": [
+  29,
+  423,
+  332,
+  127.5,
+  "2025 +3,9% +480,00 −7,7% −R$ 5.969,09 fim 12.960,00"
+ ],
+ "relogio": "Sun Dec 06 2026 10:00:26 GMT-0300 (Horário Padrão de Brasília)",
+ "erros": [],
+ "b_merc": [
+  29,
+  185.5,
+  332,
+  44,
+  "Mercado R$ 17.260,10 19%"
+ ],
+ "b_educ": [
+  29,
+  243.5,
+  332,
+  44,
+  "Educação R$ 15.950,00 17%"
+ ],
+ "b_relogio": "Sun Dec 06 2026 10:00:12 GMT-0300 (Horário Padrão de Brasília)",
+ "b_erros": []
+}

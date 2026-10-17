@@ -10,6 +10,7 @@
 - `render.py`: `python3 gerador/render.py gerador/semanas/AAAA-MM-DD.py` gera os JPEG 1080 × 1350 em `posts/AAAA-MM-DD_slug/01.jpg, 02.jpg...`. Com `TT_SAIDA=/outra/pasta`, grava fora do repositório.
 - `aprovacao.py`: monta o arquivo HTML de aprovação (um arquivo só, que abre sem internet), com a prévia de cada post no Instagram, todos os slides, a legenda, a justificativa e a avaliação de cada post: Aprovado, Reprovado ou Solicitar alteração, com comentários.
 - `historico.md`: temas já publicados.
+- `restaurar_pasta.py`: remonta, numa máquina nova, a pasta de trabalho de novembro e dezembro de 2026 (kit, roteiros, dados, telas e artes aprovadas), para refazer um post já aprovado.
 
 ## Fluxo de uma semana
 

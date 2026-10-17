@@ -1,0 +1,394 @@
+{
+ "card": [
+  14,
+  837.6,
+  362,
+  361.5
+ ],
+ "topo": [
+  14,
+  138,
+  362,
+  312.5
+ ],
+ "noCard": [
+  [
+   "Câmbio: onde você está",
+   [
+    29,
+    852.6,
+    332,
+    22.5
+   ]
+  ],
+  [
+   "O equilíbrio é o câmbio que zera o resultado em reais: abaixo dele, prejuízo.",
+   [
+    29,
+    878.1,
+    332,
+    36
+   ]
+  ],
+  [
+   "R$ 5,0515",
+   [
+    259.4,
+    932.1,
+    58.8,
+    18
+   ]
+  ],
+  [
+   "hoje",
+   [
+    259.4,
+    950.1,
+    58.8,
+    12
+   ]
+  ],
+  [
+   "R$ 4,5249",
+   [
+    71.8,
+    1004.1,
+    58.8,
+    18
+   ]
+  ],
+  [
+   "R$ 5,00",
+   [
+    269.7,
+    1004.1,
+    43.8,
+    18
+   ]
+  ],
+  [
+   "No equilíbrio (R$ 4,5249)",
+   [
+    54,
+    1050.9,
+    273.9,
+    14.4
+   ]
+  ],
+  [
+   "R$ 0",
+   [
+    334.9,
+    1049.1,
+    26.1,
+    18
+   ]
+  ],
+  [
+   "Hoje (R$ 5,0515)",
+   [
+    54,
+    1085.9,
+    222.1,
+    14.4
+   ]
+  ],
+  [
+   "+R$ 6.982,89",
+   [
+    283.1,
+    1085.1,
+    77.9,
+    15
+   ]
+  ],
+  [
+   "No seu médio (R$ 5,00)",
+   [
+    54,
+    1120.9,
+    222.1,
+    14.4
+   ]
+  ],
+  [
+   "+R$ 6.300,00",
+   [
+    283.1,
+    1120.1,
+    77.9,
+    15
+   ]
+  ],
+  [
+   "Resultado em reais da carteira de hoje em cada cotação. No seu câmbio médio, o resultado em reais igualaria o retorno na moeda.",
+   [
+    29,
+    1154.1,
+    332,
+    30
+   ]
+  ]
+ ],
+ "noTopo": [
+  [
+   "Investido no exterior",
+   [
+    29,
+    153,
+    332,
+    45.5
+   ]
+  ],
+  [
+   "🇺🇸",
+   [
+    163.5,
+    155.8,
+    17.4,
+    14
+   ]
+  ],
+  [
+   "Estados Unidos",
+   [
+    185.9,
+    153.8,
+    89.7,
+    18
+   ]
+  ],
+  [
+   "no patrimônio · conta de destino",
+   [
+    29,
+    179.5,
+    187.4,
+    19
+   ]
+  ],
+  [
+   "US$",
+   [
+    29,
+    216.5,
+    30.5,
+    19
+   ]
+  ],
+  [
+   "13.260",
+   [
+    62.5,
+    204.5,
+    93.4,
+    34
+   ]
+  ],
+  [
+   "na carteira hoje",
+   [
+    162.6,
+    216.5,
+    115,
+    19
+   ]
+  ],
+  [
+   "+US$ 1.260,00",
+   [
+    39,
+    259.5,
+    79.7,
+    16.5
+   ]
+  ],
+  [
+   "+10,5% em US$",
+   [
+    124.7,
+    259.5,
+    85.8,
+    16.5
+   ]
+  ],
+  [
+   "+R$ 6.982,89",
+   [
+    39,
+    292,
+    71.8,
+    16.5
+   ]
+  ],
+  [
+   "+11,6% em R$",
+   [
+    116.8,
+    292,
+    77.8,
+    16.5
+   ]
+  ],
+  [
+   "ao câmbio de hoje (R$ 5,0515)",
+   [
+    29,
+    321.5,
+    249.6,
+    18
+   ]
+  ],
+  [
+   "R$ 66.982,89",
+   [
+    29,
+    322.5,
+    77.9,
+    15
+   ]
+  ],
+  [
+   "Atualizar",
+   [
+    29,
+    347.5,
+    157.1,
+    30
+   ]
+  ],
+  [
+   "· há 13 dias",
+   [
+    115.2,
+    355.5,
+    57.9,
+    14
+   ]
+  ],
+  [
+   "Resgate",
+   [
+    94.3,
+    405.5,
+    50.5,
+    16
+   ]
+  ],
+  [
+   "Nova remessa",
+   [
+    245.1,
+    405.5,
+    88.8,
+    16
+   ]
+  ]
+ ],
+ "linhas": {
+  "No equilíbrio (R$ 4,5249)": [
+   29,
+   1041.1,
+   332,
+   35
+  ],
+  "Hoje (R$ 5,0515)": [
+   29,
+   1076.1,
+   332,
+   35
+  ],
+  "No seu médio (R$ 5,00)": [
+   29,
+   1111.1,
+   332,
+   34
+  ]
+ },
+ "svgs": [],
+ "marcas": [
+  [
+   "SPAN.remx-zneg",
+   [
+    29,
+    980.1,
+    46.1,
+    10
+   ],
+   "rgb(251, 234, 234)"
+  ],
+  [
+   "SPAN.remx-zpos",
+   [
+    75.2,
+    980.1,
+    285.8,
+    10
+   ],
+   "rgb(209, 250, 229)"
+  ],
+  [
+   "DIV.remx-pin",
+   [
+    306.8,
+    974.1,
+    16,
+    16
+   ],
+   "rgb(4, 120, 87)"
+  ],
+  [
+   "DIV.remx-tick",
+   [
+    74.1,
+    972.1,
+    2,
+    24
+   ],
+   "rgba(0, 0, 0, 0)"
+  ],
+  [
+   "DIV.remx-doto",
+   [
+    285.6,
+    977.1,
+    12,
+    12
+   ],
+   "rgb(255, 255, 255)"
+  ],
+  [
+   "SPAN.sd eq",
+   [
+    37,
+    1052.1,
+    2,
+    12
+   ],
+   "rgba(0, 0, 0, 0)"
+  ],
+  [
+   "SPAN.sd hj",
+   [
+    32.5,
+    1087.6,
+    11,
+    11
+   ],
+   "rgb(4, 120, 87)"
+  ],
+  [
+   "SPAN.sd md",
+   [
+    33,
+    1123.1,
+    10,
+    10
+   ],
+   "rgb(255, 255, 255)"
+  ]
+ ],
+ "scrollH": 4155,
+ "texto": "Remessas\nNovembro 2026\nTodas\nas contas\nInvestido no exterior\n🇺🇸\nEstados Unidos\nno patrimônio · conta de destino\nUS$13.260 na carteira hoje\n+US$ 1.260,00\n+10,5% em US$\n+R$ 6.982,89\n+11,6% em R$\nR$ 66.982,89 ao câmbio de hoje (R$ 5,0515)\nAtualizar\n· há 13 dias\nResgate\nNova remessa\nDe onde veio o resultado em reais\nRendimento dos investimentos convertido no câmbio de hoje, e o efeito do câmbio sobre o que você enviou.\n60 mil\nvocê enviou\n+6,4 mil\nrendimento\n+618\nefeito do câmbio\n67 mil\nhoje\nOs investimentos renderam +US$ 1.260,00 (+10,5%). O câmbio subiu 1,0% desde o câmbio médio do que ainda está lá fora (R$ 5,00 → R$ 5,0515) e somou R$ 618. Sobrou +R$ 6.982,89 (+11,6%).\nCâmbio: onde você está\nO equilíbrio é o câmbio que zera o resultado em reais: abaixo dele, prejuízo.\nR$ 5,0515\nhoje\nR$ 4,5249\nR$ 5,00\nNo equilíbrio (R$ 4,5249)\nR$ 0\nHoje (R$ 5,0515)\n+R$ 6.982,89\nNo seu médio (R$ 5,00)\n+R$ 6.300,00\nResultado em reais da carteira de hoje em cada cotação. No seu câmbio médio, o resultado em reais igualaria o retorno na moeda.\nA jornada, desde jul/23\nO afastamento entre o degrau e a trajetória é o rendimento.\nenviado acumulado\ntrajetória na taxa medida\nvalor informado\n0\n5 mil\n10 mil\njul/23\nmar/25\nout/26\nUS$ 13.260\nenviados: US$ 12.000\nPrimeira remessa\n12/07/2023\n3 anos atrás\nEnvios\n3\na cada 13 meses, em média\nMaior envio\n4.000,00\n12/07/2023\nMédia por envio\n4.000,00\nO degrau soma as remessas nas datas reais. A linha tracejada não é medição nova: é a mesma TIR (taxa interna de retorno) de Ritmo do retorno, desenhada como trajetória de taxa constante. O timtimcash conhece o valor d",
+ "erros": []
+}

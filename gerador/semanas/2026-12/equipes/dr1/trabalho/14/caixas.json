@@ -1,0 +1,455 @@
+{
+ "arquivos": {
+  "e0": "01-visao-geral-dezembro.png",
+  "e1": "02-nova-transacao.png",
+  "v1": "03-valor-1.png",
+  "v2": "04-valor-2.png",
+  "v3": "05-valor-3.png",
+  "v4": "06-valor-4.png",
+  "v5": "07-valor-5.png",
+  "d1": "08-descricao-1.png",
+  "d2": "09-descricao-2.png",
+  "d3": "10-descricao-3.png",
+  "d4": "11-descricao-4.png",
+  "d5": "12-descricao-5.png",
+  "d6": "13-descricao-6.png",
+  "d7": "14-descricao-7.png",
+  "d8": "15-descricao-8.png",
+  "d9": "16-descricao-sugerida.png",
+  "c1": "17-data-calendario-dezembro.png",
+  "c2": "18-data-calendario-janeiro-2027.png",
+  "c3": "19-data-05-01-2027.png",
+  "p1": "20-marcar-como-pago-desligado.png",
+  "r1": "21-recorrencia-fixa.png",
+  "r2": "22-recorrencia-fixa-mensal.png",
+  "t1": "23-recorrencia-criada.png",
+  "t2": "24-visao-geral-depois.png",
+  "m0": "25-pendentes-dezembro-2026.png",
+  "m1": "26-pendentes-2027-01.png",
+  "m2": "27-pendentes-2027-02.png",
+  "m3": "28-pendentes-2027-03.png",
+  "m4": "29-pendentes-2027-04.png",
+  "m5": "30-pendentes-2027-05.png",
+  "m6": "31-pendentes-2027-06.png",
+  "m7": "32-pendentes-2027-07.png",
+  "m8": "33-pendentes-2027-08.png",
+  "m9": "34-pendentes-2027-09.png",
+  "m10": "35-pendentes-2027-10.png",
+  "m11": "36-pendentes-2027-11.png",
+  "m12": "37-pendentes-2027-12.png",
+  "x1": "38-transacoes-ano-2027-academia.png"
+ },
+ "fab": [
+  328,
+  696,
+  48,
+  48
+ ],
+ "valor": [
+  165.5,
+  239.5,
+  95,
+  54,
+  ""
+ ],
+ "zonaValor": [
+  1,
+  199,
+  388,
+  132,
+  "Valor R$ toque para digitar o valor"
+ ],
+ "valorFinal": "119,90",
+ "desc": [
+  67,
+  559,
+  300,
+  32,
+  ""
+ ],
+ "catRow": [
+  1,
+  443,
+  388,
+  53,
+  "Categoria Cuidados pessoais sugerida"
+ ],
+ "dataRow": [
+  1,
+  331,
+  388,
+  53,
+  "Data Hoje 14/12"
+ ],
+ "dpProx": [
+  323,
+  140.1,
+  32,
+  32,
+  ""
+ ],
+ "dia5": [
+  123.6,
+  268.4,
+  46.3,
+  46.3,
+  "5"
+ ],
+ "jp": [
+  1,
+  384,
+  388,
+  59,
+  "Já foi pago Afeta o saldo real da conta agora"
+ ],
+ "jpOff": [
+  1,
+  384,
+  388,
+  59,
+  "Marcar como pago Fica como pendente até você confirmar"
+ ],
+ "fixa": [
+  139.3,
+  638,
+  111.3,
+  34,
+  "Fixa"
+ ],
+ "rolou": [
+  "modal-body tx-modal-body:66"
+ ],
+ "sel": [
+  23,
+  603.8,
+  344,
+  48,
+  "Diário Semanal Quinzenal Mensal Bimestral Trimestral Semestral Anual"
+ ],
+ "dica": [
+  23,
+  657.8,
+  344,
+  16.5,
+  "Lançamentos automáticos · mensal"
+ ],
+ "lancar": [
+  136.1,
+  700,
+  230.9,
+  44,
+  "Lançar despesa"
+ ],
+ "modalTxt": "Nova transação | Despesa | Receita | Transferência | Valor | R$ |   | Data | 05/01/2027 | Marcar como pago | Fica como pendente até você confirmar | Categoria | Cuidados pessoais sugerida | Pago via | Conta corrente | Recorrência | Única | Fixa | Parcelada | Diário | Semanal | Quinzenal | Mensal | Bimestral | Trimestral | Semestral | Anual | Lançamentos automáticos · mensal | Cancelar | Lançar despesa",
+ "toast": [
+  71.7,
+  630.5,
+  246.7,
+  47.5,
+  "Recorrência criada (mensal)"
+ ],
+ "icPend": [
+  332,
+  19,
+  38,
+  38,
+  ""
+ ],
+ "pend_dez": "Pendentes | Dezembro 2026 | Todas | as contas | A pagar | R$ | 423 | ,90 | 3 transações | A receber | R$ | 2.433 | ,36 | Total pendente | 4 | Nada vencido. Tudo dentro do prazo. | A vencer | 4 transações ainda no prazo | AMANHÃ | · 15/12/2026 | Editar | Excluir | Streaming de música | FIXA·Assinaturas e serviços·Conta corrente | −R$ 21,90 | pendent",
+ "prox": [
+  178.1,
+  74,
+  36,
+  36,
+  ""
+ ],
+ "meses": [
+  {
+   "linha": [
+    15,
+    592.3,
+    360,
+    59.8
+   ],
+   "texto": "Academia FIXA·Cuidados pessoais·Conta corrente −R$ 119,90 pendente",
+   "periodo": "Janeiro 2027",
+   "per": [
+    62,
+    76,
+    98.4,
+    32
+   ],
+   "pilula": [
+    11,
+    64,
+    368,
+    55
+   ],
+   "cab": "Pendentes Janeiro 2027 Todas as contas A pagar R$ 6.525 ,70 9 transações A receber R$ 9.960 Total pendente 10 Nada vencido. Tudo dentro do prazo. A vencer 10 transações ainda no prazo 05/01/2027 Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 p"
+  },
+  {
+   "linha": [
+    15,
+    592.3,
+    360,
+    59.8
+   ],
+   "texto": "Academia FIXA·Cuidados pessoais·Conta corrente −R$ 119,90 pendente",
+   "periodo": "Fevereiro 2027",
+   "per": [
+    62,
+    76,
+    108.2,
+    32
+   ],
+   "pilula": [
+    22,
+    74,
+    188.2,
+    36
+   ],
+   "cab": "Pendentes Fevereiro 2027 Todas as contas A pagar R$ 4.564 ,70 8 transações A receber R$ 9.960 Total pendente 9 Nada vencido. Tudo dentro do prazo. A vencer 9 transações ainda no prazo 05/02/2027 Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 p"
+  },
+  {
+   "linha": [
+    15,
+    592.3,
+    360,
+    59.8
+   ],
+   "texto": "Academia FIXA·Cuidados pessoais·Conta corrente −R$ 119,90 pendente",
+   "periodo": "Março 2027",
+   "per": [
+    62,
+    76,
+    92.4,
+    32
+   ],
+   "pilula": [
+    11,
+    64,
+    368,
+    55
+   ],
+   "cab": "Pendentes Março 2027 Todas as contas A pagar R$ 4.349 ,70 7 transações A receber R$ 9.960 Total pendente 8 Nada vencido. Tudo dentro do prazo. A vencer 8 transações ainda no prazo 05/03/2027 Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 pende"
+  },
+  {
+   "linha": [
+    15,
+    592.3,
+    360,
+    59.8
+   ],
+   "texto": "Academia FIXA·Cuidados pessoais·Conta corrente −R$ 119,90 pendente",
+   "periodo": "Abril 2027",
+   "per": [
+    62,
+    76,
+    90,
+    32
+   ],
+   "pilula": [
+    11,
+    64,
+    368,
+    55
+   ],
+   "cab": "Pendentes Abril 2027 Todas as contas A pagar R$ 4.349 ,70 7 transações A receber R$ 9.960 Total pendente 8 Nada vencido. Tudo dentro do prazo. A vencer 8 transações ainda no prazo 05/04/2027 Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 pende"
+  },
+  {
+   "linha": [
+    15,
+    592.3,
+    360,
+    59.8
+   ],
+   "texto": "Academia FIXA·Cuidados pessoais·Conta corrente −R$ 119,90 pendente",
+   "periodo": "Maio 2027",
+   "per": [
+    62,
+    76,
+    90,
+    32
+   ],
+   "pilula": [
+    11,
+    64,
+    368,
+    55
+   ],
+   "cab": "Pendentes Maio 2027 Todas as contas A pagar R$ 4.349 ,70 7 transações A receber R$ 9.960 Total pendente 8 Nada vencido. Tudo dentro do prazo. A vencer 8 transações ainda no prazo 05/05/2027 Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 penden"
+  },
+  {
+   "linha": [
+    15,
+    592.3,
+    360,
+    59.8
+   ],
+   "texto": "Academia FIXA·Cuidados pessoais·Conta corrente −R$ 119,90 pendente",
+   "periodo": "Junho 2027",
+   "per": [
+    62,
+    76,
+    91.2,
+    32
+   ],
+   "pilula": [
+    11,
+    64,
+    368,
+    55
+   ],
+   "cab": "Pendentes Junho 2027 Todas as contas A pagar R$ 4.349 ,70 7 transações A receber R$ 9.960 Total pendente 8 Nada vencido. Tudo dentro do prazo. A vencer 8 transações ainda no prazo 05/06/2027 Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 pende"
+  },
+  {
+   "linha": [
+    15,
+    592.3,
+    360,
+    59.8
+   ],
+   "texto": "Academia FIXA·Cuidados pessoais·Conta corrente −R$ 119,90 pendente",
+   "periodo": "Julho 2027",
+   "per": [
+    62,
+    76,
+    90,
+    32
+   ],
+   "pilula": [
+    11,
+    64,
+    368,
+    55
+   ],
+   "cab": "Pendentes Julho 2027 Todas as contas A pagar R$ 4.349 ,70 7 transações A receber R$ 9.960 Total pendente 8 Nada vencido. Tudo dentro do prazo. A vencer 8 transações ainda no prazo 05/07/2027 Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 pende"
+  },
+  {
+   "linha": [
+    15,
+    592.3,
+    360,
+    59.8
+   ],
+   "texto": "Academia FIXA·Cuidados pessoais·Conta corrente −R$ 119,90 pendente",
+   "periodo": "Agosto 2027",
+   "per": [
+    62,
+    76,
+    96,
+    32
+   ],
+   "pilula": [
+    11,
+    64,
+    368,
+    55
+   ],
+   "cab": "Pendentes Agosto 2027 Todas as contas A pagar R$ 4.349 ,70 7 transações A receber R$ 9.960 Total pendente 8 Nada vencido. Tudo dentro do prazo. A vencer 8 transações ainda no prazo 05/08/2027 Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 pend"
+  },
+  {
+   "linha": [
+    15,
+    592.3,
+    360,
+    59.8
+   ],
+   "texto": "Academia FIXA·Cuidados pessoais·Conta corrente −R$ 119,90 pendente",
+   "periodo": "Setembro 2027",
+   "per": [
+    62,
+    76,
+    110.6,
+    32
+   ],
+   "pilula": [
+    22,
+    74,
+    190.6,
+    36
+   ],
+   "cab": "Pendentes Setembro 2027 Todas as contas A pagar R$ 3.989 ,70 6 transações A receber R$ 9.960 Total pendente 7 Nada vencido. Tudo dentro do prazo. A vencer 7 transações ainda no prazo 05/09/2027 Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 pe"
+  },
+  {
+   "linha": [
+    15,
+    592.3,
+    360,
+    59.8
+   ],
+   "texto": "Academia FIXA·Cuidados pessoais·Conta corrente −R$ 119,90 pendente",
+   "periodo": "Outubro 2027",
+   "per": [
+    62,
+    76,
+    102,
+    32
+   ],
+   "pilula": [
+    22,
+    74,
+    182,
+    36
+   ],
+   "cab": "Pendentes Outubro 2027 Todas as contas A pagar R$ 3.989 ,70 6 transações A receber R$ 9.960 Total pendente 7 Nada vencido. Tudo dentro do prazo. A vencer 7 transações ainda no prazo 05/10/2027 Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 pen"
+  },
+  {
+   "linha": [
+    15,
+    592.3,
+    360,
+    59.8
+   ],
+   "texto": "Academia FIXA·Cuidados pessoais·Conta corrente −R$ 119,90 pendente",
+   "periodo": "Novembro 2027",
+   "per": [
+    62,
+    76,
+    114.6,
+    32
+   ],
+   "pilula": [
+    22,
+    74,
+    194.6,
+    36
+   ],
+   "cab": "Pendentes Novembro 2027 Todas as contas A pagar R$ 3.989 ,70 6 transações A receber R$ 9.960 Total pendente 7 Nada vencido. Tudo dentro do prazo. A vencer 7 transações ainda no prazo 05/11/2027 Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 pe"
+  },
+  {
+   "linha": [
+    15,
+    592.3,
+    360,
+    59.8
+   ],
+   "texto": "Academia FIXA·Cuidados pessoais·Conta corrente −R$ 119,90 pendente",
+   "periodo": "Dezembro 2027",
+   "per": [
+    62,
+    76,
+    113.8,
+    32
+   ],
+   "pilula": [
+    22,
+    74,
+    193.8,
+    36
+   ],
+   "cab": "Pendentes Dezembro 2027 Todas as contas A pagar R$ 3.989 ,70 6 transações A receber R$ 9.960 Total pendente 7 Nada vencido. Tudo dentro do prazo. A vencer 7 transações ainda no prazo 05/12/2027 Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 pe"
+  }
+ ],
+ "tx_texto": "Transações | Ano 2027 | Todas | as contas | Realizado | Previsto | Ambos | Saldo acumulado | R$ | 115.816 | em 31/12/2027 | Ver detalhes | Transações filtrado | 12 transações · 0 pagas · 12 pendentes · somam R$ 1.438,80 · 817 no histórico | Selecionar | Categorias | Todas | Pagas | Pendentes | Transf. | Data ↓ | Exportar | Agir sobre as 12 filtradas | Recategorizar todas | Trocar conta | Limpar filtro | dom · 5 de dezembro, 2027 | Editar | Excluir | Academia | FixaCuidados pessoais · Conta corrente | −R$ 119,90 | pendente | sex · 5 de novembro, 2027 | Editar | Excluir | Academia | FixaCuidados pessoais · Conta corrente | −R$ 119,90 | pendente | ter · 5 de outubro, 2027 | Editar | Excluir | Academia | FixaCuidados pessoais · Conta corrente | −R$ 119,90 | pendente | dom · 5 de setembro, 2027 | Editar | Excluir | Academia | FixaCuidados pessoais · Conta corrente | −R$ 119,90 | pendente | qui · 5 de agosto, 2027 | Editar | Excluir | Academia | FixaCuidados pessoais · Conta corrente | −R$ 119,90 | pendente | seg",
+ "tx_resumo": [
+  29,
+  355.1,
+  197.3,
+  54,
+  "12 transações · 0 pagas · 12 pendentes · somam R$ 1.438,80 · 817 no histórico"
+ ],
+ "tx_cartao": null,
+ "relogio": "Mon Dec 14 2026 10:01:01 GMT-0300 (Horário Padrão de Brasília)",
+ "erros": []
+}
