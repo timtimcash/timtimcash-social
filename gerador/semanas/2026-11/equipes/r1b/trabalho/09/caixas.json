@@ -1,0 +1,1230 @@
+{
+ "nov": {
+  "itens": {
+   "Demonstrativo de resultado": {
+    "folha": [
+     29,
+     153,
+     332,
+     22.5
+    ],
+    "linha": [
+     29,
+     153,
+     332,
+     22.5
+    ],
+    "cls": "panel-title",
+    "txt": "Demonstrativo de resultado"
+   },
+   "79,9%": null,
+   "RESULTADO": {
+    "folha": [
+     46,
+     250.5,
+     145.2,
+     16.5
+    ],
+    "linha": [
+     29,
+     235.5,
+     332,
+     66.5
+    ],
+    "cls": "dre-resultado pos",
+    "txt": "RESULTADO Receitas menos despesas +R$ 8.831,50"
+   },
+   "RECEITAS": {
+    "folha": [
+     41,
+     321,
+     58.7,
+     16.5
+    ],
+    "linha": [
+     29,
+     310,
+     332,
+     38.5
+    ],
+    "cls": "dre-section-head dre-section-head-rec",
+    "txt": "RECEITAS R$ 9.960,00"
+   },
+   "DESPESAS": {
+    "folha": [
+     41,
+     419.5,
+     63.2,
+     16.5
+    ],
+    "linha": [
+     29,
+     408.5,
+     332,
+     38.5
+    ],
+    "cls": "dre-section-head dre-section-head-des",
+    "txt": "DESPESAS 11,3% R$ 1.128,50"
+   },
+   "Salário": {
+    "folha": [
+     87,
+     363.5,
+     169.8,
+     15.6
+    ],
+    "linha": [
+     29,
+     354.5,
+     332,
+     46
+    ],
+    "cls": "dre-cab-btn dre-cab-fixa",
+    "txt": "Salário R$ 9.960,00"
+   },
+   "Outras receitas": null,
+   "Casa": null,
+   "Mercado": {
+    "folha": [
+     87,
+     462,
+     181.4,
+     15.6
+    ],
+    "linha": [
+     29,
+     453,
+     332,
+     46
+    ],
+    "cls": "dre-cab-btn dre-cab-fixa",
+    "txt": "Mercado R$ 412,80"
+   },
+   "Educação": null,
+   "Transporte": {
+    "folha": [
+     87,
+     508,
+     181.4,
+     15.6
+    ],
+    "linha": [
+     29,
+     499,
+     332,
+     46
+    ],
+    "cls": "dre-cab-btn dre-cab-fixa",
+    "txt": "Transporte R$ 388,00"
+   },
+   "Bares e restaurantes": {
+    "folha": [
+     87,
+     554,
+     181.4,
+     15.6
+    ],
+    "linha": [
+     29,
+     545,
+     332,
+     46
+    ],
+    "cls": "dre-cab-btn dre-cab-fixa",
+    "txt": "Bares e restaurantes R$ 327,70"
+   },
+   "Lazer e hobbies": null,
+   "Presentes e doações": null,
+   "Saúde": null,
+   "Assinaturas e serviços": null
+  },
+  "pct": [],
+  "valores": [
+   [
+    "R$ 21.890,10",
+    [
+     -232,
+     1195.5,
+     202,
+     18
+    ]
+   ],
+   [
+    "R$ 60.000,00",
+    [
+     -232,
+     1250,
+     202,
+     18
+    ]
+   ],
+   [
+    "R$ 33.000,00",
+    [
+     -232,
+     1304.5,
+     202,
+     18
+    ]
+   ],
+   [
+    "R$ 114.890,10",
+    [
+     -256,
+     1391,
+     220,
+     26.4
+    ]
+   ],
+   [
+    "+R$ 8.831,50",
+    [
+     234.2,
+     256,
+     109.8,
+     25.5
+    ]
+   ],
+   [
+    "R$ 9.960,00",
+    [
+     260.8,
+     318,
+     88.2,
+     22.5
+    ]
+   ],
+   [
+    "R$ 9.960,00",
+    [
+     280.8,
+     367.8,
+     76.2,
+     19.5
+    ]
+   ],
+   [
+    "R$ 1.128,50",
+    [
+     260.8,
+     416.5,
+     88.2,
+     22.5
+    ]
+   ],
+   [
+    "R$ 412,80",
+    [
+     292.4,
+     466.3,
+     64.6,
+     19.5
+    ]
+   ],
+   [
+    "R$ 388,00",
+    [
+     292.4,
+     512.3,
+     64.6,
+     19.5
+    ]
+   ],
+   [
+    "R$ 327,70",
+    [
+     292.4,
+     558.3,
+     64.6,
+     19.5
+    ]
+   ]
+  ],
+  "periodoTxt": "Novembro 2026",
+  "card": [
+   14,
+   138,
+   362,
+   482
+  ],
+  "scrollH": 1508
+ },
+ "out": {
+  "itens": {
+   "Demonstrativo de resultado": {
+    "folha": [
+     29,
+     153,
+     332,
+     22.5
+    ],
+    "linha": [
+     29,
+     153,
+     332,
+     22.5
+    ],
+    "cls": "panel-title",
+    "txt": "Demonstrativo de resultado"
+   },
+   "79,9%": {
+    "folha": [
+     111.2,
+     464.5,
+     46.5,
+     18.5
+    ],
+    "linha": [
+     29,
+     454.5,
+     332,
+     38.5
+    ],
+    "cls": "dre-section-head dre-section-head-des",
+    "txt": "DESPESAS 79,9% R$ 8.215,00"
+   },
+   "RESULTADO": {
+    "folha": [
+     46,
+     250.5,
+     145.2,
+     16.5
+    ],
+    "linha": [
+     29,
+     235.5,
+     332,
+     66.5
+    ],
+    "cls": "dre-resultado pos",
+    "txt": "RESULTADO Receitas menos despesas +R$ 2.065,00"
+   },
+   "RECEITAS": {
+    "folha": [
+     41,
+     321,
+     58.7,
+     16.5
+    ],
+    "linha": [
+     29,
+     310,
+     332,
+     38.5
+    ],
+    "cls": "dre-section-head dre-section-head-rec",
+    "txt": "RECEITAS R$ 10.280,00"
+   },
+   "DESPESAS": {
+    "folha": [
+     41,
+     465.5,
+     63.2,
+     16.5
+    ],
+    "linha": [
+     29,
+     454.5,
+     332,
+     38.5
+    ],
+    "cls": "dre-section-head dre-section-head-des",
+    "txt": "DESPESAS 79,9% R$ 8.215,00"
+   },
+   "Salário": {
+    "folha": [
+     87,
+     363.5,
+     169.8,
+     15.6
+    ],
+    "linha": [
+     29,
+     354.5,
+     332,
+     46
+    ],
+    "cls": "dre-cab-btn dre-cab-fixa",
+    "txt": "Salário R$ 9.960,00"
+   },
+   "Outras receitas": {
+    "folha": [
+     87,
+     409.5,
+     181.4,
+     15.6
+    ],
+    "linha": [
+     29,
+     400.5,
+     332,
+     46
+    ],
+    "cls": "dre-cab-btn dre-cab-fixa",
+    "txt": "Outras receitas R$ 320,00"
+   },
+   "Casa": {
+    "folha": [
+     87,
+     508,
+     169.8,
+     15.6
+    ],
+    "linha": [
+     29,
+     499,
+     332,
+     46
+    ],
+    "cls": "dre-cab-btn dre-cab-fixa",
+    "txt": "Casa R$ 2.492,60"
+   },
+   "Mercado": {
+    "folha": [
+     87,
+     554,
+     169.8,
+     15.6
+    ],
+    "linha": [
+     29,
+     545,
+     332,
+     46
+    ],
+    "cls": "dre-cab-btn dre-cab-fixa",
+    "txt": "Mercado R$ 1.725,00"
+   },
+   "Educação": {
+    "folha": [
+     87,
+     600,
+     169.8,
+     15.6
+    ],
+    "linha": [
+     29,
+     591,
+     332,
+     46
+    ],
+    "cls": "dre-cab-btn dre-cab-fixa",
+    "txt": "Educação R$ 1.450,00"
+   },
+   "Transporte": {
+    "folha": [
+     87,
+     646,
+     169.8,
+     15.6
+    ],
+    "linha": [
+     29,
+     637,
+     332,
+     46
+    ],
+    "cls": "dre-cab-btn dre-cab-fixa",
+    "txt": "Transporte R$ 1.207,00"
+   },
+   "Bares e restaurantes": {
+    "folha": [
+     87,
+     692,
+     181.4,
+     15.6
+    ],
+    "linha": [
+     29,
+     683,
+     332,
+     46
+    ],
+    "cls": "dre-cab-btn dre-cab-fixa",
+    "txt": "Bares e restaurantes R$ 681,40"
+   },
+   "Lazer e hobbies": {
+    "folha": [
+     87,
+     738,
+     181.4,
+     15.6
+    ],
+    "linha": [
+     29,
+     729,
+     332,
+     46
+    ],
+    "cls": "dre-cab-btn dre-cab-fixa",
+    "txt": "Lazer e hobbies R$ 214,90"
+   },
+   "Presentes e doações": {
+    "folha": [
+     87,
+     784,
+     181.4,
+     15.6
+    ],
+    "linha": [
+     29,
+     775,
+     332,
+     46
+    ],
+    "cls": "dre-cab-btn dre-cab-fixa",
+    "txt": "Presentes e doações R$ 180,00"
+   },
+   "Saúde": {
+    "folha": [
+     87,
+     830,
+     181.4,
+     15.6
+    ],
+    "linha": [
+     29,
+     821,
+     332,
+     46
+    ],
+    "cls": "dre-cab-btn dre-cab-fixa",
+    "txt": "Saúde R$ 144,30"
+   },
+   "Assinaturas e serviços": {
+    "folha": [
+     87,
+     876,
+     181.4,
+     15.6
+    ],
+    "linha": [
+     29,
+     867,
+     332,
+     46
+    ],
+    "cls": "dre-cab-btn dre-cab-fixa",
+    "txt": "Assinaturas e serviços R$ 119,80"
+   }
+  },
+  "pct": [],
+  "valores": [
+   [
+    "R$ 21.890,10",
+    [
+     -232,
+     1195.5,
+     202,
+     18
+    ]
+   ],
+   [
+    "R$ 60.000,00",
+    [
+     -232,
+     1250,
+     202,
+     18
+    ]
+   ],
+   [
+    "R$ 33.000,00",
+    [
+     -232,
+     1304.5,
+     202,
+     18
+    ]
+   ],
+   [
+    "R$ 114.890,10",
+    [
+     -256,
+     1391,
+     220,
+     26.4
+    ]
+   ],
+   [
+    "+R$ 2.065,00",
+    [
+     234.2,
+     256,
+     109.8,
+     25.5
+    ]
+   ],
+   [
+    "R$ 10.280,00",
+    [
+     251.2,
+     318,
+     97.8,
+     22.5
+    ]
+   ],
+   [
+    "R$ 9.960,00",
+    [
+     280.8,
+     367.8,
+     76.2,
+     19.5
+    ]
+   ],
+   [
+    "R$ 320,00",
+    [
+     292.4,
+     413.8,
+     64.6,
+     19.5
+    ]
+   ],
+   [
+    "R$ 8.215,00",
+    [
+     260.8,
+     462.5,
+     88.2,
+     22.5
+    ]
+   ],
+   [
+    "R$ 2.492,60",
+    [
+     280.8,
+     512.3,
+     76.2,
+     19.5
+    ]
+   ],
+   [
+    "R$ 1.725,00",
+    [
+     280.8,
+     558.3,
+     76.2,
+     19.5
+    ]
+   ],
+   [
+    "R$ 1.450,00",
+    [
+     280.8,
+     604.3,
+     76.2,
+     19.5
+    ]
+   ],
+   [
+    "R$ 1.207,00",
+    [
+     280.8,
+     650.3,
+     76.2,
+     19.5
+    ]
+   ],
+   [
+    "R$ 681,40",
+    [
+     292.4,
+     696.3,
+     64.6,
+     19.5
+    ]
+   ],
+   [
+    "R$ 214,90",
+    [
+     292.4,
+     742.3,
+     64.6,
+     19.5
+    ]
+   ],
+   [
+    "R$ 180,00",
+    [
+     292.4,
+     788.3,
+     64.6,
+     19.5
+    ]
+   ],
+   [
+    "R$ 144,30",
+    [
+     292.4,
+     834.3,
+     64.6,
+     19.5
+    ]
+   ],
+   [
+    "R$ 119,80",
+    [
+     292.4,
+     880.3,
+     64.6,
+     19.5
+    ]
+   ]
+  ],
+  "periodoTxt": "Outubro 2026",
+  "card": [
+   14,
+   138,
+   362,
+   804
+  ],
+  "scrollH": 1508
+ },
+ "texto_out": "Resultado (DRE)\nOutubro 2026\nTodas\nas contas\nDemonstrativo de resultado\n1 a 31 de outubro de 2026\nRESULTADO\nReceitas menos despesas\n+R$ 2.065,00\nRECEITAS\nR$ 10.280,00\nSalário\nR$ 9.960,00\nOutras receitas\nR$ 320,00\nDESPESAS\n79,9%\nR$ 8.215,00\nCasa\nR$ 2.492,60\nMercado\nR$ 1.725,00\nEducação\nR$ 1.450,00\nTransporte\nR$ 1.207,00\nBares e restaurantes\nR$ 681,40\nLazer e hobbies\nR$ 214,90\nPresentes e doações\nR$ 180,00\nSaúde\nR$ 144,30\nAssinaturas e serviços\nR$ 119,80",
+ "erros_cel": [],
+ "botoes_desk": [
+  [
+   "Período anterior",
+   "Período anterior (←)",
+   670.203125,
+   35
+  ]
+ ],
+ "desk": {
+  "itens": {
+   "Demonstrativo de resultado": {
+    "folha": [
+     339,
+     133,
+     219,
+     25.5
+    ],
+    "linha": [
+     339,
+     133,
+     1038,
+     61.5
+    ],
+    "cls": "dre-card-head",
+    "txt": "Demonstrativo de resultado 1 a 31 de outubro de 2026"
+   },
+   "79,9%": {
+    "folha": [
+     426.2,
+     473,
+     104.8,
+     20.5
+    ],
+    "linha": [
+     353,
+     473,
+     900,
+     20.5
+    ],
+    "cls": "dre-section-label-wrap",
+    "txt": "DESPESAS 79,9% da receita"
+   },
+   "RESULTADO": {
+    "folha": [
+     358,
+     243.5,
+     145.2,
+     16.5
+    ],
+    "linha": [
+     339,
+     226.5,
+     1038,
+     70.5
+    ],
+    "cls": "dre-resultado pos",
+    "txt": "RESULTADO Receitas menos despesas +R$ 2.065,00"
+   },
+   "RECEITAS": {
+    "folha": [
+     353,
+     319.5,
+     58.7,
+     16.5
+    ],
+    "linha": [
+     353,
+     319.5,
+     889.2,
+     16.5
+    ],
+    "cls": "dre-section-label-wrap",
+    "txt": "RECEITAS"
+   },
+   "DESPESAS": {
+    "folha": [
+     353,
+     475,
+     63.2,
+     16.5
+    ],
+    "linha": [
+     353,
+     473,
+     900,
+     20.5
+    ],
+    "cls": "dre-section-label-wrap",
+    "txt": "DESPESAS 79,9% da receita"
+   },
+   "Salário": {
+    "folha": [
+     413,
+     370,
+     781.3,
+     21
+    ],
+    "linha": [
+     413,
+     370,
+     781.3,
+     21
+    ],
+    "cls": "dre-cab-nome",
+    "txt": "Salário"
+   },
+   "Outras receitas": {
+    "folha": [
+     413,
+     418,
+     800.8,
+     21
+    ],
+    "linha": [
+     413,
+     418,
+     800.8,
+     21
+    ],
+    "cls": "dre-cab-nome",
+    "txt": "Outras receitas"
+   },
+   "Casa": {
+    "folha": [
+     413,
+     525.5,
+     781.3,
+     21
+    ],
+    "linha": [
+     413,
+     525.5,
+     781.3,
+     21
+    ],
+    "cls": "dre-cab-nome",
+    "txt": "Casa"
+   },
+   "Mercado": {
+    "folha": [
+     413,
+     573.5,
+     781.3,
+     21
+    ],
+    "linha": [
+     413,
+     573.5,
+     781.3,
+     21
+    ],
+    "cls": "dre-cab-nome",
+    "txt": "Mercado"
+   },
+   "Educação": {
+    "folha": [
+     413,
+     621.5,
+     781.3,
+     21
+    ],
+    "linha": [
+     413,
+     621.5,
+     781.3,
+     21
+    ],
+    "cls": "dre-cab-nome",
+    "txt": "Educação"
+   },
+   "Transporte": {
+    "folha": [
+     413,
+     669.5,
+     781.3,
+     21
+    ],
+    "linha": [
+     413,
+     669.5,
+     781.3,
+     21
+    ],
+    "cls": "dre-cab-nome",
+    "txt": "Transporte"
+   },
+   "Bares e restaurantes": {
+    "folha": [
+     413,
+     717.5,
+     800.8,
+     21
+    ],
+    "linha": [
+     413,
+     717.5,
+     800.8,
+     21
+    ],
+    "cls": "dre-cab-nome",
+    "txt": "Bares e restaurantes"
+   },
+   "Lazer e hobbies": {
+    "folha": [
+     413,
+     765.5,
+     800.8,
+     21
+    ],
+    "linha": [
+     413,
+     765.5,
+     800.8,
+     21
+    ],
+    "cls": "dre-cab-nome",
+    "txt": "Lazer e hobbies"
+   },
+   "Presentes e doações": {
+    "folha": [
+     413,
+     813.5,
+     800.8,
+     21
+    ],
+    "linha": [
+     413,
+     813.5,
+     800.8,
+     21
+    ],
+    "cls": "dre-cab-nome",
+    "txt": "Presentes e doações"
+   },
+   "Saúde": {
+    "folha": [
+     413,
+     861.5,
+     800.8,
+     21
+    ],
+    "linha": [
+     413,
+     861.5,
+     800.8,
+     21
+    ],
+    "cls": "dre-cab-nome",
+    "txt": "Saúde"
+   },
+   "Assinaturas e serviços": {
+    "folha": [
+     413,
+     909.5,
+     800.8,
+     21
+    ],
+    "linha": [
+     413,
+     909.5,
+     800.8,
+     21
+    ],
+    "cls": "dre-cab-nome",
+    "txt": "Assinaturas e serviços"
+   }
+  },
+  "pct": [
+   [
+    "96,9%",
+    [
+     1222.3,
+     370.3,
+     50.5,
+     20.5
+    ]
+   ],
+   [
+    "3,1%",
+    [
+     1241.8,
+     418.3,
+     43.5,
+     20.5
+    ]
+   ],
+   [
+    "24,2%",
+    [
+     1222.3,
+     525.8,
+     50.5,
+     20.5
+    ]
+   ],
+   [
+    "16,8%",
+    [
+     1222.3,
+     573.8,
+     50.5,
+     20.5
+    ]
+   ],
+   [
+    "14,1%",
+    [
+     1222.3,
+     621.8,
+     50.5,
+     20.5
+    ]
+   ],
+   [
+    "11,7%",
+    [
+     1222.3,
+     669.8,
+     50.5,
+     20.5
+    ]
+   ],
+   [
+    "6,6%",
+    [
+     1241.8,
+     717.8,
+     43.5,
+     20.5
+    ]
+   ],
+   [
+    "2,1%",
+    [
+     1241.8,
+     765.8,
+     43.5,
+     20.5
+    ]
+   ],
+   [
+    "1,8%",
+    [
+     1241.8,
+     813.8,
+     43.5,
+     20.5
+    ]
+   ],
+   [
+    "1,4%",
+    [
+     1241.8,
+     861.8,
+     43.5,
+     20.5
+    ]
+   ],
+   [
+    "1,2%",
+    [
+     1241.8,
+     909.8,
+     43.5,
+     20.5
+    ]
+   ]
+  ],
+  "valores": [
+   [
+    "R$ 21.890,10",
+    [
+     69,
+     968.5,
+     168,
+     18
+    ]
+   ],
+   [
+    "R$ 60.000,00",
+    [
+     69,
+     1023,
+     168,
+     18
+    ]
+   ],
+   [
+    "R$ 33.000,00",
+    [
+     69,
+     1077.5,
+     168,
+     18
+    ]
+   ],
+   [
+    "R$ 114.890,10",
+    [
+     49,
+     1168,
+     178,
+     26.4
+    ]
+   ],
+   [
+    "+R$ 2.065,00",
+    [
+     1228.8,
+     246.8,
+     129.2,
+     30
+    ]
+   ],
+   [
+    "R$ 10.280,00",
+    [
+     1252.2,
+     315,
+     110.8,
+     25.5
+    ]
+   ],
+   [
+    "R$ 9.960,00",
+    [
+     1282.8,
+     370,
+     82.2,
+     21
+    ]
+   ],
+   [
+    "R$ 320,00",
+    [
+     1295.3,
+     418,
+     69.7,
+     21
+    ]
+   ],
+   [
+    "R$ 8.215,00",
+    [
+     1263,
+     470.5,
+     100,
+     25.5
+    ]
+   ],
+   [
+    "R$ 2.492,60",
+    [
+     1282.8,
+     525.5,
+     82.2,
+     21
+    ]
+   ],
+   [
+    "R$ 1.725,00",
+    [
+     1282.8,
+     573.5,
+     82.2,
+     21
+    ]
+   ],
+   [
+    "R$ 1.450,00",
+    [
+     1282.8,
+     621.5,
+     82.2,
+     21
+    ]
+   ],
+   [
+    "R$ 1.207,00",
+    [
+     1282.8,
+     669.5,
+     82.2,
+     21
+    ]
+   ],
+   [
+    "R$ 681,40",
+    [
+     1295.3,
+     717.5,
+     69.7,
+     21
+    ]
+   ],
+   [
+    "R$ 214,90",
+    [
+     1295.3,
+     765.5,
+     69.7,
+     21
+    ]
+   ],
+   [
+    "R$ 180,00",
+    [
+     1295.3,
+     813.5,
+     69.7,
+     21
+    ]
+   ],
+   [
+    "R$ 144,30",
+    [
+     1295.3,
+     861.5,
+     69.7,
+     21
+    ]
+   ],
+   [
+    "R$ 119,80",
+    [
+     1295.3,
+     909.5,
+     69.7,
+     21
+    ]
+   ]
+  ],
+  "periodoTxt": "Outubro 2026",
+  "card": [
+   339,
+   133,
+   1038,
+   61.5
+  ],
+  "scrollH": 900
+ },
+ "texto_desk": "Mês\nAno\nPersonalizado\nOutubro 2026\nTodas as contas\nNova\nResultado (DRE)\nDemonstrativo de resultado\n1 a 31 de outubro de 2026\nRESULTADO\nReceitas menos despesas\n+R$ 2.065,00\nRECEITAS\nR$ 10.280,00\nSalário\n96,9%\nR$ 9.960,00\nOutras receitas\n3,1%\nR$ 320,00\nDESPESAS\n79,9%\n da receita\nR$ 8.215,00\nCasa\n24,2%\nR$ 2.492,60\nMercado\n16,8%\nR$ 1.725,00\nEducação\n14,1%\nR$ 1.450,00\nTransporte\n11,7%\nR$ 1.207,00\nBares e restaurantes\n6,6%\nR$ 681,40\nLazer e hobbies\n2,1%\nR$ 214,90\nPresentes e doações\n1,8%\nR$ 180,00\nSaúde\n1,4%\nR$ 144,30\nAssinaturas e serviços\n1,2%\nR$ 119,80",
+ "erros_desk": []
+}

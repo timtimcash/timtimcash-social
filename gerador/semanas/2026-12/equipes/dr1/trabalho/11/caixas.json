@@ -1,0 +1,94 @@
+{
+ "arquivos": {
+  "a": "a-relatorios-diagnostico-dezembro.png",
+  "b": "b-pendentes-dezembro-2026.png",
+  "c": "c-pendentes-janeiro-2027.png",
+  "d": "d-pendentes-fevereiro-2027.png"
+ },
+ "d_diag": [
+  14,
+  200,
+  362,
+  549,
+  "Diagnóstico de dezembro 2026 PARCIAL Em andamento · 35% decorrido · Comparado com seus últimos 12 meses Ajustar cálculo Todas as categorias 45% Bem acima do seu padrão Você guardou 2,5 vezes mais do que costuma guardar. "
+ ],
+ "d_reserva": [
+  29,
+  653.5,
+  332,
+  80.5,
+  "Reserva quanto tempo o patrimônio cobre seus gastos 13,8 meses meta 6m"
+ ],
+ "d_receita": [
+  75,
+  488.5,
+  221.5,
+  19.5,
+  "Receita guardada"
+ ],
+ "d_texto": "Pendentes | Fevereiro 2027 | Todas | as contas | A pagar | R$ | 4.444 | ,80 | 7 transações | A receber | R$ | 9.960 | Total pendente | 8 | Nada vencido. Tudo dentro do prazo. | A vencer | 8 transações ainda no prazo | 05/02/2027 | Editar | Excluir | Salário | FIXA·Salário·Conta corrente | +R$ 9.960,00 | pendente | 10/02/2027 | Editar | Excluir | Aluguel | FIXA·Casa·Conta corrente | −R$ 2.300,00 | pendente | Editar | Excluir | Escola | FIXA·Educação·Conta corrente | −R$ 1.450,00 | pendente | Editar | Excluir | IPTU 2027 · 1ª parcela | Impostos e Taxas·Conta corrente | −R$ 215,00 | pendente | 12/02/2027 | Editar | Excluir | Streaming de vídeo | FIXA·Assinaturas e serviços·Conta corrente | −R$ 55,90 | pendente | 15/02/2027 | Editar | Excluir | Streaming de música | FIXA·Assinaturas e serviços·Conta corrente | −R$ 21,90 | pendente | 20/02/2027 | Editar | Excluir | Armazenamento na nuvem | FIXA·Assinaturas e serviços·Conta corrente | −R$ 42,00 | pendente | 27/02/2027 | Editar | Excluir | Notebook (4/10) | 4/10·Compras·Conta corrente | −R$ 360,00 | pendente",
+ "p_cab": [
+  14,
+  138,
+  362,
+  207,
+  "A pagar R$ 479 ,80 4 transações A receber R$ 2.433 ,36 Total pendente 5"
+ ],
+ "p_receber": null,
+ "p_13": [
+  15,
+  737.1,
+  360,
+  58.2,
+  "13º salário · 2ª parcela Salário·Conta corrente +R$ 2.433,36 pendente"
+ ],
+ "p_13dia": [
+  15,
+  695.1,
+  360,
+  42,
+  "EM 7 DIAS · 18/12/2026"
+ ],
+ "p_texto": "Pendentes | Dezembro 2026 | Todas | as contas | A pagar | R$ | 479 | ,80 | 4 transações | A receber | R$ | 2.433 | ,36 | Total pendente | 5 | Nada vencido. Tudo dentro do prazo. | A vencer | 5 transações ainda no prazo | AMANHÃ | · 12/12/2026 | Editar | Excluir | Streaming de vídeo | FIXA·Assinaturas e serviços·Conta corrente | −R$ 55,90 | pendente | EM 4 DIAS | · 15/12/2026 | Editar | Excluir | Streaming de música | FIXA·Assinaturas e serviços·Conta corrente | −R$ 21,90 | pendente | EM 7 DIAS | · 18/12/2026 | Editar | Excluir | 13º salário · 2ª parcela | Salário·Conta corrente | +R$ 2.433,36 | pendente | 20/12/2026 | Editar | Excluir | Armazenamento na nuvem | FIXA·Assinaturas e serviços·Conta corrente | −R$ 42,00 | pendente | 27/12/2026 | Editar | Excluir | Notebook (2/10) | 2/10·Compras·Conta corrente | −R$ 360,00 | pendente",
+ "c_texto": "Pendentes | Janeiro 2027 | Todas | as contas | A pagar | R$ | 6.405 | ,80 | 8 transações | A receber | R$ | 9.960 | Total pendente | 9 | Nada vencido. Tudo dentro do prazo. | A vencer | 9 transações ainda no prazo | 05/01/2027 | Editar | Excluir | Salário | FIXA·Salário·Conta corrente | +R$ 9.960,00 | pendente | 10/01/2027 | Editar | Excluir | Aluguel | FIXA·Casa·Conta corrente | −R$ 2.300,00 | pendente | Editar | Excluir | Escola | FIXA·Educação·Conta corrente | −R$ 1.450,00 | pendente | 12/01/2027 | Editar | Excluir | Streaming de vídeo | FIXA·Assinaturas e serviços·Conta corrente | −R$ 55,90 | pendente | Editar | Excluir | Material escolar | Educação·Conta corrente | −R$ 940,00 | pendente | 15/01/2027 | Editar | Excluir | Streaming de música | FIXA·Assinaturas e serviços·Conta corrente | −R$ 21,90 | pendente | 20/01/2027 | Editar | Excluir | Armazenamento na nuvem | FIXA·Assinaturas e serviços·Conta corrente | −R$ 42,00 | pendente | Editar | Excluir | IPVA 2027 | Impostos e Taxas·Conta corrente | −R$ 1.236,00 | pendente | 27/01/2027 | Editar | Excluir | Notebook (3/10) | 3/10·Compras·Conta corrente | −R$ 360,00 | pendente",
+ "c_mat": [
+  15,
+  858.7,
+  360,
+  58.2,
+  "Material escolar Educação·Conta corrente −R$ 940,00 pendente"
+ ],
+ "c_ipva": [
+  15,
+  1123.5,
+  360,
+  58.2,
+  "IPVA 2027 Impostos e Taxas·Conta corrente −R$ 1.236,00 pendente"
+ ],
+ "c_iptu": null,
+ "c_per": [
+  22,
+  74,
+  178.4,
+  36,
+  "Janeiro 2027"
+ ],
+ "d_mat": null,
+ "d_ipva": null,
+ "d_iptu": [
+  15,
+  755.9,
+  360,
+  58.2,
+  "IPTU 2027 · 1ª parcela Impostos e Taxas·Conta corrente −R$ 215,00 pendente"
+ ],
+ "d_per": [
+  22,
+  74,
+  188.2,
+  36,
+  "Fevereiro 2027"
+ ],
+ "relogio": "Fri Dec 11 2026 10:00:15 GMT-0300 (Horário Padrão de Brasília)",
+ "erros": []
+}

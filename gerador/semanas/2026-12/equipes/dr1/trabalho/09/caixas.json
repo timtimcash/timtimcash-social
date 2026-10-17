@@ -1,0 +1,108 @@
+{
+ "arquivos": {
+  "a": "a-remessas-usd-alta.png",
+  "b": "b-ritmo-do-retorno-ao-ano.png"
+ },
+ "aba": [
+  29,
+  153,
+  70.5,
+  30,
+  "🇺🇸 USD"
+ ],
+ "cab": [
+  29,
+  199,
+  332,
+  282.5,
+  "Investido no exterior 🇺🇸 Estados Unidos no patrimônio · conta de destino US$13.310 na carteira hoje +US$ 1.310,00 +10,9% em US$ +R$ 7.235,46 +12,1% em R$ R$ 67.235,47 ao câmbio de hoje (R$ 5,0515) Atualizar · há 9 dias"
+ ],
+ "carteira": [
+  29,
+  246.5,
+  332,
+  46,
+  "US$13.310 na carteira hoje"
+ ],
+ "res_usd": [
+  29,
+  301.5,
+  191.4,
+  24.5,
+  "+US$ 1.310,00 +10,9% em US$"
+ ],
+ "res_brl": [
+  29,
+  334,
+  175.5,
+  24.5,
+  "+R$ 7.235,46 +12,1% em R$"
+ ],
+ "hoje_brl": [
+  29,
+  367.5,
+  249.6,
+  18,
+  "R$ 67.235,47 ao câmbio de hoje (R$ 5,0515)"
+ ],
+ "jornada": [
+  14,
+  1263.1,
+  362,
+  519.4,
+  "A jornada, desde jul/23 O afastamento entre o degrau e a trajetória é o rendimento. enviado acumulado trajetória na taxa medida valor informado 0 5 mil 10 mil jul/23 mar/25 nov/26 US$ 13.310 enviados: US$ 12.000 Primeira"
+ ],
+ "j_titulo": [
+  29,
+  1278.1,
+  330.3,
+  43.5,
+  "A jornada, desde jul/23 O afastamento entre o degrau e a trajetória é o rendimento."
+ ],
+ "j_graf": [
+  29,
+  1390.6,
+  332,
+  133.9
+ ],
+ "m_primeira": [
+  29,
+  1555.5,
+  161,
+  59,
+  "Primeira remessa 12/07/2023 3 anos atrás"
+ ],
+ "m_envios": [
+  200,
+  1555.5,
+  161,
+  59,
+  "Envios 3 a cada 14 meses, em média"
+ ],
+ "m_maior": [
+  29,
+  1624.5,
+  161,
+  59,
+  "Maior envio 4.000,00 12/07/2023"
+ ],
+ "m_media": [
+  200,
+  1624.5,
+  161,
+  59,
+  "Média por envio 4.000,00"
+ ],
+ "j_rot": null,
+ "j_env": null,
+ "texto": "Remessas | Dezembro 2026 | Todas | as contas | 🇺🇸 USD | 🇪🇺 EUR | Investido no exterior | 🇺🇸 | Estados Unidos | no patrimônio · conta de destino | US$13.310 na carteira hoje | +US$ 1.310,00 | +10,9% em US$ | +R$ 7.235,46 | +12,1% em R$ | R$ 67.235,47 ao câmbio de hoje (R$ 5,0515) | Atualizar | · há 9 dias | Resgate | Nova remessa | De onde veio o resultado em reais | Rendimento dos investimentos convertido no câmbio de hoje, e o efeito do câmbio sobre o que você enviou. | 60 mil | você enviou | +6,6 mil | rendimento | +618 | efeito do câmbio | 67,2 mil | hoje | Os investimentos renderam +US$ 1.310,00 (+10,9%). O câmbio subiu 1,0% desde o câmbio médio do que ainda está lá fora (R$ 5,00 → R$ 5,0515) e somou R$ 618. Sobrou +R$ 7.235,46 (+12,1%). | Câmbio: onde você está | O equilíbrio é o câmbio que zera o resultado em reais: abaixo dele, prejuízo. | R$ 5,0515 | hoje | R$ 4,5079 | R$ 5,00 | No equilíbrio (R$ 4,5079) | R$ 0 | Hoje (R$ 5,0515) | +R$ 7.235,46 | No seu médio (R$ 5,00) | +R$ 6.550,00 | Resultado em reais da carteira de hoje em cada cotação. No seu câmbio médio, o resultado em reais igualaria o retorno na moeda. | A jornada, desde jul/23 | O afastamento entre o degrau e a trajetória é o rendimento. | enviado acumulado | trajetória na taxa medida | valor informado | 0 | 5 mil | 10 mil | jul/23 | mar/25 | nov/26 | US$ 13.310 | enviados: US$ 12.000 | Primeira remessa | 12/07/2023 | 3 anos atrás | Envios | 3 | a cada 14 meses, em média | Maior envio | 4.000,00 | 12/07/2023 | Média por envio | 4.000,00 | O degrau soma as remessas nas datas reais. A linha tracejada não é medição nova: é a mesma TIR (taxa interna de retorno) de Ritmo do retorno, desenhada como trajetória de taxa constante. O timtimcash conhece o valor da carteira só no ponto verde, informado em 30/11/2026. | Ritmo do retorno | TIR (taxa interna de retorno) das datas reais | no período | ao ano | ao mês | 12,8% | na moeda | +US$ 1.310,00no total | 14,2% | em reais | +R$ 7.235,46no total | De 12/07/2023 a 30/11/2026 (3,4 anos) · capital médio US$ 10.295,88 (R$ 51.388,52) | Como o retorno é calculado | Rendimento ano a ano | Taxa de cada ano, em US$ e em reais | Editar fechamentos | 2023 | +6,5% | +120,00 | +3,8% | +R$ 343,68 | aportes 4.000,00 · a R$ 4,90 · fim 4.120,00 | 2024 | +3,6% | +360,00 | +34,4% | +R$ 16.928,73 | aportes 8.000,00 · a R$ 5,05 · fim 12.480,00 | 2025 | +3,9% | +480,00 | −7,7% | −R$ 5.969,09 | fim 12.960,00 | 2026 | até hoje | +3,0% | +350,00 | −6,2% | −R$ 4.067,86 | hoje 13.310,00 | Desde 2023 | +3,6% | +1.310,00 | +4,0% | +R$ 7.235,46 | as taxas ao ano que o painel de rendimento já mostra | a barra de cima é a taxa em US$ | a de baixo, a mesma em R$ | régua até +34% | Em US$ é o rendimento do investimento. Em R$ é o mesmo rendimento mais a variação do câmbio no ano. Cada ano usa as datas reais dos envios: aporte de novembro pesa dois meses, não doze. | Remetido | US$ 12.000,00 | 3 remessas · desde jul/23 | Custo total | R$ 60.000,00 | tudo que saiu do Brasil, com IOF | Câmbio médio efetivo | R$ 5,0000 | com IOF · sem IOF R$ 5,0000 | IOF pago | R$ 0,00 | 0,00% do valor enviado | Remessas | 3 envios · o câmbio efetivo já inclui o IOF · planilha modelo | Por remessa | Por ano | Excluir as de USD | A coluna Hoje em R$ converte a mesma quantia em USD pela cotação de R$ 5,0515 que você informou. O percentual compara com o que a remessa custou: ele mede a variação do câmbio, não o rendimento do investimento. | 18/04/2024 | Conta corrente | 🇺🇸 | Corretora no exterior | US$ 4.000,00 | R$ 5,1000 | R$ 20.400,00 | R$ 20.206,00 | −1,0% | 31,7 meses | 14/03/2024 | Conta corrente | 🇺🇸 | Corretora no exterior | US$ 4.000,00 | R$ 5,0000 | R$ 20.000,00 | R$ 20.206,00 | +1,0% | 32,9 meses | 12/07/2023 | Conta corrente | 🇺🇸 | Corretora no exterior | US$ 4.000,00 | R$ 4,9000 | R$ 19.600,00 | R$ 20.206,00 | +3,1% | 40,9 meses | Total | 3 remessas | US$ 12.000,00 | R$ 60.000,00 | R$ 60.618,00 | +1,0%",
+ "ritmo_ano": [
+  14,
+  1003.5,
+  362,
+  276,
+  "Ritmo do retorno TIR (taxa interna de retorno) das datas reais no período ao ano ao mês 3,6% na moeda +US$ 1.310,00no total 4,0% em reais +R$ 7.235,46no total De 12/07/2023 a 30/11/2026 (3,4 anos) · capital médio US$ 10."
+ ],
+ "relogio": "Wed Dec 09 2026 10:00:12 GMT-0300 (Horário Padrão de Brasília)",
+ "erros": []
+}

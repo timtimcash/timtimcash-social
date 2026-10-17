@@ -1,0 +1,207 @@
+{
+ "arquivos": {
+  "a0": "a0-orcamentos-progresso.png",
+  "a1": "a1-definir-orcamentos.png",
+  "a2_1": "a2-busca-01-p.png",
+  "a2_2": "a2-busca-02-pr.png",
+  "a2_3": "a2-busca-03-pre.png",
+  "a2_4": "a2-busca-04-pres.png",
+  "a2_5": "a2-busca-05-prese.png",
+  "a2_6": "a2-busca-06-presen.png",
+  "a2_7": "a2-busca-07-present.png",
+  "a2_8": "a2-busca-08-presente.png",
+  "a2_9": "a2-busca-09-presentes.png",
+  "a3": "a3-campo-tocado.png",
+  "a4_1": "a4-valor-1.png",
+  "a4_2": "a4-valor-2.png",
+  "a4_3": "a4-valor-3.png",
+  "a4_4": "a4-valor-4.png",
+  "a4_5": "a4-valor-5.png",
+  "a5": "a5-salvo.png",
+  "a6": "a6-orcamentos-rolado-ate-presentes.png",
+  "aalta": "a7-orcamentos-03-12-alta.png",
+  "balta": "b-orcamentos-17-12-alta.png",
+  "calta": "c-orcamentos-21-12-alta.png",
+  "d": "d-transacoes-dezembro-2025-presentes.png"
+ },
+ "a_scroll": 475,
+ "abotao": [
+  29,
+  128,
+  135,
+  36,
+  "Definir limites"
+ ],
+ "abusca": [
+  54,
+  212.8,
+  306,
+  28,
+  ""
+ ],
+ "acampo": [
+  243,
+  455.5,
+  122,
+  48,
+  ""
+ ],
+ "alinhaModal": [
+  62,
+  470,
+  172,
+  19.5,
+  "Presentes e doações"
+ ],
+ "avalor_1": "R$ 0,08",
+ "avalor_2": "R$ 0,80",
+ "avalor_3": "R$ 8,00",
+ "avalor_4": "R$ 80,00",
+ "avalor_5": "R$ 800,00",
+ "arodape": [
+  19,
+  615.5,
+  140.6,
+  16.5,
+  "LIMITE TOTAL POR MÊS"
+ ],
+ "asalvar": [
+  122.5,
+  694,
+  250.5,
+  50,
+  "Salvar"
+ ],
+ "amodalTxt": "Definir orçamentos | Limite mensal de despesa e meta mensal de receita | Despesas | Receitas | 21 categorias | Preencher em lote | Presentes e doações | média R$ 580 | usar R$ 600 | 9 categorias sem movimento em 12 meses | mostrar | LIMITE TOTAL POR MÊS | 6 categorias | R$ 6.250,00 | +R$ 1.607,97 35% acima da média de 12 meses | Cancelar | Salvar",
+ "ascrollSalvo": 203,
+ "atoast": [
+  99.7,
+  630.5,
+  190.6,
+  47.5,
+  "Orçamentos salvos"
+ ],
+ "a_scrollRolado": 639,
+ "arolado": [
+  29,
+  389.5,
+  332,
+  80,
+  "Presentes e doações R$ 0 de R$ 800 0%"
+ ],
+ "aroladoFaixa": [
+  29,
+  75,
+  332,
+  16.5,
+  "TRANQUILAS 6 categorias = hoje"
+ ],
+ "alinha": {
+  "item": [
+   29,
+   1082.5,
+   332,
+   80
+  ],
+  "faixa": [
+   29,
+   768,
+   332,
+   16.5
+  ],
+  "faixaTxt": "TRANQUILAS 6 categorias = hoje",
+  "texto": "Presentes e doações R$ 0 de R$ 800 0%",
+  "excedeu": null,
+  "pct": [
+   264.2,
+   1104.5,
+   22.8,
+   21
+  ],
+  "valor": null,
+  "cab": [
+   14,
+   138,
+   362,
+   430.5
+  ],
+  "cabTxt": "Gasto total no período R$518,30 Dezembro 2026 3 de 31 dias · 10% do período 8% do limite 10% do período R$ 518,30 no orçamento de R$ 6.250,00 R$ 0,00 sem limite · 0% do gasto Limite definido R$ 6.250,00 6 de 6 categorias Usado do limite R$ 518,30 8% do limite · o período está em 10% Sobra do limite R$ 5.731,70 R$ 204 por dia nos 28 dias que faltam"
+ },
+ "a_relogio": "Thu Dec 03 2026 10:00:34 GMT-0300 (Horário Padrão de Brasília)",
+ "a_erros": [],
+ "blinha": {
+  "item": [
+   29,
+   1238.5,
+   332,
+   103
+  ],
+  "faixa": [
+   29,
+   1206,
+   332,
+   16.5
+  ],
+  "faixaTxt": "VÃO ESTOURAR NO RITMO ATUAL 2 categorias = hoje",
+  "texto": "Presentes e doações R$ 774 de R$ 800 97% no ritmo, fecha em R$ 1.412 77% ACIMA",
+  "excedeu": null,
+  "pct": [
+   255.4,
+   1260.5,
+   31.6,
+   21
+  ],
+  "valor": null,
+  "cab": [
+   14,
+   138,
+   362,
+   430.5
+  ],
+  "cabTxt": "Gasto total no período R$6.773,10 Dezembro 2026 17 de 31 dias · 55% do período 47% do limite 55% do período R$ 2.945,30 no orçamento de R$ 6.250,00 R$ 3.827,80 sem limite · 57% do gasto · 3 categorias Limite definido R$ 6.250,00 6 de 9 categorias Usado do limite R$ 2.945,30 47% do limite · o período está em 55% Sobra do limite R$ 3.304,70 R$ 236 por dia nos 14 dias que faltam"
+ },
+ "b_relogio": "Thu Dec 17 2026 10:00:19 GMT-0300 (Horário Padrão de Brasília)",
+ "b_erros": [],
+ "clinha": {
+  "item": [
+   29,
+   1238.5,
+   332,
+   125.5
+  ],
+  "faixa": [
+   29,
+   1206,
+   332,
+   16.5
+  ],
+  "faixaTxt": "JÁ PASSARAM DO LIMITE 1 categoria = hoje",
+  "texto": "Presentes e doações R$ 972 de R$ 800 122% Excedeu em R$ 172 e, no ritmo, fecha em R$ 1.435 79% ACIMA",
+  "excedeu": null,
+  "pct": [
+   246.6,
+   1260.5,
+   40.4,
+   21
+  ],
+  "valor": null,
+  "cab": [
+   14,
+   138,
+   362,
+   430.5
+  ],
+  "cabTxt": "Gasto total no período R$7.711 Dezembro 2026 21 de 31 dias · 68% do período 57% do limite 68% do período R$ 3.561,30 no orçamento de R$ 6.250,00 R$ 4.149,70 sem limite · 54% do gasto · 4 categorias Limite definido R$ 6.250,00 6 de 10 categorias Usado do limite R$ 3.561,30 57% do limite · o período está em 68% Sobra do limite R$ 2.688,70 R$ 268 por dia nos 10 dias que faltam"
+ },
+ "c_relogio": "Mon Dec 21 2026 10:00:19 GMT-0300 (Horário Padrão de Brasília)",
+ "c_erros": [],
+ "d_texto": "Transações | Dezembro 2025 | Todas | as contas | Realizado | Previsto | Ambos | Saldo acumulado | R$ | 89.125 | em 31/12/2025 | Ver detalhes | Transações filtrado | 1 transação · 1 paga · 0 pendentes · somam R$ 980,00 · 746 no histórico | Selecionar | Categorias | Todas | Pagas | Pendentes | Transf. | Data ↓ | Exportar | Agir sobre a transação filtrada | Recategorizar todas | Trocar conta | Limpar filtro | sex · 19 de dezembro, 2025 | Editar | Excluir | Presentes de Natal | Presentes e doações · Conta corrente | −R$ 980,00 | paga",
+ "d_resumo": [
+  29,
+  355.1,
+  197.3,
+  54,
+  "1 transação · 1 paga · 0 pendentes · somam R$ 980,00 · 746 no histórico"
+ ],
+ "d_erros": []
+}
