@@ -1,8 +1,16 @@
 # O que o timtimcash faz
 
-Ficha tirada do código do site, versão `2026-10-16.1` (16/10/2026), lida em 17/10/2026. Ela agora vale para esse build e substitui a do build `2026-09-30.1`. Serve para os posts: cite só o que está aqui e use os nomes exatos das telas e dos botões, que aparecem entre aspas. O código do site não fica neste repositório. Quando o site mudar, o dono envia a versão nova e esta ficha é refeita.
+Ficha tirada do código do site, versão `2026-10-19.5` (19/10/2026), conferida em 20/10/2026. Vale para esse build, que substitui o `2026-10-16.1` (os posts de novembro e dezembro de 2026 usam telas do `2026-10-16.1`). Serve para os posts: cite só o que está aqui e use os nomes exatos das telas e dos botões, que aparecem entre aspas. O código do site não fica neste repositório. Quando o site mudar, o dono envia a versão nova e esta ficha é refeita.
 
-## O que mudou desde o build 2026-09-30.1
+## O que mudou desde o build 2026-10-16.1
+
+- Visão geral no computador: embaixo do "Patrimônio", a variação vem em duas linhas, "↑ 3,5% no patrimônio" e "em relação a agosto" (era "↑ 3,5% desde 31/ago"); no Ano, "em relação a 2025". Com filtro de conta, e em Transações, "no saldo". Embaixo de "Receitas", "Despesas" e "Resultado", uma linha diz de onde vem a média: "Média por mês de Set/25 a Ago/26 · meses fechados".
+- Visão geral no celular: embaixo dos três mini cartões, "Comparado com a média por mês de Set/25 a Ago/26".
+- Transações e Pendentes no celular: o deslize que mostra "Editar" e "Excluir" começa em qualquer ponto da linha, também no valor e no selo de pago. Tocar no selo sem arrastar continua marcando pago ou pendente.
+- No navegador Comet, o teclado não cobre mais a folha do seletor de categoria nem a "Nova transação". No Safari e no Android, nada muda na tela.
+- Limpeza do código (19/10): saiu o que nenhuma tela usava. Nenhuma tela mudou.
+
+## O que mudou do build 2026-09-30.1 para o 2026-10-16.1
 
 - O quarto número da Visão geral e de Transações agora é "Resultado" (era "Saldo"). No modo "Ambos", os cartões mantêm "Receitas", "Despesas" e "Resultado" (eram "Entrou", "Saiu" e "Sobra do mês"). No celular, "Sobrou no período" virou "Resultado do período".
 - Saiu a faixa de pendências do topo da Visão geral e de Transações, com "Ver previsto", "Ver pendentes" e "Conciliar tudo". As pendências ficam na tela "Pendentes".
@@ -57,9 +65,9 @@ Busca global (Cmd+K no computador): encontra telas, ações, contas, categorias 
 
 - Período: "Mês", "Ano" ou "Personalizado", com setas e calendário (atalhos "Hoje", "Últimos 7d", "Últimos 30d", "Últimos 90d", "Este mês" e "Ano atual", ou as datas digitadas).
 - Cálculo: "Realizado" (só o que já entrou e saiu; é o padrão sempre que o site abre), "Previsto" (inclui o que está pendente) ou "Ambos" (o que já aconteceu e quanto falta para o mês fechar).
-- Indicadores: "Patrimônio", "Receitas", "Despesas" e "Resultado", com os mesmos nomes nos três modos. A variação compara com a média dos meses fechados, até 12 antes do mês atual ("vs média"), a partir de 3 meses de histórico. O cartão "Patrimônio" mostra quanto ele mudou no mês ("Este mês").
+- Indicadores: "Patrimônio", "Receitas", "Despesas" e "Resultado", com os mesmos nomes nos três modos. A variação compara com a média dos meses fechados, até 12 antes do mês atual ("vs média"), a partir de 3 meses de histórico; no computador, a linha "Média por mês de Set/25 a Ago/26 · meses fechados" diz o período. O cartão "Patrimônio" mostra quanto ele mudou no mês ("Este mês"), em duas linhas: "↑ 3,5% no patrimônio" e "em relação a agosto".
 - Embaixo de "Receitas" e "Despesas", o site diz quantos lançamentos pendentes ficaram de fora (ou "inclusos", no Previsto). Não há mais faixa de pendências no topo.
-- No celular: cartão do patrimônio com a variação em relação ao fim do mês anterior e um gráfico pequeno de 12 meses, a frase "Guardou X% da receita" e a linha "Resultado do período" (ou "Resultado negativo do período").
+- No celular: cartão do patrimônio com a variação em relação ao fim do mês anterior e um gráfico pequeno de 12 meses, a frase "Guardou X% da receita" e a linha "Resultado do período" (ou "Resultado negativo do período"). Embaixo dos mini cartões, "Comparado com a média por mês de Set/25 a Ago/26".
 - Blocos:
   - "Fluxo mensal", com os últimos 12 meses.
   - "Análise do período": "Receita média" e "Despesa média" (dos meses fechados), "Saldo acumulado" e "Reserva financeira" (em meses), com o botão "Personalizar" (3, 6, 12 ou 24 meses, contas e categorias).
@@ -92,7 +100,7 @@ Busca global (Cmd+K no computador): encontra telas, ações, contas, categorias 
   - Com filtro ativo, a faixa "Agir sobre as N filtradas" traz "Recategorizar todas", "Trocar conta" e "Limpar filtro".
   - "Exportar" da lista baixa exatamente o que está filtrado, em "Excel (.xlsx)" ou "CSV".
 - Ações em lote: "Selecionar", com "Selecionar tudo", "Pagas", "Pendentes", "Recategorizar", "Trocar conta" e "Excluir".
-- Excluir tem "Desfazer". No celular, arrastar a linha mostra "Editar" e "Excluir", e a edição termina com "Excluir transação".
+- Excluir tem "Desfazer". No celular, arrastar a linha (em qualquer ponto dela) mostra "Editar" e "Excluir", e a edição termina com "Excluir transação".
 - Categorias:
   - O cadastro começa com 21 categorias de despesa e 4 de receita.
   - Em "Categorias" dá para criar, renomear, trocar cor e ícone ("Aparência"), criar subcategorias, mover, reordenar e excluir. Para excluir uma categoria com lançamentos, é preciso mover os lançamentos antes.
