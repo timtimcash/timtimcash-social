@@ -1,0 +1,708 @@
+{
+ "cenario": {
+  "cenario": "renda",
+  "hoje": "2027-02-23",
+  "renda": [
+   [
+    "2027-02-12",
+    "450.00"
+   ],
+   [
+    "2027-02-22",
+    "300.00"
+   ]
+  ],
+  "separada": true
+ },
+ "teclas": [
+  [
+   "meta",
+   "1",
+   "celular-meta-4-digita-1.jpg"
+  ],
+  [
+   "meta",
+   "0",
+   "celular-meta-4-digita-2.jpg"
+  ],
+  [
+   "meta",
+   "0",
+   "celular-meta-4-digita-3.jpg"
+  ],
+  [
+   "meta",
+   "0",
+   "celular-meta-4-digita-4.jpg"
+  ],
+  [
+   "meta",
+   "0",
+   "celular-meta-4-digita-5.jpg"
+  ],
+  [
+   "meta",
+   "0",
+   "celular-meta-4-digita-6.jpg"
+  ]
+ ],
+ "celular-meta-1-orcamentos.jpg": {
+  "definir": [
+   127.5,
+   350.5,
+   135,
+   36
+  ],
+  "progresso": null,
+  "texto": "Orçamentos\nFevereiro 2027\nTodas\nas contas\nSem limites definidos\nDefina limites por categoria para acompanhar seus gastos do mês.\nDefinir limites",
+  "rolagem": 8
+ },
+ "celular-meta-2-despesas.jpg": {
+  "folha": [
+   0,
+   88,
+   390,
+   920
+  ],
+  "abas": [
+   19,
+   186,
+   352,
+   40
+  ],
+  "campo": null,
+  "linha": null,
+  "salvar": [
+   122.5,
+   942,
+   250.5,
+   50
+  ],
+  "total": null,
+  "aba_rec": null,
+  "texto": "Definir orçamentos\nLimite mensal de despesa e meta mensal de receita\nDespesas\nReceitas\n21 categorias\nPreencher em lote\nAlimentação\nsem histórico\nAssinaturas e serviços\nsem histórico\nBares e restaurantes\nsem histórico\nCasa\nsem histórico\nCompras\nsem histórico\nCuidados pessoais\nsem histórico\nDívidas e empréstimos\nsem histórico\nEducação\nsem histórico\nFamília e filhos\nsem histórico\nImpostos e Taxas\nsem histórico\nInvestimentos\nsem histórico\nLazer e hobbies\nsem histórico\nMercado\nsem histórico\nOutros\nsem histórico\nPets\nsem histórico\nPresentes e doações\nsem histórico\nRoupas\nsem histórico\nSaúde\nsem histórico\nTrabalho\nsem histórico\nTransporte\nsem histórico\nViagem\nsem histórico\nNenhum limite definido ainda · preencha as categorias ou use os atalhos acima\nCancelar\nSalvar",
+  "rolagem": 8
+ },
+ "aba_receitas": [
+  196,
+  189,
+  172,
+  34
+ ],
+ "celular-meta-3-receitas.jpg": {
+  "folha": [
+   0,
+   484,
+   390,
+   524
+  ],
+  "abas": [
+   19,
+   582,
+   352,
+   40
+  ],
+  "campo": [
+   243,
+   743,
+   122,
+   48
+  ],
+  "linha": [
+   62,
+   756.8,
+   172,
+   19.5
+  ],
+  "salvar": [
+   122.5,
+   942,
+   250.5,
+   50
+  ],
+  "total": null,
+  "texto": "Definir orçamentos\nLimite mensal de despesa e meta mensal de receita\nDespesas\nReceitas\n4 categorias\nPreencher em lote\nOutras receitas\n3 categorias sem movimento em 12 meses\nmostrar\nNenhum valor de meta definido ainda · preencha as categorias ou use os atalhos acima\nCancelar\nSalvar",
+  "rolagem": 8
+ },
+ "celular-meta-4-digita-1.jpg": {
+  "folha": [
+   0,
+   478,
+   390,
+   530
+  ],
+  "abas": [
+   19,
+   576,
+   352,
+   40
+  ],
+  "campo": [
+   243,
+   737,
+   122,
+   48
+  ],
+  "linha": [
+   62,
+   750.8,
+   172,
+   19.5
+  ],
+  "salvar": [
+   122.5,
+   942,
+   250.5,
+   50
+  ],
+  "total": null,
+  "texto": "Definir orçamentos\nLimite mensal de despesa e meta mensal de receita\nDespesas\nReceitas\n4 categorias\nPreencher em lote\nOutras receitas\n3 categorias sem movimento em 12 meses\nmostrar\nMETA TOTAL POR MÊS\n1 categoria\nR$ 0,01\nCancelar\nSalvar",
+  "rolagem": 8,
+  "valor": "R$ 0,01"
+ },
+ "celular-meta-4-digita-2.jpg": {
+  "folha": [
+   0,
+   478,
+   390,
+   530
+  ],
+  "abas": [
+   19,
+   576,
+   352,
+   40
+  ],
+  "campo": [
+   243,
+   737,
+   122,
+   48
+  ],
+  "linha": [
+   62,
+   750.8,
+   172,
+   19.5
+  ],
+  "salvar": [
+   122.5,
+   942,
+   250.5,
+   50
+  ],
+  "total": null,
+  "texto": "Definir orçamentos\nLimite mensal de despesa e meta mensal de receita\nDespesas\nReceitas\n4 categorias\nPreencher em lote\nOutras receitas\n3 categorias sem movimento em 12 meses\nmostrar\nMETA TOTAL POR MÊS\n1 categoria\nR$ 0,10\nCancelar\nSalvar",
+  "rolagem": 8,
+  "valor": "R$ 0,10"
+ },
+ "celular-meta-4-digita-3.jpg": {
+  "folha": [
+   0,
+   478,
+   390,
+   530
+  ],
+  "abas": [
+   19,
+   576,
+   352,
+   40
+  ],
+  "campo": [
+   243,
+   737,
+   122,
+   48
+  ],
+  "linha": [
+   62,
+   750.8,
+   172,
+   19.5
+  ],
+  "salvar": [
+   122.5,
+   942,
+   250.5,
+   50
+  ],
+  "total": null,
+  "texto": "Definir orçamentos\nLimite mensal de despesa e meta mensal de receita\nDespesas\nReceitas\n4 categorias\nPreencher em lote\nOutras receitas\n3 categorias sem movimento em 12 meses\nmostrar\nMETA TOTAL POR MÊS\n1 categoria\nR$ 1,00\nCancelar\nSalvar",
+  "rolagem": 8,
+  "valor": "R$ 1,00"
+ },
+ "celular-meta-4-digita-4.jpg": {
+  "folha": [
+   0,
+   478,
+   390,
+   530
+  ],
+  "abas": [
+   19,
+   576,
+   352,
+   40
+  ],
+  "campo": [
+   243,
+   737,
+   122,
+   48
+  ],
+  "linha": [
+   62,
+   750.8,
+   172,
+   19.5
+  ],
+  "salvar": [
+   122.5,
+   942,
+   250.5,
+   50
+  ],
+  "total": null,
+  "texto": "Definir orçamentos\nLimite mensal de despesa e meta mensal de receita\nDespesas\nReceitas\n4 categorias\nPreencher em lote\nOutras receitas\n3 categorias sem movimento em 12 meses\nmostrar\nMETA TOTAL POR MÊS\n1 categoria\nR$ 10,00\nCancelar\nSalvar",
+  "rolagem": 8,
+  "valor": "R$ 10,00"
+ },
+ "celular-meta-4-digita-5.jpg": {
+  "folha": [
+   0,
+   478,
+   390,
+   530
+  ],
+  "abas": [
+   19,
+   576,
+   352,
+   40
+  ],
+  "campo": [
+   243,
+   737,
+   122,
+   48
+  ],
+  "linha": [
+   62,
+   750.8,
+   172,
+   19.5
+  ],
+  "salvar": [
+   122.5,
+   942,
+   250.5,
+   50
+  ],
+  "total": null,
+  "texto": "Definir orçamentos\nLimite mensal de despesa e meta mensal de receita\nDespesas\nReceitas\n4 categorias\nPreencher em lote\nOutras receitas\n3 categorias sem movimento em 12 meses\nmostrar\nMETA TOTAL POR MÊS\n1 categoria\nR$ 100,00\nCancelar\nSalvar",
+  "rolagem": 8,
+  "valor": "R$ 100,00"
+ },
+ "celular-meta-4-digita-6.jpg": {
+  "folha": [
+   0,
+   478,
+   390,
+   530
+  ],
+  "abas": [
+   19,
+   576,
+   352,
+   40
+  ],
+  "campo": [
+   243,
+   737,
+   122,
+   48
+  ],
+  "linha": [
+   62,
+   750.8,
+   172,
+   19.5
+  ],
+  "salvar": [
+   122.5,
+   942,
+   250.5,
+   50
+  ],
+  "total": null,
+  "texto": "Definir orçamentos\nLimite mensal de despesa e meta mensal de receita\nDespesas\nReceitas\n4 categorias\nPreencher em lote\nOutras receitas\n3 categorias sem movimento em 12 meses\nmostrar\nMETA TOTAL POR MÊS\n1 categoria\nR$ 1.000,00\nCancelar\nSalvar",
+  "rolagem": 8,
+  "valor": "R$ 1.000,00"
+ },
+ "aviso_salvar": "Orçamentos salvos",
+ "celular-meta-5-faltam.jpg": {
+  "texto": "Orçamentos salvos\nOrçamentos salvos\nOrçamentos\nFevereiro 2027\nTodas\nas contas\nSem limites de despesa\nVocê já tem metas de receita. Defina limites de gasto para acompanhar os dois lados.\nDefinir limites\nMetas de receita\nFevereiro 2027\nEditar metas\nOutras receitas\nR$ 750 de R$ 1.000\n75%\nFaltam R$ 250 para a meta",
+  "rolagem": 8,
+  "metas": {
+   "painel": [
+    14,
+    459.5,
+    362,
+    187
+   ],
+   "titulo": [
+    29,
+    474.5,
+    116.5,
+    22.5
+   ],
+   "item": [
+    29,
+    546,
+    332,
+    85.5
+   ],
+   "vals": [
+    71,
+    573,
+    174.4,
+    18
+   ],
+   "pct": [
+    255.4,
+    560,
+    31.6,
+    21
+   ],
+   "barra": [
+    29,
+    599,
+    332,
+    6
+   ],
+   "aviso": [
+    29,
+    611,
+    332,
+    16.5
+   ],
+   "editar": [
+    230.7,
+    474.5,
+    130.3,
+    36
+   ],
+   "texto": "Metas de receita Fevereiro 2027 Editar metas Outras receitas R$ 750 de R$ 1.000 75% Faltam R$ 250 para a meta"
+  }
+ },
+ "celular-meta-6-faltam-limpo.jpg": {
+  "texto": "Orçamentos salvos\nOrçamentos\nFevereiro 2027\nTodas\nas contas\nSem limites de despesa\nVocê já tem metas de receita. Defina limites de gasto para acompanhar os dois lados.\nDefinir limites\nMetas de receita\nFevereiro 2027\nEditar metas\nOutras receitas\nR$ 750 de R$ 1.000\n75%\nFaltam R$ 250 para a meta",
+  "rolagem": 8,
+  "metas": {
+   "painel": [
+    14,
+    459.5,
+    362,
+    187
+   ],
+   "titulo": [
+    29,
+    474.5,
+    116.5,
+    22.5
+   ],
+   "item": [
+    29,
+    546,
+    332,
+    85.5
+   ],
+   "vals": [
+    71,
+    573,
+    174.4,
+    18
+   ],
+   "pct": [
+    255.4,
+    560,
+    31.6,
+    21
+   ],
+   "barra": [
+    29,
+    599,
+    332,
+    6
+   ],
+   "aviso": [
+    29,
+    611,
+    332,
+    16.5
+   ],
+   "editar": [
+    230.7,
+    474.5,
+    130.3,
+    36
+   ],
+   "texto": "Metas de receita Fevereiro 2027 Editar metas Outras receitas R$ 750 de R$ 1.000 75% Faltam R$ 250 para a meta"
+  }
+ },
+ "botao_receita": [
+  166.75,
+  402.5,
+  50.390625,
+  17
+ ],
+ "celular-meta-7-receita.jpg": {
+  "folha": [
+   0,
+   310,
+   390,
+   698
+  ],
+  "receita": [
+   130.3,
+   394,
+   102.3,
+   34
+  ],
+  "valor": [
+   165.5,
+   475.5,
+   95,
+   54
+  ],
+  "cat": [
+   1,
+   689.5,
+   388,
+   53
+  ],
+  "desc": [
+   67,
+   805.5,
+   300,
+   32
+  ],
+  "lancar": [
+   136.1,
+   948,
+   230.9,
+   44
+  ],
+  "sug": null,
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\ntoque para digitar o valor\nData\nHoje 23/02\nJá foi recebido\nAfeta o saldo real da conta agora\nCategoria\nSalário\nRecebido em\nConta corrente\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar receita",
+  "rolagem": 8
+ },
+ "celular-meta-8-sugestao.jpg": {
+  "folha": [
+   0,
+   310,
+   390,
+   698
+  ],
+  "receita": [
+   130.3,
+   394,
+   102.3,
+   34
+  ],
+  "valor": [
+   138,
+   475.5,
+   150,
+   54
+  ],
+  "cat": [
+   1,
+   689.5,
+   388,
+   53
+  ],
+  "desc": [
+   67,
+   805.5,
+   300,
+   32
+  ],
+  "lancar": [
+   136.1,
+   948,
+   230.9,
+   44
+  ],
+  "sug": null,
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 23/02\nJá foi recebido\nAfeta o saldo real da conta agora\nCategoria\nSalário\nRecebido em\nConta corrente\nTrabalho extra\nOutras receitas · 2x\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar receita",
+  "rolagem": 8
+ },
+ "valor_receita": "250,00",
+ "sugestao": [
+  72,
+  846.5,
+  290,
+  37.5,
+  "Trabalho extra Outras receitas · 2x"
+ ],
+ "celular-meta-9-preenchida.jpg": {
+  "folha": [
+   0,
+   310,
+   390,
+   698
+  ],
+  "receita": [
+   130.3,
+   394,
+   102.3,
+   34
+  ],
+  "valor": [
+   138,
+   475.5,
+   150,
+   54
+  ],
+  "cat": [
+   1,
+   689.5,
+   388,
+   53
+  ],
+  "desc": [
+   67,
+   805.5,
+   300,
+   32
+  ],
+  "lancar": [
+   136.1,
+   948,
+   230.9,
+   44
+  ],
+  "sug": null,
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 23/02\nJá foi recebido\nAfeta o saldo real da conta agora\nCategoria\nOutras receitas\nRecebido em\nConta corrente\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar receita",
+  "rolagem": 8
+ },
+ "receita_preenchida": {
+  "valor": "250,00",
+  "desc": "Trabalho extra"
+ },
+ "aviso_lancar": "Transação adicionada",
+ "celular-meta-10-cumprida.jpg": {
+  "texto": "Transação adicionada\nTransação adicionada\nOrçamentos\nFevereiro 2027\nTodas\nas contas\nSem limites de despesa\nVocê já tem metas de receita. Defina limites de gasto para acompanhar os dois lados.\nDefinir limites\nMetas de receita\nFevereiro 2027\nEditar metas\nOutras receitas\nR$ 1.000 de R$ 1.000\n100%\nMeta cumprida",
+  "rolagem": 8,
+  "metas": {
+   "painel": [
+    14,
+    459.5,
+    362,
+    187
+   ],
+   "titulo": [
+    29,
+    474.5,
+    116.5,
+    22.5
+   ],
+   "item": [
+    29,
+    546,
+    332,
+    85.5
+   ],
+   "vals": [
+    71,
+    573,
+    165.6,
+    18
+   ],
+   "pct": [
+    246.6,
+    560,
+    40.4,
+    21
+   ],
+   "barra": [
+    29,
+    599,
+    332,
+    6
+   ],
+   "aviso": [
+    29,
+    611,
+    332,
+    16.5
+   ],
+   "editar": [
+    230.7,
+    474.5,
+    130.3,
+    36
+   ],
+   "texto": "Metas de receita Fevereiro 2027 Editar metas Outras receitas R$ 1.000 de R$ 1.000 100% Meta cumprida"
+  }
+ },
+ "celular-meta-11-cumprida-limpo.jpg": {
+  "texto": "Transação adicionada\nOrçamentos\nFevereiro 2027\nTodas\nas contas\nSem limites de despesa\nVocê já tem metas de receita. Defina limites de gasto para acompanhar os dois lados.\nDefinir limites\nMetas de receita\nFevereiro 2027\nEditar metas\nOutras receitas\nR$ 1.000 de R$ 1.000\n100%\nMeta cumprida",
+  "rolagem": 8,
+  "metas": {
+   "painel": [
+    14,
+    459.5,
+    362,
+    187
+   ],
+   "titulo": [
+    29,
+    474.5,
+    116.5,
+    22.5
+   ],
+   "item": [
+    29,
+    546,
+    332,
+    85.5
+   ],
+   "vals": [
+    71,
+    573,
+    165.6,
+    18
+   ],
+   "pct": [
+    246.6,
+    560,
+    40.4,
+    21
+   ],
+   "barra": [
+    29,
+    599,
+    332,
+    6
+   ],
+   "aviso": [
+    29,
+    611,
+    332,
+    16.5
+   ],
+   "editar": [
+    230.7,
+    474.5,
+    130.3,
+    36
+   ],
+   "texto": "Metas de receita Fevereiro 2027 Editar metas Outras receitas R$ 1.000 de R$ 1.000 100% Meta cumprida"
+  }
+ },
+ "relogio": "Tue Feb 23 2027 10:00:36 GMT-0300 (Horário Padrão de Brasília)",
+ "erros": []
+}

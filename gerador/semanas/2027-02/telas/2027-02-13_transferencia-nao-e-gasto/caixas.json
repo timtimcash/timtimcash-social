@@ -1,0 +1,270 @@
+{
+ "1302_visao_fev": {
+  "Movimento de fevereiro 2027": {
+   "x": 31,
+   "y": 432,
+   "w": 328,
+   "h": 40,
+   "tag": "DIV"
+  },
+  "Guardou": {
+   "x": 31,
+   "y": 478,
+   "w": 328,
+   "h": 18,
+   "tag": "DIV"
+  },
+  "Receitas R$": null,
+  "Despesas R$": null,
+  "Resultado do período": {
+   "x": 31,
+   "y": 587,
+   "w": 122.75,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "PARCIAL": null,
+  "_rolagem": 0,
+  "_texto": "Visão geral | Fevereiro 2027 | Todas | as contas | Realizado | Previsto | Ambos | Patrimônio | R$ | 115.733 | ,66 | alta de | 3,0% em relação a jan/27 | 5 contas somadas | Mar/26 | Fev/27 | Movimento de fevereiro 2027 | PARCIAL | Guardou 33,6% da receita | 33,6% | 66,4% | Receitas R$ 9.960,00 | Despesas R$ 6.610,10 | Resultado do período | R$ 3.349,90 | Receitas | R$ 9.960 | queda de | 5,7% | Despesas | R$ 6.610 | queda de | 23,4% | Resultado | R$ 3.349 | alta de | 73,3% | Comparado com a média por mês de Fev/26 a Jan/27 | Últimos 12 meses | Fluxo mensal | Mar/26 a Fev/27 | Média por mês · Fev/26 a Jan/27 | Receitas | R$ 10.564,45 | Despesas | R$ 8.631,22 | Análise do período | Últimos 12 meses · meses sem lançamentos são ignorados | Receita média | R$ 10.564,45 | Fev/26 a Jan/27 · meses fechados | ↓ 5,7% (este mês vs média) | Despesa média | R$ 8.631,22 | Fev/26 a Jan/27 · meses fechado"
+ },
+ "1302_transf_fev": {
+  "Fevereiro 2027": {
+   "x": 62,
+   "y": 76,
+   "w": 108.234375,
+   "h": 32,
+   "tag": "DIV"
+  },
+  "Transações": {
+   "x": -274,
+   "y": 248.5,
+   "w": 256,
+   "h": 48,
+   "tag": "BUTTON"
+  },
+  "Agir sobre": {
+   "x": 33,
+   "y": 602.09375,
+   "w": 324,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "sex · 5 de fevereiro": {
+   "x": 15,
+   "y": 706.09375,
+   "w": 360,
+   "h": 33.5,
+   "tag": "DIV"
+  },
+  "Aplicação na reserva": {
+   "x": 81,
+   "y": 754.1875,
+   "w": 142.09375,
+   "h": 16.796875,
+   "tag": "SPAN"
+  },
+  "qui · 4 de fevereiro": {
+   "x": 15,
+   "y": 802.59375,
+   "w": 360,
+   "h": 49.5,
+   "tag": "DIV"
+  },
+  "Dinheiro para a folia": {
+   "x": 81,
+   "y": 866.6875,
+   "w": 134.171875,
+   "h": 16.796875,
+   "tag": "SPAN"
+  },
+  "_rolagem": 0,
+  "_resumo": "2 transações · 2 pagas · 0 pendentes · somam R$ 2.000,00"
+ },
+ "1302_reserva_2026": {
+  "Ano 2026": {
+   "x": 62,
+   "y": 76,
+   "w": 90,
+   "h": 32,
+   "tag": "DIV"
+  },
+  "Transações": {
+   "x": -274,
+   "y": 248.5,
+   "w": 256,
+   "h": 48,
+   "tag": "BUTTON"
+  },
+  "Agir sobre": {
+   "x": 33,
+   "y": 620.09375,
+   "w": 324,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "seg · 7 de dezembro": {
+   "x": 15,
+   "y": 724.09375,
+   "w": 360,
+   "h": 33.5,
+   "tag": "DIV"
+  },
+  "sex · 6 de novembro": {
+   "x": 15,
+   "y": 820.59375,
+   "w": 360,
+   "h": 49.5,
+   "tag": "DIV"
+  },
+  "ter · 6 de outubro": {
+   "x": 15,
+   "y": 933.09375,
+   "w": 360,
+   "h": 49.5,
+   "tag": "DIV"
+  },
+  "_rolagem": 0,
+  "_resumo": "12 transações · 12 pagas · 0 pendentes · somam R$ 18.000,00"
+ },
+ "1302_visao_2026": {
+  "Movimento de 2026": {
+   "x": 31,
+   "y": 432,
+   "w": 328,
+   "h": 40,
+   "tag": "DIV"
+  },
+  "Guardou": {
+   "x": 31,
+   "y": 478,
+   "w": 328,
+   "h": 18,
+   "tag": "DIV"
+  },
+  "Receitas R$": null,
+  "Despesas R$": null,
+  "Resultado do período": {
+   "x": 31,
+   "y": 587,
+   "w": 122.75,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "_rolagem": 0,
+  "_texto": "Visão geral | Ano 2026 | Todas | as contas | Realizado | Previsto | Ambos | Patrimônio | R$ | 115.733 | ,66 | alta de | 3,0% em relação a jan/27 | 5 contas somadas | Mar/26 | Fev/27 | Movimento de 2026 | Guardou 19,4% da receita | 19,4% | 80,6% | Receitas R$ 126.293,36 | Despesas R$ 101.854,70 | Resultado do período | R$ 24.438,66 | Receitas | R$ 126.293 | alta de | 17,3% | Despesas | R$ 101.854 | alta de | 23,7% | Resultado | R$ 24.438 | queda de | 11,3% | Comparado com a média por mês de Fev/26 a Jan/27 | Últimos 12 meses | Fluxo mensal | Mar/26 a Fev/27 | Média por mês · Fev/26 a Jan/27 | Receitas | R$ 10.564,45 | Despesas | R$ 8.631,22 | Análise do período | Últimos 12 meses · meses sem lançamentos são ignorados | Receita média | R$ 10.564,45 | Fev/26 a Jan/27 · meses fechados | Despesa média | R$ 8.631,22 | Fev/26 a Jan/27 · meses fechados | Saldo acumulado | R$ 115.733,66 | +R$ 22."
+ },
+ "1302_transferencia": {
+  "Nova transação": {
+   "x": 23,
+   "y": 333.75,
+   "w": 129.3125,
+   "h": 25.5,
+   "tag": "H2"
+  },
+  "Valor": {
+   "x": 19,
+   "y": 442.5,
+   "w": 352,
+   "h": 16.5,
+   "tag": "DIV"
+  },
+  "Data": {
+   "x": 67,
+   "y": 577.5,
+   "w": 174.15625,
+   "h": 24,
+   "tag": "DIV"
+  },
+  "Marcar como feita": {
+   "x": 67,
+   "y": 626.5,
+   "w": 248,
+   "h": 24,
+   "tag": "DIV"
+  },
+  "De": {
+   "x": 58.0625,
+   "y": 396,
+   "w": 58.453125,
+   "h": 17,
+   "tag": "SPAN"
+  },
+  "Para": {
+   "x": 67,
+   "y": 750,
+   "w": 185.28125,
+   "h": 24,
+   "tag": "DIV"
+  },
+  "Aplicação na reserva": null,
+  "Registrar transferência": {
+   "x": 136.125,
+   "y": 940,
+   "w": 230.875,
+   "h": 44,
+   "tag": "BUTTON"
+  },
+  "_rolagem": 0,
+  "sheet": [
+   1,
+   318,
+   388,
+   57
+  ],
+  "_texto": "Nova transação | Despesa | Receita | Transferência | Valor | R$ |   | Data | 05/03/2027 | Marcar como feita | Fica como pendente até você confirmar | De | Conta corrente | Para | Reserva | Remessa ao exterior | Dinheiro indo para fora, ou voltando de lá | Cancelar | Registrar transferência"
+ },
+ "1302_volta": {
+  "Nova transação": {
+   "x": 23,
+   "y": 333.75,
+   "w": 129.3125,
+   "h": 25.5,
+   "tag": "H2"
+  },
+  "Valor": {
+   "x": 19,
+   "y": 442.5,
+   "w": 352,
+   "h": 16.5,
+   "tag": "DIV"
+  },
+  "Data": {
+   "x": 67,
+   "y": 577.5,
+   "w": 174.90625,
+   "h": 24,
+   "tag": "DIV"
+  },
+  "Já foi feita": {
+   "x": 67,
+   "y": 626.5,
+   "w": 248,
+   "h": 24,
+   "tag": "DIV"
+  },
+  "Para": {
+   "x": 67,
+   "y": 750,
+   "w": 133.796875,
+   "h": 24,
+   "tag": "DIV"
+  },
+  "Remessa ao exterior": {
+   "x": 67,
+   "y": 799,
+   "w": 248,
+   "h": 24,
+   "tag": "DIV"
+  },
+  "Registrar transferência": {
+   "x": 136.125,
+   "y": 940,
+   "w": 230.875,
+   "h": 44,
+   "tag": "BUTTON"
+  },
+  "_rolagem": 0,
+  "_texto": "Nova transação | Despesa | Receita | Transferência | Valor | R$ |   | Data | Hoje 13/02 | Já foi feita | Afeta o saldo das duas contas agora | De | Reserva | Para | Conta corrente | Remessa ao exterior | Dinheiro indo para fora, ou voltando de lá | Cancelar | Registrar transferência",
+  "_valor": "1.000,00"
+ }
+}

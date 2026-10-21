@@ -1,0 +1,1059 @@
+{
+ "celular-fluxo-fevereiro.png": {
+  "caixas": {
+   "periodo": [
+    62,
+    76,
+    108.2,
+    32
+   ],
+   "cartao_titulo": [
+    33,
+    157,
+    324,
+    20
+   ],
+   "guardou": [
+    33,
+    216.5,
+    324,
+    18
+   ],
+   "entrou": [
+    33,
+    262.5,
+    148,
+    16.5
+   ],
+   "saiu": [
+    210,
+    262.5,
+    147,
+    16.5
+   ],
+   "barra": [
+    138.6,
+    335,
+    218.4,
+    24
+   ],
+   "fluxo_det": [
+    29,
+    409,
+    111.8,
+    22.5
+   ],
+   "doze": [
+    29,
+    451.5,
+    332,
+    18
+   ],
+   "legenda_rec": [
+    29,
+    483.5,
+    160,
+    30
+   ],
+   "canvas": [
+    29,
+    605.5,
+    332,
+    280
+   ],
+   "em12": [
+    29,
+    930.5,
+    138.8,
+    18
+   ],
+   "top_ent": [
+    29,
+    1024.5,
+    155.6,
+    22.5
+   ],
+   "top_sai": [
+    29,
+    1188,
+    165.1,
+    22.5
+   ],
+   "resumo_mensal": [
+    29,
+    1583.5,
+    156.6,
+    22.5
+   ],
+   "total": [
+    15,
+    1743,
+    116.3,
+    62
+   ],
+   "tabela": [
+    15,
+    1661,
+    600,
+    144
+   ]
+  },
+  "texto": "Fluxo\nFevereiro 2027\nTodas\nas contas\nResultado · Fevereiro 2027 até dia 15\nR$\n3.244\nGuardou 32,6% do que entrou\nEntrou\nR$\n9.960\n1 recebida\nSaiu\nR$\n6.716\n20 pagas\n33% guardou\n67% saiu\nFluxo detalhado\nMar/26 a Fev/27 · 12 meses\nReceitas\nR$ 127.253\nDespesas\nR$ 102.240\nResultado\nR$ 25.012\nSaldo acumulado\nÚltimos 12 meses\n+R$ 25.012 em 12 meses\n·\nmédia de R$ 2.084 por mês\n·\nMar/26 a Fev/27\nTop entradas\nMaiores receitas do período\nSalário\nR$ 9.960,00 100%\nTop saídas\nMaiores despesas do período\nCasa\nR$ 2.300,00 34%\nEducação\nR$ 1.450,00 22%\nMercado\nR$ 1.230,40 18%\nTransporte\nR$ 550,40 8%\nBares e restaurantes\nR$ 467,20 7%\nResumo mensal\nFluxo mês a mês do período\nMÊS\tENTRADAS\tSAÍDAS\tRESULTADO\tSALDO\nFev de 2027\tR$ 9.960,00\t−R$ 6.716,00\tR$ 3.244,00\tR$ 115.627,76\nTOTAL DO PERÍODO\tR$ 9.960,00\t−R$ 6.716,00\tR$ 3.244,00\tR$ 115.627,76",
+  "paineis": [
+   [
+    "Fluxo detalhado",
+    14,
+    394,
+    362,
+    597.5
+   ],
+   [
+    "Top entradas",
+    14,
+    1009.5,
+    362,
+    145.5
+   ],
+   [
+    "Top saídas",
+    14,
+    1173,
+    362,
+    377.5
+   ],
+   [
+    "Resumo mensal",
+    14,
+    1568.5,
+    362,
+    237.5
+   ]
+  ]
+ },
+ "celular-periodo-12-meses.png": {
+  "caixas": {
+   "de": [
+    20,
+    613,
+    170,
+    48
+   ],
+   "ate": [
+    200,
+    613,
+    170,
+    48
+   ],
+   "aplicar": [
+    200,
+    694,
+    170,
+    50
+   ],
+   "intervalo": [
+    20,
+    424.5,
+    350,
+    40
+   ]
+  },
+  "texto": "Fluxo\nFevereiro 2027\nTodas\nas contas\nResultado · Fevereiro 2027 até dia 15\nR$\n3.244\nGuardou 32,6% do que entrou\nEntrou\nR$\n9.960\n1 recebida\nSaiu\nR$\n6.716\n20 pagas\n33% guardou\n67% saiu\nFluxo detalhado\nMar/26 a Fev/27 · 12 meses\nReceitas\nR$ 127.253\nDespesas\nR$ 102.240\nResultado\nR$ 25.012\nSaldo acumulado\nÚltimos 12 meses\n+R$ 25.012 em 12 meses\n·\nmédia de R$ 2.084 por mês\n·\nMar/26 a Fev/27\nTop entradas\nMaiores receitas do período\nSalário\nR$ 9.960,00 100%\nTop saídas\nMaiores despesas do período\nCasa\nR$ 2.300,00 34%\nEducação\nR$ 1.450,00 22%\nMercado\nR$ 1.230,40 18%\nTransporte\nR$ 550,40 8%\nBares e restaurantes\nR$ 467,20 7%\nResumo mensal\nFluxo mês a mês do período\nMÊS\tENTRADAS\tSAÍDAS\tRESULTADO\tSALDO\nFev de 2027\tR$ 9.960,00\t−R$ 6.716,00\tR$ 3.244,00\tR$ 115.627,76\nTOTAL DO PERÍODO\tR$ 9.960,00\t−R$ 6.716,00\tR$ 3.244,00\tR$ 115.627,76\nFevereiro 2027\nD\nS\nT\nQ\nQ\nS\nS\n31\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n1 mar 2026 a 28 fev 2027\nHoje\nÚltimos 7d\nÚltimos 30d\nÚltimos 90d\nEste mês\nAno atual\nOu digite o período\nDe\nAté\nCancelar\nAplicar",
+  "paineis": [
+   [
+    "Fluxo detalhado",
+    14,
+    394,
+    362,
+    597.5
+   ],
+   [
+    "Top entradas",
+    14,
+    1009.5,
+    362,
+    145.5
+   ],
+   [
+    "Top saídas",
+    14,
+    1173,
+    362,
+    377.5
+   ],
+   [
+    "Resumo mensal",
+    14,
+    1568.5,
+    362,
+    237.5
+   ]
+  ]
+ },
+ "celular-fluxo-12-meses.png": {
+  "caixas": {
+   "periodo": [
+    62,
+    76,
+    165.5,
+    32
+   ],
+   "cartao_titulo": [
+    33,
+    157,
+    324,
+    20
+   ],
+   "guardou": [
+    33,
+    216.5,
+    324,
+    18
+   ],
+   "entrou": [
+    33,
+    262.5,
+    148,
+    16.5
+   ],
+   "saiu": [
+    210,
+    262.5,
+    147,
+    16.5
+   ],
+   "barra": [
+    96.8,
+    335,
+    260.2,
+    24
+   ],
+   "fluxo_det": [
+    29,
+    409,
+    111.8,
+    22.5
+   ],
+   "doze": [
+    29,
+    451.5,
+    332,
+    18
+   ],
+   "legenda_rec": [
+    29,
+    483.5,
+    160,
+    30
+   ],
+   "canvas": [
+    29,
+    605.5,
+    332,
+    280
+   ],
+   "em12": [
+    29,
+    930.5,
+    138.8,
+    18
+   ],
+   "top_ent": [
+    29,
+    1024.5,
+    155.6,
+    22.5
+   ],
+   "top_sai": [
+    29,
+    1246,
+    165.1,
+    22.5
+   ],
+   "resumo_mensal": [
+    29,
+    1641.5,
+    156.6,
+    22.5
+   ],
+   "total": [
+    15,
+    2524.5,
+    85.6,
+    78.5
+   ],
+   "tabela": [
+    15,
+    1719,
+    613.8,
+    884
+   ]
+  },
+  "texto": "Fluxo\n1 mar 2026 - 28 fev 2027\nTodas\nas contas\nResultado · 1 mar 2026 - 28 fev 2027 até 15/02\nR$\n25.012\n,76\nGuardou 19,7% do que entrou\nEntrou\nR$\n127.253\n,36\n15 recebidas\nSaiu\nR$\n102.240\n,60\n307 pagas\n20%\n80% saiu\nFluxo detalhado\nMar/26 a Fev/27 · 12 meses\nReceitas\nR$ 127.253\nDespesas\nR$ 102.240\nResultado\nR$ 25.012\nSaldo acumulado\nÚltimos 12 meses\n+R$ 25.012 em 12 meses\n·\nmédia de R$ 2.084 por mês\n·\nMar/26 a Fev/27\nTop entradas\nMaiores receitas do período\nSalário\nR$ 126.933,36 100%\nOutras receitas\nR$ 320,00 0%\nTop saídas\nMaiores despesas do período\nCasa\nR$ 29.836,80 29%\nMercado\nR$ 19.522,42 19%\nEducação\nR$ 18.626,00 18%\nTransporte\nR$ 12.889,29 13%\nBares e restaurantes\nR$ 7.274,90 7%\nResumo mensal\nFluxo mês a mês do período\nMÊS\tENTRADAS\tSAÍDAS\tRESULTADO\tSALDO\nMar de 2026\tR$ 9.960,00\t−R$ 7.690,00\tR$ 2.270,00\tR$ 92.885,00\nAbr de 2026\tR$ 9.960,00\t−R$ 7.830,00\tR$ 2.130,00\tR$ 95.015,00\nMai de 2026\tR$ 9.960,00\t−R$ 7.910,00\tR$ 2.050,00\tR$ 97.065,00\nJun de 2026\tR$ 9.960,00\t−R$ 8.040,00\tR$ 1.920,00\tR$ 98.985,00\nJul de 2026\tR$ 9.960,00\t−R$ 8.620,00\tR$ 1.340,00\tR$ 100.325,00\nAgo de 2026\tR$ 9.960,00\t−R$ 8.285,00\tR$ 1.675,00\tR$ 102.000,00\nSet de 2026\tR$ 9.960,00\t−R$ 7.966,40\tR$ 1.993,60\tR$ 103.993,60\nOut de 2026\tR$ 10.280,00\t−R$ 8.215,00\tR$ 2.065,00\tR$ 106.058,60\nNov de 2026\tR$ 14.940,00\t−R$ 9.149,40\tR$ 5.790,60\tR$ 111.849,20\nDez de 2026\tR$ 12.393,36\t−R$ 10.678,90\tR$ 1.714,46\tR$ 113.563,66\nJan de 2027\tR$ 9.960,00\t−R$ 11.139,90\t−R$ 1.179,90\tR$ 112.383,76\nFev de 2027\tR$ 9.960,00\t−R$ 6.716,00\tR$ 3.244,00\tR$ 115.627,76\nTOTAL DO PERÍODO\tR$ 127.253,36\t−R$ 102.240,60\tR$ 25.012,76\tR$ 115.627,76",
+  "paineis": [
+   [
+    "Fluxo detalhado",
+    14,
+    394,
+    362,
+    597.5
+   ],
+   [
+    "Top entradas",
+    14,
+    1009.5,
+    362,
+    203.5
+   ],
+   [
+    "Top saídas",
+    14,
+    1231,
+    362,
+    377.5
+   ],
+   [
+    "Resumo mensal",
+    14,
+    1626.5,
+    362,
+    977.5
+   ]
+  ]
+ },
+ "celular-fluxo-12-meses-alta.png": {
+  "caixas": {
+   "periodo": [
+    62,
+    76,
+    165.5,
+    32
+   ],
+   "cartao_titulo": [
+    33,
+    157,
+    324,
+    20
+   ],
+   "guardou": [
+    33,
+    216.5,
+    324,
+    18
+   ],
+   "entrou": [
+    33,
+    262.5,
+    148,
+    16.5
+   ],
+   "saiu": [
+    210,
+    262.5,
+    147,
+    16.5
+   ],
+   "barra": [
+    96.8,
+    335,
+    260.2,
+    24
+   ],
+   "fluxo_det": [
+    29,
+    409,
+    111.8,
+    22.5
+   ],
+   "doze": [
+    29,
+    451.5,
+    332,
+    18
+   ],
+   "legenda_rec": [
+    29,
+    483.5,
+    160,
+    30
+   ],
+   "canvas": [
+    29,
+    605.5,
+    332,
+    280
+   ],
+   "em12": [
+    29,
+    930.5,
+    138.8,
+    18
+   ],
+   "top_ent": [
+    29,
+    1024.5,
+    155.6,
+    22.5
+   ],
+   "top_sai": [
+    29,
+    1246,
+    165.1,
+    22.5
+   ],
+   "resumo_mensal": [
+    29,
+    1641.5,
+    156.6,
+    22.5
+   ],
+   "total": [
+    15,
+    2524.5,
+    85.6,
+    78.5
+   ],
+   "tabela": [
+    15,
+    1719,
+    613.8,
+    884
+   ]
+  },
+  "texto": "Fluxo\n1 mar 2026 - 28 fev 2027\nTodas\nas contas\nResultado · 1 mar 2026 - 28 fev 2027 até 15/02\nR$\n25.012\n,76\nGuardou 19,7% do que entrou\nEntrou\nR$\n127.253\n,36\n15 recebidas\nSaiu\nR$\n102.240\n,60\n307 pagas\n20%\n80% saiu\nFluxo detalhado\nMar/26 a Fev/27 · 12 meses\nReceitas\nR$ 127.253\nDespesas\nR$ 102.240\nResultado\nR$ 25.012\nSaldo acumulado\nÚltimos 12 meses\n+R$ 25.012 em 12 meses\n·\nmédia de R$ 2.084 por mês\n·\nMar/26 a Fev/27\nTop entradas\nMaiores receitas do período\nSalário\nR$ 126.933,36 100%\nOutras receitas\nR$ 320,00 0%\nTop saídas\nMaiores despesas do período\nCasa\nR$ 29.836,80 29%\nMercado\nR$ 19.522,42 19%\nEducação\nR$ 18.626,00 18%\nTransporte\nR$ 12.889,29 13%\nBares e restaurantes\nR$ 7.274,90 7%\nResumo mensal\nFluxo mês a mês do período\nMÊS\tENTRADAS\tSAÍDAS\tRESULTADO\tSALDO\nMar de 2026\tR$ 9.960,00\t−R$ 7.690,00\tR$ 2.270,00\tR$ 92.885,00\nAbr de 2026\tR$ 9.960,00\t−R$ 7.830,00\tR$ 2.130,00\tR$ 95.015,00\nMai de 2026\tR$ 9.960,00\t−R$ 7.910,00\tR$ 2.050,00\tR$ 97.065,00\nJun de 2026\tR$ 9.960,00\t−R$ 8.040,00\tR$ 1.920,00\tR$ 98.985,00\nJul de 2026\tR$ 9.960,00\t−R$ 8.620,00\tR$ 1.340,00\tR$ 100.325,00\nAgo de 2026\tR$ 9.960,00\t−R$ 8.285,00\tR$ 1.675,00\tR$ 102.000,00\nSet de 2026\tR$ 9.960,00\t−R$ 7.966,40\tR$ 1.993,60\tR$ 103.993,60\nOut de 2026\tR$ 10.280,00\t−R$ 8.215,00\tR$ 2.065,00\tR$ 106.058,60\nNov de 2026\tR$ 14.940,00\t−R$ 9.149,40\tR$ 5.790,60\tR$ 111.849,20\nDez de 2026\tR$ 12.393,36\t−R$ 10.678,90\tR$ 1.714,46\tR$ 113.563,66\nJan de 2027\tR$ 9.960,00\t−R$ 11.139,90\t−R$ 1.179,90\tR$ 112.383,76\nFev de 2027\tR$ 9.960,00\t−R$ 6.716,00\tR$ 3.244,00\tR$ 115.627,76\nTOTAL DO PERÍODO\tR$ 127.253,36\t−R$ 102.240,60\tR$ 25.012,76\tR$ 115.627,76",
+  "paineis": [
+   [
+    "Fluxo detalhado",
+    14,
+    394,
+    362,
+    597.5
+   ],
+   [
+    "Top entradas",
+    14,
+    1009.5,
+    362,
+    203.5
+   ],
+   [
+    "Top saídas",
+    14,
+    1231,
+    362,
+    377.5
+   ],
+   [
+    "Resumo mensal",
+    14,
+    1626.5,
+    362,
+    977.5
+   ]
+  ]
+ },
+ "trechos_cartao": {
+  "texto": "Guardou 19,7% do que entrou",
+  "Guardou [\\d,]+% do que entrou": [
+   [
+    33,
+    217.5,
+    51.5,
+    15
+   ],
+   [
+    84.5,
+    217.5,
+    32.9,
+    15
+   ],
+   [
+    84.5,
+    217.5,
+    32.9,
+    15
+   ],
+   [
+    117.4,
+    217.5,
+    80.6,
+    15
+   ]
+  ]
+ },
+ "trechos_entrou": {
+  "texto": null
+ },
+ "trechos_saiu": {
+  "texto": null
+ },
+ "trechos_periodo": {
+  "texto": "1 mar 2026 - 28 fev 2027",
+  "1 mar 2026 - 28 fev 2027": [
+   [
+    74,
+    84,
+    141.5,
+    15
+   ]
+  ]
+ },
+ "trechos_resultado": {
+  "texto": "R$25.012,76",
+  "R\\$ ?25\\.012 ?,76": [
+   [
+    33,
+    192,
+    19.4,
+    19
+   ],
+   [
+    56.4,
+    181,
+    93.4,
+    33.6
+   ],
+   [
+    56.4,
+    180,
+    93.4,
+    34
+   ],
+   [
+    151.8,
+    191,
+    25,
+    20
+   ]
+  ]
+ },
+ "linhas_top": [
+  [
+   "Salário R$ 126.933,36 100%",
+   29,
+   1096,
+   332,
+   44
+  ],
+  [
+   "Salário R$ 126.933,36 100%",
+   29,
+   1096,
+   332,
+   30
+  ],
+  [
+   "Outras receitas R$ 320,00 0%",
+   29,
+   1154,
+   332,
+   44
+  ],
+  [
+   "Outras receitas R$ 320,00 0%",
+   29,
+   1154,
+   332,
+   30
+  ],
+  [
+   "Casa R$ 29.836,80 29%",
+   29,
+   1317.5,
+   332,
+   44
+  ],
+  [
+   "Casa R$ 29.836,80 29%",
+   29,
+   1317.5,
+   332,
+   30
+  ],
+  [
+   "Mercado R$ 19.522,42 19%",
+   29,
+   1375.5,
+   332,
+   44
+  ],
+  [
+   "Mercado R$ 19.522,42 19%",
+   29,
+   1375.5,
+   332,
+   30
+  ],
+  [
+   "Educação R$ 18.626,00 18%",
+   29,
+   1433.5,
+   332,
+   44
+  ],
+  [
+   "Educação R$ 18.626,00 18%",
+   29,
+   1433.5,
+   332,
+   30
+  ],
+  [
+   "Transporte R$ 12.889,29 13%",
+   29,
+   1491.5,
+   332,
+   44
+  ],
+  [
+   "Transporte R$ 12.889,29 13%",
+   29,
+   1491.5,
+   332,
+   30
+  ],
+  [
+   "Bares e restaurantes R$ 7.274,90 7%",
+   29,
+   1549.5,
+   332,
+   44
+  ],
+  [
+   "Bares e restaurantes R$ 7.274,90 7%",
+   29,
+   1549.5,
+   332,
+   30
+  ]
+ ],
+ "linhas_tabela": [
+  [
+   "MÊS ENTRADAS SAÍDAS RESULTADO SALDO",
+   15,
+   1719,
+   613.8,
+   37
+  ],
+  [
+   "Mar de 2026 R$ 9.960,00 −R$ 7.690,00 R$ 2.270,00 R$ 92.885,00",
+   15,
+   1756,
+   613.8,
+   64
+  ],
+  [
+   "Abr de 2026 R$ 9.960,00 −R$ 7.830,00 R$ 2.130,00 R$ 95.015,00",
+   15,
+   1820,
+   613.8,
+   64
+  ],
+  [
+   "Mai de 2026 R$ 9.960,00 −R$ 7.910,00 R$ 2.050,00 R$ 97.065,00",
+   15,
+   1884,
+   613.8,
+   64
+  ],
+  [
+   "Jun de 2026 R$ 9.960,00 −R$ 8.040,00 R$ 1.920,00 R$ 98.985,00",
+   15,
+   1948,
+   613.8,
+   64
+  ],
+  [
+   "Jul de 2026 R$ 9.960,00 −R$ 8.620,00 R$ 1.340,00 R$ 100.325,00",
+   15,
+   2012,
+   613.8,
+   64
+  ],
+  [
+   "Ago de 2026 R$ 9.960,00 −R$ 8.285,00 R$ 1.675,00 R$ 102.000,00",
+   15,
+   2076,
+   613.8,
+   64
+  ],
+  [
+   "Set de 2026 R$ 9.960,00 −R$ 7.966,40 R$ 1.993,60 R$ 103.993,60",
+   15,
+   2140,
+   613.8,
+   64
+  ],
+  [
+   "Out de 2026 R$ 10.280,00 −R$ 8.215,00 R$ 2.065,00 R$ 106.058,60",
+   15,
+   2204,
+   613.8,
+   64
+  ],
+  [
+   "Nov de 2026 R$ 14.940,00 −R$ 9.149,40 R$ 5.790,60 R$ 111.849,20",
+   15,
+   2268,
+   613.8,
+   64
+  ],
+  [
+   "Dez de 2026 R$ 12.393,36 −R$ 10.678,90 R$ 1.714,46 R$ 113.563,66",
+   15,
+   2332,
+   613.8,
+   64
+  ],
+  [
+   "Jan de 2027 R$ 9.960,00 −R$ 11.139,90 −R$ 1.179,90 R$ 112.383,76",
+   15,
+   2396,
+   613.8,
+   64
+  ],
+  [
+   "Fev de 2027 R$ 9.960,00 −R$ 6.716,00 R$ 3.244,00 R$ 115.627,76",
+   15,
+   2460,
+   613.8,
+   64.5
+  ],
+  [
+   "TOTAL DO PERÍODO R$ 127.253,36 −R$ 102.240,60 R$ 25.012,76 R$ 115.627,76",
+   15,
+   2524.5,
+   613.8,
+   78.5
+  ]
+ ],
+ "rolagem_tabela": [
+  "DIV",
+  "tbl-rolavel",
+  614,
+  360
+ ],
+ "celular-fluxo-12-meses-alta-tabela-arrastada.png": {
+  "caixas": {
+   "periodo": [
+    62,
+    76,
+    165.5,
+    32
+   ],
+   "cartao_titulo": [
+    33,
+    157,
+    324,
+    20
+   ],
+   "guardou": [
+    33,
+    216.5,
+    324,
+    18
+   ],
+   "entrou": [
+    33,
+    262.5,
+    148,
+    16.5
+   ],
+   "saiu": [
+    210,
+    262.5,
+    147,
+    16.5
+   ],
+   "barra": [
+    96.8,
+    335,
+    260.2,
+    24
+   ],
+   "fluxo_det": [
+    29,
+    409,
+    111.8,
+    22.5
+   ],
+   "doze": [
+    29,
+    451.5,
+    332,
+    18
+   ],
+   "legenda_rec": [
+    29,
+    483.5,
+    160,
+    30
+   ],
+   "canvas": [
+    29,
+    605.5,
+    332,
+    280
+   ],
+   "em12": [
+    29,
+    930.5,
+    138.8,
+    18
+   ],
+   "top_ent": [
+    29,
+    1024.5,
+    155.6,
+    22.5
+   ],
+   "top_sai": [
+    29,
+    1246,
+    165.1,
+    22.5
+   ],
+   "resumo_mensal": [
+    29,
+    1641.5,
+    156.6,
+    22.5
+   ],
+   "total": [
+    15,
+    2524.5,
+    85.6,
+    78.5
+   ],
+   "tabela": [
+    -239,
+    1719,
+    613.8,
+    884
+   ]
+  },
+  "texto": "Fluxo\n1 mar 2026 - 28 fev 2027\nTodas\nas contas\nResultado · 1 mar 2026 - 28 fev 2027 até 15/02\nR$\n25.012\n,76\nGuardou 19,7% do que entrou\nEntrou\nR$\n127.253\n,36\n15 recebidas\nSaiu\nR$\n102.240\n,60\n307 pagas\n20%\n80% saiu\nFluxo detalhado\nMar/26 a Fev/27 · 12 meses\nReceitas\nR$ 127.253\nDespesas\nR$ 102.240\nResultado\nR$ 25.012\nSaldo acumulado\nÚltimos 12 meses\n+R$ 25.012 em 12 meses\n·\nmédia de R$ 2.084 por mês\n·\nMar/26 a Fev/27\nTop entradas\nMaiores receitas do período\nSalário\nR$ 126.933,36 100%\nOutras receitas\nR$ 320,00 0%\nTop saídas\nMaiores despesas do período\nCasa\nR$ 29.836,80 29%\nMercado\nR$ 19.522,42 19%\nEducação\nR$ 18.626,00 18%\nTransporte\nR$ 12.889,29 13%\nBares e restaurantes\nR$ 7.274,90 7%\nResumo mensal\nFluxo mês a mês do período\nMÊS\tENTRADAS\tSAÍDAS\tRESULTADO\tSALDO\nMar de 2026\tR$ 9.960,00\t−R$ 7.690,00\tR$ 2.270,00\tR$ 92.885,00\nAbr de 2026\tR$ 9.960,00\t−R$ 7.830,00\tR$ 2.130,00\tR$ 95.015,00\nMai de 2026\tR$ 9.960,00\t−R$ 7.910,00\tR$ 2.050,00\tR$ 97.065,00\nJun de 2026\tR$ 9.960,00\t−R$ 8.040,00\tR$ 1.920,00\tR$ 98.985,00\nJul de 2026\tR$ 9.960,00\t−R$ 8.620,00\tR$ 1.340,00\tR$ 100.325,00\nAgo de 2026\tR$ 9.960,00\t−R$ 8.285,00\tR$ 1.675,00\tR$ 102.000,00\nSet de 2026\tR$ 9.960,00\t−R$ 7.966,40\tR$ 1.993,60\tR$ 103.993,60\nOut de 2026\tR$ 10.280,00\t−R$ 8.215,00\tR$ 2.065,00\tR$ 106.058,60\nNov de 2026\tR$ 14.940,00\t−R$ 9.149,40\tR$ 5.790,60\tR$ 111.849,20\nDez de 2026\tR$ 12.393,36\t−R$ 10.678,90\tR$ 1.714,46\tR$ 113.563,66\nJan de 2027\tR$ 9.960,00\t−R$ 11.139,90\t−R$ 1.179,90\tR$ 112.383,76\nFev de 2027\tR$ 9.960,00\t−R$ 6.716,00\tR$ 3.244,00\tR$ 115.627,76\nTOTAL DO PERÍODO\tR$ 127.253,36\t−R$ 102.240,60\tR$ 25.012,76\tR$ 115.627,76",
+  "paineis": [
+   [
+    "Fluxo detalhado",
+    14,
+    394,
+    362,
+    597.5
+   ],
+   [
+    "Top entradas",
+    14,
+    1009.5,
+    362,
+    203.5
+   ],
+   [
+    "Top saídas",
+    14,
+    1231,
+    362,
+    377.5
+   ],
+   [
+    "Resumo mensal",
+    14,
+    1626.5,
+    362,
+    977.5
+   ]
+  ]
+ },
+ "linhas_tabela_arrastada": [
+  [
+   "MÊS ENTRADAS SAÍDAS RESULTADO SALDO",
+   -239,
+   1719,
+   613.8,
+   37
+  ],
+  [
+   "Mar de 2026 R$ 9.960,00 −R$ 7.690,00 R$ 2.270,00 R$ 92.885,00",
+   -239,
+   1756,
+   613.8,
+   64
+  ],
+  [
+   "Abr de 2026 R$ 9.960,00 −R$ 7.830,00 R$ 2.130,00 R$ 95.015,00",
+   -239,
+   1820,
+   613.8,
+   64
+  ],
+  [
+   "Mai de 2026 R$ 9.960,00 −R$ 7.910,00 R$ 2.050,00 R$ 97.065,00",
+   -239,
+   1884,
+   613.8,
+   64
+  ],
+  [
+   "Jun de 2026 R$ 9.960,00 −R$ 8.040,00 R$ 1.920,00 R$ 98.985,00",
+   -239,
+   1948,
+   613.8,
+   64
+  ],
+  [
+   "Jul de 2026 R$ 9.960,00 −R$ 8.620,00 R$ 1.340,00 R$ 100.325,00",
+   -239,
+   2012,
+   613.8,
+   64
+  ],
+  [
+   "Ago de 2026 R$ 9.960,00 −R$ 8.285,00 R$ 1.675,00 R$ 102.000,00",
+   -239,
+   2076,
+   613.8,
+   64
+  ],
+  [
+   "Set de 2026 R$ 9.960,00 −R$ 7.966,40 R$ 1.993,60 R$ 103.993,60",
+   -239,
+   2140,
+   613.8,
+   64
+  ],
+  [
+   "Out de 2026 R$ 10.280,00 −R$ 8.215,00 R$ 2.065,00 R$ 106.058,60",
+   -239,
+   2204,
+   613.8,
+   64
+  ],
+  [
+   "Nov de 2026 R$ 14.940,00 −R$ 9.149,40 R$ 5.790,60 R$ 111.849,20",
+   -239,
+   2268,
+   613.8,
+   64
+  ],
+  [
+   "Dez de 2026 R$ 12.393,36 −R$ 10.678,90 R$ 1.714,46 R$ 113.563,66",
+   -239,
+   2332,
+   613.8,
+   64
+  ],
+  [
+   "Jan de 2027 R$ 9.960,00 −R$ 11.139,90 −R$ 1.179,90 R$ 112.383,76",
+   -239,
+   2396,
+   613.8,
+   64
+  ],
+  [
+   "Fev de 2027 R$ 9.960,00 −R$ 6.716,00 R$ 3.244,00 R$ 115.627,76",
+   -239,
+   2460,
+   613.8,
+   64.5
+  ],
+  [
+   "TOTAL DO PERÍODO R$ 127.253,36 −R$ 102.240,60 R$ 25.012,76 R$ 115.627,76",
+   -239,
+   2524.5,
+   613.8,
+   78.5
+  ]
+ ],
+ "colunas_visiveis": [
+  [
+   "MÊS",
+   15,
+   85.6
+  ],
+  [
+   "ENTRADAS",
+   -153.4,
+   132
+  ],
+  [
+   "SAÍDAS",
+   -21.3,
+   141
+  ],
+  [
+   "RESULTADO",
+   119.6,
+   123.2
+  ],
+  [
+   "SALDO",
+   242.8,
+   132
+  ],
+  [
+   "Mar de 2026",
+   15,
+   85.6
+  ],
+  [
+   "Abr de 2026",
+   15,
+   85.6
+  ],
+  [
+   "Mai de 2026",
+   15,
+   85.6
+  ],
+  [
+   "Jun de 2026",
+   15,
+   85.6
+  ],
+  [
+   "Jul de 2026",
+   15,
+   85.6
+  ],
+  [
+   "Ago de 2026",
+   15,
+   85.6
+  ],
+  [
+   "Set de 2026",
+   15,
+   85.6
+  ],
+  [
+   "Out de 2026",
+   15,
+   85.6
+  ],
+  [
+   "Nov de 2026",
+   15,
+   85.6
+  ],
+  [
+   "Dez de 2026",
+   15,
+   85.6
+  ],
+  [
+   "Jan de 2027",
+   15,
+   85.6
+  ],
+  [
+   "Fev de 2027",
+   15,
+   85.6
+  ],
+  [
+   "TOTAL DO PERÍODO",
+   15,
+   85.6
+  ]
+ ],
+ "erros": []
+}

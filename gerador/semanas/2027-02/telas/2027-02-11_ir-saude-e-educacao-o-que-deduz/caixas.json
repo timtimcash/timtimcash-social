@@ -1,0 +1,141 @@
+{
+ "1102_exame": {
+  "Ano 2026": {
+   "x": 62,
+   "y": 76,
+   "w": 90,
+   "h": 32,
+   "tag": "DIV"
+  },
+  "Transações": {
+   "x": -274,
+   "y": 248.5,
+   "w": 256,
+   "h": 48,
+   "tag": "BUTTON"
+  },
+  "Agir sobre": {
+   "x": 33,
+   "y": 602.09375,
+   "w": 324,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "Exame de rotina": {
+   "x": 81,
+   "y": 760,
+   "w": 107.421875,
+   "h": 16.796875,
+   "tag": "SPAN"
+  },
+  "Farmácia": null,
+  "qui · 24 de setembro": {
+   "x": 15,
+   "y": 706.09375,
+   "w": 360,
+   "h": 33.5,
+   "tag": "DIV"
+  },
+  "sex · 11 de dezembro": null,
+  "_rolagem": 0,
+  "busca": [
+   68,
+   422,
+   276,
+   38
+  ],
+  "filtros": [
+   32,
+   540,
+   79,
+   36
+  ],
+  "_resumo": "1 transação · 1 paga · 0 pendentes · somam R$ 150,00"
+ },
+ "1102_farmacia": {
+  "Ano 2026": {
+   "x": 62,
+   "y": 76,
+   "w": 90,
+   "h": 32,
+   "tag": "DIV"
+  },
+  "Transações": {
+   "x": -274,
+   "y": 248.5,
+   "w": 256,
+   "h": 48,
+   "tag": "BUTTON"
+  },
+  "Agir sobre": {
+   "x": 33,
+   "y": 602.09375,
+   "w": 324,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "Exame de rotina": null,
+  "Farmácia": {
+   "x": 81,
+   "y": 760,
+   "w": 63,
+   "h": 16.796875,
+   "tag": "SPAN"
+  },
+  "qui · 24 de setembro": null,
+  "sex · 11 de dezembro": {
+   "x": 15,
+   "y": 706.09375,
+   "w": 360,
+   "h": 33.5,
+   "tag": "DIV"
+  },
+  "_rolagem": 0,
+  "busca": [
+   68,
+   422,
+   276,
+   38
+  ],
+  "filtros": [
+   32,
+   540,
+   79,
+   36
+  ],
+  "_resumo": "23 transações · 23 pagas · 0 pendentes · somam R$ 3.279,44"
+ },
+ "1102_educacao": {
+  "Ano 2026": {
+   "x": 62,
+   "y": 76,
+   "w": 90,
+   "h": 32,
+   "tag": "DIV"
+  },
+  "Transações": {
+   "x": -274,
+   "y": 248.5,
+   "w": 256,
+   "h": 48,
+   "tag": "BUTTON"
+  },
+  "Agir sobre": {
+   "x": 33,
+   "y": 620.09375,
+   "w": 324,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "Escola": {
+   "x": 81,
+   "y": 777.1875,
+   "w": 44.421875,
+   "h": 16.796875,
+   "tag": "SPAN"
+  },
+  "_rolagem": 0,
+  "_resumo": "12 transações · 12 pagas · 0 pendentes · somam R$ 17.400,00",
+  "_texto": "Transações | Ano 2026 | Todas | as contas | Realizado | Previsto | Ambos | Saldo acumulado | R$ | 113.563 | ,66 | em 31/12/2026 | Ver detalhes | Transações filtrado | 12 transações · 12 pagas · 0 pendentes · somam R$ 17.400,00 · 815 no histórico | Selecionar | 1 | 1 categoria | Todas | Pagas | Pendentes | Transf. | Data ↓ | Exportar | Agir sobre as 12 filtradas | Recategorizar todas | Trocar conta | Limpar filtro | qui · 10 de dezembro, 2026 | Editar | Excluir | Escola | FixaEducação · Conta corrente | −R$ 1.450,00 | paga | ter · 10 de novembro, 2026 | Editar | Excluir | Escola | FixaEducação · Conta corrente | −R$ 1.450,00 | paga | sáb · 10 de outubro, 2026 | Editar | Excluir | Escola | FixaEducação · Conta corrente | −R$ 1.450,00 | paga | qui · 10 de setembro, 2026 | Editar | Excluir | Escola | Educação · Conta corrente | −R$ 1.450,00 | paga | seg · 10 de agosto, 2026 | Editar | Excluir | Escola | Educação · Conta corrente | −R$ 1.450,00 | paga | sex · 10 de julho, 2026 | Editar | Excluir | Escola | Educação · Conta corrente | −R$ 1.450,00 | paga | qua · 10 de junho, 2026 | Editar | Excluir | Escola | Educação · Conta corrente | −R$ 1.450,00 | paga | dom · 10 de maio, 2026 | Editar | Excluir | Escola | Educação · Conta corrente | −R$ 1.450,00 | paga | sex · 10 de abril, 2026 | Editar | Excluir | Escola | Educação · Conta corrente | −R$ 1.450,00 | paga | ter · 10 de março, 2026 | Editar | Excluir | Escola | Educação · Conta corrente | −R$ 1.450,00 | paga | ter · 10 de fevereiro, 2026 | Editar | Excluir | Escola | Educação · Conta corrente | −R$ 1.450,00 | paga | sáb · 10 de janeiro, 2026 | Editar | Excluir | Escola | Educação · Conta corrente | −R$ 1.450,00 | paga"
+ }
+}

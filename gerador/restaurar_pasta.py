@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
-"""Remonta, a partir deste repositório, a pasta de trabalho dos posts de novembro e dezembro de 2026 (a "N" dos roteiros).
+"""Remonta, a partir deste repositório, a pasta de trabalho de um bimestre de posts: novembro e dezembro de 2026 (a "N"
+dos roteiros, o padrão) ou janeiro e fevereiro de 2027 (a "J").
 
-Uso:  python3 gerador/restaurar_pasta.py <destino>
+Uso:  python3 gerador/restaurar_pasta.py <destino> [novdez|janfev]
 
 Serve para refazer um post já aprovado numa máquina nova (por exemplo, os quatro posts de dezembro com números que podem
 mudar até a publicação: 07, 10, 11 e 16/12). O repositório precisa estar em /home/claude/timtimcash-social, porque o kit
@@ -24,8 +25,14 @@ import glob, io, os, shutil, sys, urllib.request, zipfile
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SEMANAS = os.path.join(REPO, "gerador", "semanas")
-MESES = ["2026-11", "2026-12"]
-N_ANTIGO = "/tmp/claude-0/-home-claude/916e4bf9-d759-5190-a3f0-b5ebef025bc2/scratchpad/novdez"
+SCRATCH = "/tmp/claude-0/-home-claude/916e4bf9-d759-5190-a3f0-b5ebef025bc2/scratchpad"
+GRUPOS = {
+    # meses, pasta de trabalho original (trocada pelo destino nos roteiros) e onde ficam a pauta, os fatos e as notas
+    "novdez": {"meses": ["2026-11", "2026-12"], "antigo": SCRATCH + "/novdez", "docs": "2026-11"},
+    "janfev": {"meses": ["2027-01", "2027-02"], "antigo": SCRATCH + "/janfev", "docs": "2027-01"},
+}
+MESES = GRUPOS["novdez"]["meses"]
+N_ANTIGO = GRUPOS["novdez"]["antigo"]
 INTER_ZIP = "https://github.com/rsms/inter/releases/download/v4.1/Inter-4.1.zip"
 INTER_DIR = "/tmp/inter"
 
@@ -44,7 +51,10 @@ def fonte():
     return f"Inter 4.1 baixada em {INTER_DIR}"
 
 
-def main(destino):
+def main(destino, grupo="novdez"):
+    global MESES, N_ANTIGO
+    g = GRUPOS[grupo]
+    MESES, N_ANTIGO = g["meses"], g["antigo"]
     destino = os.path.abspath(destino)
     os.makedirs(os.path.join(destino, "dados"), exist_ok=True)
     copia_arvore(os.path.join(SEMANAS, "2026-11", "kit"), os.path.join(destino, "kit"))
@@ -57,9 +67,14 @@ def main(destino):
             shutil.copy2(arq, os.path.join(destino, "dados"))
         for pasta in sorted(os.listdir(os.path.join(m, "telas"))):
             copia_arvore(os.path.join(m, "telas", pasta), os.path.join(destino, "saida", pasta, "telas"))
-        for arq in glob.glob(os.path.join(m, "aprovacao_*_dados.py")) + [os.path.join(m, x) for x in ("PAUTA.md", "FATOS.md")]:
+        for arq in glob.glob(os.path.join(m, "aprovacao_*.py")) + [os.path.join(m, x) for x in ("PAUTA.md", "FATOS.md", "FATOS_2.md")]:
             if os.path.isfile(arq):
                 shutil.copy2(arq, destino)
+        if os.path.isdir(os.path.join(m, "revisao")) and grupo == "janfev":
+            copia_arvore(os.path.join(m, "revisao"), os.path.join(destino, "revisao"))
+            if os.path.isfile(os.path.join(m, "revisao", "grade_final.py")):
+                os.makedirs(os.path.join(destino, "plano"), exist_ok=True)
+                shutil.copy2(os.path.join(m, "revisao", "grade_final.py"), os.path.join(destino, "plano"))
     for pasta in sorted(os.listdir(os.path.join(REPO, "posts"))):
         if pasta[:7] in MESES:
             pastas.append(pasta)
@@ -80,6 +95,6 @@ def main(destino):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 2:
+    if len(sys.argv) not in (2, 3) or (len(sys.argv) == 3 and sys.argv[2] not in GRUPOS):
         sys.exit(__doc__)
-    main(sys.argv[1])
+    main(sys.argv[1], sys.argv[2] if len(sys.argv) == 3 else "novdez")

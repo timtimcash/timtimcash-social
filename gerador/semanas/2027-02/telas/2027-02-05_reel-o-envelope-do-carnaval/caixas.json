@@ -1,0 +1,548 @@
+{
+ "celular-visao-geral.png": {
+  "caixas": {
+   "menu": [
+    20,
+    19,
+    38,
+    38
+   ]
+  },
+  "texto": "Visão geral\nFevereiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nPatrimônio\nR$\n120.898\n,76\nalta de\n7,6% em relação a jan/27\n5 contas somadas\nMar/26\nFev/27\nMovimento de fevereiro 2027\nPARCIAL\nGuardou 85,5% da receita\n85,5%\n14,5%\nReceitas R$ 9.960,00\nDespesas R$ 1.445,00\nResultado do período\nR$ 8.515,00\nReceitas\nR$ 9.960\nqueda de\n5,7%\nDespesas\nR$ 1.445\nqueda de\n83,3%\nResultado\nR$ 8.515\nalta de\n340,5%\nComparado com a média por mês de Fev/26 a Jan/27\nÚltimos 12 meses\nFluxo mensal\nMar/26 a Fev/27\nMédia por mês · Fev/26 a Jan/27\nReceitas\nR$ 10.564,45\nDespesas\nR$ 8.631,22\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nReceita média\nR$ 10.564,45\nFev/26 a Jan/27 · meses fechados\n↓ 5,7% (este mês vs média)\nDespesa média\nR$ 8.631,22\nFev/26 a Jan/27 · meses fechados\n↓ 83,3% (este mês vs média)\nSaldo acumulado\nR$ 120.898,76\n+R$ 28.013,76\nMar/26\nFev/27\nReserva financeira\n14,0\nmeses\nR$ 120.898,76 ÷ R$ 8.631,22/mês (despesa média)\nmédia de 12 meses com movimento\nPor categoria\nDespesas do período\nDespesas\nReceitas\nPeríodo global\nDespesas\nR$ 1.445,00\n4 categorias\nTop saídas\nMaiores despesas do período\nMercado\nR$ 809,10 56%\nTransporte\nR$ 388,00 27%\nBares e restaurantes\nR$ 158,00 11%\nLazer e hobbies\nR$ 89,90 6%\nMinhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 120.898,76\nPOSITIVAS\nR$ 120.898,76\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nReserva\nINVESTIMENTO\nR$ 25.974,60\nConta corrente\nR$ 22.988,66\nBanco na Europa\nINVESTIMENTO\nR$ 11.525,40\nCarteira do Carnaval\nDINHEIRO\nR$ 410,10\nÚltimas transações\nToque em uma para editar\nVer todas →\nsáb · 27 de fevereiro\nsáb · 20 de fevereiro\nseg · 15 de fevereiro\nsex · 12 de fevereiro\nqua · 10 de fevereiro\nsex · 5 de fevereiro\nInsights\nAnálise automática do período\nMaior receita guardada em 12 meses\nVocê guardou 85% da receita em fevereiro.\nMercado: 56% das despesas\nConcentra R$ 809,10 dos seus gastos, proporção elevada que vale analisar."
+ },
+ "celular-menu.png": {
+  "caixas": {
+   "contas": [
+    26,
+    898,
+    256,
+    48
+   ]
+  },
+  "texto": "$\n$\ntimtimcash\nBuscar transações, contas, telas…\nMENU\nVisão geral\nTransações\nPendentes\n7\nFluxo\nRelatórios\nComparar\nResultado (DRE)\nOrçamentos\nSimulação futura\nRemessas ao exterior\nImportar\nExportar\nCONFIGURAR\nContas e carteiras\nCartões de crédito\nCategorias\nPreferências\nCONTAS\n5\n+\nBanco na Europa\nR$ 11.525,40\nCarteira do Carnaval\nR$ 410,10\nConta corrente\nR$ 22.988,66\nCorretora no exterior\nR$ 60.000,00\nReserva\nR$ 25.974,60\nTotal geral\nR$ 120.898,76\n5 contas\nMA\nMarina Alves\nmarina@exemplo.com\nVisão geral\nFevereiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nPatrimônio\nR$\n120.898\n,76\nalta de\n7,6% em relação a jan/27\n5 contas somadas\nMar/26\nFev/27\nMovimento de fevereiro 2027\nPARCIAL\nGuardou 85,5% da receita\n85,5%\n14,5%\nReceitas R$ 9.960,00\nDespesas R$ 1.445,00\nResultado do período\nR$ 8.515,00\nReceitas\nR$ 9.960\nqueda de\n5,7%\nDespesas\nR$ 1.445\nqueda de\n83,3%\nResultado\nR$ 8.515\nalta de\n340,5%\nComparado com a média por mês de Fev/26 a Jan/27\nÚltimos 12 meses\nFluxo mensal\nMar/26 a Fev/27\nMédia por mês · Fev/26 a Jan/27\nReceitas\nR$ 10.564,45\nDespesas\nR$ 8.631,22\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nReceita média\nR$ 10.564,45\nFev/26 a Jan/27 · meses fechados\n↓ 5,7% (este mês vs média)\nDespesa média\nR$ 8.631,22\nFev/26 a Jan/27 · meses fechados\n↓ 83,3% (este mês vs média)\nSaldo acumulado\nR$ 120.898,76\n+R$ 28.013,76\nMar/26\nFev/27\nReserva financeira\n14,0\nmeses\nR$ 120.898,76 ÷ R$ 8.631,22/mês (despesa média)\nmédia de 12 meses com movimento\nPor categoria\nDespesas do período\nDespesas\nReceitas\nPeríodo global\nDespesas\nR$ 1.445,00\n4 categorias\nTop saídas\nMaiores despesas do período\nMercado\nR$ 809,10 56%\nTransporte\nR$ 388,00 27%\nBares e restaurantes\nR$ 158,00 11%\nLazer e hobbies\nR$ 89,90 6%\nMinhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 120.898,76\nPOSITIVAS\nR$ 120.898,76\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nReserva\nINVESTIMENTO\nR$ 25.974,60\nConta corrente\nR$ 22.988,66\nBanco na Europa\nINVESTIMENTO\nR$ 11.525,40\nCarteira do Carnaval\nDINHEIRO\nR$ 410,10\nÚltimas transações\nToque em uma para editar\nVer todas →\nsáb · 27 de fevereiro\nsáb · 20 de fevereiro\nseg · 15 de fevereiro\nsex · 12 de fevereiro\nqua · 10 de fevereiro\nsex · 5 de fevereiro\nInsights\nAnálise automática do período\nMaior receita guardada em 12 meses\nVocê guardou 85% da receita em fevereiro.\nMercado: 56% das despesas\nConcentra R$ 809,10 dos seus gastos, proporção elevada que vale analisar."
+ },
+ "celular-contas-e-carteiras.png": {
+  "caixas": {
+   "titulo": [
+    17,
+    187,
+    213.8,
+    30
+   ],
+   "consolidado": [
+    17,
+    265,
+    356,
+    46
+   ],
+   "carteira": [
+    75,
+    405,
+    185.8,
+    42
+   ],
+   "carteira_nome": [
+    75,
+    405,
+    185.8,
+    21
+   ],
+   "carteira_tipo": [
+    75,
+    429,
+    108,
+    18
+   ],
+   "carteira_valor": [
+    274.8,
+    416.3,
+    64.2,
+    19.5
+   ]
+  },
+  "texto": "Contas e carteiras\n5 contas · todas no total do patrimônio\nPATRIMÔNIO CONSOLIDADO\nR$ 120.898,76\nBanco na Europa\nInvestimento ·\nNo total\nR$ 11.525,40\nCarteira do Carnaval\nDinheiro / Carteira ·\nNo total\nR$ 410,10\nConta corrente\nBanco / Digital ·\nNo total\nR$ 22.988,66\nCorretora no exterior\nInvestimento ·\nNo total\nR$ 60.000,00\nReserva\nInvestimento ·\nNo total\nR$ 25.974,60\nNova conta"
+ },
+ "linhas_contas": [
+  [
+   "Banco na Europa Investimento · No total R$ 11.525,40",
+   17,
+   323,
+   356,
+   69
+  ],
+  [
+   "Carteira do Carnaval Dinheiro / Carteira · No total R$ 410,10",
+   17,
+   392,
+   356,
+   69
+  ],
+  [
+   "Conta corrente Banco / Digital · No total R$ 22.988,66",
+   17,
+   461,
+   356,
+   69
+  ],
+  [
+   "Corretora no exterior Investimento · No total R$ 60.000,00",
+   17,
+   530,
+   356,
+   69
+  ],
+  [
+   "Reserva Investimento · No total R$ 25.974,60",
+   17,
+   599,
+   356,
+   68
+  ]
+ ],
+ "celular-transacoes-fevereiro.png": {
+  "caixas": {
+   "filtro": [
+    220.2,
+    74,
+    147.8,
+    36
+   ]
+  },
+  "texto": "Transações\nFevereiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n120.898\n,76\nem 28/02/2027\nVer detalhes\nTransações\n15 transações · 8 pagas · 7 pendentes · 809 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nsáb · 27 de fevereiro\nEditar\nExcluir\nNotebook (4/10)\n4/10Compras · Conta corrente\n−R$ 360,00\npendente\nsáb · 20 de fevereiro\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nseg · 15 de fevereiro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npendente\nsex · 12 de fevereiro\nEditar\nExcluir\nStreaming de vídeo\nFixaAssinaturas e serviços · Conta corrente\n−R$ 55,90\npendente\nqua · 10 de fevereiro\nEditar\nExcluir\nIPTU 2027 · 1ª parcela\nImpostos e Taxas · Conta corrente\n−R$ 215,00\npendente\nEditar\nExcluir\nEscola\nFixaEducação · Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nAluguel\nFixaCasa · Conta corrente\n−R$ 2.300,00\npendente\nsex · 5 de fevereiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 412,70\npaga\nEditar\nExcluir\nAplicação na reserva\nTransf.Conta corrente → Reserva\nR$ 1.500,00\nEditar\nExcluir\nSalário\nFixaConta corrente\n+R$ 9.960,00\nrecebida\nqui · 4 de fevereiro\nEditar\nExcluir\nCombustível\nTransporte · Conta corrente\n−R$ 388,00\npaga\nEditar\nExcluir\nFantasia de Carnaval\nLazer e hobbies · Carteira do Carnaval\n−R$ 89,90\npaga\nEditar\nExcluir\nDinheiro para a folia\nTransf.Conta corrente → Carteira do Carnaval\nR$ 500,00\nqua · 3 de fevereiro\nEditar\nExcluir\nRestaurante\nBares e restaurantes · Conta corrente\n−R$ 158,00\npaga\nseg · 1 de fevereiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 396,40\npaga"
+ },
+ "celular-filtro-so-carteira.png": {
+  "caixas": {
+   "todas": [
+    51,
+    131,
+    316,
+    21
+   ],
+   "carteira": [
+    -232,
+    1228.5,
+    202,
+    19.5
+   ],
+   "concluir": [
+    288.9,
+    466.5,
+    80.1,
+    36
+   ]
+  },
+  "texto": "Transações\nFevereiro 2027\nCarteira do Carnaval\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n120.898\n,76\nem 28/02/2027\nVer detalhes\nTransações\n15 transações · 8 pagas · 7 pendentes · 809 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nsáb · 27 de fevereiro\nEditar\nExcluir\nNotebook (4/10)\n4/10Compras · Conta corrente\n−R$ 360,00\npendente\nsáb · 20 de fevereiro\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nseg · 15 de fevereiro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npendente\nsex · 12 de fevereiro\nEditar\nExcluir\nStreaming de vídeo\nFixaAssinaturas e serviços · Conta corrente\n−R$ 55,90\npendente\nqua · 10 de fevereiro\nEditar\nExcluir\nIPTU 2027 · 1ª parcela\nImpostos e Taxas · Conta corrente\n−R$ 215,00\npendente\nEditar\nExcluir\nEscola\nFixaEducação · Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nAluguel\nFixaCasa · Conta corrente\n−R$ 2.300,00\npendente\nsex · 5 de fevereiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 412,70\npaga\nEditar\nExcluir\nAplicação na reserva\nTransf.Conta corrente → Reserva\nR$ 1.500,00\nEditar\nExcluir\nSalário\nFixaConta corrente\n+R$ 9.960,00\nrecebida\nqui · 4 de fevereiro\nEditar\nExcluir\nCombustível\nTransporte · Conta corrente\n−R$ 388,00\npaga\nEditar\nExcluir\nFantasia de Carnaval\nLazer e hobbies · Carteira do Carnaval\n−R$ 89,90\npaga\nEditar\nExcluir\nDinheiro para a folia\nTransf.Conta corrente → Carteira do Carnaval\nR$ 500,00\nqua · 3 de fevereiro\nEditar\nExcluir\nRestaurante\nBares e restaurantes · Conta corrente\n−R$ 158,00\npaga\nseg · 1 de fevereiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 396,40\npaga\nTodas as contas\nBANCO / DIGITAL\nConta corrente\nR$ 22.988,66\nDINHEIRO / CARTEIRA\nCarteira do Carnaval\nR$ 410,10\nINVESTIMENTOS\nBanco na Europa\nR$ 11.525,40\nCorretora no exterior\nR$ 60.000,00\nReserva\nR$ 25.974,60\nConcluir"
+ },
+ "celular-transacoes-so-carteira.png": {
+  "caixas": {
+   "filtro": [
+    220.2,
+    74,
+    147.8,
+    36
+   ],
+   "saldo": [
+    31,
+    205,
+    109.2,
+    15.6
+   ],
+   "saldo_valor": null,
+   "saldo_card": null,
+   "resumo": [
+    29,
+    355.1,
+    197.3,
+    54
+   ],
+   "fantasia": [
+    81,
+    722,
+    188.2,
+    33.2
+   ],
+   "fantasia_nome": [
+    81,
+    722,
+    142.4,
+    16.8
+   ],
+   "fantasia_valor": [
+    287.6,
+    714.6,
+    73.4,
+    15
+   ],
+   "folia": [
+    81,
+    789.2,
+    192.6,
+    16.8
+   ],
+   "folia_nome": [
+    81,
+    789.2,
+    134.2,
+    16.8
+   ],
+   "folia_valor": [
+    287.6,
+    799.1,
+    73.4,
+    15
+   ],
+   "saldo_int": [
+    54.4,
+    226.6,
+    52,
+    28
+   ],
+   "saldo_cts": [
+    108.4,
+    236.6,
+    25,
+    16
+   ],
+   "saldo_em": [
+    31,
+    260.6,
+    206.5,
+    18
+   ],
+   "ver_detalhes": [
+    261.4,
+    257.6,
+    97.6,
+    20
+   ]
+  },
+  "texto": "Transações\nFevereiro 2027\nCarteira do Carnaval\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n410\n,10\nem 28/02/2027\nVer detalhes\nTransações filtrado\n2 transações · 2 pagas · 0 pendentes · somam R$ 589,90 · 809 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 2 filtradas\nRecategorizar todas\nTrocar conta\nqui · 4 de fevereiro\nEditar\nExcluir\nFantasia de Carnaval\nLazer e hobbies · Carteira do Carnaval\n−R$ 89,90\npaga\nEditar\nExcluir\nDinheiro para a folia\nTransf.Conta corrente → Carteira do Carnaval\nR$ 500,00\n2 transações no filtro"
+ },
+ "linhas_carteira": [
+  [
+   "Editar Excluir Fantasia de Carnaval Lazer e hobbies · Carteira do Carnaval −R$ 89,90 paga",
+   15,
+   701.59375,
+   360,
+   73
+  ],
+  [
+   "Editar Excluir Dinheiro para a folia Transf.Conta corrente → Carteira do Carnaval R$ 500,00",
+   15,
+   774.59375,
+   360,
+   63
+  ]
+ ],
+ "celular-editar-transferencia.png": {
+  "caixas": {
+   "titulo": [
+    23,
+    267.8,
+    134.3,
+    25.5
+   ],
+   "transferencia": [
+    233.2,
+    321.5,
+    130.8,
+    34
+   ],
+   "despesa": [
+    26,
+    321.5,
+    101.6,
+    34
+   ],
+   "valor": null,
+   "data": [
+    67,
+    511.5,
+    159.3,
+    24
+   ],
+   "feita": [
+    67,
+    560.5,
+    248,
+    24
+   ],
+   "afeta": [
+    67,
+    586.5,
+    248,
+    19.5
+   ],
+   "feita_linha": [
+    1,
+    550.5,
+    388,
+    66.5
+   ],
+   "de": [
+    67,
+    631,
+    133.8,
+    24
+   ],
+   "para": [
+    67,
+    684,
+    89.1,
+    24
+   ],
+   "de_conta": [
+    212.8,
+    631,
+    130.2,
+    24
+   ],
+   "para_conta": [
+    168.1,
+    684,
+    174.9,
+    24
+   ],
+   "de_linha": [
+    1,
+    617,
+    388,
+    53
+   ],
+   "para_linha": [
+    1,
+    670,
+    388,
+    53
+   ],
+   "descricao": null,
+   "salvar": [
+    136.1,
+    940,
+    230.9,
+    44
+   ],
+   "valor_num": null,
+   "valor_rs": [
+    19,
+    403,
+    352,
+    54
+   ]
+  },
+  "texto": "Editar transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nOntem 04/02\nJá foi feita\nAfeta o saldo das duas contas agora\nDe\nConta corrente\nPara\nCarteira do Carnaval\nRemessa ao exterior\nDinheiro indo para fora, ou voltando de lá\nExcluir transação\nCancelar\nSalvar\nTransações\nFevereiro 2027\nCarteira do Carnaval\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n410\n,10\nem 28/02/2027\nVer detalhes\nTransações filtrado\n2 transações · 2 pagas · 0 pendentes · somam R$ 589,90 · 809 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 2 filtradas\nRecategorizar todas\nTrocar conta\nqui · 4 de fevereiro\nEditar\nExcluir\nFantasia de Carnaval\nLazer e hobbies · Carteira do Carnaval\n−R$ 89,90\npaga\nEditar\nExcluir\nDinheiro para a folia\nTransf.Conta corrente → Carteira do Carnaval\nR$ 500,00\n2 transações no filtro"
+ },
+ "linhas_folha_transf": [
+  [
+   "Editar transação",
+   1,
+   251.5,
+   388,
+   57
+  ],
+  [
+   "R$",
+   19,
+   403,
+   352,
+   54
+  ],
+  [
+   "Data Ontem 04/02",
+   1,
+   497.5,
+   388,
+   53
+  ],
+  [
+   "Já foi feita Afeta o saldo das duas contas agora",
+   1,
+   550.5,
+   388,
+   66.5
+  ],
+  [
+   "De Conta corrente",
+   1,
+   617,
+   388,
+   53
+  ],
+  [
+   "Para Carteira do Carnaval",
+   1,
+   670,
+   388,
+   53
+  ],
+  [
+   "Remessa ao exterior Dinheiro indo para fora, ou voltando de lá",
+   1,
+   723,
+   388,
+   86
+  ],
+  [
+   "",
+   1,
+   809,
+   388,
+   52
+  ],
+  [
+   "Excluir transação",
+   1,
+   875,
+   388,
+   52
+  ],
+  [
+   "Cancelar Salvar",
+   1,
+   927,
+   388,
+   73
+  ]
+ ],
+ "celular-editar-fantasia.png": {
+  "caixas": {
+   "titulo": [
+    23,
+    266.3,
+    134.3,
+    25.5
+   ],
+   "despesa": [
+    26,
+    320,
+    102.3,
+    34
+   ],
+   "valor": null,
+   "pago_via": [
+    67,
+    682.5,
+    89.1,
+    24
+   ],
+   "conta": [
+    168.1,
+    682.5,
+    174.9,
+    24
+   ],
+   "pago_via_linha": [
+    1,
+    668.5,
+    388,
+    53
+   ],
+   "categoria": [
+    67,
+    629.5,
+    144,
+    24
+   ],
+   "cat_valor": [
+    223,
+    629.5,
+    120,
+    24
+   ],
+   "cat_linha": [
+    1,
+    615.5,
+    388,
+    53
+   ],
+   "descricao": null,
+   "pago": [
+    67,
+    559,
+    248,
+    24
+   ],
+   "valor_num": null,
+   "valor_rs": [
+    19,
+    401.5,
+    352,
+    54
+   ]
+  },
+  "texto": "Editar transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nOntem 04/02\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nLazer e hobbies\nPago via\nCarteira do Carnaval\nRecorrência\nÚnica\nFixa\nParcelada\nExcluir transação\nCancelar\nSalvar\nTransações\nFevereiro 2027\nCarteira do Carnaval\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n410\n,10\nem 28/02/2027\nVer detalhes\nTransações filtrado\n2 transações · 2 pagas · 0 pendentes · somam R$ 589,90 · 809 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 2 filtradas\nRecategorizar todas\nTrocar conta\nqui · 4 de fevereiro\nEditar\nExcluir\nFantasia de Carnaval\nLazer e hobbies · Carteira do Carnaval\n−R$ 89,90\npaga\nEditar\nExcluir\nDinheiro para a folia\nTransf.Conta corrente → Carteira do Carnaval\nR$ 500,00\n2 transações no filtro"
+ },
+ "linhas_folha_fant": [
+  [
+   "Editar transação",
+   1,
+   250,
+   388,
+   57
+  ],
+  [
+   "R$",
+   19,
+   401.5,
+   352,
+   54
+  ],
+  [
+   "Data Ontem 04/02",
+   1,
+   496,
+   388,
+   53
+  ],
+  [
+   "Já foi pago Afeta o saldo real da conta agora",
+   1,
+   549,
+   388,
+   66.5
+  ],
+  [
+   "Categoria Lazer e hobbies",
+   1,
+   615.5,
+   388,
+   53
+  ],
+  [
+   "Pago via Carteira do Carnaval",
+   1,
+   668.5,
+   388,
+   53
+  ],
+  [
+   "",
+   1,
+   721.5,
+   388,
+   52
+  ],
+  [
+   "Recorrência Única Fixa Parcelada",
+   1,
+   773.5,
+   388,
+   87.5
+  ],
+  [
+   "Excluir transação",
+   1,
+   875,
+   388,
+   52
+  ],
+  [
+   "Cancelar Salvar",
+   1,
+   927,
+   388,
+   73
+  ]
+ ],
+ "erros": []
+}

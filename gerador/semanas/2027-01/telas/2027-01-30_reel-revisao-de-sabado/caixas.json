@@ -1,0 +1,320 @@
+{
+ "celular-1-visao-geral.jpg": {
+  "periodo": [
+   62,
+   76,
+   98.4,
+   32,
+   "Janeiro 2027"
+  ],
+  "modo": [
+   17,
+   141,
+   117.3,
+   34,
+   "Realizado"
+  ],
+  "patrimonio": [
+   14,
+   192,
+   362,
+   431.5,
+   "Patrimônio R$ 112.383 ,76 queda de 1,0% em relação a dez/26 4 contas somadas Fev/26 Jan/27 Movimento de janeiro 2027 PARCIAL A receita cobriu 89,4% das despesas 89,4% Receitas R$ 9.960,00 Despesas R$ 11.139,90 Resultado negativo do período R$ 1.179,90"
+  ],
+  "movimento": [
+   31,
+   432,
+   328,
+   40,
+   "Movimento de janeiro 2027 PARCIAL"
+  ],
+  "cobriu": [
+   31,
+   478,
+   328,
+   18,
+   "A receita cobriu 89,4% das despesas"
+  ],
+  "barra": [
+   31,
+   504,
+   293.2,
+   30,
+   "89,4%"
+  ],
+  "rec_desp": [
+   31,
+   543,
+   121,
+   18,
+   "Receitas R$ 9.960,00"
+  ],
+  "resultado": [
+   31,
+   587,
+   176.2,
+   18,
+   "Resultado negativo do período"
+  ],
+  "mini": [
+   14,
+   737,
+   362,
+   15.4,
+   "Comparado com a média por mês de Jan/26 a Dez/26"
+  ],
+  "rolagem": 0,
+  "viewport": [
+   390,
+   1000
+  ],
+  "texto": "Visão geral\nJaneiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nPatrimônio\nR$\n112.383\n,76\nqueda de\n1,0% em relação a dez/26\n4 contas somadas\nFev/26\nJan/27\nMovimento de janeiro 2027\nPARCIAL\nA receita cobriu 89,4% das despesas\n89,4%\nReceitas R$ 9.960,00\nDespesas R$ 11.139,90\nResultado negativo do período\nR$ 1.179,90\nReceitas\nR$ 9.960\nqueda de\n5,4%\nDespesas\nR$ 11.139\nalta de\n31,2%\nResultado\n−R$ 1.179\nqueda de\n157,9%\nComparado com a média por mês de Jan/26 a Dez/26\nÚltimos 12 meses\nFluxo mensal\nFev/26 a Jan/27\nMédia por mês · Jan/26 a Dez/26\nReceitas\nR$ 10.524,45\nDespesas\nR$ 8.487,89\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nReceita média\nR$ 10.524,45\nJan/26 a Dez/26 · meses fechados\n↓ 5,4% (este mês vs média)\nDespesa média\nR$ 8.487,89\nJan/26 a Dez/26 · meses fechados\n↑ 31,2% (este mês vs média)\nSaldo acumulado\nR$ 112.383,76\n+R$ 21.768,76\nFev/26\nJan/27\nReserva financeira\n13,2\nmeses\nR$ 112.383,76 ÷ R$ 8.487,89/mês (despesa média)\nmédia de 12 meses com movimento\nPor categoria\nDespesas do período\nDespesas\nReceitas\nPeríodo global\nDespesas\nR$ 11.139,90\n10 categorias\nTop saídas\nMaiores despesas do período\nEducação\nR$ 2.676,00 24%\nCasa\nR$ 2.528,40 23%\nMercado\nR$ 2.099,50 19%\nImpostos e Taxas\nR$ 1.236,00 11%\nTransporte\nR$ 1.189,00 11%\nBares e restaurantes\nR$ 583,30 5%\nMinhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 112.383,76\nPOSITIVAS\nR$ 112.383,76\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nReserva\nINVESTIMENTO\nR$ 24.474,60\nConta corrente\nR$ 16.383,76\nBanco na Europa\nINVESTIMENTO\nR$ 11.525,40\nÚltimas transações\nToque em uma para editar\nVer todas →\nsáb · 30 de janeiro\nqui · 28 de janeiro\nqua · 27 de janeiro\nter · 26 de janeiro\nseg · 25 de janeiro\nsáb · 23 de janeiro\nInsights\nAnálise automática do período\nEducação 85% acima da média\nR$ 2.676,00 este mês vs média de R$ 1.450,00 (últimos 6 meses).\nDespesas maiores que receitas\nDéficit de R$ 1.179,90 no período. Revise os gastos para não comprometer sua reserva.\nEducação: 24% das despesas\nConcentra R$ 2.676,00 dos seus gastos."
+ },
+ "celular-2-pendentes-janeiro.jpg": {
+  "periodo": [
+   62,
+   76,
+   98.4,
+   32,
+   "Janeiro 2027"
+  ],
+  "seta_prox": [
+   162.4,
+   74,
+   36,
+   36,
+   ""
+  ],
+  "tudo": [
+   14,
+   138,
+   362,
+   221.5,
+   "Tudo em dia Nenhuma transação aguardando pagamento ou recebimento neste período."
+  ],
+  "tudo_txt": [
+   35,
+   251,
+   320,
+   22.5,
+   "Tudo em dia"
+  ],
+  "rolagem": 0,
+  "viewport": [
+   390,
+   1000
+  ],
+  "texto": "Pendentes\nJaneiro 2027\nTodas\nas contas\nTudo em dia\nNenhuma transação aguardando pagamento ou recebimento neste período.",
+  "setas": [
+   [
+    "Anterior",
+    24,
+    74,
+    36,
+    36
+   ],
+   [
+    "Próximo",
+    162.4,
+    74,
+    36,
+    36
+   ]
+  ]
+ },
+ "celular-3-pendentes-fevereiro.jpg": {
+  "periodo": [
+   62,
+   76,
+   108.2,
+   32,
+   "Fevereiro 2027"
+  ],
+  "a_pagar": [
+   14,
+   138,
+   362,
+   207,
+   "A pagar R$ 4.444 ,80 7 transações A receber R$ 9.960 Total pendente 8"
+  ],
+  "nada": [
+   54,
+   375,
+   83.5,
+   15,
+   "Nada vencido."
+  ],
+  "em6": [
+   29,
+   503.5,
+   64.3,
+   18,
+   "EM 6 DIAS"
+  ],
+  "dia10": [
+   29,
+   606.3,
+   72.1,
+   18,
+   "10/02/2027"
+  ],
+  "dia12": [
+   29,
+   829.1,
+   71.6,
+   18,
+   "12/02/2027"
+  ],
+  "rolagem": 0,
+  "viewport": [
+   390,
+   1000
+  ],
+  "texto": "Pendentes\nFevereiro 2027\nTodas\nas contas\nA pagar\nR$\n4.444\n,80\n7 transações\nA receber\nR$\n9.960\nTotal pendente\n8\nNada vencido. Tudo dentro do prazo.\nA vencer\n8 transações ainda no prazo\nEM 6 DIAS\n· 05/02/2027\nEditar\nExcluir\nSalário\nFIXA·Salário·Conta corrente\n+R$ 9.960,00\npendente\n10/02/2027\nEditar\nExcluir\nAluguel\nFIXA·Casa·Conta corrente\n−R$ 2.300,00\npendente\nEditar\nExcluir\nEscola\nFIXA·Educação·Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nIPTU 2027 · 1ª parcela\nImpostos e Taxas·Conta corrente\n−R$ 215,00\npendente\n12/02/2027\nEditar\nExcluir\nStreaming de vídeo\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 55,90\npendente\n15/02/2027\nEditar\nExcluir\nStreaming de música\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 21,90\npendente\n20/02/2027\nEditar\nExcluir\nArmazenamento na nuvem\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 42,00\npendente\n27/02/2027\nEditar\nExcluir\nNotebook (4/10)\n4/10·Compras·Conta corrente\n−R$ 360,00\npendente",
+  "l_salario": [
+   15,
+   531.5,
+   360,
+   59.8,
+   "Salário FIXA·Salário·Conta corrente +R$ 9.960,00 pendente"
+  ],
+  "l_aluguel": [
+   15,
+   634.3,
+   360,
+   59.8,
+   "Aluguel FIXA·Casa·Conta corrente −R$ 2.300,00 pendente"
+  ],
+  "l_escola": [
+   15,
+   695.1,
+   360,
+   59.8,
+   "Escola FIXA·Educação·Conta corrente −R$ 1.450,00 pendente"
+  ],
+  "l_iptu": [
+   15,
+   755.9,
+   360,
+   58.2,
+   "IPTU 2027 · 1ª parcela Impostos e Taxas·Conta corrente −R$ 215,00 pendente"
+  ]
+ },
+ "periodo_depois_da_volta": "Janeiro 2027",
+ "celular-4-orcamentos.jpg": {
+  "gasto": [
+   14,
+   138,
+   362,
+   430.5,
+   "Gasto total no período R$11.139,90 Janeiro 2027 30 de 31 dias · 97% do período 77% do limite 97% do período R$ 4.219,70 no orçamento de R$ 5.450,00 R$ 6.920,20 sem limite · 62% do gasto · 5 categorias Limite definido R$ 5.450,00 5 de 10 categorias Usado do limite R$ 4.219,70 77% do limite · o períod"
+  ],
+  "ritmo": [
+   33,
+   241,
+   68.3,
+   14,
+   "30 de 31 dias"
+  ],
+  "pct_lim": [
+   33,
+   268.5,
+   79.2,
+   18,
+   "77% do limite"
+  ],
+  "pct_per": [
+   265.7,
+   268.5,
+   91.3,
+   18,
+   "97% do período"
+  ],
+  "usado": [
+   200,
+   362.5,
+   157,
+   97,
+   "Usado do limite R$ 4.219,70 77% do limite · o período está em 97%"
+  ],
+  "sobra": [
+   33,
+   469.5,
+   324,
+   82,
+   "Sobra do limite R$ 1.230,30 R$ 1.230 por dia nos 1 dia que falta"
+  ],
+  "rolagem": 0,
+  "viewport": [
+   390,
+   1000
+  ],
+  "texto": "Orçamentos\nJaneiro 2027\nTodas\nas contas\nGasto total no período\nR$11.139,90\nJaneiro 2027\n30 de 31 dias · 97% do período\n77% do limite\n97% do período\nR$ 4.219,70 no orçamento de R$ 5.450,00\nR$ 6.920,20 sem limite · 62% do gasto · 5 categorias\nLimite definido\nR$ 5.450,00\n5 de 10 categorias\nUsado do limite\nR$ 4.219,70\n77% do limite · o período está em 97%\nSobra do limite\nR$ 1.230,30\nR$ 1.230 por dia nos 1 dia que falta\nOnde definir limite primeiro SUGESTÕES\nR$ 6.920,20 do período está em categorias sem limite. Os valores abaixo vêm da sua própria média e servem de ponto de partida.\nEducação\nR$ 2.676\nno período\nsugestão pela média de 12 meses\nUsar\nR$ 1.500\noutro valor\nCasa\nR$ 2.528\nno período\nsugestão pela média de 12 meses\nUsar\nR$ 2.500\noutro valor\nImpostos e Taxas\nR$ 1.236\nno período\nsugestão pela média de 1 mês\nUsar\nR$ 1.400\noutro valor\nProgresso por categoria\nJaneiro 2027 · 5 categorias\nRisco\nSó com limite\nDefinir limites\na marca vertical é hoje (dia 30 de 31 do período), e a barra à esquerda dela está dentro do ritmo\nJÁ PASSARAM DO LIMITE\n1 categoria\n= hoje\nMercado\nR$ 2.099 de R$ 2.000\n105%\nExcedeu em R$ 99\ne, no ritmo, fecha em\nR$ 2.169\n8% ACIMA\nNO LIMITE\n1 categoria\n= hoje\nBares e restaurantes\nR$ 583 de R$ 600\n97%\nno ritmo, fecha em\nR$ 602\nNO LIMITE\nTRANQUILAS\n3 categorias\n= hoje\nTransporte\nR$ 1.189 de R$ 1.950\n61%\nno ritmo, fecha em\nR$ 1.228\n63% DO LIMITE\nLazer e hobbies\nR$ 204 de R$ 400\n51%\nno ritmo, fecha em\nR$ 211\n53% DO LIMITE\nSaúde\nR$ 143 de R$ 500\n29%\nno ritmo, fecha em\nR$ 147\n30% DO LIMITE\nMostrar as outras 5 categorias com gasto e sem limite"
+ },
+ "celular-5-orcamentos-progresso.jpg": {
+  "painel": [
+   14,
+   970.5,
+   362,
+   961.5,
+   "Progresso por categoria Janeiro 2027 · 5 categorias Risco Só com limite Definir limites a marca vertical é hoje (dia 30 de 31 do período), e a barra à esquerda dela está dentro do ritmo JÁ PASSARAM DO LIMITE 1 categoria = hoje Mercado R$ 2.099 de R$ 2.000 105% Excedeu em R$ 99 e, no ritmo, fecha em "
+  ],
+  "marca": [
+   38,
+   1107,
+   323,
+   33,
+   "a marca vertical é hoje (dia 30 de 31 do período), e a barra à esquerda dela está dentro do ritmo"
+  ],
+  "ja_passaram": [
+   29,
+   1152,
+   151.6,
+   16.5,
+   "JÁ PASSARAM DO LIMITE"
+  ],
+  "tranquilas": [
+   29,
+   1505.5,
+   78.9,
+   16.5,
+   "TRANQUILAS"
+  ],
+  "excedeu": [
+   29,
+   1257.5,
+   332,
+   16.5,
+   "Excedeu em R$ 99"
+  ],
+  "rolagem": 897,
+  "viewport": [
+   390,
+   1000
+  ],
+  "texto": "Orçamentos\nJaneiro 2027\nTodas\nas contas\nGasto total no período\nR$11.139,90\nJaneiro 2027\n30 de 31 dias · 97% do período\n77% do limite\n97% do período\nR$ 4.219,70 no orçamento de R$ 5.450,00\nR$ 6.920,20 sem limite · 62% do gasto · 5 categorias\nLimite definido\nR$ 5.450,00\n5 de 10 categorias\nUsado do limite\nR$ 4.219,70\n77% do limite · o período está em 97%\nSobra do limite\nR$ 1.230,30\nR$ 1.230 por dia nos 1 dia que falta\nOnde definir limite primeiro SUGESTÕES\nR$ 6.920,20 do período está em categorias sem limite. Os valores abaixo vêm da sua própria média e servem de ponto de partida.\nEducação\nR$ 2.676\nno período\nsugestão pela média de 12 meses\nUsar\nR$ 1.500\noutro valor\nCasa\nR$ 2.528\nno período\nsugestão pela média de 12 meses\nUsar\nR$ 2.500\noutro valor\nImpostos e Taxas\nR$ 1.236\nno período\nsugestão pela média de 1 mês\nUsar\nR$ 1.400\noutro valor\nProgresso por categoria\nJaneiro 2027 · 5 categorias\nRisco\nSó com limite\nDefinir limites\na marca vertical é hoje (dia 30 de 31 do período), e a barra à esquerda dela está dentro do ritmo\nJÁ PASSARAM DO LIMITE\n1 categoria\n= hoje\nMercado\nR$ 2.099 de R$ 2.000\n105%\nExcedeu em R$ 99\ne, no ritmo, fecha em\nR$ 2.169\n8% ACIMA\nNO LIMITE\n1 categoria\n= hoje\nBares e restaurantes\nR$ 583 de R$ 600\n97%\nno ritmo, fecha em\nR$ 602\nNO LIMITE\nTRANQUILAS\n3 categorias\n= hoje\nTransporte\nR$ 1.189 de R$ 1.950\n61%\nno ritmo, fecha em\nR$ 1.228\n63% DO LIMITE\nLazer e hobbies\nR$ 204 de R$ 400\n51%\nno ritmo, fecha em\nR$ 211\n53% DO LIMITE\nSaúde\nR$ 143 de R$ 500\n29%\nno ritmo, fecha em\nR$ 147\n30% DO LIMITE\nMostrar as outras 5 categorias com gasto e sem limite",
+  "l_mercado": [
+   29,
+   1196.5,
+   332,
+   100.5,
+   "Mercado R$ 2.099 de R$ 2.000 105% Excedeu em R$ 99 e, no ritmo, fecha em R$ 2.169 8% ACIMA"
+  ],
+  "l_bares": [
+   29,
+   1384.5,
+   332,
+   78,
+   "Bares e restaurantes R$ 583 de R$ 600 97% no ritmo, fecha em R$ 602 NO LIMITE"
+  ],
+  "l_transporte": [
+   29,
+   1550,
+   332,
+   78,
+   "Transporte R$ 1.189 de R$ 1.950 61% no ritmo, fecha em R$ 1.228 63% DO LIMITE"
+  ]
+ },
+ "relogio": "Sat Jan 30 2027 10:00:18 GMT-0300 (Horário Padrão de Brasília)",
+ "erros": []
+}

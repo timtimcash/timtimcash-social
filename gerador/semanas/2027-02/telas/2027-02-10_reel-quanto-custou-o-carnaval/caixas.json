@@ -1,0 +1,879 @@
+{
+ "arquivos": [
+  "celular-transacoes-digitando-01.png",
+  "celular-transacoes-digitando-02.png",
+  "celular-transacoes-digitando-03.png",
+  "celular-transacoes-digitando-04.png",
+  "celular-transacoes-digitando-05.png",
+  "celular-transacoes-digitando-06.png",
+  "celular-transacoes-digitando-07.png",
+  "celular-transacoes-digitando-08.png"
+ ],
+ "celular-transacoes-fevereiro.png": {
+  "caixas": {
+   "busca": [
+    68,
+    404.1,
+    276,
+    38
+   ],
+   "resumo": [
+    29,
+    355.1,
+    197.3,
+    36
+   ],
+   "mes": [
+    62,
+    76,
+    108.2,
+    32
+   ],
+   "titulo": [
+    11,
+    9,
+    368,
+    55
+   ]
+  },
+  "texto": "Transações\nFevereiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n116.420\n,66\nem 28/02/2027\nVer detalhes\nTransações\n21 transações · 17 pagas · 4 pendentes · 815 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nsáb · 27 de fevereiro\nEditar\nExcluir\nNotebook (4/10)\n4/10Compras · Conta corrente\n−R$ 360,00\npendente\nsáb · 20 de fevereiro\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nseg · 15 de fevereiro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npendente\nsex · 12 de fevereiro\nEditar\nExcluir\nStreaming de vídeo\nFixaAssinaturas e serviços · Conta corrente\n−R$ 55,90\npendente\nqua · 10 de fevereiro\nEditar\nExcluir\nPedido delivery\nBares e restaurantes · Conta corrente\n−R$ 76,90\npaga\nEditar\nExcluir\nFarmácia\nSaúde · Conta corrente\n−R$ 71,30\npaga\nEditar\nExcluir\nIPTU 2027 · 1ª parcela\nImpostos e Taxas · Conta corrente\n−R$ 215,00\npaga\nEditar\nExcluir\nEscola\nFixaEducação · Conta corrente\n−R$ 1.450,00\npaga\nEditar\nExcluir\nAluguel\nFixaCasa · Conta corrente\n−R$ 2.300,00\npaga\nter · 9 de fevereiro\nEditar\nExcluir\nLanche no bloco de Carnaval\nBares e restaurantes · Carteira do Carnaval\n−R$ 48,00\npaga\nseg · 8 de fevereiro\nEditar\nExcluir\nTransporte no Carnaval\nTransporte · Carteira do Carnaval\n−R$ 72,40\npaga\ndom · 7 de fevereiro\nEditar\nExcluir\nComida no Carnaval\nBares e restaurantes · Carteira do Carnaval\n−R$ 64,50\npaga\nsáb · 6 de fevereiro\nEditar\nExcluir\nIngresso de festa de Carnaval\nLazer e hobbies · Carteira do Carnaval\n−R$ 180,00\npaga\nsex · 5 de fevereiro\nqui · 4 de fevereiro\nqua · 3 de fevereiro\nseg · 1 de fevereiro"
+ },
+ "trechos_0": {
+  "texto": "21 transações · 17 pagas · 4 pendentes · 815 no histórico",
+  "\\d+ transações": [
+   [
+    29,
+    356.1,
+    77.3,
+    15
+   ]
+  ]
+ },
+ "celular-transacoes-busca-tocada.png": {
+  "caixas": {
+   "busca": [
+    68,
+    404.1,
+    276,
+    38
+   ],
+   "resumo": [
+    29,
+    355.1,
+    197.3,
+    36
+   ],
+   "mes": [
+    62,
+    76,
+    108.2,
+    32
+   ],
+   "titulo": [
+    11,
+    9,
+    368,
+    55
+   ]
+  },
+  "texto": "Transações\nFevereiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n116.420\n,66\nem 28/02/2027\nVer detalhes\nTransações\n21 transações · 17 pagas · 4 pendentes · 815 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nsáb · 27 de fevereiro\nEditar\nExcluir\nNotebook (4/10)\n4/10Compras · Conta corrente\n−R$ 360,00\npendente\nsáb · 20 de fevereiro\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nseg · 15 de fevereiro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npendente\nsex · 12 de fevereiro\nEditar\nExcluir\nStreaming de vídeo\nFixaAssinaturas e serviços · Conta corrente\n−R$ 55,90\npendente\nqua · 10 de fevereiro\nEditar\nExcluir\nPedido delivery\nBares e restaurantes · Conta corrente\n−R$ 76,90\npaga\nEditar\nExcluir\nFarmácia\nSaúde · Conta corrente\n−R$ 71,30\npaga\nEditar\nExcluir\nIPTU 2027 · 1ª parcela\nImpostos e Taxas · Conta corrente\n−R$ 215,00\npaga\nEditar\nExcluir\nEscola\nFixaEducação · Conta corrente\n−R$ 1.450,00\npaga\nEditar\nExcluir\nAluguel\nFixaCasa · Conta corrente\n−R$ 2.300,00\npaga\nter · 9 de fevereiro\nEditar\nExcluir\nLanche no bloco de Carnaval\nBares e restaurantes · Carteira do Carnaval\n−R$ 48,00\npaga\nseg · 8 de fevereiro\nEditar\nExcluir\nTransporte no Carnaval\nTransporte · Carteira do Carnaval\n−R$ 72,40\npaga\ndom · 7 de fevereiro\nEditar\nExcluir\nComida no Carnaval\nBares e restaurantes · Carteira do Carnaval\n−R$ 64,50\npaga\nsáb · 6 de fevereiro\nEditar\nExcluir\nIngresso de festa de Carnaval\nLazer e hobbies · Carteira do Carnaval\n−R$ 180,00\npaga\nsex · 5 de fevereiro\nqui · 4 de fevereiro\nqua · 3 de fevereiro\nseg · 1 de fevereiro"
+ },
+ "celular-transacoes-digitando-01.png": {
+  "caixas": {
+   "busca": [
+    68,
+    422.1,
+    276,
+    38
+   ],
+   "resumo": [
+    29,
+    355.1,
+    197.3,
+    54
+   ],
+   "mes": [
+    62,
+    76,
+    108.2,
+    32
+   ],
+   "titulo": [
+    11,
+    9,
+    368,
+    55
+   ]
+  },
+  "texto": "Transações\nFevereiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n116.420\n,66\nem 28/02/2027\nVer detalhes\nTransações filtrado\n17 transações · 13 pagas · 4 pendentes · somam R$ 7.668,00 · 815 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 17 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nsáb · 27 de fevereiro\nEditar\nExcluir\nNotebook (4/10)\n4/10Compras · Conta corrente\n−R$ 360,00\npendente\nsáb · 20 de fevereiro\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nseg · 15 de fevereiro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npendente\nsex · 12 de fevereiro\nEditar\nExcluir\nStreaming de vídeo\nFixaAssinaturas e serviços · Conta corrente\n−R$ 55,90\npendente\nqua · 10 de fevereiro\nEditar\nExcluir\nFarmácia\nSaúde · Conta corrente\n−R$ 71,30\npaga\nEditar\nExcluir\nIPTU 2027 · 1ª parcela\nImpostos e Taxas · Conta corrente\n−R$ 215,00\npaga\nEditar\nExcluir\nEscola\nFixaEducação · Conta corrente\n−R$ 1.450,00\npaga\nEditar\nExcluir\nAluguel\nFixaCasa · Conta corrente\n−R$ 2.300,00\npaga\nter · 9 de fevereiro\nEditar\nExcluir\nLanche no bloco de Carnaval\nBares e restaurantes · Carteira do Carnaval\n−R$ 48,00\npaga\nseg · 8 de fevereiro\nEditar\nExcluir\nTransporte no Carnaval\nTransporte · Carteira do Carnaval\n−R$ 72,40\npaga\ndom · 7 de fevereiro\nEditar\nExcluir\nComida no Carnaval\nBares e restaurantes · Carteira do Carnaval\n−R$ 64,50\npaga\nsáb · 6 de fevereiro\nsex · 5 de fevereiro\nqui · 4 de fevereiro\nseg · 1 de fevereiro\n17 transações no filtro",
+  "valor": "c",
+  "trechos": {
+   "texto": "17 transações · 13 pagas · 4 pendentes · somam R$ 7.668,00 · 815 no histórico",
+   "\\d+ transações": [
+    [
+     29,
+     356.1,
+     76.8,
+     15
+    ]
+   ],
+   "somam R\\$ [\\d.]+,\\d\\d": [
+    [
+     108.2,
+     374.1,
+     44.4,
+     15
+    ],
+    [
+     152.5,
+     374.1,
+     68.5,
+     15
+    ],
+    [
+     152.5,
+     374.1,
+     68.5,
+     15
+    ]
+   ]
+  },
+  "cursor": {
+   "x": 77.1,
+   "x_ultima": 72.6,
+   "campo": [
+    68,
+    422.1,
+    276,
+    38
+   ],
+   "fonte": "16px Inter, \"SF Pro Text\", -apple-system, BlinkMacSystemFont, sans-serif"
+  }
+ },
+ "celular-transacoes-digitando-02.png": {
+  "caixas": {
+   "busca": [
+    68,
+    422.1,
+    276,
+    38
+   ],
+   "resumo": [
+    29,
+    355.1,
+    197.3,
+    54
+   ],
+   "mes": [
+    62,
+    76,
+    108.2,
+    32
+   ],
+   "titulo": [
+    11,
+    9,
+    368,
+    55
+   ]
+  },
+  "texto": "Transações\nFevereiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n116.420\n,66\nem 28/02/2027\nVer detalhes\nTransações filtrado\n11 transações · 10 pagas · 1 pendente · somam R$ 6.535,80 · 815 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 11 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nseg · 15 de fevereiro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npendente\nqua · 10 de fevereiro\nEditar\nExcluir\nEscola\nFixaEducação · Conta corrente\n−R$ 1.450,00\npaga\nEditar\nExcluir\nAluguel\nFixaCasa · Conta corrente\n−R$ 2.300,00\npaga\nter · 9 de fevereiro\nEditar\nExcluir\nLanche no bloco de Carnaval\nBares e restaurantes · Carteira do Carnaval\n−R$ 48,00\npaga\nseg · 8 de fevereiro\nEditar\nExcluir\nTransporte no Carnaval\nTransporte · Carteira do Carnaval\n−R$ 72,40\npaga\ndom · 7 de fevereiro\nEditar\nExcluir\nComida no Carnaval\nBares e restaurantes · Carteira do Carnaval\n−R$ 64,50\npaga\nsáb · 6 de fevereiro\nEditar\nExcluir\nIngresso de festa de Carnaval\nLazer e hobbies · Carteira do Carnaval\n−R$ 180,00\npaga\nsex · 5 de fevereiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 412,70\npaga\nEditar\nExcluir\nAplicação na reserva\nTransf.Conta corrente → Reserva\nR$ 1.500,00\nqui · 4 de fevereiro\nEditar\nExcluir\nFantasia de Carnaval\nLazer e hobbies · Carteira do Carnaval\n−R$ 89,90\npaga\nseg · 1 de fevereiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 396,40\npaga\n11 transações no filtro",
+  "valor": "ca",
+  "trechos": {
+   "texto": "11 transações · 10 pagas · 1 pendente · somam R$ 6.535,80 · 815 no histórico",
+   "\\d+ transações": [
+    [
+     29,
+     356.1,
+     74.9,
+     15
+    ]
+   ],
+   "somam R\\$ [\\d.]+,\\d\\d": [
+    [
+     99.1,
+     374.1,
+     44.4,
+     15
+    ],
+    [
+     143.5,
+     374.1,
+     70.2,
+     15
+    ],
+    [
+     143.5,
+     374.1,
+     70.2,
+     15
+    ]
+   ]
+  },
+  "cursor": {
+   "x": 86.3,
+   "x_ultima": 81.6,
+   "campo": [
+    68,
+    422.1,
+    276,
+    38
+   ],
+   "fonte": "16px Inter, \"SF Pro Text\", -apple-system, BlinkMacSystemFont, sans-serif"
+  }
+ },
+ "celular-transacoes-digitando-03.png": {
+  "caixas": {
+   "busca": [
+    68,
+    422.1,
+    276,
+    38
+   ],
+   "resumo": [
+    29,
+    355.1,
+    197.3,
+    54
+   ],
+   "mes": [
+    62,
+    76,
+    108.2,
+    32
+   ],
+   "titulo": [
+    11,
+    9,
+    368,
+    55
+   ]
+  },
+  "texto": "Transações\nFevereiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n116.420\n,66\nem 28/02/2027\nVer detalhes\nTransações filtrado\n5 transações · 5 pagas · 0 pendentes · somam R$ 454,80 · 815 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 5 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nter · 9 de fevereiro\nEditar\nExcluir\nLanche no bloco de Carnaval\nBares e restaurantes · Carteira do Carnaval\n−R$ 48,00\npaga\nseg · 8 de fevereiro\nEditar\nExcluir\nTransporte no Carnaval\nTransporte · Carteira do Carnaval\n−R$ 72,40\npaga\ndom · 7 de fevereiro\nEditar\nExcluir\nComida no Carnaval\nBares e restaurantes · Carteira do Carnaval\n−R$ 64,50\npaga\nsáb · 6 de fevereiro\nEditar\nExcluir\nIngresso de festa de Carnaval\nLazer e hobbies · Carteira do Carnaval\n−R$ 180,00\npaga\nqui · 4 de fevereiro\nEditar\nExcluir\nFantasia de Carnaval\nLazer e hobbies · Carteira do Carnaval\n−R$ 89,90\npaga\n5 transações no filtro",
+  "valor": "car",
+  "trechos": {
+   "texto": "5 transações · 5 pagas · 0 pendentes · somam R$ 454,80 · 815 no histórico",
+   "\\d+ transações": [
+    [
+     29,
+     356.1,
+     72.4,
+     15
+    ]
+   ],
+   "somam R\\$ [\\d.]+,\\d\\d": [
+    [
+     108,
+     374.1,
+     44.4,
+     15
+    ],
+    [
+     152.4,
+     374.1,
+     60.1,
+     15
+    ],
+    [
+     152.4,
+     374.1,
+     60.1,
+     15
+    ]
+   ]
+  },
+  "cursor": {
+   "x": 92.3,
+   "x_ultima": 89.3,
+   "campo": [
+    68,
+    422.1,
+    276,
+    38
+   ],
+   "fonte": "16px Inter, \"SF Pro Text\", -apple-system, BlinkMacSystemFont, sans-serif"
+  }
+ },
+ "celular-transacoes-digitando-04.png": {
+  "caixas": {
+   "busca": [
+    68,
+    422.1,
+    276,
+    38
+   ],
+   "resumo": [
+    29,
+    355.1,
+    197.3,
+    54
+   ],
+   "mes": [
+    62,
+    76,
+    108.2,
+    32
+   ],
+   "titulo": [
+    11,
+    9,
+    368,
+    55
+   ]
+  },
+  "texto": "Transações\nFevereiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n116.420\n,66\nem 28/02/2027\nVer detalhes\nTransações filtrado\n5 transações · 5 pagas · 0 pendentes · somam R$ 454,80 · 815 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 5 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nter · 9 de fevereiro\nEditar\nExcluir\nLanche no bloco de Carnaval\nBares e restaurantes · Carteira do Carnaval\n−R$ 48,00\npaga\nseg · 8 de fevereiro\nEditar\nExcluir\nTransporte no Carnaval\nTransporte · Carteira do Carnaval\n−R$ 72,40\npaga\ndom · 7 de fevereiro\nEditar\nExcluir\nComida no Carnaval\nBares e restaurantes · Carteira do Carnaval\n−R$ 64,50\npaga\nsáb · 6 de fevereiro\nEditar\nExcluir\nIngresso de festa de Carnaval\nLazer e hobbies · Carteira do Carnaval\n−R$ 180,00\npaga\nqui · 4 de fevereiro\nEditar\nExcluir\nFantasia de Carnaval\nLazer e hobbies · Carteira do Carnaval\n−R$ 89,90\npaga\n5 transações no filtro",
+  "valor": "carn",
+  "trechos": {
+   "texto": "5 transações · 5 pagas · 0 pendentes · somam R$ 454,80 · 815 no histórico",
+   "\\d+ transações": [
+    [
+     29,
+     356.1,
+     72.4,
+     15
+    ]
+   ],
+   "somam R\\$ [\\d.]+,\\d\\d": [
+    [
+     108,
+     374.1,
+     44.4,
+     15
+    ],
+    [
+     152.4,
+     374.1,
+     60.1,
+     15
+    ],
+    [
+     152.4,
+     374.1,
+     60.1,
+     15
+    ]
+   ]
+  },
+  "cursor": {
+   "x": 102,
+   "x_ultima": 97,
+   "campo": [
+    68,
+    422.1,
+    276,
+    38
+   ],
+   "fonte": "16px Inter, \"SF Pro Text\", -apple-system, BlinkMacSystemFont, sans-serif"
+  }
+ },
+ "celular-transacoes-digitando-05.png": {
+  "caixas": {
+   "busca": [
+    68,
+    422.1,
+    276,
+    38
+   ],
+   "resumo": [
+    29,
+    355.1,
+    197.3,
+    54
+   ],
+   "mes": [
+    62,
+    76,
+    108.2,
+    32
+   ],
+   "titulo": [
+    11,
+    9,
+    368,
+    55
+   ]
+  },
+  "texto": "Transações\nFevereiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n116.420\n,66\nem 28/02/2027\nVer detalhes\nTransações filtrado\n5 transações · 5 pagas · 0 pendentes · somam R$ 454,80 · 815 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 5 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nter · 9 de fevereiro\nEditar\nExcluir\nLanche no bloco de Carnaval\nBares e restaurantes · Carteira do Carnaval\n−R$ 48,00\npaga\nseg · 8 de fevereiro\nEditar\nExcluir\nTransporte no Carnaval\nTransporte · Carteira do Carnaval\n−R$ 72,40\npaga\ndom · 7 de fevereiro\nEditar\nExcluir\nComida no Carnaval\nBares e restaurantes · Carteira do Carnaval\n−R$ 64,50\npaga\nsáb · 6 de fevereiro\nEditar\nExcluir\nIngresso de festa de Carnaval\nLazer e hobbies · Carteira do Carnaval\n−R$ 180,00\npaga\nqui · 4 de fevereiro\nEditar\nExcluir\nFantasia de Carnaval\nLazer e hobbies · Carteira do Carnaval\n−R$ 89,90\npaga\n5 transações no filtro",
+  "valor": "carna",
+  "trechos": {
+   "texto": "5 transações · 5 pagas · 0 pendentes · somam R$ 454,80 · 815 no histórico",
+   "\\d+ transações": [
+    [
+     29,
+     356.1,
+     72.4,
+     15
+    ]
+   ],
+   "somam R\\$ [\\d.]+,\\d\\d": [
+    [
+     108,
+     374.1,
+     44.4,
+     15
+    ],
+    [
+     152.4,
+     374.1,
+     60.1,
+     15
+    ],
+    [
+     152.4,
+     374.1,
+     60.1,
+     15
+    ]
+   ]
+  },
+  "cursor": {
+   "x": 111,
+   "x_ultima": 106.5,
+   "campo": [
+    68,
+    422.1,
+    276,
+    38
+   ],
+   "fonte": "16px Inter, \"SF Pro Text\", -apple-system, BlinkMacSystemFont, sans-serif"
+  }
+ },
+ "celular-transacoes-digitando-06.png": {
+  "caixas": {
+   "busca": [
+    68,
+    422.1,
+    276,
+    38
+   ],
+   "resumo": [
+    29,
+    355.1,
+    197.3,
+    54
+   ],
+   "mes": [
+    62,
+    76,
+    108.2,
+    32
+   ],
+   "titulo": [
+    11,
+    9,
+    368,
+    55
+   ]
+  },
+  "texto": "Transações\nFevereiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n116.420\n,66\nem 28/02/2027\nVer detalhes\nTransações filtrado\n5 transações · 5 pagas · 0 pendentes · somam R$ 454,80 · 815 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 5 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nter · 9 de fevereiro\nEditar\nExcluir\nLanche no bloco de Carnaval\nBares e restaurantes · Carteira do Carnaval\n−R$ 48,00\npaga\nseg · 8 de fevereiro\nEditar\nExcluir\nTransporte no Carnaval\nTransporte · Carteira do Carnaval\n−R$ 72,40\npaga\ndom · 7 de fevereiro\nEditar\nExcluir\nComida no Carnaval\nBares e restaurantes · Carteira do Carnaval\n−R$ 64,50\npaga\nsáb · 6 de fevereiro\nEditar\nExcluir\nIngresso de festa de Carnaval\nLazer e hobbies · Carteira do Carnaval\n−R$ 180,00\npaga\nqui · 4 de fevereiro\nEditar\nExcluir\nFantasia de Carnaval\nLazer e hobbies · Carteira do Carnaval\n−R$ 89,90\npaga\n5 transações no filtro",
+  "valor": "carnav",
+  "trechos": {
+   "texto": "5 transações · 5 pagas · 0 pendentes · somam R$ 454,80 · 815 no histórico",
+   "\\d+ transações": [
+    [
+     29,
+     356.1,
+     72.4,
+     15
+    ]
+   ],
+   "somam R\\$ [\\d.]+,\\d\\d": [
+    [
+     108,
+     374.1,
+     44.4,
+     15
+    ],
+    [
+     152.4,
+     374.1,
+     60.1,
+     15
+    ],
+    [
+     152.4,
+     374.1,
+     60.1,
+     15
+    ]
+   ]
+  },
+  "cursor": {
+   "x": 119.8,
+   "x_ultima": 115.5,
+   "campo": [
+    68,
+    422.1,
+    276,
+    38
+   ],
+   "fonte": "16px Inter, \"SF Pro Text\", -apple-system, BlinkMacSystemFont, sans-serif"
+  }
+ },
+ "celular-transacoes-digitando-07.png": {
+  "caixas": {
+   "busca": [
+    68,
+    422.1,
+    276,
+    38
+   ],
+   "resumo": [
+    29,
+    355.1,
+    197.3,
+    54
+   ],
+   "mes": [
+    62,
+    76,
+    108.2,
+    32
+   ],
+   "titulo": [
+    11,
+    9,
+    368,
+    55
+   ]
+  },
+  "texto": "Transações\nFevereiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n116.420\n,66\nem 28/02/2027\nVer detalhes\nTransações filtrado\n5 transações · 5 pagas · 0 pendentes · somam R$ 454,80 · 815 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 5 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nter · 9 de fevereiro\nEditar\nExcluir\nLanche no bloco de Carnaval\nBares e restaurantes · Carteira do Carnaval\n−R$ 48,00\npaga\nseg · 8 de fevereiro\nEditar\nExcluir\nTransporte no Carnaval\nTransporte · Carteira do Carnaval\n−R$ 72,40\npaga\ndom · 7 de fevereiro\nEditar\nExcluir\nComida no Carnaval\nBares e restaurantes · Carteira do Carnaval\n−R$ 64,50\npaga\nsáb · 6 de fevereiro\nEditar\nExcluir\nIngresso de festa de Carnaval\nLazer e hobbies · Carteira do Carnaval\n−R$ 180,00\npaga\nqui · 4 de fevereiro\nEditar\nExcluir\nFantasia de Carnaval\nLazer e hobbies · Carteira do Carnaval\n−R$ 89,90\npaga\n5 transações no filtro",
+  "valor": "carnava",
+  "trechos": {
+   "texto": "5 transações · 5 pagas · 0 pendentes · somam R$ 454,80 · 815 no histórico",
+   "\\d+ transações": [
+    [
+     29,
+     356.1,
+     72.4,
+     15
+    ]
+   ],
+   "somam R\\$ [\\d.]+,\\d\\d": [
+    [
+     108,
+     374.1,
+     44.4,
+     15
+    ],
+    [
+     152.4,
+     374.1,
+     60.1,
+     15
+    ],
+    [
+     152.4,
+     374.1,
+     60.1,
+     15
+    ]
+   ]
+  },
+  "cursor": {
+   "x": 128.7,
+   "x_ultima": 124.2,
+   "campo": [
+    68,
+    422.1,
+    276,
+    38
+   ],
+   "fonte": "16px Inter, \"SF Pro Text\", -apple-system, BlinkMacSystemFont, sans-serif"
+  }
+ },
+ "celular-transacoes-digitando-08.png": {
+  "caixas": {
+   "busca": [
+    68,
+    422.1,
+    276,
+    38
+   ],
+   "resumo": [
+    29,
+    355.1,
+    197.3,
+    54
+   ],
+   "mes": [
+    62,
+    76,
+    108.2,
+    32
+   ],
+   "titulo": [
+    11,
+    9,
+    368,
+    55
+   ]
+  },
+  "texto": "Transações\nFevereiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n116.420\n,66\nem 28/02/2027\nVer detalhes\nTransações filtrado\n5 transações · 5 pagas · 0 pendentes · somam R$ 454,80 · 815 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 5 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nter · 9 de fevereiro\nEditar\nExcluir\nLanche no bloco de Carnaval\nBares e restaurantes · Carteira do Carnaval\n−R$ 48,00\npaga\nseg · 8 de fevereiro\nEditar\nExcluir\nTransporte no Carnaval\nTransporte · Carteira do Carnaval\n−R$ 72,40\npaga\ndom · 7 de fevereiro\nEditar\nExcluir\nComida no Carnaval\nBares e restaurantes · Carteira do Carnaval\n−R$ 64,50\npaga\nsáb · 6 de fevereiro\nEditar\nExcluir\nIngresso de festa de Carnaval\nLazer e hobbies · Carteira do Carnaval\n−R$ 180,00\npaga\nqui · 4 de fevereiro\nEditar\nExcluir\nFantasia de Carnaval\nLazer e hobbies · Carteira do Carnaval\n−R$ 89,90\npaga\n5 transações no filtro",
+  "valor": "carnaval",
+  "trechos": {
+   "texto": "5 transações · 5 pagas · 0 pendentes · somam R$ 454,80 · 815 no histórico",
+   "\\d+ transações": [
+    [
+     29,
+     356.1,
+     72.4,
+     15
+    ]
+   ],
+   "somam R\\$ [\\d.]+,\\d\\d": [
+    [
+     108,
+     374.1,
+     44.4,
+     15
+    ],
+    [
+     152.4,
+     374.1,
+     60.1,
+     15
+    ],
+    [
+     152.4,
+     374.1,
+     60.1,
+     15
+    ]
+   ]
+  },
+  "cursor": {
+   "x": 132.5,
+   "x_ultima": 130.6,
+   "campo": [
+    68,
+    422.1,
+    276,
+    38
+   ],
+   "fonte": "16px Inter, \"SF Pro Text\", -apple-system, BlinkMacSystemFont, sans-serif"
+  }
+ },
+ "celular-transacoes-busca-carnaval-alta.png": {
+  "caixas": {
+   "busca": [
+    68,
+    422.1,
+    276,
+    38
+   ],
+   "resumo": [
+    29,
+    355.1,
+    197.3,
+    54
+   ],
+   "mes": [
+    62,
+    76,
+    108.2,
+    32
+   ],
+   "titulo": [
+    11,
+    9,
+    368,
+    55
+   ]
+  },
+  "texto": "Transações\nFevereiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n116.420\n,66\nem 28/02/2027\nVer detalhes\nTransações filtrado\n5 transações · 5 pagas · 0 pendentes · somam R$ 454,80 · 815 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 5 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nter · 9 de fevereiro\nEditar\nExcluir\nLanche no bloco de Carnaval\nBares e restaurantes · Carteira do Carnaval\n−R$ 48,00\npaga\nseg · 8 de fevereiro\nEditar\nExcluir\nTransporte no Carnaval\nTransporte · Carteira do Carnaval\n−R$ 72,40\npaga\ndom · 7 de fevereiro\nEditar\nExcluir\nComida no Carnaval\nBares e restaurantes · Carteira do Carnaval\n−R$ 64,50\npaga\nsáb · 6 de fevereiro\nEditar\nExcluir\nIngresso de festa de Carnaval\nLazer e hobbies · Carteira do Carnaval\n−R$ 180,00\npaga\nqui · 4 de fevereiro\nEditar\nExcluir\nFantasia de Carnaval\nLazer e hobbies · Carteira do Carnaval\n−R$ 89,90\npaga\n5 transações no filtro"
+ },
+ "trechos_alta": {
+  "texto": "5 transações · 5 pagas · 0 pendentes · somam R$ 454,80 · 815 no histórico",
+  "5 transações": [
+   [
+    29,
+    356.1,
+    72.4,
+    15
+   ]
+  ],
+  "5 pagas": [
+   [
+    111.1,
+    356.1,
+    45.2,
+    15
+   ]
+  ],
+  "somam R\\$ [\\d.]+,\\d\\d": [
+   [
+    108,
+    374.1,
+    44.4,
+    15
+   ],
+   [
+    152.4,
+    374.1,
+    60.1,
+    15
+   ],
+   [
+    152.4,
+    374.1,
+    60.1,
+    15
+   ]
+  ]
+ },
+ "linhas": [
+  [
+   "Editar Excluir Lanche no bloco de Carnaval Bares e restaurantes · Carteira do Carnaval −R$ 48,00 paga",
+   15,
+   739.59375,
+   360,
+   74.984375
+  ],
+  [
+   "Editar Excluir Transporte no Carnaval Transporte · Carteira do Carnaval −R$ 72,40 paga",
+   15,
+   864.078125,
+   360,
+   73
+  ],
+  [
+   "Editar Excluir Comida no Carnaval Bares e restaurantes · Carteira do Carnaval −R$ 64,50 paga",
+   15,
+   986.578125,
+   360,
+   73
+  ],
+  [
+   "Editar Excluir Ingresso de festa de Carnaval Lazer e hobbies · Carteira do Carnaval −R$ 180,00 paga",
+   15,
+   1109.078125,
+   360,
+   74.984375
+  ],
+  [
+   "Editar Excluir Fantasia de Carnaval Lazer e hobbies · Carteira do Carnaval −R$ 89,90 paga",
+   15,
+   1233.5625,
+   360,
+   73
+  ]
+ ],
+ "contas_nas_linhas": [
+  [
+   "Carteira do Carnaval",
+   -232,
+   1228.5,
+   202,
+   19.5
+  ],
+  [
+   "Bares e restaurantes · Carteira do Carnaval",
+   81,
+   788.1875,
+   188.234375,
+   14.390625
+  ],
+  [
+   "Transporte · Carteira do Carnaval",
+   81,
+   903.28125,
+   188.234375,
+   14.390625
+  ],
+  [
+   "Bares e restaurantes · Carteira do Carnaval",
+   81,
+   1025.78125,
+   188.234375,
+   14.390625
+  ],
+  [
+   "Lazer e hobbies · Carteira do Carnaval",
+   81,
+   1157.671875,
+   183.171875,
+   14.390625
+  ],
+  [
+   "Lazer e hobbies · Carteira do Carnaval",
+   81,
+   1272.765625,
+   188.234375,
+   14.390625
+  ]
+ ],
+ "celular-contas-e-carteiras.png": {
+  "caixas": {
+   "titulo": [
+    17,
+    187,
+    213.8,
+    30
+   ],
+   "consolidado": [
+    17,
+    265,
+    356,
+    46
+   ],
+   "carteira_nome": [
+    75,
+    405,
+    194,
+    21
+   ],
+   "carteira_tipo": [
+    75,
+    429,
+    108,
+    18
+   ],
+   "carteira_valor": [
+    283,
+    416.3,
+    56,
+    19.5
+   ]
+  },
+  "texto": "Contas e carteiras\n5 contas · todas no total do patrimônio\nPATRIMÔNIO CONSOLIDADO\nR$ 116.420,66\nBanco na Europa\nInvestimento ·\nNo total\nR$ 11.525,40\nCarteira do Carnaval\nDinheiro / Carteira ·\nNo total\nR$ 45,20\nConta corrente\nBanco / Digital ·\nNo total\nR$ 18.875,46\nCorretora no exterior\nInvestimento ·\nNo total\nR$ 60.000,00\nReserva\nInvestimento ·\nNo total\nR$ 25.974,60\nNova conta"
+ },
+ "linhas_contas": [
+  [
+   "Banco na Europa Investimento · No total R$ 11.525,40",
+   17,
+   323,
+   356,
+   69
+  ],
+  [
+   "Carteira do Carnaval Dinheiro / Carteira · No total R$ 45,20",
+   17,
+   392,
+   356,
+   69
+  ],
+  [
+   "Conta corrente Banco / Digital · No total R$ 18.875,46",
+   17,
+   461,
+   356,
+   69
+  ],
+  [
+   "Corretora no exterior Investimento · No total R$ 60.000,00",
+   17,
+   530,
+   356,
+   69
+  ],
+  [
+   "Reserva Investimento · No total R$ 25.974,60",
+   17,
+   599,
+   356,
+   68
+  ]
+ ],
+ "erros": []
+}

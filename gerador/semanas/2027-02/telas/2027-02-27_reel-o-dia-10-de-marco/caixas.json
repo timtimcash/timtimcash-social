@@ -1,0 +1,2571 @@
+{
+ "celular-pendentes-1-fevereiro.jpg": {
+  "pilula": [
+   62,
+   76,
+   108.2,
+   32
+  ],
+  "proximo": [
+   172.2,
+   74,
+   36,
+   36
+  ],
+  "anterior": [
+   24,
+   74,
+   36,
+   36
+  ],
+  "kpis": null,
+  "apagar": null,
+  "ok": null,
+  "vazio": [
+   35,
+   251,
+   320,
+   22.5
+  ],
+  "texto": "Pendentes\nFevereiro 2027\nTodas\nas contas\nTudo em dia\nNenhuma transação aguardando pagamento ou recebimento neste período.",
+  "rolagem": 0
+ },
+ "celular-pendentes-2-marco.jpg": {
+  "pilula": [
+   62,
+   76,
+   92.4,
+   32
+  ],
+  "proximo": [
+   156.4,
+   74,
+   36,
+   36
+  ],
+  "anterior": [
+   24,
+   74,
+   36,
+   36
+  ],
+  "kpis": [
+   14,
+   138,
+   362,
+   207
+  ],
+  "apagar": [
+   15,
+   139,
+   360,
+   113
+  ],
+  "ok": [
+   14,
+   363,
+   362,
+   40
+  ],
+  "vazio": null,
+  "avencer": [
+   29,
+   434,
+   159.5,
+   22.5
+  ],
+  "texto": "Pendentes\nMarço 2027\nTodas\nas contas\nA pagar\nR$\n4.444\n,80\n7 transações\nA receber\nR$\n9.960\nTotal pendente\n8\nNada vencido. Tudo dentro do prazo.\nA vencer\n8 transações ainda no prazo\nEM 6 DIAS\n· 05/03/2027\nEditar\nExcluir\nSalário\nFIXA·Salário·Conta corrente\n+R$ 9.960,00\npendente\n10/03/2027\nEditar\nExcluir\nAluguel\nFIXA·Casa·Conta corrente\n−R$ 2.300,00\npendente\nEditar\nExcluir\nEscola\nFIXA·Educação·Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nIPTU 2027 · 2ª parcela\nImpostos e Taxas·Conta corrente\n−R$ 215,00\npendente\n12/03/2027\nEditar\nExcluir\nStreaming de vídeo\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 55,90\npendente\n15/03/2027\nEditar\nExcluir\nStreaming de música\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 21,90\npendente\n20/03/2027\nEditar\nExcluir\nArmazenamento na nuvem\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 42,00\npendente\n27/03/2027\nEditar\nExcluir\nNotebook (5/10)\n5/10·Compras·Conta corrente\n−R$ 360,00\npendente",
+  "rolagem": 0,
+  "linhas": {
+   "grupos": {
+    "EM 6 DIAS · 05/03/2027": {
+     "caixa": [
+      15,
+      489.5,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      489.5,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Salário",
+       "caixa": [
+        15,
+        531.5,
+        360,
+        59.8
+       ],
+       "data": "EM 6 DIAS · 05/03/2027",
+       "texto": "Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 pendente"
+      }
+     ]
+    },
+    "10/03/2027": {
+     "caixa": [
+      15,
+      592.3,
+      360,
+      222.8
+     ],
+     "cabeca": [
+      15,
+      592.3,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Aluguel",
+       "caixa": [
+        15,
+        634.3,
+        360,
+        59.8
+       ],
+       "data": "10/03/2027",
+       "texto": "Editar Excluir Aluguel FIXA·Casa·Conta corrente −R$ 2.300,00 pendente"
+      },
+      {
+       "nome": "Escola",
+       "caixa": [
+        15,
+        694.1,
+        360,
+        60.8
+       ],
+       "data": "10/03/2027",
+       "texto": "Editar Excluir Escola FIXA·Educação·Conta corrente −R$ 1.450,00 pendente"
+      },
+      {
+       "nome": "IPTU 2027 · 2ª parcela",
+       "caixa": [
+        15,
+        754.9,
+        360,
+        59.2
+       ],
+       "data": "10/03/2027",
+       "texto": "Editar Excluir IPTU 2027 · 2ª parcela Impostos e Taxas·Conta corrente −R$ 215,00 pendente"
+      }
+     ]
+    },
+    "12/03/2027": {
+     "caixa": [
+      15,
+      815.1,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      815.1,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Streaming de vídeo",
+       "caixa": [
+        15,
+        857.1,
+        360,
+        59.8
+       ],
+       "data": "12/03/2027",
+       "texto": "Editar Excluir Streaming de vídeo FIXA·Assinaturas e serviços·Conta corrente −R$ 55,90 pendente"
+      }
+     ]
+    },
+    "15/03/2027": {
+     "caixa": [
+      15,
+      917.9,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      917.9,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Streaming de música",
+       "caixa": [
+        15,
+        959.9,
+        360,
+        59.8
+       ],
+       "data": "15/03/2027",
+       "texto": "Editar Excluir Streaming de música FIXA·Assinaturas e serviços·Conta corrente −R$ 21,90 pendente"
+      }
+     ]
+    },
+    "20/03/2027": {
+     "caixa": [
+      15,
+      1020.7,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      1020.7,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Armazenamento na nuvem",
+       "caixa": [
+        15,
+        1062.7,
+        360,
+        59.8
+       ],
+       "data": "20/03/2027",
+       "texto": "Editar Excluir Armazenamento na nuvem FIXA·Assinaturas e serviços·Conta corrente −R$ 42,00 pendente"
+      }
+     ]
+    },
+    "27/03/2027": {
+     "caixa": [
+      15,
+      1123.5,
+      360,
+      101.8
+     ],
+     "cabeca": [
+      15,
+      1123.5,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Notebook (5/10)",
+       "caixa": [
+        15,
+        1165.5,
+        360,
+        59.8
+       ],
+       "data": "27/03/2027",
+       "texto": "Editar Excluir Notebook (5/10) 5/10·Compras·Conta corrente −R$ 360,00 pendente"
+      }
+     ]
+    }
+   },
+   "itens": {
+    "Salário": {
+     "nome": "Salário",
+     "caixa": [
+      15,
+      531.5,
+      360,
+      59.8
+     ],
+     "data": "EM 6 DIAS · 05/03/2027",
+     "texto": "Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 pendente"
+    },
+    "Aluguel": {
+     "nome": "Aluguel",
+     "caixa": [
+      15,
+      634.3,
+      360,
+      59.8
+     ],
+     "data": "10/03/2027",
+     "texto": "Editar Excluir Aluguel FIXA·Casa·Conta corrente −R$ 2.300,00 pendente"
+    },
+    "Escola": {
+     "nome": "Escola",
+     "caixa": [
+      15,
+      694.1,
+      360,
+      60.8
+     ],
+     "data": "10/03/2027",
+     "texto": "Editar Excluir Escola FIXA·Educação·Conta corrente −R$ 1.450,00 pendente"
+    },
+    "IPTU 2027 · 2ª parcela": {
+     "nome": "IPTU 2027 · 2ª parcela",
+     "caixa": [
+      15,
+      754.9,
+      360,
+      59.2
+     ],
+     "data": "10/03/2027",
+     "texto": "Editar Excluir IPTU 2027 · 2ª parcela Impostos e Taxas·Conta corrente −R$ 215,00 pendente"
+    },
+    "Streaming de vídeo": {
+     "nome": "Streaming de vídeo",
+     "caixa": [
+      15,
+      857.1,
+      360,
+      59.8
+     ],
+     "data": "12/03/2027",
+     "texto": "Editar Excluir Streaming de vídeo FIXA·Assinaturas e serviços·Conta corrente −R$ 55,90 pendente"
+    },
+    "Streaming de música": {
+     "nome": "Streaming de música",
+     "caixa": [
+      15,
+      959.9,
+      360,
+      59.8
+     ],
+     "data": "15/03/2027",
+     "texto": "Editar Excluir Streaming de música FIXA·Assinaturas e serviços·Conta corrente −R$ 21,90 pendente"
+    },
+    "Armazenamento na nuvem": {
+     "nome": "Armazenamento na nuvem",
+     "caixa": [
+      15,
+      1062.7,
+      360,
+      59.8
+     ],
+     "data": "20/03/2027",
+     "texto": "Editar Excluir Armazenamento na nuvem FIXA·Assinaturas e serviços·Conta corrente −R$ 42,00 pendente"
+    },
+    "Notebook (5/10)": {
+     "nome": "Notebook (5/10)",
+     "caixa": [
+      15,
+      1165.5,
+      360,
+      59.8
+     ],
+     "data": "27/03/2027",
+     "texto": "Editar Excluir Notebook (5/10) 5/10·Compras·Conta corrente −R$ 360,00 pendente"
+    }
+   }
+  }
+ },
+ "celular-pendentes-3-calendario.jpg": {
+  "folha": [
+   0,
+   250.7,
+   390,
+   749.3
+  ],
+  "dia10": [
+   170.9,
+   407,
+   48.3,
+   48.3
+  ],
+  "aplicar": [
+   200,
+   934,
+   170,
+   50
+  ],
+  "intervalo": [
+   20,
+   664.5,
+   350,
+   40
+  ],
+  "texto": "Pendentes\nMarço 2027\nTodas\nas contas\nA pagar\nR$\n4.444\n,80\n7 transações\nA receber\nR$\n9.960\nTotal pendente\n8\nNada vencido. Tudo dentro do prazo.\nA vencer\n8 transações ainda no prazo\nEM 6 DIAS\n· 05/03/2027\nEditar\nExcluir\nSalário\nFIXA·Salário·Conta corrente\n+R$ 9.960,00\npendente\n10/03/2027\nEditar\nExcluir\nAluguel\nFIXA·Casa·Conta corrente\n−R$ 2.300,00\npendente\nEditar\nExcluir\nEscola\nFIXA·Educação·Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nIPTU 2027 · 2ª parcela\nImpostos e Taxas·Conta corrente\n−R$ 215,00\npendente\n12/03/2027\nEditar\nExcluir\nStreaming de vídeo\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 55,90\npendente\n15/03/2027\nEditar\nExcluir\nStreaming de música\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 21,90\npendente\n20/03/2027\nEditar\nExcluir\nArmazenamento na nuvem\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 42,00\npendente\n27/03/2027\nEditar\nExcluir\nNotebook (5/10)\n5/10·Compras·Conta corrente\n−R$ 360,00\npendente\nMarço 2027\nD\nS\nT\nQ\nQ\nS\nS\n28\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n1 mar 2027 a 31 mar 2027\nHoje\nÚltimos 7d\nÚltimos 30d\nÚltimos 90d\nEste mês\nAno atual\nOu digite o período\nDe\nAté\nCancelar\nAplicar",
+  "rolagem": 0
+ },
+ "dia10": [
+  170.890625,
+  407.015625,
+  48.296875,
+  48.296875,
+  "10",
+  "cal-day in-range"
+ ],
+ "celular-pendentes-4-dia-10-inicio.jpg": {
+  "folha": [
+   0,
+   250.7,
+   390,
+   749.3
+  ],
+  "aplicar": [
+   200,
+   934,
+   170,
+   50
+  ],
+  "intervalo": null,
+  "intervalo2": null,
+  "texto": "Pendentes\nMarço 2027\nTodas\nas contas\nA pagar\nR$\n4.444\n,80\n7 transações\nA receber\nR$\n9.960\nTotal pendente\n8\nNada vencido. Tudo dentro do prazo.\nA vencer\n8 transações ainda no prazo\nEM 6 DIAS\n· 05/03/2027\nEditar\nExcluir\nSalário\nFIXA·Salário·Conta corrente\n+R$ 9.960,00\npendente\n10/03/2027\nEditar\nExcluir\nAluguel\nFIXA·Casa·Conta corrente\n−R$ 2.300,00\npendente\nEditar\nExcluir\nEscola\nFIXA·Educação·Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nIPTU 2027 · 2ª parcela\nImpostos e Taxas·Conta corrente\n−R$ 215,00\npendente\n12/03/2027\nEditar\nExcluir\nStreaming de vídeo\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 55,90\npendente\n15/03/2027\nEditar\nExcluir\nStreaming de música\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 21,90\npendente\n20/03/2027\nEditar\nExcluir\nArmazenamento na nuvem\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 42,00\npendente\n27/03/2027\nEditar\nExcluir\nNotebook (5/10)\n5/10·Compras·Conta corrente\n−R$ 360,00\npendente\nMarço 2027\nD\nS\nT\nQ\nQ\nS\nS\n28\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nInício: 10 mar 2027 · toque na data final\nHoje\nÚltimos 7d\nÚltimos 30d\nÚltimos 90d\nEste mês\nAno atual\nOu digite o período\nDe\nAté\nCancelar\nAplicar",
+  "rolagem": 0
+ },
+ "celular-pendentes-5-dia-10.jpg": {
+  "folha": [
+   0,
+   250.7,
+   390,
+   749.3
+  ],
+  "aplicar": [
+   200,
+   934,
+   170,
+   50
+  ],
+  "intervalo": null,
+  "intervalo2": [
+   20,
+   664.5,
+   350,
+   40
+  ],
+  "texto": "Pendentes\nMarço 2027\nTodas\nas contas\nA pagar\nR$\n4.444\n,80\n7 transações\nA receber\nR$\n9.960\nTotal pendente\n8\nNada vencido. Tudo dentro do prazo.\nA vencer\n8 transações ainda no prazo\nEM 6 DIAS\n· 05/03/2027\nEditar\nExcluir\nSalário\nFIXA·Salário·Conta corrente\n+R$ 9.960,00\npendente\n10/03/2027\nEditar\nExcluir\nAluguel\nFIXA·Casa·Conta corrente\n−R$ 2.300,00\npendente\nEditar\nExcluir\nEscola\nFIXA·Educação·Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nIPTU 2027 · 2ª parcela\nImpostos e Taxas·Conta corrente\n−R$ 215,00\npendente\n12/03/2027\nEditar\nExcluir\nStreaming de vídeo\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 55,90\npendente\n15/03/2027\nEditar\nExcluir\nStreaming de música\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 21,90\npendente\n20/03/2027\nEditar\nExcluir\nArmazenamento na nuvem\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 42,00\npendente\n27/03/2027\nEditar\nExcluir\nNotebook (5/10)\n5/10·Compras·Conta corrente\n−R$ 360,00\npendente\nMarço 2027\nD\nS\nT\nQ\nQ\nS\nS\n28\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n10 mar 2027 a 10 mar 2027\nHoje\nÚltimos 7d\nÚltimos 30d\nÚltimos 90d\nEste mês\nAno atual\nOu digite o período\nDe\nAté\nCancelar\nAplicar",
+  "rolagem": 0
+ },
+ "celular-pendentes-6-so-o-dia-10.jpg": {
+  "pilula": [
+   62,
+   76,
+   93.9,
+   32
+  ],
+  "proximo": [
+   157.9,
+   74,
+   36,
+   36
+  ],
+  "anterior": [
+   24,
+   74,
+   36,
+   36
+  ],
+  "kpis": [
+   14,
+   138,
+   362,
+   207
+  ],
+  "apagar": [
+   15,
+   139,
+   360,
+   113
+  ],
+  "ok": [
+   14,
+   363,
+   362,
+   40
+  ],
+  "vazio": null,
+  "apagar_valor": [
+   31,
+   187,
+   99.5,
+   28
+  ],
+  "texto": "Pendentes\n10 mar 2027\nTodas\nas contas\nA pagar\nR$\n3.965\n3 transações\nA receber\nR$\n0\nTotal pendente\n3\nNada vencido. Tudo dentro do prazo.\nA vencer\n3 transações ainda no prazo\n10/03/2027\nEditar\nExcluir\nAluguel\nFIXA·Casa·Conta corrente\n−R$ 2.300,00\npendente\nEditar\nExcluir\nEscola\nFIXA·Educação·Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nIPTU 2027 · 2ª parcela\nImpostos e Taxas·Conta corrente\n−R$ 215,00\npendente",
+  "rolagem": 0,
+  "linhas": {
+   "grupos": {
+    "10/03/2027": {
+     "caixa": [
+      15,
+      489.5,
+      360,
+      221.8
+     ],
+     "cabeca": [
+      15,
+      489.5,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Aluguel",
+       "caixa": [
+        15,
+        531.5,
+        360,
+        59.8
+       ],
+       "data": "10/03/2027",
+       "texto": "Editar Excluir Aluguel FIXA·Casa·Conta corrente −R$ 2.300,00 pendente"
+      },
+      {
+       "nome": "Escola",
+       "caixa": [
+        15,
+        591.3,
+        360,
+        60.8
+       ],
+       "data": "10/03/2027",
+       "texto": "Editar Excluir Escola FIXA·Educação·Conta corrente −R$ 1.450,00 pendente"
+      },
+      {
+       "nome": "IPTU 2027 · 2ª parcela",
+       "caixa": [
+        15,
+        652.1,
+        360,
+        59.2
+       ],
+       "data": "10/03/2027",
+       "texto": "Editar Excluir IPTU 2027 · 2ª parcela Impostos e Taxas·Conta corrente −R$ 215,00 pendente"
+      }
+     ]
+    }
+   },
+   "itens": {
+    "Aluguel": {
+     "nome": "Aluguel",
+     "caixa": [
+      15,
+      531.5,
+      360,
+      59.8
+     ],
+     "data": "10/03/2027",
+     "texto": "Editar Excluir Aluguel FIXA·Casa·Conta corrente −R$ 2.300,00 pendente"
+    },
+    "Escola": {
+     "nome": "Escola",
+     "caixa": [
+      15,
+      591.3,
+      360,
+      60.8
+     ],
+     "data": "10/03/2027",
+     "texto": "Editar Excluir Escola FIXA·Educação·Conta corrente −R$ 1.450,00 pendente"
+    },
+    "IPTU 2027 · 2ª parcela": {
+     "nome": "IPTU 2027 · 2ª parcela",
+     "caixa": [
+      15,
+      652.1,
+      360,
+      59.2
+     ],
+     "data": "10/03/2027",
+     "texto": "Editar Excluir IPTU 2027 · 2ª parcela Impostos e Taxas·Conta corrente −R$ 215,00 pendente"
+    }
+   }
+  }
+ },
+ "conferencia-pendentes-ano-2027.jpg": {
+  "pilula": [
+   62,
+   76,
+   90,
+   32
+  ],
+  "proximo": [
+   154,
+   74,
+   36,
+   36
+  ],
+  "anterior": [
+   24,
+   74,
+   36,
+   36
+  ],
+  "kpis": [
+   14,
+   138,
+   362,
+   207
+  ],
+  "apagar": [
+   15,
+   139,
+   360,
+   113
+  ],
+  "ok": [
+   14,
+   363,
+   362,
+   40
+  ],
+  "vazio": null,
+  "texto": "Pendentes\nAno 2027\nTodas\nas contas\nA pagar\nR$\n42.793\n65 transações\nA receber\nR$\n99.600\nTotal pendente\n75\nNada vencido. Tudo dentro do prazo.\nA vencer\n75 transações ainda no prazo\nEM 6 DIAS\n· 05/03/2027\nEditar\nExcluir\nSalário\nFIXA·Salário·Conta corrente\n+R$ 9.960,00\npendente\n10/03/2027\nEditar\nExcluir\nAluguel\nFIXA·Casa·Conta corrente\n−R$ 2.300,00\npendente\nEditar\nExcluir\nEscola\nFIXA·Educação·Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nIPTU 2027 · 2ª parcela\nImpostos e Taxas·Conta corrente\n−R$ 215,00\npendente\n12/03/2027\nEditar\nExcluir\nStreaming de vídeo\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 55,90\npendente\n15/03/2027\nEditar\nExcluir\nStreaming de música\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 21,90\npendente\n20/03/2027\nEditar\nExcluir\nArmazenamento na nuvem\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 42,00\npendente\n27/03/2027\nEditar\nExcluir\nNotebook (5/10)\n5/10·Compras·Conta corrente\n−R$ 360,00\npendente\n05/04/2027\nEditar\nExcluir\nSalário\nFIXA·Salário·Conta corrente\n+R$ 9.960,00\npendente\n10/04/2027\nEditar\nExcluir\nAluguel\nFIXA·Casa·Conta corrente\n−R$ 2.300,00\npendente\nEditar\nExcluir\nEscola\nFIXA·Educação·Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nIPTU 2027 · 3ª parcela\nImpostos e Taxas·Conta corrente\n−R$ 215,00\npendente\n12/04/2027\nEditar\nExcluir\nStreaming de vídeo\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 55,90\npendente\n15/04/2027\nEditar\nExcluir\nStreaming de música\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 21,90\npendente\n20/04/2027\nEditar\nExcluir\nArmazenamento na nuvem\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 42,00\npendente\n27/04/2027\nEditar\nExcluir\nNotebook (6/10)\n6/10·Compras·Conta corrente\n−R$ 360,00\npendente\n05/05/2027\nEditar\nExcluir\nSalário\nFIXA·Salário·Conta corrente\n+R$ 9.960,00\npendente\n10/05/2027\nEditar\nExcluir\nAluguel\nFIXA·Casa·Conta corrente\n−R$ 2.300,00\npendente\nEditar\nExcluir\nEscola\nFIXA·Educação·Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nIPTU 2027 · 4ª parcela\nImpostos e Taxas·Conta corrente\n−R$ 215,00\npendente\n12/05/2027\nEditar\nExcluir\nStreaming de vídeo\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 55,90\npendente\n15/05/2027\nEditar\nExcluir\nStreaming de música\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 21,90\npendente\n20/05/2027\nEditar\nExcluir\nArmazenamento na nuvem\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 42,00\npendente\n27/05/2027\nEditar\nExcluir\nNotebook (7/10)\n7/10·Compras·Conta corrente\n−R$ 360,00\npendente\n05/06/2027\nEditar\nExcluir\nSalário\nFIXA·Salário·Conta corrente\n+R$ 9.960,00\npendente\n10/06/2027\nEditar\nExcluir\nAluguel\nFIXA·Casa·Conta corrente\n−R$ 2.300,00\npendente\nEditar\nExcluir\nEscola\nFIXA·Educação·Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nIPTU 2027 · 5ª parcela\nImpostos e Taxas·Conta corrente\n−R$ 215,00\npendente\n12/06/2027\nEditar\nExcluir\nStreaming de vídeo\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 55,90\npendente\n15/06/2027\nEditar\nExcluir\nStreaming de música\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 21,90\npendente\n20/06/2027\nEditar\nExcluir\nArmazenamento na nuvem\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 42,00\npendente\n27/06/2027\nEditar\nExcluir\nNotebook (8/10)\n8/10·Compras·Conta corrente\n−R$ 360,00\npendente\n05/07/2027\nEditar\nExcluir\nSalário\nFIXA·Salário·Conta corrente\n+R$ 9.960,00\npendente\n10/07/2027\nEditar\nExcluir\nAluguel\nFIXA·Casa·Conta corrente\n−R$ 2.300,00\npendente\nEditar\nExcluir\nEscola\nFIXA·Educação·Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nIPTU 2027 · 6ª parcela\nImpostos e Taxas·Conta corrente\n−R$ 215,00\npendente\n12/07/2027\nEditar\nExcluir\nStreaming de vídeo\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 55,90\npendente\n15/07/2027\nEditar\nExcluir\nStreaming de música\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 21,90\npendente\n20/07/2027\nEditar\nExcluir\nArmazenamento na nuvem\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 42,00\npendente\n27/07/2027\nEditar\nExcluir\nNotebook (9/10)\n9/10·Compras·Conta corrente\n−R$ 360,00\npendente\n05/08/2027\nEditar\nExcluir\nSalário\nFIXA·Salário·Conta corrente\n+R$ 9.960,00\npendente\n10/08/2027\nEditar\nExcluir\nAluguel\nFIXA·Casa·Conta corrente\n−R$ 2.300,00\npendente\nEditar\nExcluir\nEscola\nFIXA·Educação·Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nIPTU 2027 · 7ª parcela\nImpostos e Taxas·Conta corrente\n−R$ 215,00\npendente\n12/08/2027\nEditar\nExcluir\nStreaming de vídeo\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 55,90\npendente\n15/08/2027\nEditar\nExcluir\nStreaming de música\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 21,90\npendente\n20/08/2027\nEditar\nExcluir\nArmazenamento na nuvem\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 42,00\npendente\n27/08/2027\nEditar\nExcluir\nNotebook (10/10)\n10/10·Compras·Conta corrente\n−R$ 360,00\npendente\n05/09/2027\nEditar\nExcluir\nSalário\nFIXA·Salário·Conta corrente\n+R$ 9.960,00\npendente\n10/09/2027\nEditar\nExcluir\nAluguel\nFIXA·Casa·Conta corrente\n−R$ 2.300,00\npendente\nEditar\nExcluir\nEscola\nFIXA·Educação·Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nIPTU 2027 · 8ª parcela\nImpostos e Taxas·Conta corrente\n−R$ 215,00\npendente\n12/09/2027\nEditar\nExcluir\nStreaming de vídeo\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 55,90\npendente\n15/09/2027\nEditar\nExcluir\nStreaming de música\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 21,90\npendente\n20/09/2027\nEditar\nExcluir\nArmazenamento na nuvem\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 42,00\npendente\n05/10/2027\nEditar\nExcluir\nSalário\nFIXA·Salário·Conta corrente\n+R$ 9.960,00\npendente\n10/10/2027\nEditar\nExcluir\nAluguel\nFIXA·Casa·Conta corrente\n−R$ 2.300,00\npendente\nEditar\nExcluir\nEscola\nFIXA·Educação·Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nIPTU 2027 · 9ª parcela\nImpostos e Taxas·Conta corrente\n−R$ 215,00\npendente\n12/10/2027\nEditar\nExcluir\nStreaming de vídeo\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 55,90\npendente\n15/10/2027\nEditar\nExcluir\nStreaming de música\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 21,90\npendente\n20/10/2027\nEditar\nExcluir\nArmazenamento na nuvem\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 42,00\npendente\n05/11/2027\nEditar\nExcluir\nSalário\nFIXA·Salário·Conta corrente\n+R$ 9.960,00\npendente\n10/11/2027\nEditar\nExcluir\nAluguel\nFIXA·Casa·Conta corrente\n−R$ 2.300,00\npendente\nEditar\nExcluir\nEscola\nFIXA·Educação·Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nIPTU 2027 · 10ª parcela\nImpostos e Taxas·Conta corrente\n−R$ 215,00\npendente\n12/11/2027\nEditar\nExcluir\nStreaming de vídeo\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 55,90\npendente\n15/11/2027\nEditar\nExcluir\nStreaming de música\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 21,90\npendente\n20/11/2027\nEditar\nExcluir\nArmazenamento na nuvem\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 42,00\npendente\n05/12/2027\nEditar\nExcluir\nSalário\nFIXA·Salário·Conta corrente\n+R$ 9.960,00\npendente\n10/12/2027\nEditar\nExcluir\nAluguel\nFIXA·Casa·Conta corrente\n−R$ 2.300,00\npendente\nEditar\nExcluir\nEscola\nFIXA·Educação·Conta corrente\n−R$ 1.450,00\npendente\n12/12/2027\nEditar\nExcluir\nStreaming de vídeo\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 55,90\npendente\n15/12/2027\nEditar\nExcluir\nStreaming de música\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 21,90\npendente\n20/12/2027\nEditar\nExcluir\nArmazenamento na nuvem\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 42,00\npendente",
+  "rolagem": 0,
+  "linhas": {
+   "grupos": {
+    "EM 6 DIAS · 05/03/2027": {
+     "caixa": [
+      15,
+      489.5,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      489.5,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Salário",
+       "caixa": [
+        15,
+        531.5,
+        360,
+        59.8
+       ],
+       "data": "EM 6 DIAS · 05/03/2027",
+       "texto": "Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 pendente"
+      }
+     ]
+    },
+    "10/03/2027": {
+     "caixa": [
+      15,
+      592.3,
+      360,
+      222.8
+     ],
+     "cabeca": [
+      15,
+      592.3,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Aluguel",
+       "caixa": [
+        15,
+        634.3,
+        360,
+        59.8
+       ],
+       "data": "10/03/2027",
+       "texto": "Editar Excluir Aluguel FIXA·Casa·Conta corrente −R$ 2.300,00 pendente"
+      },
+      {
+       "nome": "Escola",
+       "caixa": [
+        15,
+        694.1,
+        360,
+        60.8
+       ],
+       "data": "10/03/2027",
+       "texto": "Editar Excluir Escola FIXA·Educação·Conta corrente −R$ 1.450,00 pendente"
+      },
+      {
+       "nome": "IPTU 2027 · 2ª parcela",
+       "caixa": [
+        15,
+        754.9,
+        360,
+        59.2
+       ],
+       "data": "10/03/2027",
+       "texto": "Editar Excluir IPTU 2027 · 2ª parcela Impostos e Taxas·Conta corrente −R$ 215,00 pendente"
+      }
+     ]
+    },
+    "12/03/2027": {
+     "caixa": [
+      15,
+      815.1,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      815.1,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Streaming de vídeo",
+       "caixa": [
+        15,
+        857.1,
+        360,
+        59.8
+       ],
+       "data": "12/03/2027",
+       "texto": "Editar Excluir Streaming de vídeo FIXA·Assinaturas e serviços·Conta corrente −R$ 55,90 pendente"
+      }
+     ]
+    },
+    "15/03/2027": {
+     "caixa": [
+      15,
+      917.9,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      917.9,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Streaming de música",
+       "caixa": [
+        15,
+        959.9,
+        360,
+        59.8
+       ],
+       "data": "15/03/2027",
+       "texto": "Editar Excluir Streaming de música FIXA·Assinaturas e serviços·Conta corrente −R$ 21,90 pendente"
+      }
+     ]
+    },
+    "20/03/2027": {
+     "caixa": [
+      15,
+      1020.7,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      1020.7,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Armazenamento na nuvem",
+       "caixa": [
+        15,
+        1062.7,
+        360,
+        59.8
+       ],
+       "data": "20/03/2027",
+       "texto": "Editar Excluir Armazenamento na nuvem FIXA·Assinaturas e serviços·Conta corrente −R$ 42,00 pendente"
+      }
+     ]
+    },
+    "27/03/2027": {
+     "caixa": [
+      15,
+      1123.5,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      1123.5,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Notebook (5/10)",
+       "caixa": [
+        15,
+        1165.5,
+        360,
+        59.8
+       ],
+       "data": "27/03/2027",
+       "texto": "Editar Excluir Notebook (5/10) 5/10·Compras·Conta corrente −R$ 360,00 pendente"
+      }
+     ]
+    },
+    "05/04/2027": {
+     "caixa": [
+      15,
+      1226.3,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      1226.3,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Salário",
+       "caixa": [
+        15,
+        1268.3,
+        360,
+        59.8
+       ],
+       "data": "05/04/2027",
+       "texto": "Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 pendente"
+      }
+     ]
+    },
+    "10/04/2027": {
+     "caixa": [
+      15,
+      1329.1,
+      360,
+      222.8
+     ],
+     "cabeca": [
+      15,
+      1329.1,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Aluguel",
+       "caixa": [
+        15,
+        1371.1,
+        360,
+        59.8
+       ],
+       "data": "10/04/2027",
+       "texto": "Editar Excluir Aluguel FIXA·Casa·Conta corrente −R$ 2.300,00 pendente"
+      },
+      {
+       "nome": "Escola",
+       "caixa": [
+        15,
+        1430.9,
+        360,
+        60.8
+       ],
+       "data": "10/04/2027",
+       "texto": "Editar Excluir Escola FIXA·Educação·Conta corrente −R$ 1.450,00 pendente"
+      },
+      {
+       "nome": "IPTU 2027 · 3ª parcela",
+       "caixa": [
+        15,
+        1491.7,
+        360,
+        59.2
+       ],
+       "data": "10/04/2027",
+       "texto": "Editar Excluir IPTU 2027 · 3ª parcela Impostos e Taxas·Conta corrente −R$ 215,00 pendente"
+      }
+     ]
+    },
+    "12/04/2027": {
+     "caixa": [
+      15,
+      1551.8,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      1551.8,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Streaming de vídeo",
+       "caixa": [
+        15,
+        1593.8,
+        360,
+        59.8
+       ],
+       "data": "12/04/2027",
+       "texto": "Editar Excluir Streaming de vídeo FIXA·Assinaturas e serviços·Conta corrente −R$ 55,90 pendente"
+      }
+     ]
+    },
+    "15/04/2027": {
+     "caixa": [
+      15,
+      1654.6,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      1654.6,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Streaming de música",
+       "caixa": [
+        15,
+        1696.6,
+        360,
+        59.8
+       ],
+       "data": "15/04/2027",
+       "texto": "Editar Excluir Streaming de música FIXA·Assinaturas e serviços·Conta corrente −R$ 21,90 pendente"
+      }
+     ]
+    },
+    "20/04/2027": {
+     "caixa": [
+      15,
+      1757.4,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      1757.4,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Armazenamento na nuvem",
+       "caixa": [
+        15,
+        1799.4,
+        360,
+        59.8
+       ],
+       "data": "20/04/2027",
+       "texto": "Editar Excluir Armazenamento na nuvem FIXA·Assinaturas e serviços·Conta corrente −R$ 42,00 pendente"
+      }
+     ]
+    },
+    "27/04/2027": {
+     "caixa": [
+      15,
+      1860.2,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      1860.2,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Notebook (6/10)",
+       "caixa": [
+        15,
+        1902.2,
+        360,
+        59.8
+       ],
+       "data": "27/04/2027",
+       "texto": "Editar Excluir Notebook (6/10) 6/10·Compras·Conta corrente −R$ 360,00 pendente"
+      }
+     ]
+    },
+    "05/05/2027": {
+     "caixa": [
+      15,
+      1963,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      1963,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Salário",
+       "caixa": [
+        15,
+        2005,
+        360,
+        59.8
+       ],
+       "data": "05/05/2027",
+       "texto": "Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 pendente"
+      }
+     ]
+    },
+    "10/05/2027": {
+     "caixa": [
+      15,
+      2065.8,
+      360,
+      222.8
+     ],
+     "cabeca": [
+      15,
+      2065.8,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Aluguel",
+       "caixa": [
+        15,
+        2107.8,
+        360,
+        59.8
+       ],
+       "data": "10/05/2027",
+       "texto": "Editar Excluir Aluguel FIXA·Casa·Conta corrente −R$ 2.300,00 pendente"
+      },
+      {
+       "nome": "Escola",
+       "caixa": [
+        15,
+        2167.6,
+        360,
+        60.8
+       ],
+       "data": "10/05/2027",
+       "texto": "Editar Excluir Escola FIXA·Educação·Conta corrente −R$ 1.450,00 pendente"
+      },
+      {
+       "nome": "IPTU 2027 · 4ª parcela",
+       "caixa": [
+        15,
+        2228.4,
+        360,
+        59.2
+       ],
+       "data": "10/05/2027",
+       "texto": "Editar Excluir IPTU 2027 · 4ª parcela Impostos e Taxas·Conta corrente −R$ 215,00 pendente"
+      }
+     ]
+    },
+    "12/05/2027": {
+     "caixa": [
+      15,
+      2288.6,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      2288.6,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Streaming de vídeo",
+       "caixa": [
+        15,
+        2330.6,
+        360,
+        59.8
+       ],
+       "data": "12/05/2027",
+       "texto": "Editar Excluir Streaming de vídeo FIXA·Assinaturas e serviços·Conta corrente −R$ 55,90 pendente"
+      }
+     ]
+    },
+    "15/05/2027": {
+     "caixa": [
+      15,
+      2391.4,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      2391.4,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Streaming de música",
+       "caixa": [
+        15,
+        2433.4,
+        360,
+        59.8
+       ],
+       "data": "15/05/2027",
+       "texto": "Editar Excluir Streaming de música FIXA·Assinaturas e serviços·Conta corrente −R$ 21,90 pendente"
+      }
+     ]
+    },
+    "20/05/2027": {
+     "caixa": [
+      15,
+      2494.2,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      2494.2,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Armazenamento na nuvem",
+       "caixa": [
+        15,
+        2536.2,
+        360,
+        59.8
+       ],
+       "data": "20/05/2027",
+       "texto": "Editar Excluir Armazenamento na nuvem FIXA·Assinaturas e serviços·Conta corrente −R$ 42,00 pendente"
+      }
+     ]
+    },
+    "27/05/2027": {
+     "caixa": [
+      15,
+      2597,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      2597,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Notebook (7/10)",
+       "caixa": [
+        15,
+        2639,
+        360,
+        59.8
+       ],
+       "data": "27/05/2027",
+       "texto": "Editar Excluir Notebook (7/10) 7/10·Compras·Conta corrente −R$ 360,00 pendente"
+      }
+     ]
+    },
+    "05/06/2027": {
+     "caixa": [
+      15,
+      2699.8,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      2699.8,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Salário",
+       "caixa": [
+        15,
+        2741.8,
+        360,
+        59.8
+       ],
+       "data": "05/06/2027",
+       "texto": "Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 pendente"
+      }
+     ]
+    },
+    "10/06/2027": {
+     "caixa": [
+      15,
+      2802.6,
+      360,
+      222.8
+     ],
+     "cabeca": [
+      15,
+      2802.6,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Aluguel",
+       "caixa": [
+        15,
+        2844.6,
+        360,
+        59.8
+       ],
+       "data": "10/06/2027",
+       "texto": "Editar Excluir Aluguel FIXA·Casa·Conta corrente −R$ 2.300,00 pendente"
+      },
+      {
+       "nome": "Escola",
+       "caixa": [
+        15,
+        2904.4,
+        360,
+        60.8
+       ],
+       "data": "10/06/2027",
+       "texto": "Editar Excluir Escola FIXA·Educação·Conta corrente −R$ 1.450,00 pendente"
+      },
+      {
+       "nome": "IPTU 2027 · 5ª parcela",
+       "caixa": [
+        15,
+        2965.2,
+        360,
+        59.2
+       ],
+       "data": "10/06/2027",
+       "texto": "Editar Excluir IPTU 2027 · 5ª parcela Impostos e Taxas·Conta corrente −R$ 215,00 pendente"
+      }
+     ]
+    },
+    "12/06/2027": {
+     "caixa": [
+      15,
+      3025.4,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      3025.4,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Streaming de vídeo",
+       "caixa": [
+        15,
+        3067.4,
+        360,
+        59.8
+       ],
+       "data": "12/06/2027",
+       "texto": "Editar Excluir Streaming de vídeo FIXA·Assinaturas e serviços·Conta corrente −R$ 55,90 pendente"
+      }
+     ]
+    },
+    "15/06/2027": {
+     "caixa": [
+      15,
+      3128.2,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      3128.2,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Streaming de música",
+       "caixa": [
+        15,
+        3170.2,
+        360,
+        59.8
+       ],
+       "data": "15/06/2027",
+       "texto": "Editar Excluir Streaming de música FIXA·Assinaturas e serviços·Conta corrente −R$ 21,90 pendente"
+      }
+     ]
+    },
+    "20/06/2027": {
+     "caixa": [
+      15,
+      3231,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      3231,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Armazenamento na nuvem",
+       "caixa": [
+        15,
+        3273,
+        360,
+        59.8
+       ],
+       "data": "20/06/2027",
+       "texto": "Editar Excluir Armazenamento na nuvem FIXA·Assinaturas e serviços·Conta corrente −R$ 42,00 pendente"
+      }
+     ]
+    },
+    "27/06/2027": {
+     "caixa": [
+      15,
+      3333.8,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      3333.8,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Notebook (8/10)",
+       "caixa": [
+        15,
+        3375.8,
+        360,
+        59.8
+       ],
+       "data": "27/06/2027",
+       "texto": "Editar Excluir Notebook (8/10) 8/10·Compras·Conta corrente −R$ 360,00 pendente"
+      }
+     ]
+    },
+    "05/07/2027": {
+     "caixa": [
+      15,
+      3436.6,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      3436.6,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Salário",
+       "caixa": [
+        15,
+        3478.6,
+        360,
+        59.8
+       ],
+       "data": "05/07/2027",
+       "texto": "Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 pendente"
+      }
+     ]
+    },
+    "10/07/2027": {
+     "caixa": [
+      15,
+      3539.4,
+      360,
+      222.8
+     ],
+     "cabeca": [
+      15,
+      3539.4,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Aluguel",
+       "caixa": [
+        15,
+        3581.4,
+        360,
+        59.8
+       ],
+       "data": "10/07/2027",
+       "texto": "Editar Excluir Aluguel FIXA·Casa·Conta corrente −R$ 2.300,00 pendente"
+      },
+      {
+       "nome": "Escola",
+       "caixa": [
+        15,
+        3641.2,
+        360,
+        60.8
+       ],
+       "data": "10/07/2027",
+       "texto": "Editar Excluir Escola FIXA·Educação·Conta corrente −R$ 1.450,00 pendente"
+      },
+      {
+       "nome": "IPTU 2027 · 6ª parcela",
+       "caixa": [
+        15,
+        3702,
+        360,
+        59.2
+       ],
+       "data": "10/07/2027",
+       "texto": "Editar Excluir IPTU 2027 · 6ª parcela Impostos e Taxas·Conta corrente −R$ 215,00 pendente"
+      }
+     ]
+    },
+    "12/07/2027": {
+     "caixa": [
+      15,
+      3762.1,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      3762.1,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Streaming de vídeo",
+       "caixa": [
+        15,
+        3804.1,
+        360,
+        59.8
+       ],
+       "data": "12/07/2027",
+       "texto": "Editar Excluir Streaming de vídeo FIXA·Assinaturas e serviços·Conta corrente −R$ 55,90 pendente"
+      }
+     ]
+    },
+    "15/07/2027": {
+     "caixa": [
+      15,
+      3864.9,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      3864.9,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Streaming de música",
+       "caixa": [
+        15,
+        3906.9,
+        360,
+        59.8
+       ],
+       "data": "15/07/2027",
+       "texto": "Editar Excluir Streaming de música FIXA·Assinaturas e serviços·Conta corrente −R$ 21,90 pendente"
+      }
+     ]
+    },
+    "20/07/2027": {
+     "caixa": [
+      15,
+      3967.7,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      3967.7,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Armazenamento na nuvem",
+       "caixa": [
+        15,
+        4009.7,
+        360,
+        59.8
+       ],
+       "data": "20/07/2027",
+       "texto": "Editar Excluir Armazenamento na nuvem FIXA·Assinaturas e serviços·Conta corrente −R$ 42,00 pendente"
+      }
+     ]
+    },
+    "27/07/2027": {
+     "caixa": [
+      15,
+      4070.5,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      4070.5,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Notebook (9/10)",
+       "caixa": [
+        15,
+        4112.5,
+        360,
+        59.8
+       ],
+       "data": "27/07/2027",
+       "texto": "Editar Excluir Notebook (9/10) 9/10·Compras·Conta corrente −R$ 360,00 pendente"
+      }
+     ]
+    },
+    "05/08/2027": {
+     "caixa": [
+      15,
+      4173.3,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      4173.3,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Salário",
+       "caixa": [
+        15,
+        4215.3,
+        360,
+        59.8
+       ],
+       "data": "05/08/2027",
+       "texto": "Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 pendente"
+      }
+     ]
+    },
+    "10/08/2027": {
+     "caixa": [
+      15,
+      4276.1,
+      360,
+      222.8
+     ],
+     "cabeca": [
+      15,
+      4276.1,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Aluguel",
+       "caixa": [
+        15,
+        4318.1,
+        360,
+        59.8
+       ],
+       "data": "10/08/2027",
+       "texto": "Editar Excluir Aluguel FIXA·Casa·Conta corrente −R$ 2.300,00 pendente"
+      },
+      {
+       "nome": "Escola",
+       "caixa": [
+        15,
+        4377.9,
+        360,
+        60.8
+       ],
+       "data": "10/08/2027",
+       "texto": "Editar Excluir Escola FIXA·Educação·Conta corrente −R$ 1.450,00 pendente"
+      },
+      {
+       "nome": "IPTU 2027 · 7ª parcela",
+       "caixa": [
+        15,
+        4438.7,
+        360,
+        59.2
+       ],
+       "data": "10/08/2027",
+       "texto": "Editar Excluir IPTU 2027 · 7ª parcela Impostos e Taxas·Conta corrente −R$ 215,00 pendente"
+      }
+     ]
+    },
+    "12/08/2027": {
+     "caixa": [
+      15,
+      4498.9,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      4498.9,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Streaming de vídeo",
+       "caixa": [
+        15,
+        4540.9,
+        360,
+        59.8
+       ],
+       "data": "12/08/2027",
+       "texto": "Editar Excluir Streaming de vídeo FIXA·Assinaturas e serviços·Conta corrente −R$ 55,90 pendente"
+      }
+     ]
+    },
+    "15/08/2027": {
+     "caixa": [
+      15,
+      4601.7,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      4601.7,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Streaming de música",
+       "caixa": [
+        15,
+        4643.7,
+        360,
+        59.8
+       ],
+       "data": "15/08/2027",
+       "texto": "Editar Excluir Streaming de música FIXA·Assinaturas e serviços·Conta corrente −R$ 21,90 pendente"
+      }
+     ]
+    },
+    "20/08/2027": {
+     "caixa": [
+      15,
+      4704.5,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      4704.5,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Armazenamento na nuvem",
+       "caixa": [
+        15,
+        4746.5,
+        360,
+        59.8
+       ],
+       "data": "20/08/2027",
+       "texto": "Editar Excluir Armazenamento na nuvem FIXA·Assinaturas e serviços·Conta corrente −R$ 42,00 pendente"
+      }
+     ]
+    },
+    "27/08/2027": {
+     "caixa": [
+      15,
+      4807.3,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      4807.3,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Notebook (10/10)",
+       "caixa": [
+        15,
+        4849.3,
+        360,
+        59.8
+       ],
+       "data": "27/08/2027",
+       "texto": "Editar Excluir Notebook (10/10) 10/10·Compras·Conta corrente −R$ 360,00 pendente"
+      }
+     ]
+    },
+    "05/09/2027": {
+     "caixa": [
+      15,
+      4910.1,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      4910.1,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Salário",
+       "caixa": [
+        15,
+        4952.1,
+        360,
+        59.8
+       ],
+       "data": "05/09/2027",
+       "texto": "Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 pendente"
+      }
+     ]
+    },
+    "10/09/2027": {
+     "caixa": [
+      15,
+      5012.9,
+      360,
+      222.8
+     ],
+     "cabeca": [
+      15,
+      5012.9,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Aluguel",
+       "caixa": [
+        15,
+        5054.9,
+        360,
+        59.8
+       ],
+       "data": "10/09/2027",
+       "texto": "Editar Excluir Aluguel FIXA·Casa·Conta corrente −R$ 2.300,00 pendente"
+      },
+      {
+       "nome": "Escola",
+       "caixa": [
+        15,
+        5114.7,
+        360,
+        60.8
+       ],
+       "data": "10/09/2027",
+       "texto": "Editar Excluir Escola FIXA·Educação·Conta corrente −R$ 1.450,00 pendente"
+      },
+      {
+       "nome": "IPTU 2027 · 8ª parcela",
+       "caixa": [
+        15,
+        5175.5,
+        360,
+        59.2
+       ],
+       "data": "10/09/2027",
+       "texto": "Editar Excluir IPTU 2027 · 8ª parcela Impostos e Taxas·Conta corrente −R$ 215,00 pendente"
+      }
+     ]
+    },
+    "12/09/2027": {
+     "caixa": [
+      15,
+      5235.7,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      5235.7,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Streaming de vídeo",
+       "caixa": [
+        15,
+        5277.7,
+        360,
+        59.8
+       ],
+       "data": "12/09/2027",
+       "texto": "Editar Excluir Streaming de vídeo FIXA·Assinaturas e serviços·Conta corrente −R$ 55,90 pendente"
+      }
+     ]
+    },
+    "15/09/2027": {
+     "caixa": [
+      15,
+      5338.5,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      5338.5,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Streaming de música",
+       "caixa": [
+        15,
+        5380.5,
+        360,
+        59.8
+       ],
+       "data": "15/09/2027",
+       "texto": "Editar Excluir Streaming de música FIXA·Assinaturas e serviços·Conta corrente −R$ 21,90 pendente"
+      }
+     ]
+    },
+    "20/09/2027": {
+     "caixa": [
+      15,
+      5441.3,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      5441.3,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Armazenamento na nuvem",
+       "caixa": [
+        15,
+        5483.3,
+        360,
+        59.8
+       ],
+       "data": "20/09/2027",
+       "texto": "Editar Excluir Armazenamento na nuvem FIXA·Assinaturas e serviços·Conta corrente −R$ 42,00 pendente"
+      }
+     ]
+    },
+    "05/10/2027": {
+     "caixa": [
+      15,
+      5544.1,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      5544.1,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Salário",
+       "caixa": [
+        15,
+        5586.1,
+        360,
+        59.8
+       ],
+       "data": "05/10/2027",
+       "texto": "Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 pendente"
+      }
+     ]
+    },
+    "10/10/2027": {
+     "caixa": [
+      15,
+      5646.9,
+      360,
+      222.8
+     ],
+     "cabeca": [
+      15,
+      5646.9,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Aluguel",
+       "caixa": [
+        15,
+        5688.9,
+        360,
+        59.8
+       ],
+       "data": "10/10/2027",
+       "texto": "Editar Excluir Aluguel FIXA·Casa·Conta corrente −R$ 2.300,00 pendente"
+      },
+      {
+       "nome": "Escola",
+       "caixa": [
+        15,
+        5748.7,
+        360,
+        60.8
+       ],
+       "data": "10/10/2027",
+       "texto": "Editar Excluir Escola FIXA·Educação·Conta corrente −R$ 1.450,00 pendente"
+      },
+      {
+       "nome": "IPTU 2027 · 9ª parcela",
+       "caixa": [
+        15,
+        5809.5,
+        360,
+        59.2
+       ],
+       "data": "10/10/2027",
+       "texto": "Editar Excluir IPTU 2027 · 9ª parcela Impostos e Taxas·Conta corrente −R$ 215,00 pendente"
+      }
+     ]
+    },
+    "12/10/2027": {
+     "caixa": [
+      15,
+      5869.6,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      5869.6,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Streaming de vídeo",
+       "caixa": [
+        15,
+        5911.6,
+        360,
+        59.8
+       ],
+       "data": "12/10/2027",
+       "texto": "Editar Excluir Streaming de vídeo FIXA·Assinaturas e serviços·Conta corrente −R$ 55,90 pendente"
+      }
+     ]
+    },
+    "15/10/2027": {
+     "caixa": [
+      15,
+      5972.4,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      5972.4,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Streaming de música",
+       "caixa": [
+        15,
+        6014.4,
+        360,
+        59.8
+       ],
+       "data": "15/10/2027",
+       "texto": "Editar Excluir Streaming de música FIXA·Assinaturas e serviços·Conta corrente −R$ 21,90 pendente"
+      }
+     ]
+    },
+    "20/10/2027": {
+     "caixa": [
+      15,
+      6075.2,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      6075.2,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Armazenamento na nuvem",
+       "caixa": [
+        15,
+        6117.2,
+        360,
+        59.8
+       ],
+       "data": "20/10/2027",
+       "texto": "Editar Excluir Armazenamento na nuvem FIXA·Assinaturas e serviços·Conta corrente −R$ 42,00 pendente"
+      }
+     ]
+    },
+    "05/11/2027": {
+     "caixa": [
+      15,
+      6178,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      6178,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Salário",
+       "caixa": [
+        15,
+        6220,
+        360,
+        59.8
+       ],
+       "data": "05/11/2027",
+       "texto": "Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 pendente"
+      }
+     ]
+    },
+    "10/11/2027": {
+     "caixa": [
+      15,
+      6280.8,
+      360,
+      222.8
+     ],
+     "cabeca": [
+      15,
+      6280.8,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Aluguel",
+       "caixa": [
+        15,
+        6322.8,
+        360,
+        59.8
+       ],
+       "data": "10/11/2027",
+       "texto": "Editar Excluir Aluguel FIXA·Casa·Conta corrente −R$ 2.300,00 pendente"
+      },
+      {
+       "nome": "Escola",
+       "caixa": [
+        15,
+        6382.6,
+        360,
+        60.8
+       ],
+       "data": "10/11/2027",
+       "texto": "Editar Excluir Escola FIXA·Educação·Conta corrente −R$ 1.450,00 pendente"
+      },
+      {
+       "nome": "IPTU 2027 · 10ª parcela",
+       "caixa": [
+        15,
+        6443.4,
+        360,
+        59.2
+       ],
+       "data": "10/11/2027",
+       "texto": "Editar Excluir IPTU 2027 · 10ª parcela Impostos e Taxas·Conta corrente −R$ 215,00 pendente"
+      }
+     ]
+    },
+    "12/11/2027": {
+     "caixa": [
+      15,
+      6503.6,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      6503.6,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Streaming de vídeo",
+       "caixa": [
+        15,
+        6545.6,
+        360,
+        59.8
+       ],
+       "data": "12/11/2027",
+       "texto": "Editar Excluir Streaming de vídeo FIXA·Assinaturas e serviços·Conta corrente −R$ 55,90 pendente"
+      }
+     ]
+    },
+    "15/11/2027": {
+     "caixa": [
+      15,
+      6606.4,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      6606.4,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Streaming de música",
+       "caixa": [
+        15,
+        6648.4,
+        360,
+        59.8
+       ],
+       "data": "15/11/2027",
+       "texto": "Editar Excluir Streaming de música FIXA·Assinaturas e serviços·Conta corrente −R$ 21,90 pendente"
+      }
+     ]
+    },
+    "20/11/2027": {
+     "caixa": [
+      15,
+      6709.2,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      6709.2,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Armazenamento na nuvem",
+       "caixa": [
+        15,
+        6751.2,
+        360,
+        59.8
+       ],
+       "data": "20/11/2027",
+       "texto": "Editar Excluir Armazenamento na nuvem FIXA·Assinaturas e serviços·Conta corrente −R$ 42,00 pendente"
+      }
+     ]
+    },
+    "05/12/2027": {
+     "caixa": [
+      15,
+      6812,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      6812,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Salário",
+       "caixa": [
+        15,
+        6854,
+        360,
+        59.8
+       ],
+       "data": "05/12/2027",
+       "texto": "Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 pendente"
+      }
+     ]
+    },
+    "10/12/2027": {
+     "caixa": [
+      15,
+      6914.8,
+      360,
+      163.6
+     ],
+     "cabeca": [
+      15,
+      6914.8,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Aluguel",
+       "caixa": [
+        15,
+        6956.8,
+        360,
+        59.8
+       ],
+       "data": "10/12/2027",
+       "texto": "Editar Excluir Aluguel FIXA·Casa·Conta corrente −R$ 2.300,00 pendente"
+      },
+      {
+       "nome": "Escola",
+       "caixa": [
+        15,
+        7016.6,
+        360,
+        60.8
+       ],
+       "data": "10/12/2027",
+       "texto": "Editar Excluir Escola FIXA·Educação·Conta corrente −R$ 1.450,00 pendente"
+      }
+     ]
+    },
+    "12/12/2027": {
+     "caixa": [
+      15,
+      7078.4,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      7078.4,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Streaming de vídeo",
+       "caixa": [
+        15,
+        7120.4,
+        360,
+        59.8
+       ],
+       "data": "12/12/2027",
+       "texto": "Editar Excluir Streaming de vídeo FIXA·Assinaturas e serviços·Conta corrente −R$ 55,90 pendente"
+      }
+     ]
+    },
+    "15/12/2027": {
+     "caixa": [
+      15,
+      7181.2,
+      360,
+      102.8
+     ],
+     "cabeca": [
+      15,
+      7181.2,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Streaming de música",
+       "caixa": [
+        15,
+        7223.2,
+        360,
+        59.8
+       ],
+       "data": "15/12/2027",
+       "texto": "Editar Excluir Streaming de música FIXA·Assinaturas e serviços·Conta corrente −R$ 21,90 pendente"
+      }
+     ]
+    },
+    "20/12/2027": {
+     "caixa": [
+      15,
+      7284,
+      360,
+      101.8
+     ],
+     "cabeca": [
+      15,
+      7284,
+      360,
+      42
+     ],
+     "itens": [
+      {
+       "nome": "Armazenamento na nuvem",
+       "caixa": [
+        15,
+        7326,
+        360,
+        59.8
+       ],
+       "data": "20/12/2027",
+       "texto": "Editar Excluir Armazenamento na nuvem FIXA·Assinaturas e serviços·Conta corrente −R$ 42,00 pendente"
+      }
+     ]
+    }
+   },
+   "itens": {
+    "Salário": {
+     "nome": "Salário",
+     "caixa": [
+      15,
+      531.5,
+      360,
+      59.8
+     ],
+     "data": "EM 6 DIAS · 05/03/2027",
+     "texto": "Editar Excluir Salário FIXA·Salário·Conta corrente +R$ 9.960,00 pendente"
+    },
+    "Aluguel": {
+     "nome": "Aluguel",
+     "caixa": [
+      15,
+      634.3,
+      360,
+      59.8
+     ],
+     "data": "10/03/2027",
+     "texto": "Editar Excluir Aluguel FIXA·Casa·Conta corrente −R$ 2.300,00 pendente"
+    },
+    "Escola": {
+     "nome": "Escola",
+     "caixa": [
+      15,
+      694.1,
+      360,
+      60.8
+     ],
+     "data": "10/03/2027",
+     "texto": "Editar Excluir Escola FIXA·Educação·Conta corrente −R$ 1.450,00 pendente"
+    },
+    "IPTU 2027 · 2ª parcela": {
+     "nome": "IPTU 2027 · 2ª parcela",
+     "caixa": [
+      15,
+      754.9,
+      360,
+      59.2
+     ],
+     "data": "10/03/2027",
+     "texto": "Editar Excluir IPTU 2027 · 2ª parcela Impostos e Taxas·Conta corrente −R$ 215,00 pendente"
+    },
+    "Streaming de vídeo": {
+     "nome": "Streaming de vídeo",
+     "caixa": [
+      15,
+      857.1,
+      360,
+      59.8
+     ],
+     "data": "12/03/2027",
+     "texto": "Editar Excluir Streaming de vídeo FIXA·Assinaturas e serviços·Conta corrente −R$ 55,90 pendente"
+    },
+    "Streaming de música": {
+     "nome": "Streaming de música",
+     "caixa": [
+      15,
+      959.9,
+      360,
+      59.8
+     ],
+     "data": "15/03/2027",
+     "texto": "Editar Excluir Streaming de música FIXA·Assinaturas e serviços·Conta corrente −R$ 21,90 pendente"
+    },
+    "Armazenamento na nuvem": {
+     "nome": "Armazenamento na nuvem",
+     "caixa": [
+      15,
+      1062.7,
+      360,
+      59.8
+     ],
+     "data": "20/03/2027",
+     "texto": "Editar Excluir Armazenamento na nuvem FIXA·Assinaturas e serviços·Conta corrente −R$ 42,00 pendente"
+    },
+    "Notebook (5/10)": {
+     "nome": "Notebook (5/10)",
+     "caixa": [
+      15,
+      1165.5,
+      360,
+      59.8
+     ],
+     "data": "27/03/2027",
+     "texto": "Editar Excluir Notebook (5/10) 5/10·Compras·Conta corrente −R$ 360,00 pendente"
+    },
+    "IPTU 2027 · 3ª parcela": {
+     "nome": "IPTU 2027 · 3ª parcela",
+     "caixa": [
+      15,
+      1491.7,
+      360,
+      59.2
+     ],
+     "data": "10/04/2027",
+     "texto": "Editar Excluir IPTU 2027 · 3ª parcela Impostos e Taxas·Conta corrente −R$ 215,00 pendente"
+    },
+    "Notebook (6/10)": {
+     "nome": "Notebook (6/10)",
+     "caixa": [
+      15,
+      1902.2,
+      360,
+      59.8
+     ],
+     "data": "27/04/2027",
+     "texto": "Editar Excluir Notebook (6/10) 6/10·Compras·Conta corrente −R$ 360,00 pendente"
+    },
+    "IPTU 2027 · 4ª parcela": {
+     "nome": "IPTU 2027 · 4ª parcela",
+     "caixa": [
+      15,
+      2228.4,
+      360,
+      59.2
+     ],
+     "data": "10/05/2027",
+     "texto": "Editar Excluir IPTU 2027 · 4ª parcela Impostos e Taxas·Conta corrente −R$ 215,00 pendente"
+    },
+    "Notebook (7/10)": {
+     "nome": "Notebook (7/10)",
+     "caixa": [
+      15,
+      2639,
+      360,
+      59.8
+     ],
+     "data": "27/05/2027",
+     "texto": "Editar Excluir Notebook (7/10) 7/10·Compras·Conta corrente −R$ 360,00 pendente"
+    },
+    "IPTU 2027 · 5ª parcela": {
+     "nome": "IPTU 2027 · 5ª parcela",
+     "caixa": [
+      15,
+      2965.2,
+      360,
+      59.2
+     ],
+     "data": "10/06/2027",
+     "texto": "Editar Excluir IPTU 2027 · 5ª parcela Impostos e Taxas·Conta corrente −R$ 215,00 pendente"
+    },
+    "Notebook (8/10)": {
+     "nome": "Notebook (8/10)",
+     "caixa": [
+      15,
+      3375.8,
+      360,
+      59.8
+     ],
+     "data": "27/06/2027",
+     "texto": "Editar Excluir Notebook (8/10) 8/10·Compras·Conta corrente −R$ 360,00 pendente"
+    },
+    "IPTU 2027 · 6ª parcela": {
+     "nome": "IPTU 2027 · 6ª parcela",
+     "caixa": [
+      15,
+      3702,
+      360,
+      59.2
+     ],
+     "data": "10/07/2027",
+     "texto": "Editar Excluir IPTU 2027 · 6ª parcela Impostos e Taxas·Conta corrente −R$ 215,00 pendente"
+    },
+    "Notebook (9/10)": {
+     "nome": "Notebook (9/10)",
+     "caixa": [
+      15,
+      4112.5,
+      360,
+      59.8
+     ],
+     "data": "27/07/2027",
+     "texto": "Editar Excluir Notebook (9/10) 9/10·Compras·Conta corrente −R$ 360,00 pendente"
+    },
+    "IPTU 2027 · 7ª parcela": {
+     "nome": "IPTU 2027 · 7ª parcela",
+     "caixa": [
+      15,
+      4438.7,
+      360,
+      59.2
+     ],
+     "data": "10/08/2027",
+     "texto": "Editar Excluir IPTU 2027 · 7ª parcela Impostos e Taxas·Conta corrente −R$ 215,00 pendente"
+    },
+    "Notebook (10/10)": {
+     "nome": "Notebook (10/10)",
+     "caixa": [
+      15,
+      4849.3,
+      360,
+      59.8
+     ],
+     "data": "27/08/2027",
+     "texto": "Editar Excluir Notebook (10/10) 10/10·Compras·Conta corrente −R$ 360,00 pendente"
+    },
+    "IPTU 2027 · 8ª parcela": {
+     "nome": "IPTU 2027 · 8ª parcela",
+     "caixa": [
+      15,
+      5175.5,
+      360,
+      59.2
+     ],
+     "data": "10/09/2027",
+     "texto": "Editar Excluir IPTU 2027 · 8ª parcela Impostos e Taxas·Conta corrente −R$ 215,00 pendente"
+    },
+    "IPTU 2027 · 9ª parcela": {
+     "nome": "IPTU 2027 · 9ª parcela",
+     "caixa": [
+      15,
+      5809.5,
+      360,
+      59.2
+     ],
+     "data": "10/10/2027",
+     "texto": "Editar Excluir IPTU 2027 · 9ª parcela Impostos e Taxas·Conta corrente −R$ 215,00 pendente"
+    },
+    "IPTU 2027 · 10ª parcela": {
+     "nome": "IPTU 2027 · 10ª parcela",
+     "caixa": [
+      15,
+      6443.4,
+      360,
+      59.2
+     ],
+     "data": "10/11/2027",
+     "texto": "Editar Excluir IPTU 2027 · 10ª parcela Impostos e Taxas·Conta corrente −R$ 215,00 pendente"
+    }
+   }
+  }
+ },
+ "relogio": "Sat Feb 27 2027 10:00:25 GMT-0300 (Horário Padrão de Brasília)",
+ "erros": []
+}

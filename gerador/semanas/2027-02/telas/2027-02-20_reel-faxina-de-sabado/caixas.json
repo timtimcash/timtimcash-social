@@ -1,0 +1,1009 @@
+{
+ "cenario": {
+  "cenario": "faxina",
+  "hoje": "2027-02-20",
+  "sem_categoria": [
+   [
+    "2027-01-04",
+    402.3
+   ],
+   [
+    "2027-01-11",
+    437.8
+   ],
+   [
+    "2027-01-18",
+    389.6
+   ],
+   [
+    "2027-01-25",
+    354.9
+   ],
+   [
+    "2027-01-30",
+    318.2
+   ],
+   [
+    "2027-02-01",
+    396.4
+   ],
+   [
+    "2027-02-05",
+    412.7
+   ],
+   [
+    "2027-02-12",
+    421.3
+   ],
+   [
+    "2027-02-19",
+    379.2
+   ]
+  ],
+  "soma": "3512.4"
+ },
+ "celular-faxina-1-por-categoria-antes.jpg": {
+  "texto": "Visão geral\nAno 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nPatrimônio\nR$\n114.478\n,16\nalta de\n1,9% em relação a jan/27\n5 contas somadas\nMar/26\nFev/27\nMovimento de 2027\nPARCIAL\nGuardou 4,6% da receita\n95,4%\nReceitas R$ 19.920,00\nDespesas R$ 19.005,50\nResultado do período\nR$ 914,50\nReceitas\nR$ 19.920\nqueda de\n5,7%\nDespesas\nR$ 19.005\nqueda de\n8,9%\nResultado\nR$ 914\nalta de\n8,3%\nComparado com a média por mês de Fev/26 a Jan/27\nÚltimos 12 meses\nFluxo mensal\nMar/26 a Fev/27\nMédia por mês · Fev/26 a Jan/27\nReceitas\nR$ 10.564,45\nDespesas\nR$ 8.631,22\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nReceita média\nR$ 10.564,45\nFev/26 a Jan/27 · meses fechados\nDespesa média\nR$ 8.631,22\nFev/26 a Jan/27 · meses fechados\nSaldo acumulado\nR$ 114.478,16\n+R$ 21.593,16\nMar/26\nFev/27\nReserva financeira\n13,3\nmeses\nR$ 114.478,16 ÷ R$ 8.631,22/mês (despesa média)\nmédia de 12 meses com movimento\nPor categoria\nDespesas do período\nDespesas\nReceitas\nPeríodo global\nDespesas\nR$ 19.005,50\n11 categorias\nTop saídas\nMaiores despesas do período\nCasa\nR$ 4.828,40 25%\nEducação\nR$ 4.126,00 22%\nSem categoria\nR$ 3.512,40 18%\nTransporte\nR$ 2.137,40 11%\nImpostos e Taxas\nR$ 1.451,00 8%\nBares e restaurantes\nR$ 1.192,50 6%\nMinhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 114.478,16\nPOSITIVAS\nR$ 114.478,16\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nReserva\nINVESTIMENTO\nR$ 25.974,60\nConta corrente\nR$ 16.932,96\nBanco na Europa\nINVESTIMENTO\nR$ 11.525,40\nCarteira do Carnaval\nDINHEIRO\nR$ 45,20\nÚltimas transações\nToque em uma para editar\nVer todas →\nseg · 20 de dezembro\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nqua · 15 de dezembro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npendente\ndom · 12 de dezembro\nEditar\nExcluir\nStreaming de vídeo\nFixaAssinaturas e serviços · Conta corrente\n−R$ 55,90\npendente\nsex · 10 de dezembro\nEditar\nExcluir\nEscola\nFixaEducação · Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nAluguel\nFixaCasa · Conta corrente\n−R$ 2.300,00\npendente\ndom · 5 de dezembro\nEditar\nExcluir\nSalário\nFixaConta corrente\n+R$ 9.960,00\npendente\nsáb · 20 de novembro\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nseg · 15 de novembro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npendente\nInsights\nAnálise automática do período\nReceita guardada: 5%\nVocê guardou R$ 914,50 no período. A meta recomendada é de 20% da receita.\nCasa: 25% das despesas\nConcentra R$ 4.828,40 dos seus gastos.",
+  "rolagem": 1754,
+  "porcat": {
+   "painel": [
+    14,
+    1834.9,
+    362,
+    796
+   ],
+   "titulo": [
+    29,
+    1849.9,
+    118.3,
+    22.5
+   ],
+   "linhas": {
+    "Casa": [
+     [
+      23,
+      2277.9,
+      344,
+      38
+     ],
+     "Casa R$ 4.828,40 25%"
+    ],
+    "Educação": [
+     [
+      23,
+      2335.9,
+      344,
+      38
+     ],
+     "Educação R$ 4.126,00 22%"
+    ],
+    "Sem categoria": [
+     [
+      23,
+      2393.9,
+      344,
+      38
+     ],
+     "Sem categoria R$ 3.512,40 18%"
+    ],
+    "Transporte": [
+     [
+      23,
+      2451.9,
+      344,
+      38
+     ],
+     "Transporte R$ 2.137,40 11%"
+    ],
+    "Impostos e Taxas": [
+     [
+      23,
+      2509.9,
+      344,
+      38
+     ],
+     "Impostos e Taxas R$ 1.451,00 8%"
+    ]
+   },
+   "canvas": [
+    29,
+    1955.4,
+    332,
+    266
+   ]
+  }
+ },
+ "celular-faxina-2-transacoes.jpg": {
+  "pilula": [
+   62,
+   76,
+   90,
+   32
+  ],
+  "busca": [
+   68,
+   404.1,
+   276,
+   38
+  ],
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   36
+  ],
+  "faixa": null,
+  "recat": null,
+  "limpar": null,
+  "primeira": [
+   15,
+   606.6,
+   360,
+   73
+  ],
+  "texto": "Transações\nAno 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n114.478\n,16\nem 31/12/2027\nVer detalhes\nTransações\n136 transações · 60 pagas · 76 pendentes · 823 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nseg · 20 de dezembro\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nqua · 15 de dezembro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npendente\ndom · 12 de dezembro\nEditar\nExcluir\nStreaming de vídeo\nFixaAssinaturas e serviços · Conta corrente\n−R$ 55,90\npendente\nsex · 10 de dezembro\nEditar\nExcluir\nEscola\nFixaEducação · Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nAluguel\nFixaCasa · Conta corrente\n−R$ 2.300,00\npendente\ndom · 5 de dezembro\nEditar\nExcluir\nSalário\nFixaConta corrente\n+R$ 9.960,00\npendente\nsáb · 20 de novembro\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nseg · 15 de novembro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npendente\nsex · 12 de novembro\nEditar\nExcluir\nStreaming de vídeo\nFixaAssinaturas e serviços · Conta corrente\n−R$ 55,90\npendente\nqua · 10 de novembro\nEditar\nExcluir\nIPTU 2027 · 10ª parcela\nImpostos e Taxas · Conta corrente\n−R$ 215,00\npendente\nEditar\nExcluir\nEscola\nFixaEducação · Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nAluguel\nFixaCasa · Conta corrente\n−R$ 2.300,00\npendente\nsex · 5 de novembro\nEditar\nExcluir\nSalário\nFixaConta corrente\n+R$ 9.960,00\npendente\nqua · 20 de outubro\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nsex · 15 de outubro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npendente\nter · 12 de outubro\nEditar\nExcluir\nStreaming de vídeo\nFixaAssinaturas e serviços · Conta corrente\n−R$ 55,90\npendente\ndom · 10 de outubro\nEditar\nExcluir\nIPTU 2027 · 9ª parcela\nImpostos e Taxas · Conta corrente\n−R$ 215,00\npendente\nEditar\nExcluir\nEscola\nFixaEducação · Conta corrente\n−R$ 1.450,00\npendente\nter · 5 de outubro\nseg · 20 de setembro\nqua · 15 de setembro\ndom · 12 de setembro\nsex · 10 de setembro\ndom · 5 de setembro\nsex · 27 de agosto\nsex · 20 de agosto\ndom · 15 de agosto\nqui · 12 de agosto\nter · 10 de agosto\nqui · 5 de agosto\nter · 27 de julho\nter · 20 de julho\nqui · 15 de julho\nseg · 12 de julho\nsáb · 10 de julho\nseg · 5 de julho\ndom · 27 de junho\ndom · 20 de junho\nter · 15 de junho\nsáb · 12 de junho\nqui · 10 de junho\nsáb · 5 de junho\nqui · 27 de maio\nqui · 20 de maio\nsáb · 15 de maio\nqua · 12 de maio\nseg · 10 de maio\nqua · 5 de maio\nter · 27 de abril\nter · 20 de abril\nqui · 15 de abril\nseg · 12 de abril\nsáb · 10 de abril\nseg · 5 de abril\nsáb · 27 de março\nsáb · 20 de março\nseg · 15 de março\nsex · 12 de março\nqua · 10 de março\nsex · 5 de março\nsáb · 27 de fevereiro\nsáb · 20 de fevereiro\nsex · 19 de fevereiro\nqua · 17 de fevereiro\nseg · 15 de fevereiro\ndom · 14 de fe",
+  "rolagem": 0
+ },
+ "letras": [
+  [
+   "m",
+   "celular-faxina-3-busca-01.jpg"
+  ],
+  [
+   "me",
+   "celular-faxina-3-busca-02.jpg"
+  ],
+  [
+   "mer",
+   "celular-faxina-3-busca-03.jpg"
+  ],
+  [
+   "merc",
+   "celular-faxina-3-busca-04.jpg"
+  ],
+  [
+   "merca",
+   "celular-faxina-3-busca-05.jpg"
+  ],
+  [
+   "mercad",
+   "celular-faxina-3-busca-06.jpg"
+  ],
+  [
+   "mercado",
+   "celular-faxina-3-busca-07.jpg"
+  ],
+  [
+   "mercado ",
+   "celular-faxina-3-busca-08.jpg"
+  ],
+  [
+   "mercado d",
+   "celular-faxina-3-busca-09.jpg"
+  ],
+  [
+   "mercado da",
+   "celular-faxina-3-busca-10.jpg"
+  ],
+  [
+   "mercado da ",
+   "celular-faxina-3-busca-11.jpg"
+  ],
+  [
+   "mercado da v",
+   "celular-faxina-3-busca-12.jpg"
+  ],
+  [
+   "mercado da vi",
+   "celular-faxina-3-busca-13.jpg"
+  ],
+  [
+   "mercado da vil",
+   "celular-faxina-3-busca-14.jpg"
+  ],
+  [
+   "mercado da vila",
+   "celular-faxina-3-busca-15.jpg"
+  ]
+ ],
+ "celular-faxina-3-busca-01.jpg": {
+  "pilula": [
+   62,
+   76,
+   90,
+   32
+  ],
+  "busca": [
+   68,
+   440.1,
+   276,
+   38
+  ],
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   72
+  ],
+  "faixa": [
+   33,
+   620.1,
+   324,
+   18
+  ],
+  "texto": "Transações\nAno 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n114.478\n,16\nem 31/12/2027\nVer detalhes\nTransações filtrado\n80 transações · 34 pagas · 46 pendentes · somam R$ 15.048,90 · 823 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 80 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nseg · 20 de dezembro\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nqua · 15 de dezembro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npendente\ndom · 12 de dezembro\nEditar\nExcluir\nStreaming de vídeo\nFixaAssinaturas e serviços · Conta corrente\n−R$ 55,90\npendente\nsáb · 20 de novembro\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nseg · 15 de novembro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npendente\nsex · 12 de novembro\nEditar\nExcluir\nStreaming de vídeo\nFixaAssinaturas e serviços · Conta corrente\n−R$ 55,90\npendente\nqua · 10 de novembro\nEditar\nExcluir\nIPTU 2027 · 10ª parcela\nImpostos e Taxas · Conta corrente\n−R$ 215,00\npendente\nqua · 20 de outubro\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nsex · 15 de outubro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npendente\nter · 12 de outubro\nEditar\nExcluir\nStreaming de vídeo\nFixaAssinaturas e serviços · Conta corrente\n−R$ 55,90\npendente\ndom · 10 de outubro\nEditar\nExcluir\nIPTU 2027 · 9ª parcela\nImpostos e Taxas · Conta corrente\n−R$ 215,00\npendente\nseg · 20 de setembro\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nqua · 15 de setembro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npendente\ndom · 12 de setembro\nEditar\nExcluir\nStreaming de vídeo\nFixaAssinaturas e serviços · Conta corrente\n−R$ 55,90\npendente\nsex · 10 de setembro\nEditar\nExcluir\nIPTU 2027 · 8ª parcela\nImpostos e Taxas · Conta corrente\n−R$ 215,00\npendente\nsex · 27 de agosto\nsex · 20 de agosto\ndom · 15 de agosto\nqui · 12 de agosto\nter · 10 de agosto\nter · 27 de julho\nter · 20 de julho\nqui · 15 de julho\nseg · 12 de julho\nsáb · 10 de julho\ndom · 27 de junho\ndom · 20 de junho\nter · 15 de junho\nsáb · 12 de junho\nqui · 10 de junho\nqui · 27 de maio\nqui · 20 de maio\nsáb · 15 de maio\nqua · 12 de maio\nseg · 10 de maio\nter · 27 de abril\nter · 20 de abril\nqui · 15 de abril\nseg · 12 de abril\nsáb · 10 de abril\nsáb · 27 de março\nsáb · 20 de março\nseg · 15 de março\nsex · 12 de março\nqua · 10 de março\nsáb · 27 de fevereiro\nsáb · 20 de fevereiro\nsex · 19 de fevereiro\nqua · 17 de fevereiro\nseg · 15 de fevereiro\ndom · 14 de fevereiro\nsex · 12 de fevereiro\nqua · 10 de fevereiro\ndom · 7 de fevereiro\nsex · 5 de fevereiro\nqui · 4 de fevereiro\nseg · 1 de fevereiro\nsáb · 30 de janeiro\nqua · 27 de janeiro\nseg · 25 de janeiro\nsex · 2",
+  "rolagem": 0
+ },
+ "celular-faxina-3-busca-02.jpg": {
+  "pilula": [
+   62,
+   76,
+   90,
+   32
+  ],
+  "busca": [
+   68,
+   422.1,
+   276,
+   38
+  ],
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   54
+  ],
+  "faixa": [
+   33,
+   602.1,
+   324,
+   18
+  ],
+  "texto": "Transações\nAno 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n114.478\n,16\nem 31/12/2027\nVer detalhes\nTransações filtrado\n26 transações · 16 pagas · 10 pendentes · somam R$ 4.871,50 · 823 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 26 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nseg · 20 de dezembro\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nsáb · 20 de novembro\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nqua · 20 de outubro\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nseg · 20 de setembro\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nsex · 20 de agosto\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nter · 20 de julho\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\ndom · 20 de junho\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nqui · 20 de maio\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nter · 20 de abril\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nsáb · 20 de março\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nsáb · 20 de fevereiro\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npaga\nsex · 19 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 379,20\npaga\nqua · 17 de fevereiro\nEditar\nExcluir\nHortifruti do Bairro\nMercado · Conta corrente\n−R$ 188,40\npaga\nsex · 12 de fevereiro\nEditar\nExcluir\nEstacionamento\nTransporte · Conta corrente\n−R$ 90,00\npaga\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 421,30\npaga\nsex · 5 de fevereiro\nseg · 1 de fevereiro\nsáb · 30 de janeiro\nseg · 25 de janeiro\nqui · 21 de janeiro\nqua · 20 de janeiro\nseg · 18 de janeiro\nqui · 14 de janeiro\nseg · 11 de janeiro\nseg · 4 de janeiro\n26 transações no filtro",
+  "rolagem": 0
+ },
+ "celular-faxina-3-busca-03.jpg": {
+  "pilula": [
+   62,
+   76,
+   90,
+   32
+  ],
+  "busca": [
+   68,
+   422.1,
+   276,
+   38
+  ],
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   54
+  ],
+  "faixa": [
+   33,
+   602.1,
+   324,
+   18
+  ],
+  "texto": "Transações\nAno 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n114.478\n,16\nem 31/12/2027\nVer detalhes\nTransações filtrado\n11 transações · 11 pagas · 0 pendentes · somam R$ 3.897,50 · 823 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 11 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nsex · 19 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 379,20\npaga\nqua · 17 de fevereiro\nEditar\nExcluir\nHortifruti do Bairro\nMercado · Conta corrente\n−R$ 188,40\npaga\nsex · 12 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 421,30\npaga\nsex · 5 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 412,70\npaga\nseg · 1 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 396,40\npaga\nsáb · 30 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 318,20\npaga\nseg · 25 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 354,90\npaga\nqui · 21 de janeiro\nEditar\nExcluir\nHortifruti do Bairro\nMercado · Conta corrente\n−R$ 196,70\npaga\nseg · 18 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 389,60\npaga\nseg · 11 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 437,80\npaga\nseg · 4 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 402,30\npaga\n11 transações no filtro",
+  "rolagem": 0
+ },
+ "celular-faxina-3-busca-04.jpg": {
+  "pilula": [
+   62,
+   76,
+   90,
+   32
+  ],
+  "busca": [
+   68,
+   422.1,
+   276,
+   38
+  ],
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   54
+  ],
+  "faixa": [
+   33,
+   602.1,
+   324,
+   18
+  ],
+  "texto": "Transações\nAno 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n114.478\n,16\nem 31/12/2027\nVer detalhes\nTransações filtrado\n11 transações · 11 pagas · 0 pendentes · somam R$ 3.897,50 · 823 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 11 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nsex · 19 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 379,20\npaga\nqua · 17 de fevereiro\nEditar\nExcluir\nHortifruti do Bairro\nMercado · Conta corrente\n−R$ 188,40\npaga\nsex · 12 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 421,30\npaga\nsex · 5 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 412,70\npaga\nseg · 1 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 396,40\npaga\nsáb · 30 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 318,20\npaga\nseg · 25 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 354,90\npaga\nqui · 21 de janeiro\nEditar\nExcluir\nHortifruti do Bairro\nMercado · Conta corrente\n−R$ 196,70\npaga\nseg · 18 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 389,60\npaga\nseg · 11 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 437,80\npaga\nseg · 4 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 402,30\npaga\n11 transações no filtro",
+  "rolagem": 0
+ },
+ "celular-faxina-3-busca-05.jpg": {
+  "pilula": [
+   62,
+   76,
+   90,
+   32
+  ],
+  "busca": [
+   68,
+   422.1,
+   276,
+   38
+  ],
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   54
+  ],
+  "faixa": [
+   33,
+   602.1,
+   324,
+   18
+  ],
+  "texto": "Transações\nAno 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n114.478\n,16\nem 31/12/2027\nVer detalhes\nTransações filtrado\n11 transações · 11 pagas · 0 pendentes · somam R$ 3.897,50 · 823 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 11 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nsex · 19 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 379,20\npaga\nqua · 17 de fevereiro\nEditar\nExcluir\nHortifruti do Bairro\nMercado · Conta corrente\n−R$ 188,40\npaga\nsex · 12 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 421,30\npaga\nsex · 5 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 412,70\npaga\nseg · 1 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 396,40\npaga\nsáb · 30 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 318,20\npaga\nseg · 25 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 354,90\npaga\nqui · 21 de janeiro\nEditar\nExcluir\nHortifruti do Bairro\nMercado · Conta corrente\n−R$ 196,70\npaga\nseg · 18 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 389,60\npaga\nseg · 11 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 437,80\npaga\nseg · 4 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 402,30\npaga\n11 transações no filtro",
+  "rolagem": 0
+ },
+ "celular-faxina-3-busca-06.jpg": {
+  "pilula": [
+   62,
+   76,
+   90,
+   32
+  ],
+  "busca": [
+   68,
+   422.1,
+   276,
+   38
+  ],
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   54
+  ],
+  "faixa": [
+   33,
+   602.1,
+   324,
+   18
+  ],
+  "texto": "Transações\nAno 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n114.478\n,16\nem 31/12/2027\nVer detalhes\nTransações filtrado\n11 transações · 11 pagas · 0 pendentes · somam R$ 3.897,50 · 823 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 11 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nsex · 19 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 379,20\npaga\nqua · 17 de fevereiro\nEditar\nExcluir\nHortifruti do Bairro\nMercado · Conta corrente\n−R$ 188,40\npaga\nsex · 12 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 421,30\npaga\nsex · 5 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 412,70\npaga\nseg · 1 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 396,40\npaga\nsáb · 30 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 318,20\npaga\nseg · 25 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 354,90\npaga\nqui · 21 de janeiro\nEditar\nExcluir\nHortifruti do Bairro\nMercado · Conta corrente\n−R$ 196,70\npaga\nseg · 18 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 389,60\npaga\nseg · 11 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 437,80\npaga\nseg · 4 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 402,30\npaga\n11 transações no filtro",
+  "rolagem": 0
+ },
+ "celular-faxina-3-busca-07.jpg": {
+  "pilula": [
+   62,
+   76,
+   90,
+   32
+  ],
+  "busca": [
+   68,
+   422.1,
+   276,
+   38
+  ],
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   54
+  ],
+  "faixa": [
+   33,
+   602.1,
+   324,
+   18
+  ],
+  "texto": "Transações\nAno 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n114.478\n,16\nem 31/12/2027\nVer detalhes\nTransações filtrado\n11 transações · 11 pagas · 0 pendentes · somam R$ 3.897,50 · 823 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 11 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nsex · 19 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 379,20\npaga\nqua · 17 de fevereiro\nEditar\nExcluir\nHortifruti do Bairro\nMercado · Conta corrente\n−R$ 188,40\npaga\nsex · 12 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 421,30\npaga\nsex · 5 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 412,70\npaga\nseg · 1 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 396,40\npaga\nsáb · 30 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 318,20\npaga\nseg · 25 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 354,90\npaga\nqui · 21 de janeiro\nEditar\nExcluir\nHortifruti do Bairro\nMercado · Conta corrente\n−R$ 196,70\npaga\nseg · 18 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 389,60\npaga\nseg · 11 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 437,80\npaga\nseg · 4 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 402,30\npaga\n11 transações no filtro",
+  "rolagem": 0
+ },
+ "celular-faxina-3-busca-08.jpg": {
+  "pilula": [
+   62,
+   76,
+   90,
+   32
+  ],
+  "busca": [
+   68,
+   422.1,
+   276,
+   38
+  ],
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   54
+  ],
+  "faixa": [
+   33,
+   602.1,
+   324,
+   18
+  ],
+  "texto": "Transações\nAno 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n114.478\n,16\nem 31/12/2027\nVer detalhes\nTransações filtrado\n11 transações · 11 pagas · 0 pendentes · somam R$ 3.897,50 · 823 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 11 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nsex · 19 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 379,20\npaga\nqua · 17 de fevereiro\nEditar\nExcluir\nHortifruti do Bairro\nMercado · Conta corrente\n−R$ 188,40\npaga\nsex · 12 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 421,30\npaga\nsex · 5 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 412,70\npaga\nseg · 1 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 396,40\npaga\nsáb · 30 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 318,20\npaga\nseg · 25 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 354,90\npaga\nqui · 21 de janeiro\nEditar\nExcluir\nHortifruti do Bairro\nMercado · Conta corrente\n−R$ 196,70\npaga\nseg · 18 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 389,60\npaga\nseg · 11 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 437,80\npaga\nseg · 4 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 402,30\npaga\n11 transações no filtro",
+  "rolagem": 0
+ },
+ "celular-faxina-3-busca-09.jpg": {
+  "pilula": [
+   62,
+   76,
+   90,
+   32
+  ],
+  "busca": [
+   68,
+   422.1,
+   276,
+   38
+  ],
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   54
+  ],
+  "faixa": [
+   33,
+   602.1,
+   324,
+   18
+  ],
+  "texto": "Transações\nAno 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n114.478\n,16\nem 31/12/2027\nVer detalhes\nTransações filtrado\n11 transações · 11 pagas · 0 pendentes · somam R$ 3.897,50 · 823 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 11 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nsex · 19 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 379,20\npaga\nqua · 17 de fevereiro\nEditar\nExcluir\nHortifruti do Bairro\nMercado · Conta corrente\n−R$ 188,40\npaga\nsex · 12 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 421,30\npaga\nsex · 5 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 412,70\npaga\nseg · 1 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 396,40\npaga\nsáb · 30 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 318,20\npaga\nseg · 25 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 354,90\npaga\nqui · 21 de janeiro\nEditar\nExcluir\nHortifruti do Bairro\nMercado · Conta corrente\n−R$ 196,70\npaga\nseg · 18 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 389,60\npaga\nseg · 11 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 437,80\npaga\nseg · 4 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 402,30\npaga\n11 transações no filtro",
+  "rolagem": 0
+ },
+ "celular-faxina-3-busca-10.jpg": {
+  "pilula": [
+   62,
+   76,
+   90,
+   32
+  ],
+  "busca": [
+   68,
+   422.1,
+   276,
+   38
+  ],
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   54
+  ],
+  "faixa": [
+   33,
+   602.1,
+   324,
+   18
+  ],
+  "texto": "Transações\nAno 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n114.478\n,16\nem 31/12/2027\nVer detalhes\nTransações filtrado\n9 transações · 9 pagas · 0 pendentes · somam R$ 3.512,40 · 823 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 9 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nsex · 19 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 379,20\npaga\nsex · 12 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 421,30\npaga\nsex · 5 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 412,70\npaga\nseg · 1 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 396,40\npaga\nsáb · 30 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 318,20\npaga\nseg · 25 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 354,90\npaga\nseg · 18 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 389,60\npaga\nseg · 11 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 437,80\npaga\nseg · 4 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 402,30\npaga\n9 transações no filtro",
+  "rolagem": 0
+ },
+ "celular-faxina-3-busca-11.jpg": {
+  "pilula": [
+   62,
+   76,
+   90,
+   32
+  ],
+  "busca": [
+   68,
+   422.1,
+   276,
+   38
+  ],
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   54
+  ],
+  "faixa": [
+   33,
+   602.1,
+   324,
+   18
+  ],
+  "texto": "Transações\nAno 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n114.478\n,16\nem 31/12/2027\nVer detalhes\nTransações filtrado\n9 transações · 9 pagas · 0 pendentes · somam R$ 3.512,40 · 823 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 9 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nsex · 19 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 379,20\npaga\nsex · 12 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 421,30\npaga\nsex · 5 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 412,70\npaga\nseg · 1 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 396,40\npaga\nsáb · 30 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 318,20\npaga\nseg · 25 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 354,90\npaga\nseg · 18 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 389,60\npaga\nseg · 11 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 437,80\npaga\nseg · 4 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 402,30\npaga\n9 transações no filtro",
+  "rolagem": 0
+ },
+ "celular-faxina-3-busca-12.jpg": {
+  "pilula": [
+   62,
+   76,
+   90,
+   32
+  ],
+  "busca": [
+   68,
+   422.1,
+   276,
+   38
+  ],
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   54
+  ],
+  "faixa": [
+   33,
+   602.1,
+   324,
+   18
+  ],
+  "texto": "Transações\nAno 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n114.478\n,16\nem 31/12/2027\nVer detalhes\nTransações filtrado\n9 transações · 9 pagas · 0 pendentes · somam R$ 3.512,40 · 823 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 9 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nsex · 19 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 379,20\npaga\nsex · 12 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 421,30\npaga\nsex · 5 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 412,70\npaga\nseg · 1 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 396,40\npaga\nsáb · 30 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 318,20\npaga\nseg · 25 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 354,90\npaga\nseg · 18 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 389,60\npaga\nseg · 11 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 437,80\npaga\nseg · 4 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 402,30\npaga\n9 transações no filtro",
+  "rolagem": 0
+ },
+ "celular-faxina-3-busca-13.jpg": {
+  "pilula": [
+   62,
+   76,
+   90,
+   32
+  ],
+  "busca": [
+   68,
+   422.1,
+   276,
+   38
+  ],
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   54
+  ],
+  "faixa": [
+   33,
+   602.1,
+   324,
+   18
+  ],
+  "texto": "Transações\nAno 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n114.478\n,16\nem 31/12/2027\nVer detalhes\nTransações filtrado\n9 transações · 9 pagas · 0 pendentes · somam R$ 3.512,40 · 823 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 9 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nsex · 19 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 379,20\npaga\nsex · 12 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 421,30\npaga\nsex · 5 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 412,70\npaga\nseg · 1 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 396,40\npaga\nsáb · 30 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 318,20\npaga\nseg · 25 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 354,90\npaga\nseg · 18 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 389,60\npaga\nseg · 11 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 437,80\npaga\nseg · 4 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 402,30\npaga\n9 transações no filtro",
+  "rolagem": 0
+ },
+ "celular-faxina-3-busca-14.jpg": {
+  "pilula": [
+   62,
+   76,
+   90,
+   32
+  ],
+  "busca": [
+   68,
+   422.1,
+   276,
+   38
+  ],
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   54
+  ],
+  "faixa": [
+   33,
+   602.1,
+   324,
+   18
+  ],
+  "texto": "Transações\nAno 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n114.478\n,16\nem 31/12/2027\nVer detalhes\nTransações filtrado\n9 transações · 9 pagas · 0 pendentes · somam R$ 3.512,40 · 823 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 9 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nsex · 19 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 379,20\npaga\nsex · 12 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 421,30\npaga\nsex · 5 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 412,70\npaga\nseg · 1 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 396,40\npaga\nsáb · 30 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 318,20\npaga\nseg · 25 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 354,90\npaga\nseg · 18 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 389,60\npaga\nseg · 11 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 437,80\npaga\nseg · 4 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 402,30\npaga\n9 transações no filtro",
+  "rolagem": 0
+ },
+ "celular-faxina-3-busca-15.jpg": {
+  "pilula": [
+   62,
+   76,
+   90,
+   32
+  ],
+  "busca": [
+   68,
+   422.1,
+   276,
+   38
+  ],
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   54
+  ],
+  "faixa": [
+   33,
+   602.1,
+   324,
+   18
+  ],
+  "texto": "Transações\nAno 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n114.478\n,16\nem 31/12/2027\nVer detalhes\nTransações filtrado\n9 transações · 9 pagas · 0 pendentes · somam R$ 3.512,40 · 823 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 9 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nsex · 19 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 379,20\npaga\nsex · 12 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 421,30\npaga\nsex · 5 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 412,70\npaga\nseg · 1 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 396,40\npaga\nsáb · 30 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 318,20\npaga\nseg · 25 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 354,90\npaga\nseg · 18 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 389,60\npaga\nseg · 11 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 437,80\npaga\nseg · 4 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 402,30\npaga\n9 transações no filtro",
+  "rolagem": 0,
+  "lista": [
+   [
+    [
+     15,
+     739.6,
+     360,
+     73
+    ],
+    "Editar Excluir Mercado da Vila Sem categoria · Conta corrente −R$ 379,20 paga"
+   ],
+   [
+    [
+     15,
+     740.6,
+     360,
+     72
+    ],
+    "Mercado da Vila Sem categoria · Conta corrente −R$ 379,20 paga"
+   ],
+   [
+    [
+     15,
+     862.1,
+     360,
+     73
+    ],
+    "Editar Excluir Mercado da Vila Sem categoria · Conta corrente −R$ 421,30 paga"
+   ],
+   [
+    [
+     15,
+     863.1,
+     360,
+     72
+    ],
+    "Mercado da Vila Sem categoria · Conta corrente −R$ 421,30 paga"
+   ],
+   [
+    [
+     15,
+     984.6,
+     360,
+     73
+    ],
+    "Editar Excluir Mercado da Vila Sem categoria · Conta corrente −R$ 412,70 paga"
+   ],
+   [
+    [
+     15,
+     985.6,
+     360,
+     72
+    ],
+    "Mercado da Vila Sem categoria · Conta corrente −R$ 412,70 paga"
+   ]
+  ]
+ },
+ "celular-faxina-4-seletor.jpg": {
+  "folha": [
+   0,
+   8,
+   390,
+   992
+  ],
+  "busca": [
+   23,
+   27,
+   300,
+   48
+  ],
+  "mercado": null,
+  "texto": "Transações\nAno 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n114.478\n,16\nem 31/12/2027\nVer detalhes\nTransações filtrado\n9 transações · 9 pagas · 0 pendentes · somam R$ 3.512,40 · 823 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 9 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nsex · 19 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 379,20\npaga\nsex · 12 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 421,30\npaga\nsex · 5 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 412,70\npaga\nseg · 1 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 396,40\npaga\nsáb · 30 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 318,20\npaga\nseg · 25 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 354,90\npaga\nseg · 18 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 389,60\npaga\nseg · 11 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 437,80\npaga\nseg · 4 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 402,30\npaga\n9 transações no filtro\nAlimentação\nAssinaturas e serviços\nBares e restaurantes\nCasa\nCompras\nCuidados pessoais\nDívidas e empréstimos\nEducação\nFamília e filhos\nImpostos e Taxas\nInvestimentos\nLazer e hobbies\nMercado\nOutros\nPets\nPresentes e doações\nRoupas\nSaúde\nSem categoria\nTrabalho\nTransporte\nViagem",
+  "rolagem": 0
+ },
+ "celular-faxina-5-seletor-merc.jpg": {
+  "folha": [
+   0,
+   847,
+   390,
+   153
+  ],
+  "busca": [
+   23,
+   866,
+   300,
+   48
+  ],
+  "texto": "Transações\nAno 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n114.478\n,16\nem 31/12/2027\nVer detalhes\nTransações filtrado\n9 transações · 9 pagas · 0 pendentes · somam R$ 3.512,40 · 823 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 9 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nsex · 19 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 379,20\npaga\nsex · 12 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 421,30\npaga\nsex · 5 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 412,70\npaga\nseg · 1 de fevereiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 396,40\npaga\nsáb · 30 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 318,20\npaga\nseg · 25 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 354,90\npaga\nseg · 18 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 389,60\npaga\nseg · 11 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 437,80\npaga\nseg · 4 de janeiro\nEditar\nExcluir\nMercado da Vila\nSem categoria · Conta corrente\n−R$ 402,30\npaga\n9 transações no filtro\nMercado",
+  "rolagem": 0,
+  "item": [
+   1,
+   939,
+   388,
+   52,
+   "Mercado"
+  ]
+ },
+ "celular-faxina-6-pronto.jpg": {
+  "pilula": [
+   62,
+   76,
+   90,
+   32
+  ],
+  "busca": [
+   68,
+   422.1,
+   276,
+   38
+  ],
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   54
+  ],
+  "faixa": [
+   33,
+   602.1,
+   324,
+   18
+  ],
+  "recat": [
+   33,
+   628.1,
+   179.2,
+   30
+  ],
+  "limpar": [
+   276.3,
+   666.1,
+   80.7,
+   30
+  ],
+  "primeira": [
+   15,
+   739.6,
+   360,
+   73
+  ],
+  "aviso": [
+   16,
+   851,
+   358,
+   67
+  ],
+  "texto": "9 transações atualizadas para \"Mercado\"\nDesfazer\n9 transações atualizadas para \"Mercado\". Para desfazer, toque em Desfazer no aviso.\nTransações\nAno 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n114.478\n,16\nem 31/12/2027\nVer detalhes\nTransações filtrado\n9 transações · 9 pagas · 0 pendentes · somam R$ 3.512,40 · 823 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 9 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nsex · 19 de fevereiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 379,20\npaga\nsex · 12 de fevereiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 421,30\npaga\nsex · 5 de fevereiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 412,70\npaga\nseg · 1 de fevereiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 396,40\npaga\nsáb · 30 de janeiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 318,20\npaga\nseg · 25 de janeiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 354,90\npaga\nseg · 18 de janeiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 389,60\npaga\nseg · 11 de janeiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 437,80\npaga\nseg · 4 de janeiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 402,30\npaga\n9 transações no filtro",
+  "rolagem": 0,
+  "lista": [
+   [
+    [
+     15,
+     739.6,
+     360,
+     73
+    ],
+    "Editar Excluir Mercado da Vila Mercado · Conta corrente −R$ 379,20 paga"
+   ],
+   [
+    [
+     15,
+     740.6,
+     360,
+     72
+    ],
+    "Mercado da Vila Mercado · Conta corrente −R$ 379,20 paga"
+   ],
+   [
+    [
+     15,
+     862.1,
+     360,
+     73
+    ],
+    "Editar Excluir Mercado da Vila Mercado · Conta corrente −R$ 421,30 paga"
+   ],
+   [
+    [
+     15,
+     863.1,
+     360,
+     72
+    ],
+    "Mercado da Vila Mercado · Conta corrente −R$ 421,30 paga"
+   ],
+   [
+    [
+     15,
+     984.6,
+     360,
+     73
+    ],
+    "Editar Excluir Mercado da Vila Mercado · Conta corrente −R$ 412,70 paga"
+   ],
+   [
+    [
+     15,
+     985.6,
+     360,
+     72
+    ],
+    "Mercado da Vila Mercado · Conta corrente −R$ 412,70 paga"
+   ]
+  ]
+ },
+ "aviso": "9 transações atualizadas para \"Mercado\"\nDesfazer",
+ "celular-faxina-7-lista.jpg": {
+  "pilula": [
+   62,
+   76,
+   90,
+   32
+  ],
+  "busca": [
+   68,
+   422.1,
+   276,
+   38
+  ],
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   54
+  ],
+  "faixa": [
+   33,
+   602.1,
+   324,
+   18
+  ],
+  "recat": [
+   33,
+   628.1,
+   179.2,
+   30
+  ],
+  "limpar": [
+   276.3,
+   666.1,
+   80.7,
+   30
+  ],
+  "primeira": [
+   15,
+   739.6,
+   360,
+   73
+  ],
+  "texto": "9 transações atualizadas para \"Mercado\". Para desfazer, toque em Desfazer no aviso.\nTransações\nAno 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n114.478\n,16\nem 31/12/2027\nVer detalhes\nTransações filtrado\n9 transações · 9 pagas · 0 pendentes · somam R$ 3.512,40 · 823 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 9 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nsex · 19 de fevereiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 379,20\npaga\nsex · 12 de fevereiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 421,30\npaga\nsex · 5 de fevereiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 412,70\npaga\nseg · 1 de fevereiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 396,40\npaga\nsáb · 30 de janeiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 318,20\npaga\nseg · 25 de janeiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 354,90\npaga\nseg · 18 de janeiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 389,60\npaga\nseg · 11 de janeiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 437,80\npaga\nseg · 4 de janeiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 402,30\npaga\n9 transações no filtro",
+  "rolagem": 0,
+  "lista": [
+   [
+    [
+     15,
+     739.6,
+     360,
+     73
+    ],
+    "Editar Excluir Mercado da Vila Mercado · Conta corrente −R$ 379,20 paga"
+   ],
+   [
+    [
+     15,
+     740.6,
+     360,
+     72
+    ],
+    "Mercado da Vila Mercado · Conta corrente −R$ 379,20 paga"
+   ],
+   [
+    [
+     15,
+     862.1,
+     360,
+     73
+    ],
+    "Editar Excluir Mercado da Vila Mercado · Conta corrente −R$ 421,30 paga"
+   ],
+   [
+    [
+     15,
+     863.1,
+     360,
+     72
+    ],
+    "Mercado da Vila Mercado · Conta corrente −R$ 421,30 paga"
+   ],
+   [
+    [
+     15,
+     984.6,
+     360,
+     73
+    ],
+    "Editar Excluir Mercado da Vila Mercado · Conta corrente −R$ 412,70 paga"
+   ],
+   [
+    [
+     15,
+     985.6,
+     360,
+     72
+    ],
+    "Mercado da Vila Mercado · Conta corrente −R$ 412,70 paga"
+   ]
+  ]
+ },
+ "celular-faxina-8-por-categoria-depois.jpg": {
+  "texto": "9 transações atualizadas para \"Mercado\". Para desfazer, toque em Desfazer no aviso.\nVisão geral\nAno 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nPatrimônio\nR$\n114.478\n,16\nalta de\n1,9% em relação a jan/27\n5 contas somadas\nMar/26\nFev/27\nMovimento de 2027\nPARCIAL\nGuardou 4,6% da receita\n95,4%\nReceitas R$ 19.920,00\nDespesas R$ 19.005,50\nResultado do período\nR$ 914,50\nReceitas\nR$ 19.920\nqueda de\n5,7%\nDespesas\nR$ 19.005\nqueda de\n8,9%\nResultado\nR$ 914\nalta de\n8,3%\nComparado com a média por mês de Fev/26 a Jan/27\nÚltimos 12 meses\nFluxo mensal\nMar/26 a Fev/27\nMédia por mês · Fev/26 a Jan/27\nReceitas\nR$ 10.564,45\nDespesas\nR$ 8.631,22\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nReceita média\nR$ 10.564,45\nFev/26 a Jan/27 · meses fechados\nDespesa média\nR$ 8.631,22\nFev/26 a Jan/27 · meses fechados\nSaldo acumulado\nR$ 114.478,16\n+R$ 21.593,16\nMar/26\nFev/27\nReserva financeira\n13,3\nmeses\nR$ 114.478,16 ÷ R$ 8.631,22/mês (despesa média)\nmédia de 12 meses com movimento\nPor categoria\nDespesas do período\nDespesas\nReceitas\nPeríodo global\nDespesas\nR$ 19.005,50\n10 categorias\nTop saídas\nMaiores despesas do período\nCasa\nR$ 4.828,40 25%\nEducação\nR$ 4.126,00 22%\nMercado\nR$ 3.897,50 21%\nTransporte\nR$ 2.137,40 11%\nImpostos e Taxas\nR$ 1.451,00 8%\nBares e restaurantes\nR$ 1.192,50 6%\nMinhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 114.478,16\nPOSITIVAS\nR$ 114.478,16\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nReserva\nINVESTIMENTO\nR$ 25.974,60\nConta corrente\nR$ 16.932,96\nBanco na Europa\nINVESTIMENTO\nR$ 11.525,40\nCarteira do Carnaval\nDINHEIRO\nR$ 45,20\nÚltimas transações\nToque em uma para editar\nVer todas →\nseg · 20 de dezembro\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nqua · 15 de dezembro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npendente\ndom · 12 de dezembro\nEditar\nExcluir\nStreaming de vídeo\nFixaAssinaturas e serviços · Conta corrente\n−R$ 55,90\npendente\nsex · 10 de dezembro\nEditar\nExcluir\nEscola\nFixaEducação · Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nAluguel\nFixaCasa · Conta corrente\n−R$ 2.300,00\npendente\ndom · 5 de dezembro\nEditar\nExcluir\nSalário\nFixaConta corrente\n+R$ 9.960,00\npendente\nsáb · 20 de novembro\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nseg · 15 de novembro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npendente\nInsights\nAnálise automática do período\nReceita guardada: 5%\nVocê guardou R$ 914,50 no período. A meta recomendada é de 20% da receita.\nCasa: 25% das despesas\nConcentra R$ 4.828,40 dos seus gastos.\n9 transações no filtro",
+  "rolagem": 1754,
+  "porcat": {
+   "painel": [
+    14,
+    1834.9,
+    362,
+    796
+   ],
+   "titulo": [
+    29,
+    1849.9,
+    118.3,
+    22.5
+   ],
+   "linhas": {
+    "Casa": [
+     [
+      23,
+      2277.9,
+      344,
+      38
+     ],
+     "Casa R$ 4.828,40 25%"
+    ],
+    "Educação": [
+     [
+      23,
+      2335.9,
+      344,
+      38
+     ],
+     "Educação R$ 4.126,00 22%"
+    ],
+    "Mercado": [
+     [
+      23,
+      2393.9,
+      344,
+      38
+     ],
+     "Mercado R$ 3.897,50 21%"
+    ],
+    "Transporte": [
+     [
+      23,
+      2451.9,
+      344,
+      38
+     ],
+     "Transporte R$ 2.137,40 11%"
+    ],
+    "Impostos e Taxas": [
+     [
+      23,
+      2509.9,
+      344,
+      38
+     ],
+     "Impostos e Taxas R$ 1.451,00 8%"
+    ]
+   },
+   "canvas": [
+    29,
+    1955.4,
+    332,
+    266
+   ]
+  }
+ },
+ "relogio": "Sat Feb 20 2027 10:00:46 GMT-0300 (Horário Padrão de Brasília)",
+ "erros": []
+}

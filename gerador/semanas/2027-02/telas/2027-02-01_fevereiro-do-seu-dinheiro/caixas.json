@@ -1,0 +1,105 @@
+{
+ "0102_pendentes": {
+  "A pagar": {
+   "x": 31,
+   "y": 159.203125,
+   "w": 49.921875,
+   "h": 15.59375,
+   "tag": "SPAN"
+  },
+  "A receber": {
+   "x": 63,
+   "y": 267.09375,
+   "w": 64.375,
+   "h": 16.796875,
+   "tag": "SPAN"
+  },
+  "Total pendente": {
+   "x": 63,
+   "y": 313.09375,
+   "w": 98.546875,
+   "h": 16.796875,
+   "tag": "SPAN"
+  },
+  "Nada vencido": {
+   "x": 54,
+   "y": 375,
+   "w": 83.53125,
+   "h": 15,
+   "tag": "B"
+  },
+  "A vencer": {
+   "x": 29,
+   "y": 434,
+   "w": 159.5,
+   "h": 22.5,
+   "tag": "H2"
+  },
+  "EM 4 DIAS": null,
+  "10/02/2027": {
+   "x": 29,
+   "y": 606.296875,
+   "w": 72.0625,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "Aluguel": {
+   "x": 75,
+   "y": 646.296875,
+   "w": 89.328125,
+   "h": 16.796875,
+   "tag": "DIV"
+  },
+  "Escola": {
+   "x": 75,
+   "y": 707.09375,
+   "w": 89.328125,
+   "h": 16.796875,
+   "tag": "DIV"
+  },
+  "IPTU 2027": {
+   "x": 75,
+   "y": 767.890625,
+   "w": 101.796875,
+   "h": 16.796875,
+   "tag": "DIV"
+  },
+  "12/02/2027": {
+   "x": 29,
+   "y": 829.078125,
+   "w": 71.625,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "15/02/2027": {
+   "x": 29,
+   "y": 931.875,
+   "w": 71.5,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "20/02/2027": {
+   "x": 29,
+   "y": 1034.671875,
+   "w": 74.46875,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "27/02/2027": {
+   "x": 29,
+   "y": 1137.46875,
+   "w": 73.46875,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "Notebook": {
+   "x": 75,
+   "y": 1177.46875,
+   "w": 101.796875,
+   "h": 16.796875,
+   "tag": "DIV"
+  },
+  "_rolagem": 0,
+  "_texto": "Pendentes | Fevereiro 2027 | Todas | as contas | A pagar | R$ | 4.444 | ,80 | 7 transações | A receber | R$ | 9.960 | Total pendente | 8 | Nada vencido. Tudo dentro do prazo. | A vencer | 8 transações ainda no prazo | EM 4 DIAS | · 05/02/2027 | Editar | Excluir | Salário | FIXA·Salário·Conta corrente | +R$ 9.960,00 | pendente | 10/02/2027 | Editar | Excluir | Aluguel | FIXA·Casa·Conta corrente | −R$ 2.300,00 | pendente | Editar | Excluir | Escola | FIXA·Educação·Conta corrente | −R$ 1.450,00 | pendente | Editar | Excluir | IPTU 2027 · 1ª parcela | Impostos e Taxas·Conta corrente | −R$ 215,00 | pendente | 12/02/2027 | Editar | Excluir | Streaming de vídeo | FIXA·Assinaturas e serviços·Conta corrente | −R$ 55,90 | pendente | 15/02/2027 | Editar | Excluir | Streaming de música | FIXA·Assinaturas e serviços·Conta corrente | −R$ 21,90 | pendente | 20/02/2027 | Editar | Excluir | Armazenamento na nuvem | FIXA·Assinaturas e serviços·Conta corrente | −R$ 42,00 | pendente | 27/02/2027 | Editar | Excluir | Notebook (4/10) | 4/10·Compras·Conta corrente | −R$ 360,00 | pendente"
+ }
+}
