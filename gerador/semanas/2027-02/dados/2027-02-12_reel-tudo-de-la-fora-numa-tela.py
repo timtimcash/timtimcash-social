@@ -77,9 +77,9 @@ POST = {
     ],
     "alt": [
         "Reel de 21 segundos. Em fundo escuro, a frase Tudo de lá fora, numa tela só, com as pílulas US$ 13.450 e € 2.018, e a tela real do timtimcash no "
-        "computador, com dados de exemplo: a página de Remessas ao exterior, que a câmera percorre de cima para baixo. Depois, a câmera chega perto de cada parte: "
+        "computador, com dados de exemplo: a página de Remessas ao exterior. Depois, a câmera chega perto de cada parte: "
         "US$ 13.450 na carteira hoje, mais 12,1% em dólar e mais 13,2% em reais; de onde veio o resultado em reais, com rendimento e efeito do câmbio; o câmbio "
-        "de equilíbrio, R$ 4,461, que zera o resultado; o rendimento ano a ano, que desliza da coluna dos anos até as colunas em dólar e em reais: 2023, mais 6,5% "
+        "de equilíbrio, R$ 4,461, que zera o resultado; o rendimento ano a ano em dólar e em reais: 2023, mais 6,5% "
         "em dólar e mais 3,8% em reais; 2024, mais 3,6% e mais 34,4%; 2025, mais 3,9% e menos 7,7%; e 2026, mais 3,2% em dólar, com o câmbio de 31/12 ainda por informar. "
         "Na tabela das remessas, as 3 remessas de US$ 4.000, com o câmbio efetivo de cada uma: R$ 5,10, R$ 5,00 e R$ 4,90. No fim, o ponteiro clica em EUR "
         "e a página troca para o euro: € 2.018 na carteira hoje. Remessas ao exterior no timtimcash. Link na bio."
