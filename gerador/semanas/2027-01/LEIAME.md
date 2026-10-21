@@ -22,9 +22,9 @@ Planejados junto com fevereiro e aprovados pelo Samuel em 21/10/2026, todos os 2
 ## Números com data
 - 13/01 (IPVA): regra de São Paulo de 2026 (Decreto 70.087/2025) e a Selic de 13,75% fixada pelo Copom em 16/09/2026. As constantes `REGRA` e `SELIC` ficam no topo de `equipes/jr/reel_13.py`.
 - 06/01 (material escolar): pesquisa de preços divulgada pelo Procon-SP em janeiro de 2026.
-- 29/01 (fechamento de 2026 lá fora): mostra 2026 só em dólar, porque a PTAX do último dia útil de 2026 só sai em 30/12/2026.
+- 29/01 (fechamento de 2026 lá fora): mostra 2026 só em dólar, porque a PTAX do fim de 2026 só existe a partir do fechamento de 30/12/2026. Em 31/12/2025, o Banco Central divulgou às 10h um boletim com as mesmas taxas do dólar de 30/12 e as outras moedas calculadas naquela manhã (InfoMoney, 24/11/2025): o euro do último boletim pode ser outro.
 
-Combinado com o Samuel em 21/10/2026, quando ele aprovou e mandou agendar os 40 posts: quando saírem os números novos, os posts são refeitos e vão para a aprovação dele; sem resposta até a véspera, fica o que está agendado. Duas tarefas agendadas fazem a conferência: em 11/12/2026, o decreto do IPVA 2027 de São Paulo e a Selic da reunião do Copom de 08 e 09/12 (13/01); em 04/01/2027, a PTAX de compra de 30/12/2026 (slides 5 e 6 de 29/01 e o Reel de 12/02), a pesquisa de preços de material escolar do Procon-SP (06/01; a de 2026 saiu em 02/01/2026) e a portaria do ponto facultativo de 2027 (01/02).
+Combinado com o Samuel em 21/10/2026, quando ele aprovou e mandou agendar os 40 posts: quando saírem os números novos, os posts são refeitos e vão para a aprovação dele; sem resposta até a véspera, fica o que está agendado. Duas tarefas agendadas fazem a conferência: em 11/12/2026, o decreto do IPVA 2027 de São Paulo e a Selic da reunião do Copom de 08 e 09/12 (13/01); em 04/01/2027, a PTAX de compra do último boletim de 2026 (slides 5 e 6 de 29/01 e o Reel de 12/02), a pesquisa de preços de material escolar do Procon-SP (06/01; a de 2026 saiu em 02/01/2026) e a portaria do ponto facultativo de 2027 (01/02).
 
 ### Para refazer
 1. `python3 gerador/restaurar_pasta.py <pasta> janfev` remonta a pasta de trabalho a partir deste repositório.
