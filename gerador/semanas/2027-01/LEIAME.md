@@ -1,6 +1,6 @@
 # Janeiro de 2027 · fontes dos 20 posts
 
-Planejados junto com fevereiro e aprovados pelo Samuel em 21/10/2026, todos os 20: 10 carrosséis e 10 Reels, alternados, às 10h (horário de Brasília), com post em todo fim de semana (sábados 02, 16, 23 e 30 e domingo 10). Sem post em 1º/01. A mídia que vai ao ar está em `posts/<pasta>/`; aqui ficam os dados, as telas e os roteiros. A pauta, os fatos conferidos e as notas dos dois meses ficam nesta pasta.
+Planejados junto com fevereiro e aprovados pelo Samuel em 21/10/2026, todos os 20: 10 carrosséis e 10 Reels, alternados, às 10h (horário de Brasília), com post em todo fim de semana (sábados 02, 16, 23 e 30 e domingo 10). Sem post em 1º/01. Agendados no Metricool no mesmo dia, com a mídia do commit `efd3906`. A mídia que vai ao ar está em `posts/<pasta>/`; aqui ficam os dados, as telas e os roteiros. A pauta, os fatos conferidos e as notas dos dois meses ficam nesta pasta.
 
 ## A campanha
 "Comece 2027 organizado": o post de 02/01 apresenta 4 passos, um por post, com o selo numerado da série (04, 10, 14 e 18/01: o retrato, o caminho, os limites e a rota), e a revisão de sábado (30/01) fecha a série. Em volta, posts para quem começa agora e os temas da época: material escolar (06/01), IPVA (13/01) e o fechamento de 2026 lá fora (29/01).
@@ -23,6 +23,8 @@ Planejados junto com fevereiro e aprovados pelo Samuel em 21/10/2026, todos os 2
 - 13/01 (IPVA): regra de São Paulo de 2026 (Decreto 70.087/2025) e a Selic de 13,75% fixada pelo Copom em 16/09/2026. As constantes `REGRA` e `SELIC` ficam no topo de `equipes/jr/reel_13.py`.
 - 06/01 (material escolar): pesquisa de preços divulgada pelo Procon-SP em janeiro de 2026.
 - 29/01 (fechamento de 2026 lá fora): mostra 2026 só em dólar, porque a PTAX do último dia útil de 2026 só sai em 30/12/2026.
+
+Combinado com o Samuel em 21/10/2026, quando ele aprovou e mandou agendar os 40 posts: quando saírem os números novos, os posts são refeitos e vão para a aprovação dele; sem resposta até a véspera, fica o que está agendado. Duas tarefas agendadas fazem a conferência: em 11/12/2026, o decreto do IPVA 2027 de São Paulo e a Selic da reunião do Copom de 08 e 09/12 (13/01); em 04/01/2027, a PTAX de compra de 30/12/2026 (slides 5 e 6 de 29/01 e o Reel de 12/02), a pesquisa de preços de material escolar do Procon-SP (06/01; a de 2026 saiu em 02/01/2026) e a portaria do ponto facultativo de 2027 (01/02).
 
 ### Para refazer
 1. `python3 gerador/restaurar_pasta.py <pasta> janfev` remonta a pasta de trabalho a partir deste repositório.
