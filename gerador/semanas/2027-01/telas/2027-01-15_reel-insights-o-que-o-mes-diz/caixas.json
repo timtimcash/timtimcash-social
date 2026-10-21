@@ -1,0 +1,186 @@
+{
+ "a-visao-geral-inteira.jpg": {
+  "patrimonio": [
+   31,
+   312,
+   328,
+   18,
+   "4 contas somadas"
+  ],
+  "fab": [
+   328,
+   4717,
+   48,
+   48,
+   ""
+  ],
+  "rolagem": 0,
+  "texto": "Visão geral\nJaneiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nPatrimônio\nR$\n117.082\n,16\nalta de\n3,1% em relação a dez/26\n4 contas somadas\nFev/26\nJan/27\nMovimento de janeiro 2027\nPARCIAL\nGuardou 35,3% da receita\n35,3%\n64,7%\nReceitas R$ 9.960,00\nDespesas R$ 6.441,50\nResultado do período\nR$ 3.518,50\nReceitas\nR$ 9.960\nqueda de\n5,4%\nDespesas\nR$ 6.441\nqueda de\n24,1%\nResultado\nR$ 3.518\nalta de\n72,8%\nComparado com a média por mês de Jan/26 a Dez/26\nÚltimos 12 meses\nFluxo mensal\nFev/26 a Jan/27\nMédia por mês · Jan/26 a Dez/26\nReceitas\nR$ 10.524,45\nDespesas\nR$ 8.487,89\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nReceita média\nR$ 10.524,45\nJan/26 a Dez/26 · meses fechados\n↓ 5,4% (este mês vs média)\nDespesa média\nR$ 8.487,89\nJan/26 a Dez/26 · meses fechados\n↓ 24,1% (este mês vs média)\nSaldo acumulado\nR$ 117.082,16\n+R$ 26.467,16\nFev/26\nJan/27\nReserva financeira\n13,8\nmeses\nR$ 117.082,16 ÷ R$ 8.487,89/mês (despesa média)\nmédia de 12 meses com movimento\nPor categoria\nDespesas do período\nDespesas\nReceitas\nPeríodo global\nDespesas\nR$ 6.441,50\n7 categorias\nTop saídas\nMaiores despesas do período\nEducação\nR$ 2.390,00 37%\nCasa\nR$ 2.300,00 36%\nMercado\nR$ 840,10 13%\nTransporte\nR$ 486,00 8%\nBares e restaurantes\nR$ 284,40 4%\nAssinaturas e serviços\nR$ 77,80 1%\nMinhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 117.082,16\nPOSITIVAS\nR$ 117.082,16\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nReserva\nINVESTIMENTO\nR$ 24.474,60\nConta corrente\nR$ 21.082,16\nBanco na Europa\nINVESTIMENTO\nR$ 11.525,40\nÚltimas transações\nToque em uma para editar\nVer todas →\nqua · 27 de janeiro\nEditar\nExcluir\nNotebook (3/10)\n3/10Compras · Conta corrente\n−R$ 360,00\npendente\nqua · 20 de janeiro\nEditar\nExcluir\nIPVA 2027\nImpostos e Taxas · Conta corrente\n−R$ 1.236,00\npendente\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nsex · 15 de janeiro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npaga\nqui · 14 de janeiro\nEditar\nExcluir\nEstacionamento\nTransporte · Conta corrente\n−R$ 94,00\npaga\nqua · 13 de janeiro\nEditar\nExcluir\nPedido delivery\nBares e restaurantes · Conta corrente\n−R$ 71,90\npaga\nter · 12 de janeiro\nEditar\nExcluir\nMaterial escolar\nEducação · Conta corrente\n−R$ 940,00\npaga\nEditar\nExcluir\nStreaming de vídeo\nFixaAssinaturas e serviços · Conta corrente\n−R$ 55,90\npaga\nInsights\nAnálise automática do período\nEducação 65% acima da média\nR$ 2.390,00 este mês vs média de R$ 1.450,00 (últimos 6 meses).\nExcelente! Receita guardada: 35%\nVocê guardou R$ 3.518,50 de R$ 9.960,00 recebidos. Continue assim!\nEducação: 37% das despesas\nConcentra R$ 2.390,00 dos seus gastos.",
+  "cartoes": [
+   {
+    "caixa": [
+     29,
+     4331.890625,
+     332,
+     85.5
+    ],
+    "x": [
+     321,
+     4341.890625,
+     32,
+     32
+    ],
+    "icone": [
+     43,
+     4345.890625,
+     32,
+     32
+    ],
+    "titulo": "Educação 65% acima da média",
+    "desc": "R$ 2.390,00 este mês vs média de R$ 1.450,00 (últimos 6 meses)."
+   },
+   {
+    "caixa": [
+     29,
+     4433.390625,
+     332,
+     103.5
+    ],
+    "x": [
+     321,
+     4443.390625,
+     32,
+     32
+    ],
+    "icone": [
+     43,
+     4447.390625,
+     32,
+     32
+    ],
+    "titulo": "Excelente! Receita guardada: 35%",
+    "desc": "Você guardou R$ 3.518,50 de R$ 9.960,00 recebidos. Continue assim!"
+   },
+   {
+    "caixa": [
+     29,
+     4552.890625,
+     332,
+     85.5
+    ],
+    "x": [
+     321,
+     4562.890625,
+     32,
+     32
+    ],
+    "icone": [
+     43,
+     4566.890625,
+     32,
+     32
+    ],
+    "titulo": "Educação: 37% das despesas",
+    "desc": "Concentra R$ 2.390,00 dos seus gastos."
+   }
+  ],
+  "painel": {
+   "painel": [
+    14,
+    4245.390625,
+    362,
+    416
+   ],
+   "titulo": [
+    29,
+    4260.390625,
+    170.03125,
+    22.5
+   ]
+  },
+  "altura_pagina": 4781
+ },
+ "n_antes": 3,
+ "b-visao-geral-inteira-depois-do-x.jpg": {
+  "patrimonio": [
+   31,
+   312,
+   328,
+   18,
+   "4 contas somadas"
+  ],
+  "fab": [
+   328,
+   4717,
+   48,
+   48,
+   ""
+  ],
+  "rolagem": 0,
+  "texto": "Visão geral\nJaneiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nPatrimônio\nR$\n117.082\n,16\nalta de\n3,1% em relação a dez/26\n4 contas somadas\nFev/26\nJan/27\nMovimento de janeiro 2027\nPARCIAL\nGuardou 35,3% da receita\n35,3%\n64,7%\nReceitas R$ 9.960,00\nDespesas R$ 6.441,50\nResultado do período\nR$ 3.518,50\nReceitas\nR$ 9.960\nqueda de\n5,4%\nDespesas\nR$ 6.441\nqueda de\n24,1%\nResultado\nR$ 3.518\nalta de\n72,8%\nComparado com a média por mês de Jan/26 a Dez/26\nÚltimos 12 meses\nFluxo mensal\nFev/26 a Jan/27\nMédia por mês · Jan/26 a Dez/26\nReceitas\nR$ 10.524,45\nDespesas\nR$ 8.487,89\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nReceita média\nR$ 10.524,45\nJan/26 a Dez/26 · meses fechados\n↓ 5,4% (este mês vs média)\nDespesa média\nR$ 8.487,89\nJan/26 a Dez/26 · meses fechados\n↓ 24,1% (este mês vs média)\nSaldo acumulado\nR$ 117.082,16\n+R$ 26.467,16\nFev/26\nJan/27\nReserva financeira\n13,8\nmeses\nR$ 117.082,16 ÷ R$ 8.487,89/mês (despesa média)\nmédia de 12 meses com movimento\nPor categoria\nDespesas do período\nDespesas\nReceitas\nPeríodo global\nDespesas\nR$ 6.441,50\n7 categorias\nTop saídas\nMaiores despesas do período\nEducação\nR$ 2.390,00 37%\nCasa\nR$ 2.300,00 36%\nMercado\nR$ 840,10 13%\nTransporte\nR$ 486,00 8%\nBares e restaurantes\nR$ 284,40 4%\nAssinaturas e serviços\nR$ 77,80 1%\nMinhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 117.082,16\nPOSITIVAS\nR$ 117.082,16\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nReserva\nINVESTIMENTO\nR$ 24.474,60\nConta corrente\nR$ 21.082,16\nBanco na Europa\nINVESTIMENTO\nR$ 11.525,40\nÚltimas transações\nToque em uma para editar\nVer todas →\nqua · 27 de janeiro\nEditar\nExcluir\nNotebook (3/10)\n3/10Compras · Conta corrente\n−R$ 360,00\npendente\nqua · 20 de janeiro\nEditar\nExcluir\nIPVA 2027\nImpostos e Taxas · Conta corrente\n−R$ 1.236,00\npendente\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nsex · 15 de janeiro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npaga\nqui · 14 de janeiro\nEditar\nExcluir\nEstacionamento\nTransporte · Conta corrente\n−R$ 94,00\npaga\nqua · 13 de janeiro\nEditar\nExcluir\nPedido delivery\nBares e restaurantes · Conta corrente\n−R$ 71,90\npaga\nter · 12 de janeiro\nEditar\nExcluir\nMaterial escolar\nEducação · Conta corrente\n−R$ 940,00\npaga\nEditar\nExcluir\nStreaming de vídeo\nFixaAssinaturas e serviços · Conta corrente\n−R$ 55,90\npaga\nInsights\nAnálise automática do período\nEducação 65% acima da média\nR$ 2.390,00 este mês vs média de R$ 1.450,00 (últimos 6 meses).\nExcelente! Receita guardada: 35%\nVocê guardou R$ 3.518,50 de R$ 9.960,00 recebidos. Continue assim!",
+  "cartoes": [
+   {
+    "caixa": [
+     29,
+     4331.890625,
+     332,
+     85.5
+    ],
+    "x": [
+     321,
+     4341.890625,
+     32,
+     32
+    ],
+    "icone": [
+     43,
+     4345.890625,
+     32,
+     32
+    ],
+    "titulo": "Educação 65% acima da média",
+    "desc": "R$ 2.390,00 este mês vs média de R$ 1.450,00 (últimos 6 meses)."
+   },
+   {
+    "caixa": [
+     29,
+     4433.390625,
+     332,
+     103.5
+    ],
+    "x": [
+     321,
+     4443.390625,
+     32,
+     32
+    ],
+    "icone": [
+     43,
+     4447.390625,
+     32,
+     32
+    ],
+    "titulo": "Excelente! Receita guardada: 35%",
+    "desc": "Você guardou R$ 3.518,50 de R$ 9.960,00 recebidos. Continue assim!"
+   }
+  ],
+  "painel": {
+   "painel": [
+    14,
+    4245.390625,
+    362,
+    314.5
+   ],
+   "titulo": [
+    29,
+    4260.390625,
+    170.03125,
+    22.5
+   ]
+  }
+ },
+ "n_depois": 2,
+ "dispensados": "{\"info:Educação: # das despesas:2027-01\":1800018009836}",
+ "relogio": "Fri Jan 15 2027 10:00:12 GMT-0300 (Horário Padrão de Brasília)",
+ "erros": []
+}

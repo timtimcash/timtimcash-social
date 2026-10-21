@@ -1,0 +1,184 @@
+{
+ "a-visao-geral-inteira.jpg": {
+  "por_categoria": [
+   29,
+   1944.9,
+   118.3,
+   22.5,
+   "Por categoria"
+  ],
+  "top_saidas": [
+   29,
+   2324.9,
+   151,
+   19.5,
+   "Top saídas"
+  ],
+  "rosca_txt": [
+   149.1,
+   2213.6,
+   91.7,
+   15,
+   "6 categorias"
+  ],
+  "rosca": [
+   29,
+   987.4,
+   332,
+   220,
+   ""
+  ],
+  "patrimonio": [
+   31,
+   312,
+   328,
+   18,
+   "4 contas somadas"
+  ],
+  "resultado": [
+   31,
+   587,
+   122.8,
+   18,
+   "Resultado do período"
+  ],
+  "minhas": [
+   29,
+   2758.9,
+   120.8,
+   22.5,
+   "Minhas contas"
+  ],
+  "fab": [
+   328,
+   2936,
+   48,
+   48,
+   ""
+  ],
+  "rolagem": 0,
+  "texto": "Visão geral\nJaneiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nPatrimônio\nR$\n118.703\n,66\nalta de\n4,5% em relação a dez/26\n4 contas somadas\nFev/26\nJan/27\nMovimento de janeiro 2027\nPARCIAL\nGuardou 51,6% da receita\n51,6%\n48,4%\nReceitas R$ 9.960,00\nDespesas R$ 4.820,00\nResultado do período\nR$ 5.140,00\nReceitas\nR$ 9.960\nqueda de\n5,4%\nDespesas\nR$ 4.820\nqueda de\n43,2%\nResultado\nR$ 5.140\nalta de\n152,4%\nComparado com a média por mês de Jan/26 a Dez/26\nÚltimos 12 meses\nFluxo mensal\nFev/26 a Jan/27\nMédia por mês · Jan/26 a Dez/26\nReceitas\nR$ 10.524,45\nDespesas\nR$ 8.487,89\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nReceita média\nR$ 10.524,45\nJan/26 a Dez/26 · meses fechados\n↓ 5,4% (este mês vs média)\nDespesa média\nR$ 8.487,89\nJan/26 a Dez/26 · meses fechados\n↓ 43,2% (este mês vs média)\nSaldo acumulado\nR$ 118.703,66\n+R$ 28.088,66\nFev/26\nJan/27\nReserva financeira\n14,0\nmeses\nR$ 118.703,66 ÷ R$ 8.487,89/mês (despesa média)\nmédia de 12 meses com movimento\nPor categoria\nDespesas do período\nDespesas\nReceitas\nPeríodo global\nDespesas\nR$ 4.820,00\n6 categorias\nTop saídas\nMaiores despesas do período\nCasa\nR$ 2.300,00 48%\nEducação\nR$ 1.450,00 30%\nMercado\nR$ 402,30 8%\nTransporte\nR$ 392,00 8%\nBares e restaurantes\nR$ 212,50 4%\nSaúde\nR$ 63,20 1%\nMinhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 118.703,66\nPOSITIVAS\nR$ 118.703,66\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nReserva\nINVESTIMENTO\nR$ 24.474,60\nConta corrente\nR$ 22.703,66\nBanco na Europa\nINVESTIMENTO\nR$ 11.525,40\nÚltimas transações\nToque em uma para editar\nVer todas →\nqua · 27 de janeiro\nEditar\nExcluir\nNotebook (3/10)\n3/10Compras · Conta corrente\n−R$ 360,00\npendente\nqua · 20 de janeiro\nEditar\nExcluir\nIPVA 2027\nImpostos e Taxas · Conta corrente\n−R$ 1.236,00\npendente\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nsex · 15 de janeiro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npendente\nter · 12 de janeiro\nEditar\nExcluir\nMaterial escolar\nEducação · Conta corrente\n−R$ 940,00\npendente\nEditar\nExcluir\nStreaming de vídeo\nFixaAssinaturas e serviços · Conta corrente\n−R$ 55,90\npendente\ndom · 10 de janeiro\nEditar\nExcluir\nEscola\nFixaEducação · Conta corrente\n−R$ 1.450,00\npaga\nEditar\nExcluir\nAluguel\nFixaCasa · Conta corrente\n−R$ 2.300,00\npaga\nInsights\nAnálise automática do período\nMaior receita guardada em 12 meses\nVocê guardou 52% da receita em janeiro.\nCasa: 48% das despesas\nConcentra R$ 2.300,00 dos seus gastos, proporção elevada que vale analisar.",
+  "top": [
+   [
+    23,
+    2372.890625,
+    344,
+    38,
+    "Casa R$ 2.300,00 48%"
+   ],
+   [
+    23,
+    2430.890625,
+    344,
+    38,
+    "Educação R$ 1.450,00 30%"
+   ],
+   [
+    23,
+    2488.890625,
+    344,
+    38,
+    "Mercado R$ 402,30 8%"
+   ],
+   [
+    23,
+    2546.890625,
+    344,
+    38,
+    "Transporte R$ 392,00 8%"
+   ],
+   [
+    23,
+    2604.890625,
+    344,
+    38,
+    "Bares e restaurantes R$ 212,50 4%"
+   ],
+   [
+    23,
+    2662.890625,
+    344,
+    38,
+    "Saúde R$ 63,20 1%"
+   ]
+  ],
+  "painel_categoria": [
+   14,
+   1929.890625,
+   362,
+   796
+  ],
+  "canvas": [
+   [
+    29,
+    987.390625,
+    332,
+    220
+   ],
+   [
+    29,
+    2050.390625,
+    332,
+    266
+   ]
+  ],
+  "altura_pagina": 4626
+ },
+ "b-transacoes-educacao.jpg": {
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   54,
+   "2 transações · 1 paga · 1 pendente · somam R$ 2.390,00 · 776 no histórico"
+  ],
+  "escola": [
+   81,
+   881.7,
+   44.4,
+   16.8,
+   "Escola"
+  ],
+  "material": [
+   81,
+   760,
+   183.2,
+   16.8,
+   "Material escolar"
+  ],
+  "chip_cat": [
+   81,
+   778.8,
+   183.2,
+   14.4,
+   "Educação · Conta corrente"
+  ],
+  "titulo": [
+   -274,
+   248.5,
+   256,
+   48,
+   ""
+  ],
+  "rolagem": 0,
+  "texto": "Transações\nJaneiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n118.703\n,66\nem 31/01/2027\nVer detalhes\nTransações filtrado\n2 transações · 1 paga · 1 pendente · somam R$ 2.390,00 · 776 no histórico\nSelecionar\n1\n1 categoria\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 2 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nter · 12 de janeiro\nEditar\nExcluir\nMaterial escolar\nEducação · Conta corrente\n−R$ 940,00\npendente\ndom · 10 de janeiro\nEditar\nExcluir\nEscola\nFixaEducação · Conta corrente\n−R$ 1.450,00\npaga",
+  "itens": [
+   [
+    15,
+    740.59375,
+    360,
+    72,
+    "Material escolar Educação · Conta corrente −R$ 940,00 pendente"
+   ],
+   [
+    15,
+    863.09375,
+    360,
+    72,
+    "Escola FixaEducação · Conta corrente −R$ 1.450,00 paga"
+   ]
+  ]
+ },
+ "relogio": "Sun Jan 10 2027 10:00:09 GMT-0300 (Horário Padrão de Brasília)",
+ "erros": []
+}

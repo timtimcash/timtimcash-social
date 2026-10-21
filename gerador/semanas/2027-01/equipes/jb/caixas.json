@@ -1,0 +1,1960 @@
+{
+ "27": {
+  "antes": {
+   "painel": [
+    14,
+    2094.5,
+    376,
+    3090.5
+   ],
+   "texto": "Rendimento ano a ano\nTaxa de cada ano, em US$ e em reais\nEditar fechamentos\n2023\n+6,5%\n+120,00\n+3,8%\n+R$ 343,68\naportes 4.000,00 · a R$ 4,90 · fim 4.120,00\n2024\n+3,6%\n+360,00\n+34,4%\n+R$ 16.928,73\naportes 8.000,00 · a R$ 5,05 · fim 12.480,00\n2025\n+3,9%\n+480,00\n−7,7%\n−R$ 5.969,09\nfim 12.960,00\n2026\nfalta o saldo de 31/12\nfalta o saldo de 31/12\n2027\naté hoje\nfalta o saldo de 31/12 do ano anterior\nfalta o saldo de 31/12 do ano anterior\nhoje 13.450,00\nDesde 2023\n+3,8%\n+1.450,00\n+4,1%\n+R$ 7.942,68\nas taxas ao ano que o painel de rendimento já mostra\na barra de cima é a taxa em US$\na de baixo, a mesma em R$\nrégua até +34%\nEm US$ é o rendimento do investimento. Em R$ é o mesmo rendimento mais a variação do câmbio no ano. Cada ano usa as datas reais dos envios: aporte de novembro pesa dois meses, não doze.",
+   "titulo": [
+    29,
+    2109.5,
+    241,
+    2132
+   ],
+   "sub": [
+    29,
+    2135,
+    241,
+    2153
+   ],
+   "editar": [
+    29,
+    2174,
+    166.1,
+    2204
+   ],
+   "desde": [
+    29,
+    2834.3,
+    277.8,
+    2853.8
+   ],
+   "linhas": [
+    [
+     "2023 | +6,5% | +120,00 | +3,8% | +R$ 343,68 | aportes 4.000,00 · a R$ 4,90 · fim 4.120,00",
+     29,
+     2232,
+     361,
+     2359.5
+    ],
+    [
+     "2024 | +3,6% | +360,00 | +34,4% | +R$ 16.928,73 | aportes 8.000,00 · a R$ 5,05 · fim 12.480,00",
+     29,
+     2359.5,
+     361,
+     2487
+    ],
+    [
+     "2025 | +3,9% | +480,00 | −7,7% | −R$ 5.969,09 | fim 12.960,00",
+     29,
+     2487,
+     361,
+     2614.5
+    ],
+    [
+     "2026 | falta o saldo de 31/12 | falta o saldo de 31/12",
+     29,
+     2614.5,
+     361,
+     2692
+    ],
+    [
+     "2027 | até hoje | falta o saldo de 31/12 do ano anterior | falta o saldo de 31/12 do ano anterior | hoje 13.450,00",
+     29,
+     2692,
+     361,
+     2802
+    ],
+    [
+     "Desde 2023 | +3,8% | +1.450,00 | +4,1% | +R$ 7.942,68 | as taxas ao ano que o painel de rendimento já mostra",
+     29,
+     2812,
+     361,
+     2939.5
+    ],
+    [
+     "a barra de cima é a taxa em US$ | a de baixo, a mesma em R$ | régua até +34%",
+     29,
+     2951.5,
+     361,
+     2996.5
+    ]
+   ],
+   "scrollY": 0
+  },
+  "form": {
+   "modal": null,
+   "titulo": [
+    17,
+    2052.5,
+    339,
+    2082.5
+   ],
+   "sub": [
+    17,
+    2085.5,
+    339,
+    2139.5
+   ],
+   "rotulo": [
+    17,
+    2166.5,
+    373,
+    2183
+   ],
+   "tabela": [
+    17,
+    2190,
+    373,
+    2982
+   ],
+   "r2025": [
+    18,
+    2507,
+    372,
+    2665
+   ],
+   "r2026": [
+    18,
+    2665,
+    372,
+    2823
+   ],
+   "hoje": [
+    18,
+    2823,
+    372,
+    2981
+   ],
+   "dica": [
+    17,
+    2995,
+    373,
+    3107
+   ],
+   "rodape": [
+    1,
+    3121,
+    389,
+    3200
+   ],
+   "s2026": [
+    30,
+    2707,
+    360,
+    2755
+   ],
+   "x2026": [
+    30,
+    2763,
+    360,
+    2811
+   ],
+   "ptax2026": [
+    286.8,
+    2763,
+    360,
+    2811
+   ],
+   "campo_x2026": [
+    186.8,
+    2763,
+    278.8,
+    2811
+   ],
+   "ano2026": [
+    30,
+    2678,
+    360,
+    2699
+   ],
+   "valores": [
+    [
+     "2023",
+     "4.120,00",
+     "4,8407",
+     "0,0000"
+    ],
+    [
+     "2024",
+     "12.480,00",
+     "6,1917",
+     "0,0000"
+    ],
+    [
+     "2025",
+     "12.960,00",
+     "5,5018",
+     "0,0000"
+    ],
+    [
+     "2026",
+     "13.380,00",
+     "",
+     "0,0000"
+    ]
+   ],
+   "texto": "Quanto havia no fim de cada ano\nCom o saldo de 31 de dezembro, o timtimcash separa o rendimento ano a ano. Sem ele, só dá para medir o período inteiro.\nSALDO EM US$ NO ÚLTIMO DIA DO ANO\n202331/12/2023\nR$\nPTAX\n202431/12/2024\nR$\nPTAX\n202531/12/2025\nR$\nPTAX\n202631/12/2026\nR$\nPTAX\n2027hoje, em curso\n13.450,00\nR$\n5,0515\nO botão ao lado de cada câmbio busca o PTAX de compra do fecho daquele ano no Banco Central. O campo é opcional: sem ele o ano aparece só em US$, porque converter pelo câmbio de hoje daria um rendimento em reais que não aconteceu naquele ano.\nCancelar\nSalvar",
+   "scrollY": 0
+  },
+  "depois": {
+   "painel": [
+    14,
+    2094.5,
+    376,
+    3122.5
+   ],
+   "texto": "Rendimento ano a ano\nTaxa de cada ano, em US$ e em reais\nEditar fechamentos\n2023\n+6,5%\n+120,00\n+3,8%\n+R$ 343,68\naportes 4.000,00 · a R$ 4,90 · fim 4.120,00\n2024\n+3,6%\n+360,00\n+34,4%\n+R$ 16.928,73\naportes 8.000,00 · a R$ 5,05 · fim 12.480,00\n2025\n+3,9%\n+480,00\n−7,7%\n−R$ 5.969,09\nfim 12.960,00\n2026\n+3,2%\n+420,00\nfalta o câmbio de 31/12\nfim 13.380,00\n2027\naté hoje\n+7,6%\n+70,00\nfalta o câmbio do ano anterior\nhoje 13.450,00\nDesde 2023\n+3,8%\n+1.450,00\n+4,1%\n+R$ 7.942,68\nas taxas ao ano que o painel de rendimento já mostra\na barra de cima é a taxa em US$\na de baixo, a mesma em R$\nrégua até +34%\nEm US$ é o rendimento do investimento. Em R$ é o mesmo rendimento mais a variação do câmbio no ano. Cada ano usa as datas reais dos envios: aporte de novembro pesa dois meses, não doze.",
+   "linhas": [
+    [
+     "2023 | +6,5% | +120,00 | +3,8% | +R$ 343,68 | aportes 4.000,00 · a R$ 4,90 · fim 4.120,00",
+     29,
+     2232,
+     361,
+     2359.5
+    ],
+    [
+     "2024 | +3,6% | +360,00 | +34,4% | +R$ 16.928,73 | aportes 8.000,00 · a R$ 5,05 · fim 12.480,00",
+     29,
+     2359.5,
+     361,
+     2487
+    ],
+    [
+     "2025 | +3,9% | +480,00 | −7,7% | −R$ 5.969,09 | fim 12.960,00",
+     29,
+     2487,
+     361,
+     2614.5
+    ],
+    [
+     "2026 | +3,2% | +420,00 | falta o câmbio de 31/12 | fim 13.380,00",
+     29,
+     2614.5,
+     361,
+     2724
+    ],
+    [
+     "2027 | até hoje | +7,6% | +70,00 | falta o câmbio do ano anterior | hoje 13.450,00",
+     29,
+     2724,
+     361,
+     2834
+    ],
+    [
+     "Desde 2023 | +3,8% | +1.450,00 | +4,1% | +R$ 7.942,68 | as taxas ao ano que o painel de rendimento já mostra",
+     29,
+     2844,
+     361,
+     2971.5
+    ],
+    [
+     "a barra de cima é a taxa em US$ | a de baixo, a mesma em R$ | régua até +34%",
+     29,
+     2983.5,
+     361,
+     3028.5
+    ]
+   ],
+   "fechamentos": {
+    "2023": {
+     "valor": 4120,
+     "cambio": 4.8407
+    },
+    "2024": {
+     "valor": 12480,
+     "cambio": 6.1917
+    },
+    "2025": {
+     "valor": 12960,
+     "cambio": 5.5018
+    },
+    "2026": {
+     "valor": 13380,
+     "cambio": 0
+    }
+   },
+   "scrollY": 0
+  }
+ },
+ "29": {
+  "periodo": [
+   "Ano 2026",
+   "Ano 2026"
+  ],
+  "rp": {
+   "labels": [
+    "Jan/26",
+    "Fev/26",
+    "Mar/26",
+    "Abr/26",
+    "Mai/26",
+    "Jun/26",
+    "Jul/26",
+    "Ago/26",
+    "Set/26",
+    "Out/26",
+    "Nov/26",
+    "Dez/26"
+   ],
+   "rec": [
+    8029.999999999999,
+    8050,
+    7690.000000000001,
+    7830,
+    7909.999999999998,
+    8039.999999999999,
+    7980.000000000002,
+    8284.999999999998,
+    7702.399999999999,
+    7938.999999999998,
+    8630.4,
+    7704.4
+   ],
+   "pon": [
+    1390,
+    0,
+    0,
+    0,
+    0,
+    0,
+    640,
+    0,
+    264,
+    276,
+    519,
+    2974.5
+   ],
+   "pct": 94,
+   "media": 7982.5999999999985,
+   "maior": "Aluguel"
+  },
+  "diag": "Despesas do período\nsua média mensal (12m) × 12 meses: R$ 101.854,70\nR$ 101.854,70\n+0,0%\nReserva\nquanto tempo o patrimôn",
+  "dez_rec": {
+   "painel": [
+    14,
+    4377,
+    376,
+    5402.5
+   ],
+   "texto": "Recorrentes vs pontuais\nComposição da despesa mensal · jan/26 a dez/26 · toque numa barra\nRecorrente\n94%\nRecorrente/mês\nR$ 7.982,60\nMaior compromisso\nAluguel\nRecorrente · Dez/26\nR$ 7.704,4072% do mês\nAluguelFIXA\n10/12 · Casa\nR$ 2.300,00\nEscolaFIXA\n10/12 · Educação\nR$ 1.450,00\nMercado da VilaREPETIDA\n10/12 · Mercado\nR$ 452,30\nMercado da VilaREPETIDA\n03/12 · Mercado\nR$ 436,90\nMercado da VilaREPETIDA\n17/12 · Mercado\nR$ 418,60\nCombustívelREPETIDA\n18/12 · Transporte\nR$ 418,00\nCombustívelREPETIDA\n04/12 · Transporte\nR$ 396,00\nNotebookPARCELA 2/10\n27/12 · Compras\nR$ 360,00\nMostrar os outros 12 lançamentos · R$ 1.472,60\nEntram como recorrentes as despesas lançadas como Fixa ou Parcelada e as que se repetem com a mesma descrição em 3 ou mais meses, com valor na mesma ordem de grandeza.",
+   "titulo": [
+    29,
+    4392,
+    361,
+    4414.5
+   ],
+   "sub": [
+    29,
+    4417.5,
+    361,
+    4453.5
+   ],
+   "kpis": [
+    29,
+    4481.5,
+    361,
+    4604.5
+   ],
+   "grafico": [
+    29,
+    4610.5,
+    361,
+    4836.5
+   ],
+   "det": [
+    29,
+    4850.5,
+    361,
+    5328
+   ],
+   "det_head": [
+    39,
+    4860.5,
+    351,
+    4889
+   ],
+   "nota": [
+    29,
+    5338,
+    361,
+    5387.5
+   ],
+   "mais": [
+    39,
+    5292,
+    351,
+    5324
+   ],
+   "det_linhas": [
+    [
+     "AluguelFIXA | 10/12 · Casa | R$ 2.300,00",
+     39,
+     4889,
+     351,
+     4939.5
+    ],
+    [
+     "EscolaFIXA | 10/12 · Educação | R$ 1.450,00",
+     39,
+     4939.5,
+     351,
+     4990
+    ],
+    [
+     "Mercado da VilaREPETIDA | 10/12 · Mercado | R$ 452,30",
+     39,
+     4990,
+     351,
+     5040.5
+    ],
+    [
+     "Mercado da VilaREPETIDA | 03/12 · Mercado | R$ 436,90",
+     39,
+     5040.5,
+     351,
+     5091
+    ],
+    [
+     "Mercado da VilaREPETIDA | 17/12 · Mercado | R$ 418,60",
+     39,
+     5091,
+     351,
+     5141.5
+    ],
+    [
+     "CombustívelREPETIDA | 18/12 · Transporte | R$ 418,00",
+     39,
+     5141.5,
+     351,
+     5192
+    ],
+    [
+     "CombustívelREPETIDA | 04/12 · Transporte | R$ 396,00",
+     39,
+     5192,
+     351,
+     5242.5
+    ],
+    [
+     "NotebookPARCELA 2/10 | 27/12 · Compras | R$ 360,00",
+     39,
+     5242.5,
+     351,
+     5292
+    ]
+   ],
+   "det_texto": "Recorrente · Dez/26\nR$ 7.704,4072% do mês\nAluguelFIXA\n10/12 · Casa\nR$ 2.300,00\nEscolaFIXA\n10/12 · Educação\nR$ 1.450,00\nMercado da VilaREPETIDA\n10/12 · Mercado\nR$ 452,30\nMercado da VilaREPETIDA\n03/12 · Mercado\nR$ 436,90\nMercado da VilaREPETIDA\n17/12 · Mercado\nR$ 418,60\nCombustívelREPETIDA\n18/12 · Transporte\nR$ 418,00\nCombustívelREPETIDA\n04/12 · Transporte\nR$ 396,00\nNotebookPARCELA 2/10\n27/12 · Compras\nR$ 360,00\nMostrar os outros 12 lançamentos · R$ 1.472,60",
+   "scrollY": 2804
+  },
+  "dez_pon": {
+   "painel": [
+    14,
+    4377,
+    376,
+    5362.5
+   ],
+   "texto": "Recorrentes vs pontuais\nComposição da despesa mensal · jan/26 a dez/26 · toque numa barra\nRecorrente\n94%\nRecorrente/mês\nR$ 7.982,60\nMaior compromisso\nAluguel\nPontual · Dez/26\nR$ 2.974,5028% do mês\nHospedagem no Ano-Novo\n29/12 · Viagem\nR$ 890,00\nCeia de Natal\n23/12 · Mercado\nR$ 684,20\nPresentes de Natal\n12/12 · Presentes e doações\nR$ 389,90\nRoupa para as festas\n19/12 · Roupas\nR$ 279,90\nPresentes de Natal\n17/12 · Presentes e doações\nR$ 264,50\nPresentes de Natal\n21/12 · Presentes e doações\nR$ 198,00\nConfraternização do trabalho\n11/12 · Bares e restaurantes\nR$ 148,00\nPresente de amigo secreto\n08/12 · Presentes e doações\nR$ 120,00\nEntram como recorrentes as despesas lançadas como Fixa ou Parcelada e as que se repetem com a mesma descrição em 3 ou mais meses, com valor na mesma ordem de grandeza.",
+   "titulo": [
+    29,
+    4392,
+    361,
+    4414.5
+   ],
+   "sub": [
+    29,
+    4417.5,
+    361,
+    4453.5
+   ],
+   "kpis": [
+    29,
+    4481.5,
+    361,
+    4604.5
+   ],
+   "grafico": [
+    29,
+    4610.5,
+    361,
+    4836.5
+   ],
+   "det": [
+    29,
+    4850.5,
+    361,
+    5288
+   ],
+   "det_head": [
+    39,
+    4860.5,
+    351,
+    4889
+   ],
+   "nota": [
+    29,
+    5298,
+    361,
+    5347.5
+   ],
+   "mais": null,
+   "det_linhas": [
+    [
+     "Hospedagem no Ano-Novo | 29/12 · Viagem | R$ 890,00",
+     39,
+     4889,
+     351,
+     4938.5
+    ],
+    [
+     "Ceia de Natal | 23/12 · Mercado | R$ 684,20",
+     39,
+     4938.5,
+     351,
+     4988
+    ],
+    [
+     "Presentes de Natal | 12/12 · Presentes e doações | R$ 389,90",
+     39,
+     4988,
+     351,
+     5037.5
+    ],
+    [
+     "Roupa para as festas | 19/12 · Roupas | R$ 279,90",
+     39,
+     5037.5,
+     351,
+     5087
+    ],
+    [
+     "Presentes de Natal | 17/12 · Presentes e doações | R$ 264,50",
+     39,
+     5087,
+     351,
+     5136.5
+    ],
+    [
+     "Presentes de Natal | 21/12 · Presentes e doações | R$ 198,00",
+     39,
+     5136.5,
+     351,
+     5186
+    ],
+    [
+     "Confraternização do trabalho | 11/12 · Bares e restaurantes | R$ 148,00",
+     39,
+     5186,
+     351,
+     5235.5
+    ],
+    [
+     "Presente de amigo secreto | 08/12 · Presentes e doações | R$ 120,00",
+     39,
+     5235.5,
+     351,
+     5284
+    ]
+   ],
+   "det_texto": "Pontual · Dez/26\nR$ 2.974,5028% do mês\nHospedagem no Ano-Novo\n29/12 · Viagem\nR$ 890,00\nCeia de Natal\n23/12 · Mercado\nR$ 684,20\nPresentes de Natal\n12/12 · Presentes e doações\nR$ 389,90\nRoupa para as festas\n19/12 · Roupas\nR$ 279,90\nPresentes de Natal\n17/12 · Presentes e doações\nR$ 264,50\nPresentes de Natal\n21/12 · Presentes e doações\nR$ 198,00\nConfraternização do trabalho\n11/12 · Bares e restaurantes\nR$ 148,00\nPresente de amigo secreto\n08/12 · Presentes e doações\nR$ 120,00",
+   "scrollY": 2804
+  },
+  "jan_pon": {
+   "painel": [
+    14,
+    4377,
+    376,
+    5065.5
+   ],
+   "texto": "Recorrentes vs pontuais\nComposição da despesa mensal · jan/26 a dez/26 · toque numa barra\nRecorrente\n94%\nRecorrente/mês\nR$ 7.982,60\nMaior compromisso\nAluguel\nPontual · Jan/26\nR$ 1.390,0015% do mês\nIPVA · parcela única\n20/01 · Impostos e Taxas\nR$ 1.180,00\nIPTU · 1ª parcela\n12/01 · Impostos e Taxas\nR$ 210,00\nEntram como recorrentes as despesas lançadas como Fixa ou Parcelada e as que se repetem com a mesma descrição em 3 ou mais meses, com valor na mesma ordem de grandeza.",
+   "titulo": [
+    29,
+    4392,
+    361,
+    4414.5
+   ],
+   "sub": [
+    29,
+    4417.5,
+    361,
+    4453.5
+   ],
+   "kpis": [
+    29,
+    4481.5,
+    361,
+    4604.5
+   ],
+   "grafico": [
+    29,
+    4610.5,
+    361,
+    4836.5
+   ],
+   "det": [
+    29,
+    4850.5,
+    361,
+    4991
+   ],
+   "det_head": [
+    39,
+    4860.5,
+    351,
+    4889
+   ],
+   "nota": [
+    29,
+    5001,
+    361,
+    5050.5
+   ],
+   "mais": null,
+   "det_linhas": [
+    [
+     "IPVA · parcela única | 20/01 · Impostos e Taxas | R$ 1.180,00",
+     39,
+     4889,
+     351,
+     4938.5
+    ],
+    [
+     "IPTU · 1ª parcela | 12/01 · Impostos e Taxas | R$ 210,00",
+     39,
+     4938.5,
+     351,
+     4987
+    ]
+   ],
+   "det_texto": "Pontual · Jan/26\nR$ 1.390,0015% do mês\nIPVA · parcela única\n20/01 · Impostos e Taxas\nR$ 1.180,00\nIPTU · 1ª parcela\n12/01 · Impostos e Taxas\nR$ 210,00",
+   "scrollY": 2804
+  }
+ },
+ "16": {
+  "tab_usd": {
+   "painel": [
+    312,
+    2503.8,
+    988,
+    2912.3
+   ],
+   "texto": "Remessas\n3 envios em 2 anos · o câmbio efetivo já inclui o IOF · planilha modelo\nPor remessa\nPor ano\nExcluir as de USD\nA coluna Hoje em R$ converte a mesma quantia em USD pela cotação de R$ 5,0515 que você informou. O percentual compara com o que a remessa custou: ele mede a variação do câmbio, não o rendimento do investimento.\nANO\tDE → PARA\tENVIADO\nUS$\n\tCÂMBIO\nR$\n\tCUSTO\nR$\n\tHOJE\nR$ · a 5,0515\n\tVARIAÇÃO\n\n2024\n2 envios · mar a abr\nConta corrente→Corretora no exterior\t8.000,00\t5,0500\t40.400,00\t40.412,00\t+0,0%\n\n2023\n1 envio · jul\nConta corrente→Corretora no exterior\t4.000,00\t4,9000\t19.600,00\t20.206,00\t+3,1%\nTotal\n2 anos · 3 envios\n\t\t12.000,00\t5,0000\t60.000,00\t60.618,00\t+1,0%",
+   "titulo": [
+    339,
+    2528.8,
+    727,
+    2554.3
+   ],
+   "sub": [
+    339,
+    2557.3,
+    727,
+    2575.3
+   ],
+   "nota": [
+    339,
+    2621.3,
+    961,
+    2654.3
+   ],
+   "seg": [
+    796.1,
+    2528.8,
+    961,
+    2564.8
+   ],
+   "excluir": [
+    339,
+    2587.3,
+    483.6,
+    2617.3
+   ],
+   "linhas": [
+    [
+     "ANO\tDE → PARA\tENVIADO | US$ | \tCÂMBIO | R$ | \tCUSTO | R$ | \tHOJE | R$ · a 5,0515 | \tVARIAÇÃO",
+     339,
+     2658.3,
+     974.8,
+     2708.8
+    ],
+    [
+     "2024 | 2 envios · mar a abr | Conta corrente→Corretora no exterior\t8.000,00\t5,0500\t40.400,00\t40.412,00\t+0,0%",
+     339,
+     2708.8,
+     974.8,
+     2766.8
+    ],
+    [
+     "2023 | 1 envio · jul | Conta corrente→Corretora no exterior\t4.000,00\t4,9000\t19.600,00\t20.206,00\t+3,1%",
+     339,
+     2766.8,
+     974.8,
+     2825.3
+    ],
+    [
+     "Total | 2 anos · 3 envios | \t\t12.000,00\t5,0000\t60.000,00\t60.618,00\t+1,0%",
+     339,
+     2825.3,
+     974.8,
+     2887.3
+    ]
+   ],
+   "th": [
+    [
+     "ANO",
+     339,
+     2658.3,
+     496.5,
+     2708.8
+    ],
+    [
+     "DE → PARA",
+     496.5,
+     2658.3,
+     555.7,
+     2708.8
+    ],
+    [
+     "ENVIADO | US$",
+     555.7,
+     2658.3,
+     642.3,
+     2708.8
+    ],
+    [
+     "CÂMBIO | R$",
+     642.3,
+     2658.3,
+     709.1,
+     2708.8
+    ],
+    [
+     "CUSTO | R$",
+     709.1,
+     2658.3,
+     795.7,
+     2708.8
+    ],
+    [
+     "HOJE | R$ · a 5,0515",
+     795.7,
+     2658.3,
+     882.4,
+     2708.8
+    ],
+    [
+     "VARIAÇÃO",
+     882.4,
+     2658.3,
+     974.8,
+     2708.8
+    ]
+   ],
+   "td": [
+    [
+     "2024 | 2 envios · mar a abr",
+     339,
+     2709.3,
+     496.5,
+     2766.3
+    ],
+    [
+     "Conta corrente→Corretora no exterior",
+     496.5,
+     2708.8,
+     555.7,
+     2766.8
+    ],
+    [
+     "8.000,00",
+     555.7,
+     2708.8,
+     642.3,
+     2766.8
+    ],
+    [
+     "5,0500",
+     642.3,
+     2708.8,
+     709.1,
+     2766.8
+    ],
+    [
+     "40.400,00",
+     709.1,
+     2708.8,
+     795.7,
+     2766.8
+    ],
+    [
+     "40.412,00",
+     795.7,
+     2708.8,
+     882.4,
+     2766.8
+    ],
+    [
+     "+0,0%",
+     882.4,
+     2708.8,
+     974.8,
+     2766.8
+    ],
+    [
+     "2023 | 1 envio · jul",
+     339,
+     2767.3,
+     496.5,
+     2824.3
+    ],
+    [
+     "Conta corrente→Corretora no exterior",
+     496.5,
+     2766.8,
+     555.7,
+     2825.3
+    ],
+    [
+     "4.000,00",
+     555.7,
+     2766.8,
+     642.3,
+     2825.3
+    ],
+    [
+     "4,9000",
+     642.3,
+     2766.8,
+     709.1,
+     2825.3
+    ],
+    [
+     "19.600,00",
+     709.1,
+     2766.8,
+     795.7,
+     2825.3
+    ],
+    [
+     "20.206,00",
+     795.7,
+     2766.8,
+     882.4,
+     2825.3
+    ],
+    [
+     "+3,1%",
+     882.4,
+     2766.8,
+     974.8,
+     2825.3
+    ],
+    [
+     "Total | 2 anos · 3 envios",
+     339,
+     2825.3,
+     496.5,
+     2887.3
+    ],
+    [
+     "",
+     496.5,
+     2825.3,
+     555.7,
+     2887.3
+    ],
+    [
+     "12.000,00",
+     555.7,
+     2825.3,
+     642.3,
+     2887.3
+    ],
+    [
+     "5,0000",
+     642.3,
+     2825.3,
+     709.1,
+     2887.3
+    ],
+    [
+     "60.000,00",
+     709.1,
+     2825.3,
+     795.7,
+     2887.3
+    ],
+    [
+     "60.618,00",
+     795.7,
+     2825.3,
+     882.4,
+     2887.3
+    ],
+    [
+     "+1,0%",
+     882.4,
+     2825.3,
+     974.8,
+     2887.3
+    ]
+   ],
+   "scrollY": 0
+  },
+  "tab_eur": {
+   "painel": [
+    312,
+    2139.3,
+    988,
+    2444.8
+   ],
+   "texto": "Remessas\n1 envio · o câmbio efetivo já inclui o IOF · planilha modelo\nExcluir as de EUR\nA coluna Hoje em R$ converte a mesma quantia em EUR pela cotação de R$ 5,6592 que você informou. O percentual compara com o que a remessa custou: ele mede a variação do câmbio, não o rendimento do investimento.\nDATA\n↓\nORIGEM\nDESTINO\nENVIADO\nCÂMBIO EFETIVO\nCUSTO EM R$\nHOJE EM R$\nR$ 5,6592\nVARIAÇÃO\n01/12/2026\nReserva\n🇵🇹\nBanco na Europa\n€ 2.000,00\nR$ 5,7627\nR$ 11.525,40\nR$ 11.318,40\n−1,8%\nTotal\n1 remessa\n€ 2.000,00\nR$ 5,7627\nR$ 11.525,40\nR$ 11.318,40\n−1,8%",
+   "titulo": [
+    339,
+    2164.3,
+    656.9,
+    2189.8
+   ],
+   "sub": [
+    339,
+    2192.8,
+    656.9,
+    2210.8
+   ],
+   "nota": [
+    339,
+    2214.8,
+    961,
+    2247.8
+   ],
+   "th_custo": [
+    871.9,
+    2279.8,
+    960.9,
+    2303.8
+   ],
+   "th_hoje": [
+    386.7,
+    2215.8,
+    445.7,
+    2229.8
+   ],
+   "th": [],
+   "td": [],
+   "scrollY": 0
+  },
+  "cel_USD": {
+   "chips": [
+    29,
+    153,
+    361,
+    183
+   ],
+   "remetido": [
+    29,
+    3064,
+    190,
+    3080.5
+   ],
+   "custo": [
+    200,
+    3064,
+    361,
+    3080.5
+   ],
+   "cambio": [
+    29,
+    3151,
+    190,
+    3167.5
+   ],
+   "iof": [
+    200,
+    3151,
+    361,
+    3167.5
+   ],
+   "iof_pct": [
+    200,
+    3195,
+    361,
+    3211.5
+   ],
+   "iof_pct2": null,
+   "tab": [
+    64,
+    25.3,
+    146.5,
+    50.8
+   ],
+   "botoes_moeda": [
+    [
+     "🇺🇸 USD",
+     29,
+     153,
+     99.5,
+     183
+    ],
+    [
+     "🇪🇺 EUR",
+     107.5,
+     153,
+     176.7,
+     183
+    ]
+   ],
+   "cartao_ind": [
+    "panel remx-custos",
+    14,
+    3049,
+    376,
+    3226.5,
+    "Remetido\nUS$ 12.000,00\n3 remessas · desde jul/23\nCusto total\nR$ 60.000,00\ntudo que saiu do Brasil, com IOF\nCâmbio médio efetivo\nR$ 5,0000\ncom IOF · sem IOF R$ 5,0000\nIOF pago\nR$ 0,00\n0,00% do valor enviado"
+   ],
+   "scrollY": 0
+  },
+  "cel_EUR": {
+   "chips": [
+    29,
+    153,
+    361,
+    183
+   ],
+   "remetido": [
+    29,
+    2667,
+    190,
+    2683.5
+   ],
+   "custo": [
+    200,
+    2667,
+    361,
+    2683.5
+   ],
+   "cambio": [
+    29,
+    2754,
+    190,
+    2770.5
+   ],
+   "iof": [
+    200,
+    2754,
+    361,
+    2770.5
+   ],
+   "iof_pct": null,
+   "iof_pct2": [
+    200,
+    2798,
+    361,
+    2814.5
+   ],
+   "tab": [
+    64,
+    25.3,
+    146.5,
+    50.8
+   ],
+   "botoes_moeda": [
+    [
+     "🇺🇸 USD",
+     29,
+     153,
+     99.5,
+     183
+    ],
+    [
+     "🇪🇺 EUR",
+     107.5,
+     153,
+     176.7,
+     183
+    ]
+   ],
+   "cartao_ind": [
+    "panel remx-custos",
+    14,
+    2652,
+    376,
+    2829.5,
+    "Remetido\n€ 2.000,00\n1 remessa · desde dez/26\nCusto total\nR$ 11.525,40\ntudo que saiu do Brasil, com IOF\nCâmbio médio efetivo\nR$ 5,7627\ncom IOF · sem IOF R$ 5,7000\nIOF pago\nR$ 125,40\n1,10% do valor enviado"
+   ],
+   "scrollY": 0
+  }
+ },
+ "22": {
+  "medidas": {
+   "2027-01-22": [
+    795,
+    4,
+    156809
+   ],
+   "2027-01-21": [
+    794,
+    4,
+    156653
+   ],
+   "2027-01-20": [
+    793,
+    4,
+    156482
+   ],
+   "2027-01-19": [
+    793,
+    4,
+    156484
+   ],
+   "2027-01-18": [
+    792,
+    4,
+    156321
+   ],
+   "2027-01-17": [
+    790,
+    4,
+    155989
+   ],
+   "2027-01-16": [
+    790,
+    4,
+    155989
+   ],
+   "2026-12-31": [
+    770,
+    4,
+    152503
+   ],
+   "2026-11-30": [
+    742,
+    3,
+    147261
+   ],
+   "2026-10-30": [
+    707,
+    3,
+    140547
+   ]
+  },
+  "snaps": [
+   {
+    "id": 9000,
+    "n_txs": 795,
+    "n_contas": 4,
+    "bytes": 156809,
+    "created_at": "2027-01-22T10:00:05-03:00"
+   },
+   {
+    "id": 8999,
+    "n_txs": 794,
+    "n_contas": 4,
+    "bytes": 156653,
+    "created_at": "2027-01-21T19:42:05-03:00"
+   },
+   {
+    "id": 8998,
+    "n_txs": 793,
+    "n_contas": 4,
+    "bytes": 156482,
+    "created_at": "2027-01-20T08:15:05-03:00"
+   },
+   {
+    "id": 8997,
+    "n_txs": 793,
+    "n_contas": 4,
+    "bytes": 156484,
+    "created_at": "2027-01-19T21:06:05-03:00"
+   },
+   {
+    "id": 8996,
+    "n_txs": 792,
+    "n_contas": 4,
+    "bytes": 156321,
+    "created_at": "2027-01-18T12:31:05-03:00"
+   },
+   {
+    "id": 8995,
+    "n_txs": 790,
+    "n_contas": 4,
+    "bytes": 155989,
+    "created_at": "2027-01-17T09:48:05-03:00"
+   },
+   {
+    "id": 8994,
+    "n_txs": 790,
+    "n_contas": 4,
+    "bytes": 155989,
+    "created_at": "2027-01-16T18:20:05-03:00"
+   },
+   {
+    "id": 8993,
+    "n_txs": 770,
+    "n_contas": 4,
+    "bytes": 152503,
+    "created_at": "2026-12-31T10:05:05-03:00"
+   },
+   {
+    "id": 8992,
+    "n_txs": 742,
+    "n_contas": 3,
+    "bytes": 147261,
+    "created_at": "2026-11-30T20:12:05-03:00"
+   },
+   {
+    "id": 8991,
+    "n_txs": 707,
+    "n_contas": 3,
+    "bytes": 140547,
+    "created_at": "2026-10-30T21:30:05-03:00"
+   }
+  ],
+  "pref": {
+   "modal": null,
+   "backup": [
+    17,
+    899,
+    373,
+    918.5
+   ],
+   "exportar": [
+    33,
+    946.5,
+    357,
+    967.5
+   ],
+   "snap": [
+    17,
+    1097.5,
+    373,
+    2357.5
+   ],
+   "snap_tit": [
+    33,
+    1113.5,
+    357,
+    1134.5
+   ],
+   "restaurar_de": [
+    33,
+    2391.5,
+    285.1,
+    2412.5
+   ],
+   "zona": null,
+   "risco": [
+    32,
+    2545.5,
+    358,
+    2562
+   ],
+   "linhas": [
+    [
+     "HojeMAIS NOVA | 795 lançamentos · 4 contas · 0,1 MB · 10:00 | Restaurar",
+     34,
+     1187.5,
+     356,
+     1295.5
+    ],
+    [
+     "Ontem | 794 lançamentos · 4 contas · 0,1 MB · 19:42 | Restaurar",
+     34,
+     1295.5,
+     356,
+     1404.5
+    ],
+    [
+     "20/01, quarta | 793 lançamentos · 4 contas · 0,1 MB · 08:15 | Restaurar",
+     34,
+     1404.5,
+     356,
+     1513.5
+    ],
+    [
+     "19/01, terça | 793 lançamentos · 4 contas · 0,1 MB · 21:06 | Restaurar",
+     34,
+     1513.5,
+     356,
+     1622.5
+    ],
+    [
+     "18/01, segunda | 792 lançamentos · 4 contas · 0,1 MB · 12:31 | Restaurar",
+     34,
+     1622.5,
+     356,
+     1731.5
+    ],
+    [
+     "17/01, domingo | 790 lançamentos · 4 contas · 0,1 MB · 09:48 | Restaurar",
+     34,
+     1731.5,
+     356,
+     1840.5
+    ],
+    [
+     "16/01, sábado | 790 lançamentos · 4 contas · 0,1 MB · 18:20 | Restaurar",
+     34,
+     1840.5,
+     356,
+     1949.5
+    ],
+    [
+     "31/12/2026FIM DE DEZEMBRO | 770 lançamentos · 4 contas · 0,1 MB · 10:05 | Restaurar",
+     34,
+     1949.5,
+     356,
+     2058.5
+    ],
+    [
+     "30/11/2026FIM DE NOVEMBRO | 742 lançamentos · 3 contas · 0,1 MB · 20:12 | Restaurar",
+     34,
+     2058.5,
+     356,
+     2167.5
+    ],
+    [
+     "30/10/2026FIM DE OUTUBRO | 707 lançamentos · 3 contas · 0,1 MB · 21:30 | Restaurar",
+     34,
+     2167.5,
+     356,
+     2276.5
+    ]
+   ],
+   "blocos": [
+    [
+     "opt-row",
+     33,
+     946.5,
+     357,
+     1071.5,
+     "Exportar backup completo | Arquivo JSON com contas, transações, categorias e orçamentos. |"
+    ],
+    [
+     "opt-row",
+     33,
+     1113.5,
+     357,
+     1174.5,
+     "Cópias no servidor | Uma por dia, guardada sozinha quando você abre o timtimcash, à parte "
+    ],
+    [
+     "opt-row",
+     33,
+     2391.5,
+     357,
+     2498.5,
+     "Restaurar de backup | Restaura um JSON exportado anteriormente. | Atenção: os dados atuais"
+    ],
+    [
+     "opt-row",
+     32,
+     2580,
+     358,
+     2687,
+     "Apagar todas as transações | Remove os 795 lançamentos permanentemente. | Contas, categori"
+    ],
+    [
+     "opt-row",
+     32,
+     2708,
+     358,
+     2815,
+     "Resetar conta completamente | Remove transações, contas, categorias e orçamentos. | Restau"
+    ],
+    [
+     "opt-row",
+     32,
+     2836,
+     358,
+     2961,
+     "Excluir minha conta | Pedido por e-mail a contato@timtimcash.com: apaga o acesso, o CPF e "
+    ]
+   ],
+   "dica": [
+    33,
+    2287.5,
+    357,
+    2341.5
+   ],
+   "cartoes": {
+    "Exportar backup completo": [
+     "",
+     17,
+     930.5,
+     373,
+     1087.5
+    ],
+    "Cópias no servidor": [
+     "",
+     17,
+     1097.5,
+     373,
+     2357.5
+    ],
+    "Restaurar de backup": [
+     "",
+     17,
+     2375.5,
+     373,
+     2514.5
+    ]
+   },
+   "texto": "Preferências\nAparência\nClaro\nEscuro\nAuto\nConta\nM\nMarina Alves\nmarina@exemplo.com\nSair\nNome\nMarina Alves\nAlterar\nE-mail\nmarina@exemplo.com\nAlterar\nCPF\n529.982.247-25\nAlterar\nTutorial de atalhos\nBackup\nExportar backup completo\nArquivo JSON com contas, transações, categorias e orçamentos.\nGuarde em local seguro para restaurar depois.\nBaixar\nCópias no servidor\nUma por dia, guardada sozinha quando você abre o timtimcash, à parte da versão em uso.\nHojeMAIS NOVA\n795 lançamentos · 4 contas · 0,1 MB · 10:00\nRestaurar\nOntem\n794 lançamentos · 4 contas · 0,1 MB · 19:42\nRestaurar\n20/01, quarta\n793 lançamentos · 4 contas · 0,1 MB · 08:15\nRestaurar\n19/01, terça\n793 lançamentos · 4 contas · 0,1 MB · 21:06\nRestaurar\n18/01, segunda\n792 lançamentos · 4 contas · 0,1 MB · 12:31\nRestaurar\n17/01, domingo\n790 lançamentos · 4 contas · 0,1 MB · 09:48\nRestaurar\n16/01, sábado\n790 lançamentos · 4 contas · 0,1 MB · 18:20\nRestaurar\n31/12/2026FIM DE DEZEMBRO\n770 lançamentos · 4 contas · 0,1 MB · 10:05\nRestaurar\n30/11/2026FIM DE NOVEMBRO\n742 lançamentos · 3 contas · 0,1 MB · 20:12\nRestaurar\n30/10/2026FIM DE OUTUBRO\n707 lançamentos · 3 contas · 0,1 MB · 21:30\nRestaurar\nRestaurar substitui os dados atuais. Antes de trocar, o timtimcash guarda uma cópia de agora, então dá para voltar atrás.\nRestaurar de backup\nRestaura um JSON exportado anteriormente.\nAtenção: os dados atuais serão substituídos.\nRestaurar\nZONA DE RISCO\nApagar todas as transações\nRemove os 795 lançamentos permanentemente.\nContas, categorias e orçamentos são mantidos.\nApagar tudo\nResetar conta completamente\nRemove transações, contas, categorias e orçamentos.\nRestaura as configurações de fábrica.\nResetar\nExcluir minha conta\nPedido por e-mail a contato@timtimcash.com: apaga o acesso, o CPF e os dados.\nBaixe o backup antes, se quiser guardar algo.\nPedir exclusão",
+   "scrollY": 0
+  },
+  "restaurar": {
+   "modal": [
+    0,
+    2595.5,
+    390,
+    3000,
+    "Restaurar a cópia de ontem\nOs dados de agora (795 lançamentos) serão substituídos pelos de 794 lançamentos daquele dia. Uma cópia de agora é guardada antes, então dá para voltar atrás.\nPara confirmar, digite a palavra RESTAURAR abaixo:\nCancelar\nConfirmar e apagar"
+   ],
+   "titulo": [
+    17,
+    2617.5,
+    273.8,
+    2647.5
+   ],
+   "desc": [
+    61,
+    2694.5,
+    352.2,
+    2769
+   ],
+   "digite": [
+    17,
+    2806.5,
+    373,
+    2827
+   ],
+   "campo": [
+    17,
+    2843,
+    373,
+    2891
+   ],
+   "botao": [
+    122.5,
+    2934,
+    373,
+    2984
+   ],
+   "scrollY": 0
+  },
+  "aviso": {
+   "dialogo": [
+    20,
+    220.3,
+    370,
+    539.8
+   ],
+   "titulo": [
+    45,
+    321.3,
+    345,
+    351.3
+   ],
+   "scrollY": 0,
+   "conta_depois_da_foto": "58",
+   "relogio": "Fri Jan 22 2027 10:29:03 GMT-0300 (Horário Padrão de Brasília)"
+  },
+  "ocultar": {
+   "olho_antes": [
+    288,
+    19,
+    326,
+    57
+   ],
+   "olho": [
+    288,
+    19,
+    326,
+    57
+   ],
+   "patr": [
+    31,
+    209,
+    359,
+    228.5
+   ],
+   "receitas": [
+    26,
+    652.5,
+    117.3,
+    669
+   ],
+   "comparado": [
+    14,
+    737,
+    376,
+    752.4
+   ],
+   "topo": null,
+   "aria": [
+    "Mostrar valores",
+    "Mostrar valores"
+   ],
+   "texto": "Visão geral\nJaneiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nPatrimônio\nalta de\n0,6% em relação a dez/26\n4 contas somadas\nFev/26\nJan/27\nMovimento de janeiro 2027\nPARCIAL\nGuardou 6,7% da receita\n93,3%\nReceitas R$ 9.960,00\nDespesas R$ 9.295,00\nResultado do período\nR$ 665,00\nReceitas\nR$ 9.960\nqueda de\n5,4%\nDespesas\nR$ 9.295\nalta de\n9,5%\nResultado\nR$ 665\nqueda de\n67,3%\nComparado com a média por mês de Jan/26 a Dez/26\nÚltimos 12 meses\nFluxo mensal\nFev/26 a Jan/27\nMédia por mês · Jan/26 a Dez/26\nReceitas\n••••••\nDespesas\n••••••\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nReceita média\nR$ 10.524,45\nJan/26 a Dez/26 · meses fechados\n↓ 5,4% (este mês vs média)\nDespesa",
+   "scrollY": 0
+  }
+ },
+ "20": {
+  "saldos_31dez": {
+   "1": "19063.66",
+   "2": "60000.00",
+   "3": "22974.60",
+   "4": "11525.40"
+  },
+  "linhas_ofx": 93,
+  "visao_antes": {
+   "mini": null,
+   "receitas": [
+    26,
+    542,
+    117.3,
+    558.5
+   ],
+   "resultado": [
+    272.7,
+    542,
+    364,
+    558.5
+   ],
+   "chip": [
+    26,
+    590,
+    71.4,
+    609
+   ],
+   "patr": [
+    31,
+    209,
+    359,
+    228.5
+   ],
+   "primeiro": [
+    229.3,
+    241,
+    359,
+    265.5
+   ],
+   "cards": [
+    [
+     "Receitas",
+     14,
+     531,
+     129.3,
+     620,
+     "Receitas | R$ 9.960 | 1º mês"
+    ],
+    [
+     "Despesas",
+     137.3,
+     531,
+     252.7,
+     620,
+     "Despesas | R$ 9.018 | 1º mês"
+    ],
+    [
+     "Resultado",
+     260.7,
+     531,
+     376,
+     620,
+     "Resultado | R$ 941 | 1º mês"
+    ]
+   ],
+   "texto": "Visão geral\nJaneiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nPatrimônio\nR$\n114.505\n,16\n1º mês no timtimcash\n4 contas somadas\nMovimento de janeiro 2027\nPARCIAL\nGuardou 9,5% da receita\n90,5%\nReceitas R$ 9.960,00\nDespesas R$ 9.018,50\nResultado do período\nR$ 941,50\nReceitas\nR$ 9.960\n1º mês\nDespesas\nR$ 9.018\n1º mês\nResultado\nR$ 941\n1º mês\nÚltimos 12 meses\nFluxo mensal\nFev/26 a Jan/27\nA média começa quando janeiro fechar\nReceitas\nDespesas\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nReceita média\n–\nA média começa quando janeiro fechar\nDespesa média\n–\nA média começa quando janeiro fechar\nSaldo acumulado\nR$ 114.505,16\n+R$ 941,50\nFev/26\nJan/27\nReserva financeira\n–\nAparece a partir do segundo mês com movimento · a média de um mês só não diz quanto você costuma gastar\nPor categoria\nDespesas do período\nDespesas\nReceitas\nPeríodo global\nDespesas\nR$ 9.018,50\n9 categorias\nTop saídas\nMaiores despesas do período\nEducação\nR$ 2.676,00 30%\nCasa\nR$ 2.300,00 26%\nImpostos e Taxas\nR$ 1.236,00 14%\nMercado\nR$ 1.229,70 14%\nTransporte\nR$ 891,00 10%\nBares e restaurantes\nR$ 410,80 5%\nMinhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 114.505,16\nPOSITIVAS\nR$ 114.505,16\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nReserva\nINVESTIMENTO\nR$ 24.474,60\nConta corrente\nR$ 18.505,16\nBanco na Europa\nINVESTIMENTO\nR$ 11.525,40\nÚltimas transações\nToque em uma para editar\nVer todas →\nqua · 27 de janeiro\nEditar\nExcluir\nNotebook (3/10)\n3/10Compras · Conta corrente\n−R$ 3",
+   "scrollY": 0
+  },
+  "rel_antes": {
+   "diag_tit": [
+    29,
+    215,
+    361,
+    237.5
+   ],
+   "primeiro": [
+    105,
+    362.5,
+    349,
+    383.5
+   ],
+   "frase": [
+    105,
+    385.5,
+    349,
+    457.5
+   ],
+   "rg": [
+    75,
+    488.5,
+    309.5,
+    508
+   ],
+   "desp": [
+    75,
+    552.5,
+    257.5,
+    572
+   ],
+   "rec": [
+    75,
+    616.5,
+    257.5,
+    636
+   ],
+   "bloco": [
+    "dg-score",
+    29,
+    350.5,
+    361,
+    469.5
+   ],
+   "painel": [
+    null,
+    null,
+    null,
+    null
+   ],
+   "texto": "Relatórios\nJaneiro 2027\nTodas\nas contas\nDiagnóstico\nConcentração\nReceitas × Despesas\nCascata\nReceitas\nDespesas\nMapa de calor\nVariações\nRecorrentes\nSazonalidade\nSaldo\nDiagnóstico de janeiro 2027 PARCIAL\nEm andamento · 65% decorrido · Comparado com seus últimos 12 meses\n · 0 meses na média\nAjustar cálculo\nTodas as categorias\nSeu primeiro mês no timtimcash\nO diagnóstico compara o mês com a sua média. Ele começa quando houver 3 meses de histórico antes deste (faltam 3). Por enquanto, os números do mês:\nReceita guardada\no que sobrou do que entrou\n9,5%\nDespesas do período\nsem média para comparar ainda\nR$ 9.018,50\nReceitas do período\nsem média para comparar ainda\nR$ 9.960,00\nConcentração\n3 categorias respondem por 69% do que você gastou\nEducação\n29,7%\nR$ 2.676,00\nCasa\n25,5%\nR$ 2.300,00\nImpostos e Taxas\n13,7%\nR$ 1.236,00\nOutras 6 categorias\n31,1%\nR$ 2.806,50\nReceitas vs Despesas\nComparativo mensal · últimos 12 meses\nBarras\nLinha\nÚltimos 12 meses\nCascata do período\nDa receita ao resultado · Janeiro 2027\nReceitas por categoria\n1 categoria · Total R$ 9.960,00\nSalário\nR$ 9.960,00\n100,0%\nTOTAL\nR$ 9.960,00\nDespesas por categoria\n9 categorias · Total R$ 9.018,50\nDespesas\nR$ 9.018,50\n9 categorias\n",
+   "scrollY": 0
+  },
+  "imp_planilha": {
+   "modal": null,
+   "titulo": [
+    17,
+    730.5,
+    339,
+    760.5
+   ],
+   "sub": [
+    17,
+    763.5,
+    339,
+    799.5
+   ],
+   "seg": [
+    17,
+    826.5,
+    373,
+    866.5
+   ],
+   "spec_hd": [
+    17,
+    880.5,
+    373,
+    923.5
+   ],
+   "spec": [
+    17,
+    935.5,
+    373,
+    1377.5
+   ],
+   "tabela": [
+    17,
+    935.5,
+    373,
+    1113.5
+   ],
+   "regras": [
+    17,
+    1148,
+    373,
+    1188
+   ],
+   "livre": [
+    17,
+    1200,
+    373,
+    1274
+   ],
+   "reg_card": [
+    17,
+    1389.5,
+    373,
+    1533
+   ],
+   "modelo": [
+    17,
+    1545,
+    199.2,
+    1575
+   ],
+   "revisar": [
+    17,
+    1589,
+    373,
+    1607
+   ],
+   "foot": [
+    1,
+    1621,
+    389,
+    1700
+   ],
+   "texto": "Importar transações\nO formato do arquivo (.xlsx, .csv ou .ofx) é detectado automaticamente\nPlanilha\n · .xlsx / .csv\nExtrato bancário\n · .ofx\nFormato esperado da planilha\n6 colunas\nA\ndata\nOBRIGATÓRIA\t\nB\ncategoria\nOPCIONAL\t\nC\ndescrição\nOPCIONAL\t\nD\nconta/carteira\nOPCIONAL\t\nE\nvalor\nOBRIGATÓRIA\t\nF\npago\nOPCIONAL\n15/04/2026\tSalário\tSalário mensal\tConta corrente\t5000\tpago\n12/04/2026\tMercado\tCompras do mês\tCarteira\t-420\tpago\n20/04/2026\tOutras receitas\tProjeto web\tConta corrente\t1200\tpendente\n← arraste pra ver as outras colunas →\ndata dd/mm/aaaa\n·\nvalor positivo é receita, negativo é despesa\n·\npago aceita sim/não ou pago/pendente\nA ordem é sugestão. O timtimcash identifica cada coluna pelo nome do cabeçalho, então pode montar na ordem que preferir.\nTambém aceitos: histórico memo para descrição · banco conta para conta/carteira · classificação cat para categoria · status para pago · crédito e débito em colunas separadas no lugar de valor.\nCategorias e contas novas são criadas automaticamente ao importar.\nCategorizar automaticamente\nNenhuma regra ainda. Crie a primeira e ela passa a valer nas próximas importações.\nCriar primeira regra\nBaixar modelo em Excel\nVocê poderá revisar e ajustar cada linha antes de confirmar.\nCancelar\nEscolher arquivo",
+   "scrollY": 0
+  },
+  "imp_ofx": {
+   "modal": null,
+   "titulo": [
+    17,
+    1231,
+    339,
+    1261
+   ],
+   "sub": [
+    17,
+    1264,
+    339,
+    1300
+   ],
+   "seg": [
+    17,
+    1327,
+    373,
+    1367
+   ],
+   "pane": [
+    17,
+    1381,
+    373,
+    1575
+   ],
+   "b1": [
+    31,
+    1455,
+    359,
+    1563
+   ],
+   "revisar": [
+    17,
+    1589,
+    373,
+    1607
+   ],
+   "foot": [
+    1,
+    1621,
+    389,
+    1700
+   ],
+   "bullets": [
+    31,
+    1455,
+    359,
+    1563,
+    "• Você escolhe a conta de destino na hora\n• Categorias chegam sugeridas pelo nome do estabelecimento; o que não for reconhecido fica como \"Sem categoria\" · você confere na revisão\n• Transações já importadas são detectadas e desmarcadas automaticamente"
+   ],
+   "texto": "Importar transações\nO formato do arquivo (.xlsx, .csv ou .ofx) é detectado automaticamente\nPlanilha\n · .xlsx / .csv\nExtrato bancário\n · .ofx\nPraticamente todo banco brasileiro permite baixar o extrato em formato .ofx (Itaú, Nubank, Inter, Bradesco, Banco do Brasil, etc).\n• Você escolhe a conta de destino na hora\n• Categorias chegam sugeridas pelo nome do estabelecimento; o que não for reconhecido fica como \"Sem categoria\" · você confere na revisão\n• Transações já importadas são detectadas e desmarcadas automaticamente\nVocê poderá revisar e ajustar cada linha antes de confirmar.\nCancelar\nEscolher arquivo",
+   "scrollY": 0
+  },
+  "imp_conta": {
+   "texto": "áb · 16 de janeiro\nEditar\nExcluir\nPadaria\nBares e restaurantes · Conta corrente\n−R$ 126,40\npaga\nEditar\nExcluir\nCinema\nLazer e hobbies · Conta corrente\n−R$ 92,00\npaga\nInsights\nAnálise automática do período\nEducação: 30% das despesas\nConcentra R$ 2.676,00 dos seus gastos.\nConta de destino\nO arquivo OFX não traz a conta. Em qual carteira essas transações devem entrar?\n1\nBanco na Europa\nInvestimento\n2\nConta corrente\nBanco / Digital\n3\nCorretora no exterior\nInvestimento\n4\nReserva\nInvestimento\nCancelar",
+   "escolha": [
+    20,
+    592,
+    370,
+    1108,
+    "Conta de destino\nO arquivo OFX não traz a conta. Em qual carteira essas transações devem entrar?\n1\nBanco na Europa\nInvestimento\n2\nConta corrente\nBanco / Digital\n3\nCorretora no exterior\nInvestimento\n4\nReserva\nInvestimento\nCancelar"
+   ],
+   "scrollY": 0
+  },
+  "revisar": {
+   "modal": null,
+   "titulo": [
+    17,
+    258,
+    298,
+    288
+   ],
+   "sub": [
+    17,
+    291,
+    298,
+    309
+   ],
+   "faixa": [
+    62,
+    349,
+    192.2,
+    367
+   ],
+   "foot": [
+    1,
+    1621,
+    389,
+    1700
+   ],
+   "faixa_caixa": [
+    21,
+    336,
+    369,
+    456,
+    "i\nExtrato OFX detectado\nConta de destino: Conta corrente. 47 de 93 linhas vieram com categoria sugerida pelo nome do estabelecimento. Confira; 46 ficam como \"Sem categoria\"."
+   ],
+   "linhas": [
+    [
+     "",
+     "",
+     "DataDescriçãoValorCategoriaStatusConta",
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     "CONTA DE LUZ",
+     "-R$ 214,70",
+     "29/12/2026 | Sem categoria | Pago | Banco na Europa | Conta corrente | Corretora no exterior | Reserva",
+     18,
+     607,
+     372,
+     813
+    ],
+    [
+     "HOSPEDAGEM NO ANO-NOVO",
+     "-R$ 890,00",
+     "29/12/2026 | Sem categoria | Pago | Banco na Europa | Conta corrente | Corretora no exterior | Reserva",
+     18,
+     813,
+     372,
+     1019
+    ],
+    [
+     "SUPERMERCADO DA VILA",
+     "-R$ 298,40",
+     "28/12/2026 | Mercado | sugerida | Pago | Banco na Europa | Conta corrente | Corretora no exterior | Reserva",
+     18,
+     1019,
+     372,
+     1226
+    ],
+    [
+     "NOTEBOOK 2/10",
+     "-R$ 360,00",
+     "27/12/2026 | Sem categoria | Pago | Banco na Europa | Conta corrente | Corretora no exterior | Reserva",
+     18,
+     1226,
+     372,
+     1432
+    ],
+    [
+     "CINEMA",
+     "-R$ 92,00",
+     "27/12/2026 | Lazer e hobbies | sugerida | Pago | Banco na Europa | Conta corrente | Corretora no exterior | Reserva",
+     18,
+     1432,
+     372,
+     1639
+    ]
+   ],
+   "resumo": "93\nSELECIONADAS\nR$ 37.613,36\nRECEITAS\nR$ 32.543,30\nDESPESAS\nR$ 5.070,06\nRESULTADO",
+   "texto": "Revisar importação\n93 linhas encontradas · confira antes de confirmar\ni\nExtrato OFX detectado\nConta de destino: Conta corrente. 47 de 93 linhas vieram com categoria sugerida pelo nome do estabelecimento. Confira; 46 ficam como \"Sem categoria\".\nMarcar todas\nDesmarcar todas\nAplicar conta a todas\nMarcar todas como pendentes\nRegras (0)\nCategorias novas serão criadas automaticamente\n29/12/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n29/12/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n28/12/2026\nMercado\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n27/12/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n27/12/2026\nLazer e hobbies\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n26/12/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n24/12/2026\nAlimentação\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n23/12/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n21/12/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n20/12/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n19/12/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n18/12/2026\nTransporte\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n18/12/2026\nSalário\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n17/12/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n17/12/2026\nMercado\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n15/12/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n15/12/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n13/12/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n12/12/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n12/12/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n11/12/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n11/12/2026\nSaúde\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n10/12/2026\nCasa\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n10/12/2026\nEducação\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n10/12/2026\nMercado\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n08/12/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n07/12/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n05/12/2026\nSalário\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n04/12/2026\nTransporte\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n03/12/2026\nMercado\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n02/12/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n30/11/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n28/11/2026\nMercado\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n27/11/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n27/11/2026\nBares e restaurantes\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n27/11/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n27/11/2026\nSalário\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n26/11/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n23/11/2026\nSaúde\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n22/11/2026\nLazer e hobbies\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n21/11/2026\nMercado\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n20/11/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n20/11/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n19/11/2026\nTransporte\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n16/11/2026\nMercado\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n15/11/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n15/11/2026\nLazer e hobbies\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n14/11/2026\nBares e restaurantes\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n13/11/2026\nAlimentação\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n12/11/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n12/11/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n11/11/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n10/11/2026\nCasa\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n10/11/2026\nEducação\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n09/11/2026\nMercado\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n09/11/2026\nSaúde\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n08/11/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n06/11/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n06/11/2026\nBares e restaurantes\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n05/11/2026\nSalário\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n04/11/2026\nTransporte\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n02/11/2026\nMercado\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n01/11/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n29/10/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n28/10/2026\nMercado\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n27/10/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n26/10/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n24/10/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n23/10/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n22/10/2026\nSaúde\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n21/10/2026\nMercado\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n20/10/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n19/10/2026\nTransporte\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n17/10/2026\nMercado\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n17/10/2026\nLazer e hobbies\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n16/10/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n15/10/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n14/10/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n13/10/2026\nAlimentação\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n12/10/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n11/10/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n10/10/2026\nCasa\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n10/10/2026\nEducação\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n10/10/2026\nMercado\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n09/10/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n08/10/2026\nSaúde\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n07/10/2026\nBares e restaurantes\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n06/10/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n06/10/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n05/10/2026\nSalário\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n05/10/2026\nTransporte\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n03/10/2026\nMercado\nsugerida\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n02/10/2026\nSem categoria\nPago\nBanco na Europa\nConta corrente\nCorretora no exterior\nReserva\n93\nSELECIONADAS\nR$ 37.613,36\nRECEITAS\nR$ 32.543,30\nDESPESAS\nR$ 5.070,06\nRESULTADO\nCancelar\nImportar 93 linhas",
+   "scrollY": 0
+  },
+  "revisar90": {
+   "modal": null,
+   "titulo": [
+    17,
+    258,
+    298.1,
+    288
+   ],
+   "sub": [
+    17,
+    291,
+    298.1,
+    309
+   ],
+   "foot": [
+    1,
+    1621,
+    389,
+    1700
+   ],
+   "faixa_texto": "i\nExtrato OFX detectado\nConta de destino: Conta corrente. 47 de 90 linhas vieram com categoria sugerida pelo nome do estabelecimento. Confira; 43 ficam como \"Sem categoria\".",
+   "resumo": "90\nSELECIONADAS\nR$ 37.613,36\nRECEITAS\nR$ 28.043,30\nDESPESAS\nR$ 9.570,06\nRESULTADO",
+   "botao": [
+    "Importar 90 linhas"
+   ],
+   "scrollY": 0
+  },
+  "saldo": {
+   "modal": [
+    20,
+    652,
+    370,
+    1048,
+    "O saldo não bate com o banco\nO extrato do Conta corrente termina com R$ 19.063,66 em 31/12/2026. No timtimcash, a conta ficou com R$ 28.633,72 nessa data.\n\nIsso acontece quando o saldo informado ao criar a conta já incluía estas transações. Ajustar o saldo inicial deixa o timtimcash igual ao banco; as transações não mudam.\nManter como está\nAjustar para R$ 19.063,66"
+   ],
+   "scrollY": 0
+  },
+  "visao_depois": {
+   "receitas": [
+    26,
+    652.5,
+    117.3,
+    669
+   ],
+   "comparado": [
+    14,
+    737,
+    376,
+    752.4
+   ],
+   "patr": [
+    31,
+    209,
+    359,
+    228.5
+   ],
+   "fluxo": [
+    29,
+    785.4,
+    361,
+    807.9
+   ],
+   "media": [
+    29,
+    846.9,
+    361,
+    863.4
+   ],
+   "cards": [
+    [
+     "Receitas",
+     14,
+     641.5,
+     129.3,
+     730,
+     "Receitas | R$ 9.960 | queda de | 20,6%"
+    ],
+    [
+     "Despesas",
+     137.3,
+     641.5,
+     252.7,
+     730,
+     "Despesas | R$ 9.018 | queda de | 3,5%"
+    ],
+    [
+     "Resultado",
+     260.7,
+     641.5,
+     376,
+     730,
+     "Resultado | R$ 941 | queda de | 70,5%"
+    ]
+   ],
+   "texto": "Saldo ajustado. Igual ao extrato\nVisão geral\nJaneiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nPatrimônio\nR$\n114.505\n,16\nalta de\n0,8% em relação a dez/26\n4 contas somadas\nOut/26\nJan/27\nMovimento de janeiro 2027\nPARCIAL\nGuardou 9,5% da receita\n90,5%\nReceitas R$ 9.960,00\nDespesas R$ 9.018,50\nResultado do período\nR$ 941,50\nReceitas\nR$ 9.960\nqueda de\n20,6%\nDespesas\nR$ 9.018\nqueda de\n3,5%\nResultado\nR$ 941\nqueda de\n70,5%\nComparado com a média por mês de Jan/26 a Dez/26\nÚltimos 12 meses\nFluxo mensal\nFev/26 a Jan/27\nMédia por mês · Jan/26 a Dez/26\nReceitas\nR$ 12.537,79\nDespesas\nR$ 9.347,77\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nReceita média\nR$ 12.537,79\nJan/26 a Dez/26 · 3 de 12 meses ativos\n↓ 20,6% (este mês vs média)\nDespesa média\nR$ 9.347,77\nJan/26 a Dez/26 · 3 de 12 meses ativos\n↓ 3,5% (este mês vs média)\nSaldo acumulado\nR$ 114.505,16\n+R$ 10.511,56\nFev/26\nJan/27\nReserva financeira\n12,2\nmeses\nR$ 114.505,16 ÷ R$ 9.347,77/mês (despesa média)\nmédia de 3 meses com movimento\nPor categoria\nDespesas do período\nDespesas\nReceitas\nPeríodo global\nDespesas\nR$ 9.018,50\n9 categorias\nTop saídas\nMaiores despesas do período\nEducação\nR$ 2.676,00 30%\nCasa\nR$ 2.300,00 26%\nImpostos e Taxas\nR$ 1.236,00 14%\nMercado\nR$ 1.229,70 14%\nTransporte\nR$ 891,00 10%\nBares e restaurantes\nR$ 410,80 5%\nMinhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 114.505,16\nPOSITIVAS\nR$ 114.505,16\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nReserva\nINVESTIMENTO\nR$ 24.474,60\nConta corrente\nR$ 18.505,16\nBanco na Europa\nINVESTIMENTO\nR$ 11.525,40\nÚltimas transações\nToque em uma para editar\nVer todas →\nqua · 27 de janeiro\nEditar\nExcluir\nNotebook (3/10)\n3/10Compras · Conta corrente\n−R$ 360,00\npendente\nqua · 20 de janeiro\nEditar\nExcluir\nIPVA 2027\nImpostos e Taxas · Con",
+   "scrollY": 0
+  }
+ }
+}

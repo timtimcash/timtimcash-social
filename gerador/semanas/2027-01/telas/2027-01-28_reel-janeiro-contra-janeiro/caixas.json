@@ -1,0 +1,550 @@
+{
+ "celular-comparar-1-periodo-anterior.jpg": {
+  "janela_foco": [
+   29,
+   249,
+   332,
+   112.5,
+   "Janela em foco jan/27 Este mês 3 meses 6 meses No ano 12 meses Escolher meses…"
+  ],
+  "comparar_com": [
+   29,
+   371.5,
+   332,
+   112.5,
+   "Comparar com dez/26 Período anterior Mesmo período em 2026 Escolher datas…"
+  ],
+  "rot_com": [
+   42,
+   383.5,
+   306,
+   16.5,
+   "Comparar com"
+  ],
+  "chip_anterior": [
+   42,
+   437,
+   121.5,
+   33,
+   "Período anterior"
+  ],
+  "chip_mesmo": [
+   168.5,
+   437,
+   170.2,
+   33,
+   "Mesmo período em 2026"
+  ],
+  "aviso": [
+   55,
+   502,
+   304,
+   77,
+   "Janeiro está em curso, então dezembro entra só até o dia 28, para a conta ser justa. Comparar os meses inteiros"
+  ],
+  "meses_inteiros": [
+   55,
+   546,
+   189.1,
+   33,
+   "Comparar os meses inteiros"
+  ],
+  "card_foco": [
+   29,
+   249,
+   332,
+   112.5,
+   "Janela em foco jan/27 Este mês 3 meses 6 meses No ano 12 meses Escolher meses…"
+  ],
+  "diferenca": [
+   29,
+   677.5,
+   332,
+   74.5,
+   "Diferença +R$1.247,50 +13%"
+  ],
+  "causa": [
+   29,
+   834,
+   332,
+   36,
+   "Quase toda a alta veio de Impostos e Taxas, +R$ 1.236. O resto ficou estável (+R$ 11)."
+  ],
+  "rolagem": 0,
+  "viewport": [
+   390,
+   1000
+  ],
+  "texto": "Comparar\nJaneiro 2027\nTodas\nas contas\nDespesas\nReceitas\nTodas as categorias\nJanela em foco\njan/27\nEste mês\n3 meses\n6 meses\nNo ano\n12 meses\nEscolher meses…\nComparar com\ndez/26\nPeríodo anterior\nMesmo período em 2026\nEscolher datas…\nJaneiro está em curso, então dezembro entra só até o dia 28, para a conta ser justa. Comparar os meses inteiros\njan/27\nR$10.821,70\nDiferença\n+R$1.247,50\n+13%\ndez/26\nR$9.574,20\nQuase toda a alta veio de Impostos e Taxas, +R$ 1.236. O resto ficou estável (+R$ 11).\nTotais lado a lado\njan/27 até dia 28 contra dez/26 até dia 28\nConsolidado\nAnalítico\nLeia assim\nO resultado do período piorou em R$ 3.680,86: R$ 2.819,16 em dez/26 até dia 28 contra −R$ 861,70 em jan/27 até dia 28.\nPonte de variação\ndez/26 até dia 28 para jan/27 até dia 28 · o que causou a diferença\nDespesas\nReceitas\ndez/26\nR$ 9.574,20\nImpostos e Taxas\n+R$ 1.236,00\nEducação\n+R$ 1.226,00\nCasa\n+R$ 228,40\nBares e restaurantes\n+R$ 136,40\nRoupas\n−R$ 279,90\nMercado\n−R$ 509,10\nPresentes e doações\n−R$ 972,40\nDemais 5\n+R$ 182,10\njan/27\nR$ 10.821,70\nO eixo começa em R$ 8,6 mil, não em zero. Dois períodos seguidos costumam ser parecidos, e um eixo desde o zero achataria justamente a diferença que este gráfico existe para mostrar. As colunas de total trazem a marca do corte no pé.\nLeia assim\nImpostos e Taxas é a maior força do período: empurrou R$ 1.236,00 para cima. O saldo de todas as forças é +R$ 1.247,50.\nCada categoria, nos dois períodos\nDespesas · maior diferença primeiro\nDespesas\nReceitas\nHalteres\nEspelhado\njan/27, em foco\ndez/26, base\nsubiu\ncaiu\nImpostos e Taxas\nnovo\nEducação\n+85%\nPresentes e doações\nzerou\nMercado\n−22%\nRoupas\nzerou\nCasa\n+10%\nBares e restaurantes\n+31%\nLazer e hobbies\n+123%\nSaúde\n+114%\nTransporte\n−0,6%\nCompras\n0%\nAssinaturas e serviços\n0%\nLeia assim\nImpostos e Taxas é a maior mudança: R$ 0,00 em dez/26 até dia 28 contra R$ 1.236,00 em jan/27 até dia 28. A ordem é pela diferença em reais, não pelo percentual: 200% em cima de uma base pequena mexe menos no bolso.\nQuanto em cada dia\nDespesas de cada dia · jan/27 contra dez/26\nDespesas\nReceitas\nPor período\nAcumulado\nDiferença\njan/27, em foco\ndez/26, base\nacima da base\nabaixo da base\nLeia assim\nCada ponto é o total daquele dia, sem somar com os anteriores. A maior distância está em 20/1: R$ 1.278,00, contra R$ 42,00 em 20/12, +R$ 1.236,00.",
+  "cartoes": {
+   "foco": [
+    29,
+    595,
+    332,
+    74.5
+   ],
+   "foco_t": "jan/27 R$10.821,70",
+   "dif": [
+    29,
+    677.5,
+    332,
+    74.5
+   ],
+   "dif_t": "Diferença +R$1.247,50 +13%",
+   "base": [
+    29,
+    760,
+    332,
+    52
+   ],
+   "base_t": "dez/26 R$9.574,20"
+  }
+ },
+ "celular-comparar-2-mesmo-periodo.jpg": {
+  "janela_foco": [
+   29,
+   249,
+   332,
+   112.5,
+   "Janela em foco jan/27 Este mês 3 meses 6 meses No ano 12 meses Escolher meses…"
+  ],
+  "comparar_com": [
+   29,
+   371.5,
+   332,
+   112.5,
+   "Comparar com jan/26 Período anterior Mesmo período em 2026 Escolher datas…"
+  ],
+  "rot_com": [
+   42,
+   383.5,
+   306,
+   16.5,
+   "Comparar com"
+  ],
+  "chip_anterior": [
+   42,
+   437,
+   120.4,
+   33,
+   "Período anterior"
+  ],
+  "chip_mesmo": [
+   167.4,
+   437,
+   171.4,
+   33,
+   "Mesmo período em 2026"
+  ],
+  "aviso": [
+   55,
+   502,
+   304,
+   77,
+   "Janeiro de 2027 está em curso, então janeiro de 2026 entra só até o dia 28, para a conta ser justa. Comparar os meses inteiros"
+  ],
+  "meses_inteiros": [
+   55,
+   546,
+   189.1,
+   33,
+   "Comparar os meses inteiros"
+  ],
+  "card_foco": [
+   29,
+   249,
+   332,
+   112.5,
+   "Janela em foco jan/27 Este mês 3 meses 6 meses No ano 12 meses Escolher meses…"
+  ],
+  "diferenca": [
+   29,
+   677.5,
+   332,
+   74.5,
+   "Diferença +R$1.401,70 +15%"
+  ],
+  "causa": [
+   29,
+   834,
+   332,
+   36,
+   "Quase toda a alta veio de Educação, +R$ 1.226. O resto subiu R$ 175."
+  ],
+  "rolagem": 0,
+  "viewport": [
+   390,
+   1000
+  ],
+  "texto": "Comparar\nJaneiro 2027\nTodas\nas contas\nDespesas\nReceitas\nTodas as categorias\nJanela em foco\njan/27\nEste mês\n3 meses\n6 meses\nNo ano\n12 meses\nEscolher meses…\nComparar com\njan/26\nPeríodo anterior\nMesmo período em 2026\nEscolher datas…\nJaneiro de 2027 está em curso, então janeiro de 2026 entra só até o dia 28, para a conta ser justa. Comparar os meses inteiros\njan/27\nR$10.821,70\nDiferença\n+R$1.401,70\n+15%\njan/26\nR$9.420\nQuase toda a alta veio de Educação, +R$ 1.226. O resto subiu R$ 175.\nTotais lado a lado\njan/27 até dia 28 contra jan/26 até dia 28\nConsolidado\nAnalítico\nLeia assim\nO resultado do período piorou em R$ 921,70: R$ 60,00 em jan/26 até dia 28 contra −R$ 861,70 em jan/27 até dia 28.\nPonte de variação\njan/26 até dia 28 para jan/27 até dia 28 · o que causou a diferença\nDespesas\nReceitas\njan/26\nR$ 9.420,00\nEducação\n+R$ 1.226,00\nCompras\n+R$ 360,00\nMercado\n+R$ 321,35\nTransporte\n+R$ 123,63\nImpostos e Taxas\n−R$ 154,00\nSaúde\n−R$ 212,12\nLazer e hobbies\n−R$ 268,59\nDemais 3\n+R$ 5,43\njan/27\nR$ 10.821,70\nO eixo começa em R$ 8,7 mil, não em zero. Dois períodos seguidos costumam ser parecidos, e um eixo desde o zero achataria justamente a diferença que este gráfico existe para mostrar. As colunas de total trazem a marca do corte no pé.\nLeia assim\nEducação é a maior força do período: empurrou R$ 1.226,00 para cima. O saldo de todas as forças é +R$ 1.401,70.\nCada categoria, nos dois períodos\nDespesas · maior diferença primeiro\nDespesas\nReceitas\nHalteres\nEspelhado\njan/27, em foco\njan/26, base\nsubiu\ncaiu\nEducação\n+85%\nCompras\nnovo\nMercado\n+22%\nLazer e hobbies\n−57%\nSaúde\n−60%\nImpostos e Taxas\n−11%\nTransporte\n+12%\nCasa\n+0,6%\nBares e restaurantes\n−1%\nAssinaturas e serviços\n0%\nLeia assim\nEducação é a maior mudança: R$ 1.450,00 em jan/26 até dia 28 contra R$ 2.676,00 em jan/27 até dia 28. A ordem é pela diferença em reais, não pelo percentual: 200% em cima de uma base pequena mexe menos no bolso.\nQuanto em cada dia\nDespesas de cada dia · jan/27 contra jan/26\nDespesas\nReceitas\nPor período\nAcumulado\nDiferença\njan/27, em foco\njan/26, base\nacima da base\nabaixo da base\nLeia assim\nCada ponto é o total daquele dia, sem somar com os anteriores. A maior distância está em 12/1: R$ 995,90, contra R$ 265,90 em 12/1, +R$ 730,00.",
+  "cartoes": {
+   "foco": [
+    29,
+    595,
+    332,
+    74.5
+   ],
+   "foco_t": "jan/27 R$10.821,70",
+   "dif": [
+    29,
+    677.5,
+    332,
+    74.5
+   ],
+   "dif_t": "Diferença +R$1.401,70 +15%",
+   "base": [
+    29,
+    760,
+    332,
+    52
+   ],
+   "base_t": "jan/26 R$9.420"
+  },
+  "aviso_txt": [
+   55,
+   503,
+   300.6,
+   76
+  ]
+ },
+ "celular-comparar-3-totais.jpg": {
+  "painel": [
+   14,
+   849,
+   362,
+   458.5,
+   "Totais lado a lado jan/27 até dia 28 contra jan/26 até dia 28 Consolidado Analítico Leia assim O resultado do período piorou em R$ 921,70: R$ 60,00 em jan/26 até dia 28 contra −R$ 861,70 em jan/27 até dia 28."
+  ],
+  "seg": [
+   197,
+   922.5,
+   161,
+   30,
+   "Analítico"
+  ],
+  "leia": [
+   29,
+   1224.5,
+   332,
+   68,
+   "Leia assim O resultado do período piorou em R$ 921,70: R$ 60,00 em jan/26 até dia 28 contra −R$ 861,70 em jan/27 até dia 28."
+  ],
+  "rolagem": 775,
+  "viewport": [
+   390,
+   1000
+  ],
+  "texto": "Comparar\nJaneiro 2027\nTodas\nas contas\nDespesas\nReceitas\nTodas as categorias\nJanela em foco\njan/27\nEste mês\n3 meses\n6 meses\nNo ano\n12 meses\nEscolher meses…\nComparar com\njan/26\nPeríodo anterior\nMesmo período em 2026\nEscolher datas…\nJaneiro de 2027 está em curso, então janeiro de 2026 entra só até o dia 28, para a conta ser justa. Comparar os meses inteiros\njan/27\nR$10.821,70\nDiferença\n+R$1.401,70\n+15%\njan/26\nR$9.420\nQuase toda a alta veio de Educação, +R$ 1.226. O resto subiu R$ 175.\nTotais lado a lado\njan/27 até dia 28 contra jan/26 até dia 28\nConsolidado\nAnalítico\nLeia assim\nO resultado do período piorou em R$ 921,70: R$ 60,00 em jan/26 até dia 28 contra −R$ 861,70 em jan/27 até dia 28.\nPonte de variação\njan/26 até dia 28 para jan/27 até dia 28 · o que causou a diferença\nDespesas\nReceitas\njan/26\nR$ 9.420,00\nEducação\n+R$ 1.226,00\nCompras\n+R$ 360,00\nMercado\n+R$ 321,35\nTransporte\n+R$ 123,63\nImpostos e Taxas\n−R$ 154,00\nSaúde\n−R$ 212,12\nLazer e hobbies\n−R$ 268,59\nDemais 3\n+R$ 5,43\njan/27\nR$ 10.821,70\nO eixo começa em R$ 8,7 mil, não em zero. Dois períodos seguidos costumam ser parecidos, e um eixo desde o zero achataria justamente a diferença que este gráfico existe para mostrar. As colunas de total trazem a marca do corte no pé.\nLeia assim\nEducação é a maior força do período: empurrou R$ 1.226,00 para cima. O saldo de todas as forças é +R$ 1.401,70.\nCada categoria, nos dois períodos\nDespesas · maior diferença primeiro\nDespesas\nReceitas\nHalteres\nEspelhado\njan/27, em foco\njan/26, base\nsubiu\ncaiu\nEducação\n+85%\nCompras\nnovo\nMercado\n+22%\nLazer e hobbies\n−57%\nSaúde\n−60%\nImpostos e Taxas\n−11%\nTransporte\n+12%\nCasa\n+0,6%\nBares e restaurantes\n−1%\nAssinaturas e serviços\n0%\nLeia assim\nEducação é a maior mudança: R$ 1.450,00 em jan/26 até dia 28 contra R$ 2.676,00 em jan/27 até dia 28. A ordem é pela diferença em reais, não pelo percentual: 200% em cima de uma base pequena mexe menos no bolso.\nQuanto em cada dia\nDespesas de cada dia · jan/27 contra jan/26\nDespesas\nReceitas\nPor período\nAcumulado\nDiferença\njan/27, em foco\njan/26, base\nacima da base\nabaixo da base\nLeia assim\nCada ponto é o total daquele dia, sem somar com os anteriores. A maior distância está em 12/1: R$ 995,90, contra R$ 265,90 em 12/1, +R$ 730,00."
+ },
+ "celular-comparar-4-analitico.jpg": {
+  "painel": [
+   14,
+   849,
+   362,
+   855,
+   "Cada conta, nos dois períodos Receitas e despesas por categoria · jan/27 até dia 28 contra jan/26 até dia 28 Consolidado Analítico Categoria jan/27 Variação RECEITAS Salário R$ 9.960,00 +R$ 480,00 Total de receitas R$ 9.960,00 +R$ 480,00 DESPESAS Educação R$ 2.676,00 +R$ 1.226,00 Casa R$ 2.528,40 +R"
+  ],
+  "titulo": [
+   29,
+   864,
+   332,
+   22.5,
+   "Cada conta, nos dois períodos"
+  ],
+  "sub": [
+   29,
+   889.5,
+   332,
+   36,
+   "Receitas e despesas por categoria · jan/27 até dia 28 contra jan/26 até dia 28"
+  ],
+  "seg": [
+   197,
+   940.5,
+   161,
+   30,
+   "Analítico"
+  ],
+  "rolagem": 775,
+  "viewport": [
+   390,
+   1000
+  ],
+  "texto": "Comparar\nJaneiro 2027\nTodas\nas contas\nDespesas\nReceitas\nTodas as categorias\nJanela em foco\njan/27\nEste mês\n3 meses\n6 meses\nNo ano\n12 meses\nEscolher meses…\nComparar com\njan/26\nPeríodo anterior\nMesmo período em 2026\nEscolher datas…\nJaneiro de 2027 está em curso, então janeiro de 2026 entra só até o dia 28, para a conta ser justa. Comparar os meses inteiros\njan/27\nR$10.821,70\nDiferença\n+R$1.401,70\n+15%\njan/26\nR$9.420\nQuase toda a alta veio de Educação, +R$ 1.226. O resto subiu R$ 175.\nCada conta, nos dois períodos\nReceitas e despesas por categoria · jan/27 até dia 28 contra jan/26 até dia 28\nConsolidado\nAnalítico\nCategoria\njan/27\nVariação\nRECEITAS\nSalário\nR$ 9.960,00\n+R$ 480,00\nTotal de receitas\nR$ 9.960,00\n+R$ 480,00\nDESPESAS\nEducação\nR$ 2.676,00\n+R$ 1.226,00\nCasa\nR$ 2.528,40\n+R$ 14,00\nMercado\nR$ 1.781,30\n+R$ 321,35\nImpostos e Taxas\nR$ 1.236,00\n−R$ 154,00\nTransporte\nR$ 1.189,00\n+R$ 123,63\nBares e restaurantes\nR$ 583,30\n−R$ 8,57\nCompras\nR$ 360,00\n+R$ 360,00\nLazer e hobbies\nR$ 204,90\n−R$ 268,59\nSaúde\nR$ 143,00\n−R$ 212,12\nAssinaturas e serviços\nR$ 119,80\nR$ 0,00\nTotal de despesas\nR$ 10.821,70\n+R$ 1.401,70\nResultado do período\n−R$ 861,70\n−R$ 921,70\nLeia assim\nA conta que mais mexeu foi Educação, uma despesa: R$ 1.450,00 contra R$ 2.676,00, +R$ 1.226,00. A coluna de variação usa verde para o que melhora o seu bolso, e não para o que sobe.\nPonte de variação\njan/26 até dia 28 para jan/27 até dia 28 · o que causou a diferença\nDespesas\nReceitas\njan/26\nR$ 9.420,00\nEducação\n+R$ 1.226,00\nCompras\n+R$ 360,00\nMercado\n+R$ 321,35\nTransporte\n+R$ 123,63\nImpostos e Taxas\n−R$ 154,00\nSaúde\n−R$ 212,12\nLazer e hobbies\n−R$ 268,59\nDemais 3\n+R$ 5,43\njan/27\nR$ 10.821,70\nO eixo começa em R$ 8,7 mil, não em zero. Dois períodos seguidos costumam ser parecidos, e um eixo desde o zero achataria justamente a diferença que este gráfico existe para mostrar. As colunas de total trazem a marca do corte no pé.\nLeia assim\nEducação é a maior força do período: empurrou R$ 1.226,00 para cima. O saldo de todas as forças é +R$ 1.401,70.\nCada categoria, nos dois períodos\nDespesas · maior diferença primeiro\nDespesas\nReceitas\nHalteres\nEspelhado\njan/27, em foco\njan/26, base\nsubiu\ncaiu\nEducação\n+85%\nCompras\nnovo\nMercado\n+22%\nLazer e hobbies\n−57%\nSaúde\n−60%\nImpostos e Taxas\n−11%\nTransporte\n+12%\nCasa\n+0,6%\nBares e restaurantes\n−1%\nAssinaturas e serviços\n0%\nLeia assim\nEducação é a maior mudança: R$ 1.450,00 em jan/26 até dia 28 contra R$ 2.676,00 em jan/27 até dia 28. A ordem é pela diferença em reais, não pelo percentual: 200% em cima de uma base pequena mexe menos no bolso.\nQuanto em cada dia\nDespesas de cada dia · jan/27 contra jan/26\nDespesas\nReceitas\nPor período\nAcumulado\nDiferença\njan/27, em foco\njan/26, base\nacima da base\nabaixo da base\nLeia assim\nCada ponto é o total daquele dia, sem somar com os anteriores. A maior distância está em 12/1: R$ 995,90, contra R$ 265,90 em 12/1, +R$ 730,00.",
+  "tabela": {
+   "linhas": [
+    [
+     "Salário R$ 9.960,00 +R$ 480,00",
+     29,
+     1063,
+     332,
+     31
+    ],
+    [
+     "Total de receitas R$ 9.960,00 +R$ 480,00",
+     29,
+     1094,
+     332,
+     36
+    ],
+    [
+     "Educação R$ 2.676,00 +R$ 1.226,00",
+     29,
+     1166,
+     332,
+     31
+    ],
+    [
+     "Casa R$ 2.528,40 +R$ 14,00",
+     29,
+     1197,
+     332,
+     31
+    ],
+    [
+     "Mercado R$ 1.781,30 +R$ 321,35",
+     29,
+     1228,
+     332,
+     31
+    ],
+    [
+     "Impostos e Taxas R$ 1.236,00 −R$ 154,00",
+     29,
+     1259,
+     332,
+     31
+    ],
+    [
+     "Transporte R$ 1.189,00 +R$ 123,63",
+     29,
+     1290,
+     332,
+     31
+    ],
+    [
+     "Bares e restaurantes R$ 583,30 −R$ 8,57",
+     29,
+     1321,
+     332,
+     31
+    ],
+    [
+     "Compras R$ 360,00 +R$ 360,00",
+     29,
+     1352,
+     332,
+     31
+    ],
+    [
+     "Lazer e hobbies R$ 204,90 −R$ 268,59",
+     29,
+     1383,
+     332,
+     31
+    ],
+    [
+     "Saúde R$ 143,00 −R$ 212,12",
+     29,
+     1414,
+     332,
+     31
+    ],
+    [
+     "Assinaturas e serviços R$ 119,80 R$ 0,00",
+     29,
+     1445,
+     332,
+     31
+    ],
+    [
+     "Total de despesas R$ 10.821,70 +R$ 1.401,70",
+     29,
+     1476,
+     332,
+     36
+    ],
+    [
+     "Resultado do período −R$ 861,70 −R$ 921,70",
+     29,
+     1526,
+     332,
+     44
+    ]
+   ],
+   "html": "<div class=\"panel u-mb18\" data-cmp=\"tot\">\n    <div class=\"panel-head\">\n      <div class=\"panel-head-t\"><h2 class=\"panel-title\">Cada conta, nos dois períodos</h2><div class=\"panel-sub\">Receitas e despesas por categoria · jan/27 até dia 28 contra jan/26 até dia 28</div></div>\n      <div class=\"cmp-acts\"><div class=\"panel-tabs cmp-vista\" role=\"tablist\" aria-label=\"Modo do painel\">\n    <button type=\"button\" role=\"tab\" class=\"panel-tab\" aria-selected=\"false\" onclick=\"_cmpSetGranul('consolidado')\">Consolidado</button><button type=\"button\" role=\"tab\" class=\"panel-tab active\" aria-selected=\"true\" onclick=\"_cmpSetGranul('analitico')\">Analítico</button>\n  </div></div>\n    </div>\n    <div class=\"cmp-an\">\n    <div class=\"cmp-an-head\">\n      <div class=\"cmp-an-cat\">Categoria</div>\n      <div class=\"cmp-an-v is-b\">jan/26</div>\n      <div class=\"cmp-an-v\">jan/27</div>\n      <div class=\"cmp-an-d\">Variação</div>\n      <div class=\"cmp-an-p\"></div>\n    </div>\n    <div class=\"cmp-an-sec\">Receitas</div><div class=\"cmp-an-row\" title=\"Salário\">\n      <div class=\"cmp-an-cat\">Salário</div>\n      <div class=\"cmp-an-v is-b privacy-mask\">R$&nbsp;9.480,00</div>\n      <div class=\"cmp-an-v privacy-mask\">R$&nbsp;9.960,00</div>\n      <div class=\"cmp-an-d privacy-mask\" style=\"color:#047857;\">+R$&nbsp;480,00</div>\n      <div class=\"cmp-an-p\" style=\"color:#047857;\">+5%</div>\n    </div><div class=\"cmp-an-row is-tot\">\n        <div class=\"cmp-an-cat\">Total de receitas</div>\n        <div class=\"cmp-an-v is-b privacy-mask\">R$&nbsp;9.480,00</div>\n        <div class=\"cmp-an-v privacy-mask\">R$&nbsp;9.960,00</div>\n        <div class=\"cmp-an-d privacy-mask\" style=\"color:#047857;\">+R$&nbsp;480,00</div><div class=\"cmp-an-p\"></div>\n      </div>\n    <div class=\"cmp-an-sec\">Despesas</div><div class=\"cmp-an-row\" title=\"E"
+  }
+ },
+ "celular-transacoes-0-janeiro.jpg": {
+  "periodo": [
+   62,
+   76,
+   98.4,
+   32,
+   "Janeiro 2027"
+  ],
+  "busca": [
+   68,
+   404.1,
+   276,
+   38,
+   ""
+  ],
+  "rolagem": 0,
+  "viewport": [
+   390,
+   1000
+  ],
+  "texto": "Transações\nJaneiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n112.701\n,96\nem 31/01/2027\nVer detalhes\nTransações\n31 transações · 31 pagas · 0 pendentes · 801 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nqui · 28 de janeiro\nEditar\nExcluir\nConta de luz\nCasa · Conta corrente\n−R$ 228,40\npaga\nEditar\nExcluir\nLivraria\nLazer e hobbies · Conta corrente\n−R$ 112,90\npaga\nqua · 27 de janeiro\nEditar\nExcluir\nCafé\nBares e restaurantes · Conta corrente\n−R$ 88,00\npaga\nEditar\nExcluir\nNotebook (3/10)\n3/10Compras · Conta corrente\n−R$ 360,00\npaga\nter · 26 de janeiro\nEditar\nExcluir\nAplicativo de transporte\nTransporte · Conta corrente\n−R$ 298,00\npaga\nseg · 25 de janeiro\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 354,90\npaga\nsáb · 23 de janeiro\nEditar\nExcluir\nPedido delivery\nBares e restaurantes · Conta corrente\n−R$ 84,50\npaga\nsex · 22 de janeiro\nEditar\nExcluir\nFarmácia\nSaúde · Conta corrente\n−R$ 79,80\npaga\nqui · 21 de janeiro\nEditar\nExcluir\nHortifruti do Bairro\nMercado · Conta corrente\n−R$ 196,70\npaga\nqua · 20 de janeiro\nEditar\nExcluir\nIPVA 2027\nImpostos e Taxas · Conta corrente\n−R$ 1.236,00\npaga\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npaga\nter · 19 de janeiro\nEditar\nExcluir\nCombustível\nTransporte · Conta corrente\n−R$ 405,00\npaga\nseg · 18 de janeiro\nEditar\nExcluir\nUniforme escolar\nEducação · Conta corrente\n−R$ 286,00\npaga\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 389,60\npaga\nsáb · 16 de janeiro\nEditar\nExcluir\nPadaria\nBares e restaurantes · Conta corrente\n−R$ 126,40\npaga\nEditar\nExcluir\nCinema\nLazer e hobbies · Conta corrente\n−R$ 92,00\npaga\nsex · 15 de janeiro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npaga\nqui · 14 de janeiro\nEditar\nExcluir\nEstacionamento\nTransporte · Conta corrente\n−R$ 94,00\npaga\nqua · 13 de janeiro\nter · 12 de janeiro\nseg · 11 de janeiro\ndom · 10 de janeiro\nsáb · 9 de janeiro\nsex · 8 de janeiro\nqua · 6 de janeiro\nter · 5 de janeiro\nseg · 4 de janeiro\nsáb · 2 de janeiro"
+ },
+ "celular-transacoes-1-escolar.jpg": {
+  "periodo": [
+   62,
+   76,
+   98.4,
+   32,
+   "Janeiro 2027"
+  ],
+  "busca": [
+   68,
+   422.1,
+   276,
+   38,
+   "escolar"
+  ],
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   54,
+   "2 transações · 2 pagas · 0 pendentes · somam R$ 1.226,00 · 801 no histórico"
+  ],
+  "somam": [
+   29,
+   355.1,
+   197.3,
+   54,
+   "2 transações · 2 pagas · 0 pendentes · somam R$ 1.226,00 · 801 no histórico"
+  ],
+  "uniforme": [
+   81,
+   760,
+   114.6,
+   16.8,
+   "Uniforme escolar"
+  ],
+  "material": [
+   81,
+   882.5,
+   108.3,
+   16.8,
+   "Material escolar"
+  ],
+  "v_uniforme": null,
+  "v_material": null,
+  "rolagem": 0,
+  "viewport": [
+   390,
+   1000
+  ],
+  "texto": "Transações\nJaneiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n112.701\n,96\nem 31/01/2027\nVer detalhes\nTransações filtrado\n2 transações · 2 pagas · 0 pendentes · somam R$ 1.226,00 · 801 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 2 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nseg · 18 de janeiro\nEditar\nExcluir\nUniforme escolar\nEducação · Conta corrente\n−R$ 286,00\npaga\nter · 12 de janeiro\nEditar\nExcluir\nMaterial escolar\nEducação · Conta corrente\n−R$ 940,00\npaga\n2 transações no filtro",
+  "linhas": [
+   [
+    "Editar Excluir Uniforme escolar Educação · Conta corrente −R$ 286,00 paga",
+    15,
+    739.6,
+    360,
+    73
+   ],
+   [
+    "Uniforme escolar Educação · Conta corrente −R$ 286,00 paga",
+    15,
+    740.6,
+    360,
+    72
+   ],
+   [
+    "Editar Excluir Material escolar Educação · Conta corrente −R$ 940,00 paga",
+    15,
+    862.1,
+    360,
+    73
+   ],
+   [
+    "Material escolar Educação · Conta corrente −R$ 940,00 paga",
+    15,
+    863.1,
+    360,
+    72
+   ]
+  ]
+ },
+ "celular-conferencia-transacoes-ipva.jpg": {
+  "periodo": [
+   62,
+   76,
+   160.5,
+   32,
+   "1 jan 2026 - 28 fev 2027"
+  ],
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   54,
+   "2 transações · 2 pagas · 0 pendentes · somam R$ 2.416,00 · 801 no histórico"
+  ],
+  "rolagem": 0,
+  "viewport": [
+   390,
+   1000
+  ],
+  "texto": "Transações\n1 jan 2026 - 28 fev 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n112.701\n,96\nem 28/02/2027\nVer detalhes\nTransações filtrado\n2 transações · 2 pagas · 0 pendentes · somam R$ 2.416,00 · 801 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 2 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nqua · 20 de janeiro\nEditar\nExcluir\nIPVA 2027\nImpostos e Taxas · Conta corrente\n−R$ 1.236,00\npaga\nter · 20 de janeiro, 2026\nEditar\nExcluir\nIPVA · parcela única\nImpostos e Taxas · Conta corrente\n−R$ 1.180,00\npaga\n2 transações no filtro"
+ },
+ "celular-conferencia-transacoes-iptu.jpg": {
+  "periodo": [
+   62,
+   76,
+   160.5,
+   32,
+   "1 jan 2026 - 28 fev 2027"
+  ],
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   54,
+   "2 transações · 1 paga · 1 pendente · somam R$ 425,00 · 801 no histórico"
+  ],
+  "rolagem": 0,
+  "viewport": [
+   390,
+   1000
+  ],
+  "texto": "Transações\n1 jan 2026 - 28 fev 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n112.701\n,96\nem 28/02/2027\nVer detalhes\nTransações filtrado\n2 transações · 1 paga · 1 pendente · somam R$ 425,00 · 801 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 2 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nqua · 10 de fevereiro\nEditar\nExcluir\nIPTU 2027 · 1ª parcela\nImpostos e Taxas · Conta corrente\n−R$ 215,00\npendente\nseg · 12 de janeiro, 2026\nEditar\nExcluir\nIPTU · 1ª parcela\nImpostos e Taxas · Conta corrente\n−R$ 210,00\npaga\n2 transações no filtro"
+ },
+ "celular-conferencia-transacoes-escolar.jpg": {
+  "periodo": [
+   62,
+   76,
+   160.5,
+   32,
+   "1 jan 2026 - 28 fev 2027"
+  ],
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   54,
+   "2 transações · 2 pagas · 0 pendentes · somam R$ 1.226,00 · 801 no histórico"
+  ],
+  "rolagem": 0,
+  "viewport": [
+   390,
+   1000
+  ],
+  "texto": "Transações\n1 jan 2026 - 28 fev 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n112.701\n,96\nem 28/02/2027\nVer detalhes\nTransações filtrado\n2 transações · 2 pagas · 0 pendentes · somam R$ 1.226,00 · 801 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 2 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nseg · 18 de janeiro\nEditar\nExcluir\nUniforme escolar\nEducação · Conta corrente\n−R$ 286,00\npaga\nter · 12 de janeiro\nEditar\nExcluir\nMaterial escolar\nEducação · Conta corrente\n−R$ 940,00\npaga\n2 transações no filtro"
+ },
+ "relogio": "Thu Jan 28 2027 10:00:36 GMT-0300 (Horário Padrão de Brasília)",
+ "erros": []
+}

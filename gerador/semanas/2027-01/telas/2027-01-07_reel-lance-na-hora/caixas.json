@@ -1,0 +1,612 @@
+{
+ "a-transacoes.jpg": {
+  "fab": [
+   328,
+   696,
+   48,
+   48,
+   ""
+  ],
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   36,
+   "13 transações · 5 pagas · 8 pendentes · 774 no histórico"
+  ],
+  "rolagem": 0,
+  "texto": "Transações\nJaneiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n122.690\n,86\nem 31/01/2027\nVer detalhes\nTransações\n13 transações · 5 pagas · 8 pendentes · 774 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nqua · 27 de janeiro\nEditar\nExcluir\nNotebook (3/10)\n3/10Compras · Conta corrente\n−R$ 360,00\npendente\nqua · 20 de janeiro\nEditar\nExcluir\nIPVA 2027\nImpostos e Taxas · Conta corrente\n−R$ 1.236,00\npendente\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nsex · 15 de janeiro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npendente\nter · 12 de janeiro\nEditar\nExcluir\nMaterial escolar\nEducação · Conta corrente\n−R$ 940,00\npendente\nEditar\nExcluir\nStreaming de vídeo\nFixaAssinaturas e serviços · Conta corrente\n−R$ 55,90\npendente\ndom · 10 de janeiro\nEditar\nExcluir\nEscola\nFixaEducação · Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nAluguel\nFixaCasa · Conta corrente\n−R$ 2.300,00\npendente\nqua · 6 de janeiro\nEditar\nExcluir\nAplicação na reserva\nTransf.Conta corrente → Reserva\nR$ 1.500,00\nter · 5 de janeiro\nEditar\nExcluir\nSalário\nFixaConta corrente\n+R$ 9.960,00\nrecebida\nseg · 4 de janeiro\nEditar\nExcluir\nCombustível\nTransporte · Conta corrente\n−R$ 392,00\npaga\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 402,30\npaga\nsáb · 2 de janeiro\nEditar\nExcluir\nPadaria\nBares e restaurantes · Conta corrente\n−R$ 38,50\npaga"
+ },
+ "b-nova-0.jpg": {
+  "despesa": [
+   26,
+   146,
+   102.3,
+   34,
+   "Despesa"
+  ],
+  "valor": [
+   1,
+   187,
+   388,
+   135,
+   "Valor R$ toque para digitar o valor"
+  ],
+  "valor_in": [
+   165.5,
+   227.5,
+   95,
+   54,
+   ""
+  ],
+  "data": [
+   67,
+   336,
+   175.7,
+   24,
+   "Data"
+  ],
+  "pago": null,
+  "cat": [
+   1,
+   441.5,
+   388,
+   53,
+   "Categoria Alimentação"
+  ],
+  "desc": [
+   1,
+   547.5,
+   388,
+   52,
+   ""
+  ],
+  "desc_in": [
+   67,
+   557.5,
+   300,
+   32,
+   ""
+  ],
+  "ac": null,
+  "lancar": [
+   136.1,
+   700,
+   230.9,
+   44,
+   "Lançar despesa"
+  ],
+  "rec": [
+   23,
+   635,
+   344,
+   40,
+   "Única Fixa Parcelada"
+  ],
+  "sug": null,
+  "folha": [
+   1,
+   687,
+   388,
+   73,
+   "Cancelar Lançar despesa"
+  ],
+  "rolagem": 0,
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\ntoque para digitar o valor\nData\nHoje 07/01\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa",
+  "jafoi": [
+   1,
+   375,
+   388,
+   66.5,
+   "Já foi pago Afeta o saldo real da conta agora"
+  ],
+  "titulo_folha": [
+   1,
+   76,
+   388,
+   57,
+   "Nova transação"
+  ]
+ },
+ "c-valor-1.jpg": {
+  "valor_in": [
+   165.5,
+   227.5,
+   95,
+   54,
+   "0,01"
+  ],
+  "rolagem": 0,
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 07/01\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa"
+ },
+ "c-valor-2.jpg": {
+  "valor_in": [
+   165.5,
+   227.5,
+   95,
+   54,
+   "0,18"
+  ],
+  "rolagem": 0,
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 07/01\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa"
+ },
+ "c-valor-3.jpg": {
+  "valor_in": [
+   165.5,
+   227.5,
+   95,
+   54,
+   "1,85"
+  ],
+  "rolagem": 0,
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 07/01\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa"
+ },
+ "c-valor-4.jpg": {
+  "valor_in": [
+   151.5,
+   227.5,
+   123,
+   54,
+   "18,50"
+  ],
+  "rolagem": 0,
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 07/01\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa"
+ },
+ "d-desc-01.jpg": {
+  "desc_in": [
+   67,
+   453.5,
+   300,
+   32,
+   "H"
+  ],
+  "cat": [
+   1,
+   337.5,
+   388,
+   53,
+   "Categoria Alimentação"
+  ],
+  "ac": [
+   67,
+   489.5,
+   300,
+   197.5,
+   "Hortifruti do Bairro Mercado · 14x Hospedagem no Ano-Novo Viagem · 1x Confraternização do trabalho Bares e restaurantes · 1x Show Lazer e hobbies · 1x Hospedagem nas férias Viagem · 1x"
+  ],
+  "rolagem": 0,
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 07/01\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nHortifruti do Bairro\nMercado · 14x\nHospedagem no Ano-Novo\nViagem · 1x\nConfraternização do trabalho\nBares e restaurantes · 1x\nShow\nLazer e hobbies · 1x\nHospedagem nas férias\nViagem · 1x\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa"
+ },
+ "d-desc-02.jpg": {
+  "desc_in": [
+   67,
+   453.5,
+   300,
+   32,
+   "Ho"
+  ],
+  "cat": [
+   1,
+   337.5,
+   388,
+   53,
+   "Categoria Alimentação"
+  ],
+  "ac": [
+   67,
+   489.5,
+   300,
+   197.5,
+   "Hortifruti do Bairro Mercado · 14x Hospedagem no Ano-Novo Viagem · 1x Confraternização do trabalho Bares e restaurantes · 1x Show Lazer e hobbies · 1x Hospedagem nas férias Viagem · 1x"
+  ],
+  "rolagem": 0,
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 07/01\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nHortifruti do Bairro\nMercado · 14x\nHospedagem no Ano-Novo\nViagem · 1x\nConfraternização do trabalho\nBares e restaurantes · 1x\nShow\nLazer e hobbies · 1x\nHospedagem nas férias\nViagem · 1x\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa"
+ },
+ "d-desc-03.jpg": {
+  "desc_in": [
+   67,
+   557.5,
+   300,
+   32,
+   "Hor"
+  ],
+  "cat": [
+   1,
+   441.5,
+   388,
+   53,
+   "Categoria Alimentação"
+  ],
+  "ac": [
+   67,
+   593.5,
+   300,
+   47.5,
+   "Hortifruti do Bairro Mercado · 14x"
+  ],
+  "rolagem": 0,
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 07/01\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nHortifruti do Bairro\nMercado · 14x\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa"
+ },
+ "d-desc-04.jpg": {
+  "desc_in": [
+   67,
+   557.5,
+   300,
+   32,
+   "Hort"
+  ],
+  "cat": [
+   1,
+   441.5,
+   388,
+   53,
+   "Categoria Alimentação"
+  ],
+  "ac": [
+   67,
+   593.5,
+   300,
+   47.5,
+   "Hortifruti do Bairro Mercado · 14x"
+  ],
+  "rolagem": 0,
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 07/01\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nHortifruti do Bairro\nMercado · 14x\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa"
+ },
+ "d-desc-05.jpg": {
+  "desc_in": [
+   67,
+   557.5,
+   300,
+   32,
+   "Horti"
+  ],
+  "cat": [
+   1,
+   441.5,
+   388,
+   53,
+   "Categoria Alimentação"
+  ],
+  "ac": [
+   67,
+   593.5,
+   300,
+   47.5,
+   "Hortifruti do Bairro Mercado · 14x"
+  ],
+  "rolagem": 0,
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 07/01\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nHortifruti do Bairro\nMercado · 14x\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa"
+ },
+ "d-desc-06.jpg": {
+  "desc_in": [
+   67,
+   557.5,
+   300,
+   32,
+   "Hortif"
+  ],
+  "cat": [
+   1,
+   441.5,
+   388,
+   53,
+   "Categoria Alimentação"
+  ],
+  "ac": [
+   67,
+   593.5,
+   300,
+   47.5,
+   "Hortifruti do Bairro Mercado · 14x"
+  ],
+  "rolagem": 0,
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 07/01\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nHortifruti do Bairro\nMercado · 14x\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa"
+ },
+ "d-desc-07.jpg": {
+  "desc_in": [
+   67,
+   557.5,
+   300,
+   32,
+   "Hortifr"
+  ],
+  "cat": [
+   1,
+   441.5,
+   388,
+   53,
+   "Categoria Alimentação"
+  ],
+  "ac": [
+   67,
+   593.5,
+   300,
+   47.5,
+   "Hortifruti do Bairro Mercado · 14x"
+  ],
+  "rolagem": 0,
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 07/01\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nHortifruti do Bairro\nMercado · 14x\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa"
+ },
+ "d-desc-08.jpg": {
+  "desc_in": [
+   67,
+   557.5,
+   300,
+   32,
+   "Hortifru"
+  ],
+  "cat": [
+   1,
+   441.5,
+   388,
+   53,
+   "Categoria Alimentação"
+  ],
+  "ac": [
+   67,
+   593.5,
+   300,
+   47.5,
+   "Hortifruti do Bairro Mercado · 14x"
+  ],
+  "rolagem": 0,
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 07/01\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nHortifruti do Bairro\nMercado · 14x\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa"
+ },
+ "d-desc-09.jpg": {
+  "desc_in": [
+   67,
+   557.5,
+   300,
+   32,
+   "Hortifrut"
+  ],
+  "cat": [
+   1,
+   441.5,
+   388,
+   53,
+   "Categoria Alimentação"
+  ],
+  "ac": [
+   67,
+   593.5,
+   300,
+   47.5,
+   "Hortifruti do Bairro Mercado · 14x"
+  ],
+  "rolagem": 0,
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 07/01\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nHortifruti do Bairro\nMercado · 14x\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa"
+ },
+ "d-desc-10.jpg": {
+  "desc_in": [
+   67,
+   557.5,
+   300,
+   32,
+   "Hortifruti"
+  ],
+  "cat": [
+   1,
+   441.5,
+   388,
+   53,
+   "Categoria Mercado sugerida"
+  ],
+  "ac": [
+   67,
+   593.5,
+   300,
+   47.5,
+   "Hortifruti do Bairro Mercado · 14x"
+  ],
+  "rolagem": 0,
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 07/01\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nMercado sugerida\nPago via\nConta corrente\nHortifruti do Bairro\nMercado · 14x\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa"
+ },
+ "e-sugerida.jpg": {
+  "despesa": [
+   26,
+   146,
+   102.3,
+   34,
+   "Despesa"
+  ],
+  "valor": [
+   1,
+   187,
+   388,
+   135,
+   "Valor R$"
+  ],
+  "valor_in": [
+   151.5,
+   227.5,
+   123,
+   54,
+   "18,50"
+  ],
+  "data": [
+   67,
+   336,
+   175.7,
+   24,
+   "Data"
+  ],
+  "pago": null,
+  "cat": [
+   1,
+   441.5,
+   388,
+   53,
+   "Categoria Mercado sugerida"
+  ],
+  "desc": [
+   1,
+   547.5,
+   388,
+   52,
+   "Hortifruti do Bairro Mercado · 14x"
+  ],
+  "desc_in": [
+   67,
+   557.5,
+   300,
+   32,
+   "Hortifruti"
+  ],
+  "ac": [
+   67,
+   593.5,
+   300,
+   47.5,
+   "Hortifruti do Bairro Mercado · 14x"
+  ],
+  "lancar": [
+   136.1,
+   700,
+   230.9,
+   44,
+   "Lançar despesa"
+  ],
+  "rec": [
+   23,
+   635,
+   344,
+   40,
+   "Única Fixa Parcelada"
+  ],
+  "sug": [
+   289.5,
+   461.5,
+   53.5,
+   16,
+   "sugerida"
+  ],
+  "folha": [
+   1,
+   687,
+   388,
+   73,
+   "Cancelar Lançar despesa"
+  ],
+  "rolagem": 0,
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 07/01\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nMercado sugerida\nPago via\nConta corrente\nHortifruti do Bairro\nMercado · 14x\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa",
+  "jafoi": [
+   1,
+   375,
+   388,
+   66.5,
+   "Já foi pago Afeta o saldo real da conta agora"
+  ]
+ },
+ "form_estado": {
+  "cat": "Mercado",
+  "valor": "18,50",
+  "desc": "Hortifruti",
+  "sug": true
+ },
+ "f-lancado.jpg": {
+  "toast": [
+   89.9,
+   630.5,
+   210.1,
+   47.5,
+   "Transação adicionada"
+  ],
+  "fab": [
+   328,
+   696,
+   48,
+   48,
+   ""
+  ],
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   36,
+   "14 transações · 6 pagas · 8 pendentes · 775 no histórico"
+  ],
+  "rolagem": 0,
+  "texto": "Transação adicionada\nTransação adicionada\nTransações\nJaneiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n122.672\n,36\nem 31/01/2027\nVer detalhes\nTransações\n14 transações · 6 pagas · 8 pendentes · 775 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nqua · 27 de janeiro\nEditar\nExcluir\nNotebook (3/10)\n3/10Compras · Conta corrente\n−R$ 360,00\npendente\nqua · 20 de janeiro\nEditar\nExcluir\nIPVA 2027\nImpostos e Taxas · Conta corrente\n−R$ 1.236,00\npendente\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nsex · 15 de janeiro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npendente\nter · 12 de janeiro\nEditar\nExcluir\nMaterial escolar\nEducação · Conta corrente\n−R$ 940,00\npendente\nEditar\nExcluir\nStreaming de vídeo\nFixaAssinaturas e serviços · Conta corrente\n−R$ 55,90\npendente\ndom · 10 de janeiro\nEditar\nExcluir\nEscola\nFixaEducação · Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nAluguel\nFixaCasa · Conta corrente\n−R$ 2.300,00\npendente\nqui · 7 de janeiro\nEditar\nExcluir\nHortifruti\nMercado · Conta corrente\n−R$ 18,50\npaga\nqua · 6 de janeiro\nEditar\nExcluir\nAplicação na reserva\nTransf.Conta corrente → Reserva\nR$ 1.500,00\nter · 5 de janeiro\nEditar\nExcluir\nSalário\nFixaConta corrente\n+R$ 9.960,00\nrecebida\nseg · 4 de janeiro\nEditar\nExcluir\nCombustível\nTransporte · Conta corrente\n−R$ 392,00\npaga\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 402,30\npaga\nsáb · 2 de janeiro"
+ },
+ "y_grupo": 1389,
+ "g-transacoes-depois.jpg": {
+  "grupo": [
+   15,
+   1334.6,
+   360,
+   49.5,
+   "qui · 7 de janeiro"
+  ],
+  "linha": [
+   81,
+   1404.5,
+   188.2,
+   16.8,
+   "Hortifruti"
+  ],
+  "resumo": [
+   29,
+   301.1,
+   197.3,
+   36,
+   "14 transações · 6 pagas · 8 pendentes · 775 no histórico"
+  ],
+  "rolagem": 1139,
+  "texto": "Transação adicionada\nTransações\nJaneiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n122.672\n,36\nem 31/01/2027\nVer detalhes\nTransações\n14 transações · 6 pagas · 8 pendentes · 775 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nqua · 27 de janeiro\nEditar\nExcluir\nNotebook (3/10)\n3/10Compras · Conta corrente\n−R$ 360,00\npendente\nqua · 20 de janeiro\nEditar\nExcluir\nIPVA 2027\nImpostos e Taxas · Conta corrente\n−R$ 1.236,00\npendente\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nsex · 15 de janeiro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npendente\nter · 12 de janeiro\nEditar\nExcluir\nMaterial escolar\nEducação · Conta corrente\n−R$ 940,00\npendente\nEditar\nExcluir\nStreaming de vídeo\nFixaAssinaturas e serviços · Conta corrente\n−R$ 55,90\npendente\ndom · 10 de janeiro\nEditar\nExcluir\nEscola\nFixaEducação · Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nAluguel\nFixaCasa · Conta corrente\n−R$ 2.300,00\npendente\nqui · 7 de janeiro\nEditar\nExcluir\nHortifruti\nMercado · Conta corrente\n−R$ 18,50\npaga\nqua · 6 de janeiro\nEditar\nExcluir\nAplicação na reserva\nTransf.Conta corrente → Reserva\nR$ 1.500,00\nter · 5 de janeiro\nEditar\nExcluir\nSalário\nFixaConta corrente\n+R$ 9.960,00\nrecebida\nseg · 4 de janeiro\nEditar\nExcluir\nCombustível\nTransporte · Conta corrente\n−R$ 392,00\npaga\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 402,30\npaga\nsáb · 2 de janeiro\nEditar\nExcluir\nPadaria\nBares e restaurantes · Conta corrente\n−R$ 38,50\npaga",
+  "linha_hortifruti": [
+   15,
+   1385.09375,
+   360,
+   72,
+   "Hortifruti Mercado · Conta corrente −R$ 18,50 paga"
+  ]
+ },
+ "linhas_7": [
+  "Editar Excluir Hortifruti Mercado · Conta corrente −R$ 18,50 paga"
+ ],
+ "h-transacoes-topo-depois.jpg": {
+  "resumo": [
+   29,
+   355.1,
+   197.3,
+   36,
+   "14 transações · 6 pagas · 8 pendentes · 775 no histórico"
+  ],
+  "rolagem": 0,
+  "texto": "Transação adicionada\nTransações\nJaneiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n122.672\n,36\nem 31/01/2027\nVer detalhes\nTransações\n14 transações · 6 pagas · 8 pendentes · 775 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nqua · 27 de janeiro\nEditar\nExcluir\nNotebook (3/10)\n3/10Compras · Conta corrente\n−R$ 360,00\npendente\nqua · 20 de janeiro\nEditar\nExcluir\nIPVA 2027\nImpostos e Taxas · Conta corrente\n−R$ 1.236,00\npendente\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nsex · 15 de janeiro\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npendente\nter · 12 de janeiro\nEditar\nExcluir\nMaterial escolar\nEducação · Conta corrente\n−R$ 940,00\npendente\nEditar\nExcluir\nStreaming de vídeo\nFixaAssinaturas e serviços · Conta corrente\n−R$ 55,90\npendente\ndom · 10 de janeiro\nEditar\nExcluir\nEscola\nFixaEducação · Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nAluguel\nFixaCasa · Conta corrente\n−R$ 2.300,00\npendente\nqui · 7 de janeiro\nEditar\nExcluir\nHortifruti\nMercado · Conta corrente\n−R$ 18,50\npaga\nqua · 6 de janeiro\nEditar\nExcluir\nAplicação na reserva\nTransf.Conta corrente → Reserva\nR$ 1.500,00\nter · 5 de janeiro\nEditar\nExcluir\nSalário\nFixaConta corrente\n+R$ 9.960,00\nrecebida\nseg · 4 de janeiro\nEditar\nExcluir\nCombustível\nTransporte · Conta corrente\n−R$ 392,00\npaga\nEditar\nExcluir\nMercado da Vila\nMercado · Conta corrente\n−R$ 402,30\npaga\nsáb · 2 de janeiro"
+ },
+ "relogio": "Thu Jan 07 2027 10:00:26 GMT-0300 (Horário Padrão de Brasília)",
+ "erros": [],
+ "i-computador-nova.jpg": {
+  "lancar": [
+   586.1,
+   735.8,
+   380.9,
+   44,
+   "Lançar despesa"
+  ],
+  "titulo": [
+   473,
+   122.5,
+   129.3,
+   25.5,
+   "Nova transação"
+  ],
+  "folha": [
+   451,
+   722.8,
+   538,
+   73,
+   "Cancelar Lançar despesa"
+  ],
+  "kbd": null,
+  "rolagem": 0,
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 07/01\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa"
+ },
+ "computador_title": [
+  "Lançar (Cmd+Enter)",
+  "Meta+Enter Control+Enter"
+ ],
+ "erros_computador": []
+}

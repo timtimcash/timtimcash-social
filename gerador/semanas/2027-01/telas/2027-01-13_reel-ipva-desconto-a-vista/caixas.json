@@ -1,0 +1,87 @@
+{
+ "a-pendentes-janeiro.jpg": {
+  "cab": [
+   31,
+   153,
+   328,
+   28,
+   "A pagar"
+  ],
+  "ipva": [
+   75,
+   707.1,
+   89.3,
+   16.8,
+   "IPVA 2027"
+  ],
+  "periodo": [
+   62,
+   76,
+   98.4,
+   32,
+   "Janeiro 2027"
+  ],
+  "em7": [
+   29,
+   606.3,
+   64,
+   18,
+   "EM 7 DIAS"
+  ],
+  "data7": [
+   99,
+   606.3,
+   76.1,
+   18,
+   "· 20/01/2027"
+  ],
+  "valor": [
+   178.3,
+   713.7,
+   90.9,
+   21,
+   "−R$ 1.236,00"
+  ],
+  "apagar": [
+   54.4,
+   187,
+   76.1,
+   28,
+   "1.659"
+  ],
+  "nada": [
+   54,
+   375,
+   83.5,
+   15,
+   "Nada vencido."
+  ],
+  "rolagem": 0,
+  "texto": "Pendentes\nJaneiro 2027\nTodas\nas contas\nA pagar\nR$\n1.659\n,90\n4 transações\nA receber\nR$\n0\nTotal pendente\n4\nNada vencido. Tudo dentro do prazo.\nA vencer\n4 transações ainda no prazo\nEM 2 DIAS\n· 15/01/2027\nEditar\nExcluir\nStreaming de música\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 21,90\npendente\nEM 7 DIAS\n· 20/01/2027\nEditar\nExcluir\nArmazenamento na nuvem\nFIXA·Assinaturas e serviços·Conta corrente\n−R$ 42,00\npendente\nEditar\nExcluir\nIPVA 2027\nImpostos e Taxas·Conta corrente\n−R$ 1.236,00\npendente\n27/01/2027\nEditar\nExcluir\nNotebook (3/10)\n3/10·Compras·Conta corrente\n−R$ 360,00\npendente",
+  "linha_ipva": [
+   15,
+   695.09375,
+   360,
+   58.1875,
+   "IPVA 2027 Impostos e Taxas·Conta corrente −R$ 1.236,00 pendente"
+  ],
+  "grupos": [
+   [
+    29,
+    503.5,
+    64.578125,
+    18,
+    "Em 2 dias"
+   ],
+   [
+    29,
+    606.296875,
+    64.015625,
+    18,
+    "Em 7 dias"
+   ]
+  ]
+ },
+ "relogio": "Wed Jan 13 2027 10:00:08 GMT-0300 (Horário Padrão de Brasília)",
+ "erros": []
+}

@@ -1,0 +1,492 @@
+{
+ "celular-simulacao-1-cenarios.jpg": {
+  "base": [
+   29,
+   188.5,
+   332,
+   124.5,
+   "Cenário base BASE 9 meses · até set/27 · +R$ 1.646 por mês R$ 29 mil +105%"
+  ],
+  "carro": [
+   29,
+   323,
+   332,
+   144.5,
+   "Trocar de carro 9 meses · até set/27 · +R$ 46 por mês −R$ 14,4 mil que a base R$ 14,6 mil +3%"
+  ],
+  "base_txt": [
+   44,
+   212,
+   95.4,
+   22.5,
+   "Cenário base"
+  ],
+  "resumo": [
+   29,
+   124.5,
+   215.1,
+   36,
+   "2 cenários · partindo de R$ 14.180,00 · base: Cenário base"
+  ],
+  "rolagem": 0,
+  "viewport": [
+   390,
+   760
+  ],
+  "texto": "Simulação futura\nSimulação de fluxo futuro\n2 cenários · partindo de R$ 14.180,00 · base: Cenário base\nComparar\nCenário base\nBASE\n9 meses · até set/27 · +R$ 1.646 por mês\nR$ 29 mil\n+105%\nTrocar de carro\n9 meses · até set/27 · +R$ 46 por mês\n−R$ 14,4 mil que a base\nR$ 14,6 mil\n+3%\nNovo cenário"
+ },
+ "celular-simulacao-2-resultado.jpg": {
+  "hero_lbl": [
+   29,
+   1740,
+   332,
+   19.5,
+   "Saldo em set/27"
+  ],
+  "hero_val": [
+   29,
+   1761.5,
+   332,
+   42,
+   "R$29.000"
+  ],
+  "hero_sub": [
+   29,
+   1806.5,
+   332,
+   16.5,
+   "+R$ 1.646 por mês · 9 meses"
+  ],
+  "meta_btn": [
+   29,
+   1832,
+   132.3,
+   24,
+   "Definir uma meta"
+  ],
+  "grafico": [
+   29,
+   1870,
+   332,
+   210,
+   ""
+  ],
+  "es": [
+   29,
+   2092,
+   332,
+   175,
+   "E se… Testa um susto sobre o cenário, sem alterar nada. Receita −10% Despesa +10% Perde a maior renda Inflação 5% a.a. Outro valor"
+  ],
+  "es_tit": [
+   29,
+   2104,
+   35.4,
+   18,
+   "E se…"
+  ],
+  "es_sub": [
+   29,
+   2124,
+   332,
+   15,
+   "Testa um susto sobre o cenário, sem alterar nada."
+  ],
+  "chips": [
+   29,
+   2147,
+   332,
+   120,
+   "Receita −10% Despesa +10% Perde a maior renda Inflação 5% a.a. Outro valor"
+  ],
+  "chip_rec": [
+   29,
+   2147,
+   163,
+   36,
+   "Receita −10%"
+  ],
+  "chip_des": [
+   198,
+   2147,
+   163,
+   36,
+   "Despesa +10%"
+  ],
+  "chip_inf": [
+   198,
+   2189,
+   163,
+   36,
+   "Inflação 5% a.a."
+  ],
+  "caixa_susto": null,
+  "remover": null,
+  "legenda": null,
+  "marcos": [
+   29,
+   2277,
+   332,
+   59.5,
+   "Cruza R$ 15 mil em mar/27 Cruza R$ 20 mil em mai/27 Cruza R$ 25 mil em ago/27"
+  ],
+  "rolagem": 1628,
+  "viewport": [
+   390,
+   1000
+  ],
+  "texto": "hero: Saldo em set/27 | R$29.000 | +R$ 1.646 por mês · 9 meses\nes: E se… Testa um susto sobre o cenário, sem alterar nada. Receita −10% Despesa +10% Perde a maior renda Inflação 5% a.a. Outro valor\nmarcos: Cruza R$ 15 mil em mar/27 Cruza R$ 20 mil em mai/27 Cruza R$ 25 mil em ago/27"
+ },
+ "pressionado_3": [
+  "Receita −10%"
+ ],
+ "celular-simulacao-3-receita.jpg": {
+  "hero_lbl": [
+   29,
+   1740,
+   332,
+   19.5,
+   "Saldo em set/27"
+  ],
+  "hero_val": [
+   29,
+   1761.5,
+   332,
+   42,
+   "R$29.000"
+  ],
+  "hero_sub": [
+   29,
+   1806.5,
+   332,
+   16.5,
+   "+R$ 1.646 por mês · 9 meses"
+  ],
+  "meta_btn": [
+   29,
+   1832,
+   132.3,
+   24,
+   "Definir uma meta"
+  ],
+  "grafico": [
+   29,
+   1870,
+   332,
+   210,
+   ""
+  ],
+  "es": [
+   29,
+   2092,
+   332,
+   267,
+   "E se… Remover susto cenário atual com o susto Toda receita cai 10% pelo horizonte inteiro. Receita −10% Despesa +10% Perde a maior renda Inflação 5% a.a. Outro valor O saldo final cai R$ 8.964 (31%), de R$ 29.000 para R$ 20.036."
+  ],
+  "es_tit": [
+   29,
+   2111,
+   35.4,
+   18,
+   "E se…"
+  ],
+  "es_sub": [
+   29,
+   2158,
+   332,
+   15,
+   "Toda receita cai 10% pelo horizonte inteiro."
+  ],
+  "chips": [
+   29,
+   2181,
+   332,
+   120,
+   "Receita −10% Despesa +10% Perde a maior renda Inflação 5% a.a. Outro valor"
+  ],
+  "chip_rec": [
+   29,
+   2181,
+   163,
+   36,
+   "Receita −10%"
+  ],
+  "chip_des": [
+   198,
+   2181,
+   163,
+   36,
+   "Despesa +10%"
+  ],
+  "chip_inf": [
+   198,
+   2223,
+   163,
+   36,
+   "Inflação 5% a.a."
+  ],
+  "caixa_susto": [
+   29,
+   2310,
+   332,
+   49,
+   "O saldo final cai R$ 8.964 (31%), de R$ 29.000 para R$ 20.036."
+  ],
+  "remover": [
+   260.1,
+   2104,
+   100.9,
+   32,
+   "Remover susto"
+  ],
+  "legenda": [
+   125.5,
+   2141,
+   78,
+   15,
+   "com o susto"
+  ],
+  "marcos": [
+   29,
+   2369,
+   332,
+   59.5,
+   "Cruza R$ 15 mil em mar/27 Cruza R$ 20 mil em mai/27 Cruza R$ 25 mil em ago/27"
+  ],
+  "rolagem": 1628,
+  "viewport": [
+   390,
+   1000
+  ],
+  "texto": "hero: Saldo em set/27 | R$29.000 | +R$ 1.646 por mês · 9 meses\nes: E se… Remover susto cenário atual com o susto Toda receita cai 10% pelo horizonte inteiro. Receita −10% Despesa +10% Perde a maior renda Inflação 5% a.a. Outro valor O saldo final cai R$ 8.964 (31%), de R$ 29.000 para R$ 20.036.\nmarcos: Cruza R$ 15 mil em mar/27 Cruza R$ 20 mil em mai/27 Cruza R$ 25 mil em ago/27"
+ },
+ "pressionado_4": [
+  "Inflação 5% a.a."
+ ],
+ "celular-simulacao-4-inflacao.jpg": {
+  "hero_lbl": [
+   29,
+   1740,
+   332,
+   19.5,
+   "Saldo em set/27"
+  ],
+  "hero_val": [
+   29,
+   1761.5,
+   332,
+   42,
+   "R$29.000"
+  ],
+  "hero_sub": [
+   29,
+   1806.5,
+   332,
+   16.5,
+   "+R$ 1.646 por mês · 9 meses"
+  ],
+  "meta_btn": [
+   29,
+   1832,
+   132.3,
+   24,
+   "Definir uma meta"
+  ],
+  "grafico": [
+   29,
+   1870,
+   332,
+   210,
+   ""
+  ],
+  "es": [
+   29,
+   2092,
+   332,
+   267,
+   "E se… Remover susto cenário atual com o susto As despesas sobem 5% ao ano, compostos mês a mês. Receita −10% Despesa +10% Perde a maior renda Inflação 5% a.a. Outro valor O saldo final cai R$ 1.152 (4%), de R$ 29.000 para R$ 27.847."
+  ],
+  "es_tit": [
+   29,
+   2111,
+   35.4,
+   18,
+   "E se…"
+  ],
+  "es_sub": [
+   29,
+   2158,
+   332,
+   15,
+   "As despesas sobem 5% ao ano, compostos mês a mês."
+  ],
+  "chips": [
+   29,
+   2181,
+   332,
+   120,
+   "Receita −10% Despesa +10% Perde a maior renda Inflação 5% a.a. Outro valor"
+  ],
+  "chip_rec": [
+   29,
+   2181,
+   163,
+   36,
+   "Receita −10%"
+  ],
+  "chip_des": [
+   198,
+   2181,
+   163,
+   36,
+   "Despesa +10%"
+  ],
+  "chip_inf": [
+   198,
+   2223,
+   163,
+   36,
+   "Inflação 5% a.a."
+  ],
+  "caixa_susto": [
+   29,
+   2310,
+   332,
+   49,
+   "O saldo final cai R$ 1.152 (4%), de R$ 29.000 para R$ 27.847."
+  ],
+  "remover": [
+   260.1,
+   2104,
+   100.9,
+   32,
+   "Remover susto"
+  ],
+  "legenda": [
+   125.5,
+   2141,
+   78,
+   15,
+   "com o susto"
+  ],
+  "marcos": [
+   29,
+   2369,
+   332,
+   59.5,
+   "Cruza R$ 15 mil em mar/27 Cruza R$ 20 mil em mai/27 Cruza R$ 25 mil em ago/27"
+  ],
+  "rolagem": 1628,
+  "viewport": [
+   390,
+   1000
+  ],
+  "texto": "hero: Saldo em set/27 | R$29.000 | +R$ 1.646 por mês · 9 meses\nes: E se… Remover susto cenário atual com o susto As despesas sobem 5% ao ano, compostos mês a mês. Receita −10% Despesa +10% Perde a maior renda Inflação 5% a.a. Outro valor O saldo final cai R$ 1.152 (4%), de R$ 29.000 para R$ 27.847.\nmarcos: Cruza R$ 15 mil em mar/27 Cruza R$ 20 mil em mai/27 Cruza R$ 25 mil em ago/27"
+ },
+ "pressionado_5": [],
+ "celular-simulacao-5-sem-susto.jpg": {
+  "hero_lbl": [
+   29,
+   1740,
+   332,
+   19.5,
+   "Saldo em set/27"
+  ],
+  "hero_val": [
+   29,
+   1761.5,
+   332,
+   42,
+   "R$29.000"
+  ],
+  "hero_sub": [
+   29,
+   1806.5,
+   332,
+   16.5,
+   "+R$ 1.646 por mês · 9 meses"
+  ],
+  "meta_btn": [
+   29,
+   1832,
+   132.3,
+   24,
+   "Definir uma meta"
+  ],
+  "grafico": [
+   29,
+   1870,
+   332,
+   210,
+   ""
+  ],
+  "es": [
+   29,
+   2092,
+   332,
+   175,
+   "E se… Testa um susto sobre o cenário, sem alterar nada. Receita −10% Despesa +10% Perde a maior renda Inflação 5% a.a. Outro valor"
+  ],
+  "es_tit": [
+   29,
+   2104,
+   35.4,
+   18,
+   "E se…"
+  ],
+  "es_sub": [
+   29,
+   2124,
+   332,
+   15,
+   "Testa um susto sobre o cenário, sem alterar nada."
+  ],
+  "chips": [
+   29,
+   2147,
+   332,
+   120,
+   "Receita −10% Despesa +10% Perde a maior renda Inflação 5% a.a. Outro valor"
+  ],
+  "chip_rec": [
+   29,
+   2147,
+   163,
+   36,
+   "Receita −10%"
+  ],
+  "chip_des": [
+   198,
+   2147,
+   163,
+   36,
+   "Despesa +10%"
+  ],
+  "chip_inf": [
+   198,
+   2189,
+   163,
+   36,
+   "Inflação 5% a.a."
+  ],
+  "caixa_susto": null,
+  "remover": null,
+  "legenda": null,
+  "marcos": [
+   29,
+   2277,
+   332,
+   59.5,
+   "Cruza R$ 15 mil em mar/27 Cruza R$ 20 mil em mai/27 Cruza R$ 25 mil em ago/27"
+  ],
+  "rolagem": 1628,
+  "viewport": [
+   390,
+   1000
+  ],
+  "texto": "hero: Saldo em set/27 | R$29.000 | +R$ 1.646 por mês · 9 meses\nes: E se… Testa um susto sobre o cenário, sem alterar nada. Receita −10% Despesa +10% Perde a maior renda Inflação 5% a.a. Outro valor\nmarcos: Cruza R$ 15 mil em mar/27 Cruza R$ 20 mil em mai/27 Cruza R$ 25 mil em ago/27"
+ },
+ "linha_do_tempo": "Saldo de partida\nR$ 14.180\njan/271 AJUSTE\n−R$ 2.620\nR$ 9.960 entra\nR$ 12.580 sai\nsaldo em jan/27: R$ 11.560\nfev/27 a ago/277 MESES\n+R$ 2.180/mês\nR$ 9.960 entra\nR$ 7.780 sai\nsaldo em ago/27: R$ 26.820\nset/27\nR$ 29.000\nR$ 9.960 entra\nR$ 7.780 sai\nsaldo projetado no horizonte",
+ "relogio": "Mon Jan 18 2027 10:00:16 GMT-0300 (Horário Padrão de Brasília)",
+ "erros": []
+}

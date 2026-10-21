@@ -1,0 +1,600 @@
+{
+ "relogio": "Mon Jan 04 2027 10:00:29 GMT-0300 (Horário Padrão de Brasília)",
+ "a-visao-geral.jpg": {
+  "menu": [
+   20,
+   19,
+   38,
+   38,
+   ""
+  ],
+  "patrimonio": [
+   31,
+   312,
+   328,
+   18,
+   "4 contas somadas"
+  ],
+  "rolagem": 0,
+  "texto": "Visão geral\nJaneiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nPatrimônio\nR$\n112.730\n,86\nqueda de\n0,7% em relação a dez/26\n4 contas somadas\nFev/26\nJan/27\nMovimento de janeiro 2027\nPARCIAL\nSem receitas no período\n100%\nReceitas R$ 0,00\nDespesas R$ 832,80\nResultado negativo do período\nR$ 832,80\nReceitas\nR$ 0\nqueda de\n100,0%\nDespesas\nR$ 832\nqueda de\n90,2%\nResultado\n−R$ 832\nqueda de\n140,9%\nComparado com a média por mês de Jan/26 a Dez/26\nÚltimos 12 meses\nFluxo mensal\nFev/26 a Jan/27\nMédia por mês · Jan/26 a Dez/26\nReceitas\nR$ 10.524,45\nDespesas\nR$ 8.487,89\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nReceita média\nR$ 10.524,45\nJan/26 a Dez/26 · meses fechados\n↓ 100,0% (este mês vs média)\nDespesa média\nR$ 8.487,89\nJan/26 a Dez/26 · meses fechados\n↓ 90,2% (este mês vs média)\nSaldo acumulado\nR$ 112.730,86\n+R$ 22.115,86\nFev/26\nJan/27\nReserva financeira\n13,3\nmeses\nR$ 112.730,86 ÷ R$ 8.487,89/mês (despesa média)\nmédia de 12 meses com movimento\nPor categoria\nDespesas do período\nDespesas\nReceitas\nPeríodo global\nDespesas\nR$ 832,80\n3 categorias\nTop saídas\nMaiores despesas do período\nMercado\nR$ 402,30 48%\nTransporte\nR$ 392,00 47%\nBares e restaurantes\nR$ 38,50 5%\nMinhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 112.730,86\nPOSITIVAS\nR$ 112.730,86\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nReserva\nINVESTIMENTO\nR$ 22.974,60\nConta corrente\nR$ 18.230,86\nBanco na Europa\nINVESTIMENTO\nR$ 11.525,40\nÚltimas transações\nToque em uma para editar\nVer todas →\nqua · 27 de janeiro\nqua · 20 de janeiro\nsex · 15 de janeiro\nter · 12 de janeiro\ndom · 10 de janeiro"
+ },
+ "b0-menu-aberto.jpg": {
+  "menu_titulo": [
+   26,
+   158,
+   256,
+   40.5,
+   "MENU"
+  ],
+  "rolagem": 0,
+  "texto": "$\n$\ntimtimcash\nBuscar transações, contas, telas…\nMENU\nVisão geral\nTransações\nPendentes\n9\nFluxo\nRelatórios\nComparar\nResultado (DRE)\nOrçamentos\nSimulação futura\nRemessas ao exterior\nImportar\nExportar\nCONFIGURAR\nContas e carteiras\nCartões de crédito\nCategorias\nPreferências\nCONTAS\n4\n+\nBanco na Europa\nR$ 11.525,40\nConta corrente\nR$ 18.230,86\nCorretora no exterior\nR$ 60.000,00\nReserva\nR$ 22.974,60\nTotal geral\nR$ 112.730,86\n4 contas\nMA\nMarina Alves\nmarina@exemplo.com\nVisão geral\nJaneiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nPatrimônio\nR$\n112.730\n,86\nqueda de\n0,7% em relação a dez/26\n4 contas somadas\nFev/26\nJan/27\nMovimento de janeiro 2027\nPARCIAL\nSem receitas no período\n100%\nReceitas R$ 0,00\nDespesas R$ 832,80\nResultado negativo do período\nR$ 832,80\nReceitas\nR$ 0\nqueda de\n100,0%\nDespesas\nR$ 832\nqueda de\n90,2%\nResultado\n−R$ 832\nqueda de\n140,9%\nComparado com a média por mês de Jan/26 a Dez/26\nÚltimos 12 meses\nFluxo mensal\nFev/26 a Jan/27\nMédia por mês · Jan/26 a Dez/26\nReceitas\nR$ 10.524,45\nDespesas\nR$ 8.487,89\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nReceita média\nR$ 10.524,45\nJan/26 a Dez/26 · meses fechados\n↓ 100,0% (este mês vs média)\nDespesa média\nR$ 8.487,89\nJan/26 a Dez/26 · meses fechados\n↓ 90,2% (este mês vs média)\nSaldo acumulado\nR$ 112.730,86\n+R$ 22.115,86\nFev/26\nJan/27\nReserva financeira\n13,3\nmeses\nR$ 112.730,86 ÷ R$ 8.487,89/mês (despesa média)\nmédia de 12 meses com movimento\nPor categoria\nDespesas do período\nDespesas\nReceitas\nPeríodo global\nDespesas\nR$ 832,80\n3 categorias\nTop saídas\nMaiores despesas do período\nMercado\nR$ 402,30 48%\nTransporte\nR$ 392,00 47%\nBares e restaurantes\nR$ 38,50 5%\nMinhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 112.730,86\nPOSITIVAS\nR$ 112.730,86\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nReserva\nINVESTIMENTO\nR$ 22.974,60\nConta corrente\nR$ 18.230,86\nBanco na Europa\nINVESTIMENTO\nR$ 11.525,40\nÚltimas transações\nToque em uma para editar\nVer todas →\nqua · 27 de janeiro\nqua · 20 de janeiro\nsex · 15 de janeiro\nter · 12 de janeiro\ndom · 10 de janeiro"
+ },
+ "b-menu.jpg": {
+  "contas": [
+   26,
+   356,
+   256,
+   48,
+   "Contas e carteiras"
+  ],
+  "configurar": [
+   26,
+   315.5,
+   256,
+   40.5,
+   "CONFIGURAR"
+  ],
+  "rolagem": 0,
+  "texto": "$\n$\ntimtimcash\nBuscar transações, contas, telas…\nMENU\nVisão geral\nTransações\nPendentes\n9\nFluxo\nRelatórios\nComparar\nResultado (DRE)\nOrçamentos\nSimulação futura\nRemessas ao exterior\nImportar\nExportar\nCONFIGURAR\nContas e carteiras\nCartões de crédito\nCategorias\nPreferências\nCONTAS\n4\n+\nBanco na Europa\nR$ 11.525,40\nConta corrente\nR$ 18.230,86\nCorretora no exterior\nR$ 60.000,00\nReserva\nR$ 22.974,60\nTotal geral\nR$ 112.730,86\n4 contas\nMA\nMarina Alves\nmarina@exemplo.com\nVisão geral\nJaneiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nPatrimônio\nR$\n112.730\n,86\nqueda de\n0,7% em relação a dez/26\n4 contas somadas\nFev/26\nJan/27\nMovimento de janeiro 2027\nPARCIAL\nSem receitas no período\n100%\nReceitas R$ 0,00\nDespesas R$ 832,80\nResultado negativo do período\nR$ 832,80\nReceitas\nR$ 0\nqueda de\n100,0%\nDespesas\nR$ 832\nqueda de\n90,2%\nResultado\n−R$ 832\nqueda de\n140,9%\nComparado com a média por mês de Jan/26 a Dez/26\nÚltimos 12 meses\nFluxo mensal\nFev/26 a Jan/27\nMédia por mês · Jan/26 a Dez/26\nReceitas\nR$ 10.524,45\nDespesas\nR$ 8.487,89\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nReceita média\nR$ 10.524,45\nJan/26 a Dez/26 · meses fechados\n↓ 100,0% (este mês vs média)\nDespesa média\nR$ 8.487,89\nJan/26 a Dez/26 · meses fechados\n↓ 90,2% (este mês vs média)\nSaldo acumulado\nR$ 112.730,86\n+R$ 22.115,86\nFev/26\nJan/27\nReserva financeira\n13,3\nmeses\nR$ 112.730,86 ÷ R$ 8.487,89/mês (despesa média)\nmédia de 12 meses com movimento\nPor categoria\nDespesas do período\nDespesas\nReceitas\nPeríodo global\nDespesas\nR$ 832,80\n3 categorias\nTop saídas\nMaiores despesas do período\nMercado\nR$ 402,30 48%\nTransporte\nR$ 392,00 47%\nBares e restaurantes\nR$ 38,50 5%\nMinhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 112.730,86\nPOSITIVAS\nR$ 112.730,86\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nReserva\nINVESTIMENTO\nR$ 22.974,60\nConta corrente\nR$ 18.230,86\nBanco na Europa\nINVESTIMENTO\nR$ 11.525,40\nÚltimas transações\nToque em uma para editar\nVer todas →\nqua · 27 de janeiro\nqua · 20 de janeiro\nsex · 15 de janeiro\nter · 12 de janeiro\ndom · 10 de janeiro"
+ },
+ "c-contas-e-carteiras.jpg": {
+  "total": [
+   17,
+   334,
+   356,
+   46,
+   "PATRIMÔNIO CONSOLIDADO R$ 112.730,86"
+  ],
+  "titulo": [
+   17,
+   256,
+   214.5,
+   30,
+   "Contas e carteiras"
+  ],
+  "nova": [
+   17,
+   694,
+   356,
+   50,
+   "Nova conta"
+  ],
+  "sub": [
+   17,
+   289,
+   214.5,
+   18,
+   "4 contas · todas no total do patrimônio"
+  ],
+  "rolagem": 0,
+  "texto": "Contas e carteiras\n4 contas · todas no total do patrimônio\nPATRIMÔNIO CONSOLIDADO\nR$ 112.730,86\nBanco na Europa\nInvestimento ·\nNo total\nR$ 11.525,40\nConta corrente\nBanco / Digital ·\nNo total\nR$ 18.230,86\nCorretora no exterior\nInvestimento ·\nNo total\nR$ 60.000,00\nReserva\nInvestimento ·\nNo total\nR$ 22.974,60\nNova conta",
+  "linhas": [
+   [
+    17,
+    392,
+    356,
+    69,
+    "Banco na Europa Investimento · No total R$ 11.525,40"
+   ],
+   [
+    17,
+    461,
+    356,
+    69,
+    "Conta corrente Banco / Digital · No total R$ 18.230,86"
+   ],
+   [
+    17,
+    530,
+    356,
+    69,
+    "Corretora no exterior Investimento · No total R$ 60.000,00"
+   ],
+   [
+    17,
+    599,
+    356,
+    68,
+    "Reserva Investimento · No total R$ 22.974,60"
+   ]
+  ]
+ },
+ "d-nova-conta-0.jpg": {
+  "nome": [
+   17,
+   102.3,
+   356,
+   53,
+   "Nome"
+  ],
+  "nome_in": [
+   113.3,
+   112.3,
+   255.7,
+   32,
+   ""
+  ],
+  "tipo": [
+   17,
+   155.3,
+   356,
+   53,
+   "Tipo Banco / Digital"
+  ],
+  "tipo_txt": [
+   256.2,
+   173.3,
+   88.8,
+   16,
+   "Banco / Digital"
+  ],
+  "cartao": [
+   17,
+   208.3,
+   356,
+   53,
+   "É cartão de crédito? fatura e limite ficam em Cartões"
+  ],
+  "saldo": [
+   17,
+   261.3,
+   356,
+   59,
+   "Saldo atual quanto tem na conta hoje"
+  ],
+  "saldo_in": [
+   229,
+   274.3,
+   140,
+   32,
+   "R$ 0,00"
+  ],
+  "incl": [
+   17,
+   320.3,
+   356,
+   58,
+   "Incluir no patrimônio total o saldo soma ao total geral de contas"
+  ],
+  "titulo": [
+   81,
+   43.6,
+   240,
+   25.5,
+   "Nova conta"
+  ],
+  "rotulo": [
+   81,
+   71.1,
+   240,
+   18,
+   "Minha conta"
+  ],
+  "adicionar": [
+   126.5,
+   697,
+   242.5,
+   50,
+   "Adicionar conta"
+  ],
+  "sheet": [
+   0,
+   8,
+   390,
+   752,
+   "Nova conta Minha conta Nome Tipo Banco / Digital Banco / Digital Dinheiro / Carteira Investimento Outro É cartão de crédito? fatura e limite ficam em Cartões Saldo atual quanto tem na conta hoje Inclu"
+  ],
+  "rolagem": 0,
+  "texto": "Nova conta\nMinha conta\nNome\nTipo\nBanco / Digital\nBanco / Digital\nDinheiro / Carteira\nInvestimento\nOutro\nÉ cartão de crédito?\nfatura e limite ficam em Cartões\nSaldo atual\nquanto tem na conta hoje\nIncluir no patrimônio total\no saldo soma ao total geral de contas\nCor\nÍcone\nCancelar\nAdicionar conta"
+ },
+ "d-nova-conta-nome-1.jpg": {
+  "nome_in": [
+   113.3,
+   112.3,
+   255.7,
+   32,
+   "C"
+  ],
+  "rotulo": [
+   81,
+   71.1,
+   240,
+   18,
+   "C"
+  ],
+  "rolagem": 0,
+  "texto": "Nova conta\nC\nNome\nTipo\nBanco / Digital\nBanco / Digital\nDinheiro / Carteira\nInvestimento\nOutro\nÉ cartão de crédito?\nfatura e limite ficam em Cartões\nSaldo atual\nquanto tem na conta hoje\nIncluir no patrimônio total\no saldo soma ao total geral de contas\nCor\nÍcone\nCancelar\nAdicionar conta"
+ },
+ "d-nova-conta-nome-2.jpg": {
+  "nome_in": [
+   113.3,
+   112.3,
+   255.7,
+   32,
+   "Ca"
+  ],
+  "rotulo": [
+   81,
+   71.1,
+   240,
+   18,
+   "Ca"
+  ],
+  "rolagem": 0,
+  "texto": "Nova conta\nCa\nNome\nTipo\nBanco / Digital\nBanco / Digital\nDinheiro / Carteira\nInvestimento\nOutro\nÉ cartão de crédito?\nfatura e limite ficam em Cartões\nSaldo atual\nquanto tem na conta hoje\nIncluir no patrimônio total\no saldo soma ao total geral de contas\nCor\nÍcone\nCancelar\nAdicionar conta"
+ },
+ "d-nova-conta-nome-3.jpg": {
+  "nome_in": [
+   113.3,
+   112.3,
+   255.7,
+   32,
+   "Car"
+  ],
+  "rotulo": [
+   81,
+   71.1,
+   240,
+   18,
+   "Car"
+  ],
+  "rolagem": 0,
+  "texto": "Nova conta\nCar\nNome\nTipo\nBanco / Digital\nBanco / Digital\nDinheiro / Carteira\nInvestimento\nOutro\nÉ cartão de crédito?\nfatura e limite ficam em Cartões\nSaldo atual\nquanto tem na conta hoje\nIncluir no patrimônio total\no saldo soma ao total geral de contas\nCor\nÍcone\nCancelar\nAdicionar conta"
+ },
+ "d-nova-conta-nome-4.jpg": {
+  "nome_in": [
+   113.3,
+   112.3,
+   255.7,
+   32,
+   "Cart"
+  ],
+  "rotulo": [
+   81,
+   71.1,
+   240,
+   18,
+   "Cart"
+  ],
+  "rolagem": 0,
+  "texto": "Nova conta\nCart\nNome\nTipo\nBanco / Digital\nBanco / Digital\nDinheiro / Carteira\nInvestimento\nOutro\nÉ cartão de crédito?\nfatura e limite ficam em Cartões\nSaldo atual\nquanto tem na conta hoje\nIncluir no patrimônio total\no saldo soma ao total geral de contas\nCor\nÍcone\nCancelar\nAdicionar conta"
+ },
+ "d-nova-conta-nome-5.jpg": {
+  "nome_in": [
+   113.3,
+   112.3,
+   255.7,
+   32,
+   "Carte"
+  ],
+  "rotulo": [
+   81,
+   71.1,
+   240,
+   18,
+   "Carte"
+  ],
+  "rolagem": 0,
+  "texto": "Nova conta\nCarte\nNome\nTipo\nBanco / Digital\nBanco / Digital\nDinheiro / Carteira\nInvestimento\nOutro\nÉ cartão de crédito?\nfatura e limite ficam em Cartões\nSaldo atual\nquanto tem na conta hoje\nIncluir no patrimônio total\no saldo soma ao total geral de contas\nCor\nÍcone\nCancelar\nAdicionar conta"
+ },
+ "d-nova-conta-nome-6.jpg": {
+  "nome_in": [
+   113.3,
+   112.3,
+   255.7,
+   32,
+   "Cartei"
+  ],
+  "rotulo": [
+   81,
+   71.1,
+   240,
+   18,
+   "Cartei"
+  ],
+  "rolagem": 0,
+  "texto": "Nova conta\nCartei\nNome\nTipo\nBanco / Digital\nBanco / Digital\nDinheiro / Carteira\nInvestimento\nOutro\nÉ cartão de crédito?\nfatura e limite ficam em Cartões\nSaldo atual\nquanto tem na conta hoje\nIncluir no patrimônio total\no saldo soma ao total geral de contas\nCor\nÍcone\nCancelar\nAdicionar conta"
+ },
+ "d-nova-conta-nome-7.jpg": {
+  "nome_in": [
+   113.3,
+   112.3,
+   255.7,
+   32,
+   "Carteir"
+  ],
+  "rotulo": [
+   81,
+   71.1,
+   240,
+   18,
+   "Carteir"
+  ],
+  "rolagem": 0,
+  "texto": "Nova conta\nCarteir\nNome\nTipo\nBanco / Digital\nBanco / Digital\nDinheiro / Carteira\nInvestimento\nOutro\nÉ cartão de crédito?\nfatura e limite ficam em Cartões\nSaldo atual\nquanto tem na conta hoje\nIncluir no patrimônio total\no saldo soma ao total geral de contas\nCor\nÍcone\nCancelar\nAdicionar conta"
+ },
+ "d-nova-conta-nome-8.jpg": {
+  "nome_in": [
+   113.3,
+   112.3,
+   255.7,
+   32,
+   "Carteira"
+  ],
+  "rotulo": [
+   81,
+   71.1,
+   240,
+   18,
+   "Carteira"
+  ],
+  "rolagem": 0,
+  "texto": "Nova conta\nCarteira\nNome\nTipo\nBanco / Digital\nBanco / Digital\nDinheiro / Carteira\nInvestimento\nOutro\nÉ cartão de crédito?\nfatura e limite ficam em Cartões\nSaldo atual\nquanto tem na conta hoje\nIncluir no patrimônio total\no saldo soma ao total geral de contas\nCor\nÍcone\nCancelar\nAdicionar conta"
+ },
+ "e-tipo.jpg": {
+  "dinheiro": [
+   85,
+   610.5,
+   284,
+   21,
+   "Dinheiro / Carteira"
+  ],
+  "titulo_folha": [
+   23,
+   484.5,
+   300,
+   37.5,
+   "Tipo de conta"
+  ],
+  "rolagem": 0,
+  "texto": "R$ 22.974,60\nConta corrente\nR$ 18.230,86\nBanco na Europa\nINVESTIMENTO\nR$ 11.525,40\nÚltimas transações\nToque em uma para editar\nVer todas →\nqua · 27 de janeiro\nqua · 20 de janeiro\nsex · 15 de janeiro\nter · 12 de janeiro\ndom · 10 de janeiro\nNova conta\nCarteira\nNome\nTipo\nBanco / Digital\nBanco / Digital\nDinheiro / Carteira\nInvestimento\nOutro\nÉ cartão de crédito?\nfatura e limite ficam em Cartões\nSaldo atual\nquanto tem na conta hoje\nIncluir no patrimônio total\no saldo soma ao total geral de contas\nCor\nÍcone\nCancelar\nAdicionar conta\nTipo de conta\nBanco / Digital\nDinheiro / Carteira\nInvestimento\nOutro"
+ },
+ "f-tipo-escolhido.jpg": {
+  "nome": [
+   17,
+   102.3,
+   356,
+   53,
+   "Nome"
+  ],
+  "nome_in": [
+   113.3,
+   112.3,
+   255.7,
+   32,
+   "Carteira"
+  ],
+  "tipo": [
+   17,
+   155.3,
+   356,
+   53,
+   "Tipo Dinheiro / Carteira"
+  ],
+  "tipo_txt": [
+   233.5,
+   173.3,
+   111.5,
+   16,
+   "Dinheiro / Carteira"
+  ],
+  "cartao": [
+   17,
+   208.3,
+   356,
+   53,
+   "É cartão de crédito? fatura e limite ficam em Cartões"
+  ],
+  "saldo": [
+   17,
+   261.3,
+   356,
+   59,
+   "Saldo atual quanto tem na conta hoje"
+  ],
+  "saldo_in": [
+   229,
+   274.3,
+   140,
+   32,
+   "R$ 0,00"
+  ],
+  "incl": [
+   17,
+   320.3,
+   356,
+   58,
+   "Incluir no patrimônio total o saldo soma ao total geral de contas"
+  ],
+  "titulo": [
+   81,
+   43.6,
+   240,
+   25.5,
+   "Nova conta"
+  ],
+  "rotulo": [
+   81,
+   71.1,
+   240,
+   18,
+   "Carteira"
+  ],
+  "adicionar": [
+   126.5,
+   697,
+   242.5,
+   50,
+   "Adicionar conta"
+  ],
+  "sheet": [
+   0,
+   8,
+   390,
+   752,
+   "Nova conta Carteira Nome Tipo Dinheiro / Carteira Banco / Digital Dinheiro / Carteira Investimento Outro É cartão de crédito? fatura e limite ficam em Cartões Saldo atual quanto tem na conta hoje Incl"
+  ],
+  "rolagem": 0,
+  "texto": "Nova conta\nCarteira\nNome\nTipo\nDinheiro / Carteira\nBanco / Digital\nDinheiro / Carteira\nInvestimento\nOutro\nÉ cartão de crédito?\nfatura e limite ficam em Cartões\nSaldo atual\nquanto tem na conta hoje\nIncluir no patrimônio total\no saldo soma ao total geral de contas\nCor\nÍcone\nCancelar\nAdicionar conta"
+ },
+ "g-saldo-1.jpg": {
+  "saldo_in": [
+   229,
+   274.3,
+   140,
+   32,
+   "R$ 0,01"
+  ],
+  "rolagem": 0,
+  "texto": "Nova conta\nCarteira\nNome\nTipo\nDinheiro / Carteira\nBanco / Digital\nDinheiro / Carteira\nInvestimento\nOutro\nÉ cartão de crédito?\nfatura e limite ficam em Cartões\nSaldo atual\nquanto tem na conta hoje\nIncluir no patrimônio total\no saldo soma ao total geral de contas\nCor\nÍcone\nCancelar\nAdicionar conta"
+ },
+ "g-saldo-2.jpg": {
+  "saldo_in": [
+   229,
+   274.3,
+   140,
+   32,
+   "R$ 0,15"
+  ],
+  "rolagem": 0,
+  "texto": "Nova conta\nCarteira\nNome\nTipo\nDinheiro / Carteira\nBanco / Digital\nDinheiro / Carteira\nInvestimento\nOutro\nÉ cartão de crédito?\nfatura e limite ficam em Cartões\nSaldo atual\nquanto tem na conta hoje\nIncluir no patrimônio total\no saldo soma ao total geral de contas\nCor\nÍcone\nCancelar\nAdicionar conta"
+ },
+ "g-saldo-3.jpg": {
+  "saldo_in": [
+   229,
+   274.3,
+   140,
+   32,
+   "R$ 1,50"
+  ],
+  "rolagem": 0,
+  "texto": "Nova conta\nCarteira\nNome\nTipo\nDinheiro / Carteira\nBanco / Digital\nDinheiro / Carteira\nInvestimento\nOutro\nÉ cartão de crédito?\nfatura e limite ficam em Cartões\nSaldo atual\nquanto tem na conta hoje\nIncluir no patrimônio total\no saldo soma ao total geral de contas\nCor\nÍcone\nCancelar\nAdicionar conta"
+ },
+ "g-saldo-4.jpg": {
+  "saldo_in": [
+   229,
+   274.3,
+   140,
+   32,
+   "R$ 15,00"
+  ],
+  "rolagem": 0,
+  "texto": "Nova conta\nCarteira\nNome\nTipo\nDinheiro / Carteira\nBanco / Digital\nDinheiro / Carteira\nInvestimento\nOutro\nÉ cartão de crédito?\nfatura e limite ficam em Cartões\nSaldo atual\nquanto tem na conta hoje\nIncluir no patrimônio total\no saldo soma ao total geral de contas\nCor\nÍcone\nCancelar\nAdicionar conta"
+ },
+ "g-saldo-5.jpg": {
+  "saldo_in": [
+   229,
+   274.3,
+   140,
+   32,
+   "R$ 150,00"
+  ],
+  "rolagem": 0,
+  "texto": "Nova conta\nCarteira\nNome\nTipo\nDinheiro / Carteira\nBanco / Digital\nDinheiro / Carteira\nInvestimento\nOutro\nÉ cartão de crédito?\nfatura e limite ficam em Cartões\nSaldo atual\nquanto tem na conta hoje\nIncluir no patrimônio total\no saldo soma ao total geral de contas\nCor\nÍcone\nCancelar\nAdicionar conta"
+ },
+ "h-pronto.jpg": {
+  "nome": [
+   17,
+   102.3,
+   356,
+   53,
+   "Nome"
+  ],
+  "nome_in": [
+   113.3,
+   112.3,
+   255.7,
+   32,
+   "Carteira"
+  ],
+  "tipo": [
+   17,
+   155.3,
+   356,
+   53,
+   "Tipo Dinheiro / Carteira"
+  ],
+  "tipo_txt": [
+   233.5,
+   173.3,
+   111.5,
+   16,
+   "Dinheiro / Carteira"
+  ],
+  "cartao": [
+   17,
+   208.3,
+   356,
+   53,
+   "É cartão de crédito? fatura e limite ficam em Cartões"
+  ],
+  "saldo": [
+   17,
+   261.3,
+   356,
+   59,
+   "Saldo atual quanto tem na conta hoje"
+  ],
+  "saldo_in": [
+   229,
+   274.3,
+   140,
+   32,
+   "R$ 150,00"
+  ],
+  "incl": [
+   17,
+   320.3,
+   356,
+   58,
+   "Incluir no patrimônio total o saldo soma ao total geral de contas"
+  ],
+  "titulo": [
+   81,
+   43.6,
+   240,
+   25.5,
+   "Nova conta"
+  ],
+  "rotulo": [
+   81,
+   71.1,
+   240,
+   18,
+   "Carteira"
+  ],
+  "adicionar": [
+   126.5,
+   697,
+   242.5,
+   50,
+   "Adicionar conta"
+  ],
+  "sheet": [
+   0,
+   8,
+   390,
+   752,
+   "Nova conta Carteira Nome Tipo Dinheiro / Carteira Banco / Digital Dinheiro / Carteira Investimento Outro É cartão de crédito? fatura e limite ficam em Cartões Saldo atual quanto tem na conta hoje Incl"
+  ],
+  "rolagem": 0,
+  "texto": "Nova conta\nCarteira\nNome\nTipo\nDinheiro / Carteira\nBanco / Digital\nDinheiro / Carteira\nInvestimento\nOutro\nÉ cartão de crédito?\nfatura e limite ficam em Cartões\nSaldo atual\nquanto tem na conta hoje\nIncluir no patrimônio total\no saldo soma ao total geral de contas\nCor\nÍcone\nCancelar\nAdicionar conta"
+ },
+ "incl_ligado": true,
+ "valores": {
+  "nome": "Carteira",
+  "tipo": "dinheiro",
+  "saldo": "R$ 150,00"
+ },
+ "erros": []
+}

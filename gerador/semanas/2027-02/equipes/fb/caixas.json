@@ -1,0 +1,1055 @@
+{
+ "2402_pendentes": {
+  "Pendentes": [
+   64,
+   25,
+   85,
+   26
+  ],
+  "A pagar": [
+   31,
+   159,
+   50,
+   16
+  ],
+  "3 transações": [
+   31,
+   221,
+   75,
+   18
+  ],
+  "A receber": [
+   63,
+   267,
+   64,
+   17
+  ],
+  "Total pendente": [
+   63,
+   313,
+   99,
+   17
+  ],
+  "Nada vencido": [
+   54,
+   375,
+   84,
+   15
+  ],
+  "A vencer": [
+   29,
+   434,
+   160,
+   23
+  ],
+  "Crediário": [
+   75,
+   544,
+   111,
+   17
+  ],
+  "Empréstimo": [
+   75,
+   646,
+   102,
+   17
+  ],
+  "Financiamen": [
+   75,
+   749,
+   102,
+   17
+  ],
+  "painel:A pagar": [
+   14,
+   138,
+   362,
+   207
+  ],
+  "painel:A vencer": [
+   14,
+   415,
+   362,
+   383
+  ],
+  "texto": "Pendentes\nFevereiro 2027\nTodas\nas contas\nA pagar\nR$\n788\n,72\n3 transações\nA receber\nR$\n0\nTotal pendente\n3\nNada vencido. Tudo dentro do prazo.\nA vencer\n3 transações ainda no prazo\nAMANHÃ\n· 25/02/2027\nEditar\nExcluir\nCrediário da loja · 3% ao mês (1/10)\n1/10·Dívidas e empréstimos·Conta corrente\n−R$ 93,78\npendente\nEM 2 DIAS\n· 26/02/2027\nEditar\nExcluir\nEmpréstimo pessoal · 7% ao mês (1/12)\n1/12·Dívidas e empréstimos·Conta corrente\n−R$ 377,71\npendente\nEM 4 DIAS\n· 28/02/2027\nEditar\nExcluir\nFinanciamento do carro · 2% ao mês (1/24)\n1/24·Dívidas e empréstimos·Conta corrente\n−R$ 317,23\npendente"
+ },
+ "2602_ambos": {
+  "Visão geral": [
+   64,
+   25,
+   90,
+   26
+  ],
+  "Fevereiro 2027": [
+   62,
+   76,
+   108,
+   32
+  ],
+  "Realizado": [
+   17,
+   141,
+   117,
+   34
+  ],
+  "Previsto": [
+   136,
+   141,
+   117,
+   34
+  ],
+  "Ambos": [
+   256,
+   141,
+   117,
+   34
+  ],
+  "Patrimônio": [
+   31,
+   209,
+   328,
+   20
+  ],
+  "Movimento de fevereiro 2027": [
+   31,
+   432,
+   328,
+   40
+  ],
+  "Guardou": [
+   31,
+   478,
+   328,
+   18
+  ],
+  "Deve guardar": null,
+  "Receitas R$": null,
+  "Despesas R$": null,
+  "Resultado do período": [
+   31,
+   587,
+   123,
+   18
+  ],
+  "Resultado previsto": null,
+  "Comparado com a média": null,
+  "Com os pendentes": [
+   31,
+   712,
+   191,
+   18
+  ],
+  "Concluído": [
+   29,
+   814,
+   58,
+   18
+  ],
+  "Faltam": [
+   29,
+   911,
+   102,
+   18
+  ],
+  "Deve fechar em": [
+   29,
+   1009,
+   138,
+   17
+  ],
+  "Fluxo mensal": [
+   29,
+   1095,
+   332,
+   23
+  ],
+  "painel:Movimento de fevereiro 2027": [
+   14,
+   192,
+   362,
+   432
+  ],
+  "painel:Com os pendentes": [
+   14,
+   642,
+   362,
+   421
+  ],
+  "sel:seg": [
+   14,
+   138,
+   362,
+   40
+  ],
+  "texto": "Visão geral\nFevereiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nPatrimônio\nR$\n113.520\n,66\nalta de\n1,0% em relação a jan/27\n5 contas somadas\nMar/26\nFev/27\nMovimento de fevereiro 2027\nPARCIAL\nGuardou 11,4% da receita\n88,6%\nReceitas R$ 9.960,00\nDespesas R$ 8.823,10\nResultado do período\nR$ 1.136,90\nPatrimônio\nR$\n113.520\n,66\nCom os pendentes, R$ 113.160,66\n−R$ 360,00 pendentes\nReceitas\nR$\n9.960\nConcluído\n100% já aconteceu\nDespesas\nR$\n8.823\n,10\nFaltam R$ 360,00\n96% já aconteceu\nResultado\nR$\n1.136\n,90\nDeve fechar em R$ 776,90\nÚltimos 12 meses\nFluxo mensal\nMar/26 a Fev/27\nMédia por mês · Fev/26 a Jan/27\nReceitas\nR$ 10.564,45\nDespesas\nR$ 8.631,22\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nReceita média\nR$ 10.564,45\nFev/26 a Jan/27 · meses fechados\n↓ 5,7% (este mês vs média)\nDespesa média\nR$ 8.631,22\nFev/26 a Jan/27 · meses fechados\n↑ 2,2% (este mês vs média)\nSaldo acumulado\nR$ 113.520,66\n+R$ 20.635,66\nMar/26\nFev/27\nReserva financeira\n13,2\nmeses\nR$ 113.520,66 ÷ R$ 8.631,22/mês (despesa média)\nmédia de 12 meses com movimento\nPor categoria\nDespesas do período\nDespesas\nReceitas\nPeríodo global\nDespesas\nR$ 8.823,10\n9 categorias\nTop saídas\nMaiores despesas do período\nCasa\nR$ 2.541,30 29%\nMercado\nR$ 2.099,60 24%\nEducação\nR$ 1.450,00 16%\nTransporte\nR$ 1.212,40 14%\nBares e restaurantes\nR$ 701,20 8%\nLazer e hobbies\nR$ 353,90 4%\nMinhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 113.520,66\nPOSITIVAS\nR$ 113.520,66\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nReserva\nINVESTIMENTO\nR$ 25.974,60\nConta corrente\nR$ 15.975,46\nBanco na Europa\nINVEST"
+ },
+ "2602_pendentes": {
+  "Pendentes": [
+   64,
+   25,
+   85,
+   26
+  ],
+  "A pagar": [
+   31,
+   159,
+   50,
+   16
+  ],
+  "1 transação": [
+   31,
+   221,
+   66,
+   18
+  ],
+  "A receber": [
+   63,
+   267,
+   64,
+   17
+  ],
+  "Total pendente": [
+   63,
+   313,
+   99,
+   17
+  ],
+  "Nada vencido": [
+   54,
+   375,
+   84,
+   15
+  ],
+  "A vencer": [
+   29,
+   434,
+   151,
+   23
+  ],
+  "AMANHÃ": null,
+  "Notebook": [
+   75,
+   544,
+   102,
+   17
+  ],
+  "painel:A pagar": [
+   14,
+   138,
+   362,
+   207
+  ],
+  "painel:A vencer": [
+   14,
+   415,
+   362,
+   177
+  ],
+  "texto": "Pendentes\nFevereiro 2027\nTodas\nas contas\nA pagar\nR$\n360\n1 transação\nA receber\nR$\n0\nTotal pendente\n1\nNada vencido. Tudo dentro do prazo.\nA vencer\n1 transação ainda no prazo\nAMANHÃ\n· 27/02/2027\nEditar\nExcluir\nNotebook (4/10)\n4/10·Compras·Conta corrente\n−R$ 360,00\npendente"
+ },
+ "2602_relatorios": {
+  "Diagnóstico de fevereiro 2027": [
+   29,
+   215,
+   332,
+   23
+  ],
+  "Em andamento": [
+   29,
+   241,
+   332,
+   48
+  ],
+  "Ajustar cálculo": [
+   29,
+   301,
+   145,
+   36
+  ],
+  "Abaixo do seu padrão": [
+   109,
+   363,
+   240,
+   42
+  ],
+  "Você costuma guardar": [
+   109,
+   407,
+   240,
+   54
+  ],
+  "Receita guardada": [
+   75,
+   492,
+   225,
+   20
+  ],
+  "sua média (12m)": [
+   75,
+   512,
+   225,
+   24
+  ],
+  "11,4%": [
+   312,
+   493,
+   49,
+   24
+  ],
+  "sua média 18,3%": [
+   56,
+   562,
+   79,
+   15
+  ],
+  "Despesas do período": [
+   75,
+   590,
+   183,
+   20
+  ],
+  "Reserva": [
+   75,
+   671,
+   187,
+   20
+  ],
+  "O que mudou": [
+   139,
+   148,
+   82,
+   13
+  ],
+  "Maiores desvios": [
+   29,
+   811,
+   300,
+   18
+  ],
+  "Mercado": [
+   70,
+   868,
+   203,
+   21
+  ],
+  "Saúde": [
+   70,
+   929,
+   203,
+   21
+  ],
+  "Viagem": [
+   70,
+   991,
+   203,
+   21
+  ],
+  "Compras": [
+   70,
+   1052,
+   203,
+   21
+  ],
+  "Concentração": [
+   257,
+   148,
+   88,
+   13
+  ],
+  "painel:Diagnóstico de fevereiro 2027": [
+   14,
+   200,
+   362,
+   552
+  ],
+  "painel:Maiores desvios em relação": [
+   14,
+   770,
+   362,
+   347
+  ],
+  "texto": "Relatórios\nFevereiro 2027\nTodas\nas contas\nDiagnóstico\nO que mudou\nConcentração\nReceitas × Despesas\nCascata\nReceitas\nDespesas\nMapa de calor\nVariações\nRecorrentes\nSazonalidade\nSaldo\nDiagnóstico de fevereiro 2027 PARCIAL\nEm andamento · 94% decorrido · Comparado com seus últimos 12 meses\nAjustar cálculo\nTodas as categorias\n11%\nAbaixo do seu padrão · −6,9 pontos percentuais\nVocê costuma guardar 18,3% da receita. O maior desvio veio de Mercado: +R$ 453,50 em relação à média.\nReceita guardada \nsua média (12m): 18,3% · meta: 20%\n11,4%\n−6,9 p.p.\nsua média 18,3%\nDespesas do período\nsua média mensal (12m): R$ 8.631,22\nR$ 8.823,10\n+2,2%\nReserva\nquanto tempo o patrimônio cobre seus gastos\n13,2 meses\nmeta 6m\nO que mudou\nMaiores desvios em relação à sua média de 12 meses\nMercado\nmédia R$ 1.646,10 · agora R$ 2.099,60\n+R$ 453,50\n+28%\nSaúde\nmédia R$ 268,11 · agora R$ 129,90\n−R$ 138,21\n−52%\nViagem\nmédia R$ 127,50 · agora R$ 0,00\n−R$ 127,50\nzerou\nCompras\nmédia R$ 114,92 · agora R$ 0,00\n−R$ 114,92\nzerou\nConcentração\n3 categorias respondem por 69% do que você gastou\nCasa\n28,8%\nR$ 2.541,30\nMercado\n23,8%\nR$ 2.099,60\nEducação\n16,4%\nR$ 1.450,00\nOutras 6 categorias\n31,0%\nR$ 2.732,20\nReceitas vs Despesas\nComparativo mensal · últimos 12 meses\nBarras\nLinha\nÚltimos 12 meses\nCascata do período\nDa receita ao resultado · Fevereiro 2027\nReceitas por categoria\n1 categoria · Total R$ 9.960,00\nSalário\nR$ 9.960,00\n100,0%\nTOTAL\nR$ 9.960,00\nDespesas por categoria\n9 categorias · Total R$ 8.823,10\nDespesas\nR$ 8.823,10\n9 categorias\nCasa\nR$ 2.541,30\n28,8%\nMercado\nR$ 2.099,60\n23,8%\nEducação\nR$ 1.450,00\n16,4%\nTransporte\nR$ 1.212,40\n13,7%\nBares e restaurantes\nR$ 701,20\n7,9%\nLazer e hobbies\nR$ 353,90\n4,0%\nImpostos e Taxas\nR$ 215,00\n2,4%\nSaúde\nR$ 129,90\n1,5%\nAssinaturas e serviços\nR$ 119,80\n1,4%\nTOTAL\nR$ 8.823,10\nMapa de calor\nGasto por categoria · Últimos 6 meses · toque numa célula\nCasa\nMercado\nEducação\nTransporte\nBares e restaurantes\nImpostos e Taxas\nCompras\nOutras\nset/26\nout/26\nnov/26\ndez/26\njan\nfev\naté 26\n2,5 mil\n2,5 mil\n2,5 mil\n2,5 mil\n2,5 mil\n2,5 mil\n1,7 mil\n1,7 mil\n1,8 mil\n2,3 mil\n2,1 mil\n2,1 mil\n1,5 mil\n1,5 mil\n1,5 mil\n1,5 mil\n2,7 mil\n1,5 mil\n1,2 mil\n1,2 mil\n1,2 mil\n1,2 mil\n1,2 mil\n1,2 mil\n672\n681\n929\n447\n583\n701\n–\n–\n–\n–\n1,2 mil\n215\n–\n–\n659\n360\n360\n–\n403\n659\n555\n2,4 mil\n468\n604\nTOTAL\nR$ 15,1 mil\nR$ 11,8 mil\nR$ 9,9 mil\nR$ 7,3 mil\nR$ 4 mil\nR$ 1,5 mil\nR$ 1,4 mil\nR$ 5,1 mil\nEducação · janeiro\n24% das despesas do mês · média R$ 1.654,33/mês\nR$ 2.676,00\naté R$ 583\nR$ 583 a R$ 1,2 mil\nR$ 1,2 mil a R$ 1,5 mil\nR$ 1,5 mil a R$ 2,4 mil\nacima de R$ 2,4 mil\nFevereiro ainda está em curso: a coluna mostra até o dia 26 e fica fora do cálculo das faixas.\nMaiores variações\nDespesas por categoria · Fevereiro 2027 vs 1 jan - 26 jan\nLazer e hobbies\n+285%\nBares e restaurantes\n+42%\nMercado\n+18%\nCasa\n+10%\nEducação\n−46%\nImpostos e Taxas\n−83%\nRecorrentes vs pontuais\nComposição da despesa mensal · últimos 12 meses até fev/27 · toque numa barra\nRecorrente\n93%\nRecorrente/mês\nR$ 8.062,70\nMaior compromisso\nAluguel\nEn"
+ },
+ "2602_orcamentos": {
+  "Gasto total no período": [
+   33,
+   155,
+   138,
+   20
+  ],
+  "Limite definido": [
+   46,
+   374,
+   131,
+   17
+  ],
+  "Usado do limite": [
+   213,
+   374,
+   131,
+   17
+  ],
+  "Sobra do limite": [
+   46,
+   481,
+   298,
+   17
+  ],
+  "R$ 476": null,
+  "Onde definir limite primeiro": [
+   30,
+   602,
+   330,
+   21
+  ],
+  "Progresso por categoria": [
+   29,
+   1040,
+   168,
+   23
+  ],
+  "a marca vertical": [
+   38,
+   1161,
+   323,
+   33
+  ],
+  "JÁ PASSARAM DO LIMITE": null,
+  "Bares e restaurantes": [
+   71,
+   1251,
+   138,
+   21
+  ],
+  "Excedeu em R$ 101": null,
+  "Mercado": [
+   71,
+   1390,
+   59,
+   21
+  ],
+  "Excedeu em R$ 99": null,
+  "NO LIMITE": null,
+  "Lazer e hobbies": [
+   71,
+   1578,
+   105,
+   21
+  ],
+  "TRANQUILAS": null,
+  "Transporte": [
+   71,
+   1744,
+   73,
+   21
+  ],
+  "Saúde": [
+   71,
+   1861,
+   43,
+   21
+  ],
+  "Mostrar as outras": [
+   29,
+   1955,
+   332,
+   54
+  ],
+  "painel:Gasto total no período": [
+   14,
+   138,
+   362,
+   431
+  ],
+  "painel:Progresso por categoria": [
+   14,
+   1025,
+   362,
+   999
+  ],
+  "itens": [
+   [
+    "Bares e restaurantes",
+    29,
+    1239,
+    332,
+    126
+   ],
+   [
+    "Mercado",
+    29,
+    1378,
+    332,
+    126
+   ],
+   [
+    "Lazer e hobbies",
+    29,
+    1566,
+    332,
+    103
+   ],
+   [
+    "Transporte",
+    29,
+    1732,
+    332,
+    103
+   ],
+   [
+    "Saúde",
+    29,
+    1849,
+    332,
+    94
+   ]
+  ],
+  "faixas": [
+   [
+    "Já passaram do limite",
+    29,
+    1206,
+    152,
+    17
+   ],
+   [
+    "No limite",
+    29,
+    1534,
+    62,
+    17
+   ],
+   [
+    "Tranquilas",
+    29,
+    1699,
+    79,
+    17
+   ]
+  ],
+  "texto": "Orçamentos\nFevereiro 2027\nTodas\nas contas\nGasto total no período\nR$8.823,10\nFevereiro 2027\n26 de 28 dias · 93% do período\n83% do limite\n93% do período\nR$ 4.497,00 no orçamento de R$ 5.450,00\nR$ 4.326,10 sem limite · 49% do gasto · 4 categorias\nLimite definido\nR$ 5.450,00\n5 de 9 categorias\nUsado do limite\nR$ 4.497,00\n83% do limite · o período está em 93%\nSobra do limite\nR$ 953,00\nR$ 476 por dia nos 2 dias que faltam\nOnde definir limite primeiro SUGESTÕES\nR$ 4.326,10 do período está em categorias sem limite. Os valores abaixo vêm da sua própria média e servem de ponto de partida.\nCasa\nR$ 2.541\nno período\nsugestão pela média de 12 meses\nUsar\nR$ 2.500\noutro valor\nEducação\nR$ 1.450\nno período\nsugestão pela média de 12 meses\nUsar\nR$ 1.600\noutro valor\nImpostos e Taxas\nR$ 215\nno período\nsugestão pela média de 1 mês\nUsar\nR$ 1.200\noutro valor\nProgresso por categoria\nFevereiro 2027 · 5 categorias\nRisco\nSó com limite\nDefinir limites\na marca vertical é hoje (dia 26 de 28 do período), e a barra à esquerda dela está dentro do ritmo\nJÁ PASSARAM DO LIMITE\n2 categorias\n= hoje\nBares e restaurantes\nR$ 701 de R$ 600\n117%\nExcedeu em R$ 101\ne, no ritmo, fecha em\nR$ 755\n26% ACIMA\nMercado\nR$ 2.099 de R$ 2.000\n105%\nExcedeu em R$ 99\ne, no ritmo, fecha em\nR$ 2.261\n13% ACIMA\nNO LIMITE\n1 categoria\n= hoje\nLazer e hobbies\nR$ 353 de R$ 400\n88%\nno ritmo, fecha em\nR$ 381\nNO LIMITE\nTRANQUILAS\n2 categorias\n= hoje\nTransporte\nR$ 1.212 de R$ 1.950\n62%\nno ritmo, fecha em\nR$ 1.305\n67% DO LIMITE\nSaúde\nR$ 129 de R$ 500\n26%\nno ritmo, fecha em\nR$ 139\n28% DO LIMITE\nMostrar as outras 4 categorias com gasto e sem limite"
+ },
+ "2202_salario": {
+  "Transações": [
+   64,
+   25,
+   94,
+   26
+  ],
+  "2026": null,
+  "Saldo acumulado": [
+   31,
+   205,
+   109,
+   16
+  ],
+  "transações": null,
+  "somam": null,
+  "Buscar": null,
+  "Categorias": [
+   66,
+   503,
+   68,
+   18
+  ],
+  "Todas": [
+   270,
+   86,
+   38,
+   13
+  ],
+  "Agir sobre": [
+   33,
+   620,
+   324,
+   18
+  ],
+  "13º salário · 2ª parcela": [
+   81,
+   778,
+   150,
+   17
+  ],
+  "13º salário · 1ª parcela": [
+   81,
+   1023,
+   147,
+   17
+  ],
+  "Salário": [
+   81,
+   797,
+   170,
+   14
+  ],
+  "painel:Saldo acumulado": [
+   14,
+   190,
+   362,
+   103
+  ],
+  "sel:lista": null,
+  "sel:resumo": null,
+  "texto": "Transações\nAno 2026\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nSaldo acumulado\nR$\n113.563\n,66\nem 31/12/2026\nVer detalhes\nTransações filtrado\n14 transações · 14 pagas · 0 pendentes · somam R$ 125.973,36 · 824 no histórico\nSelecionar\nCategorias\nTodas\nPagas\nPendentes\nTransf.\nData ↓\nExportar\nAgir sobre as 14 filtradas\nRecategorizar todas\nTrocar conta\nLimpar filtro\nsex · 18 de dezembro, 2026\nEditar\nExcluir\n13º salário · 2ª parcela\nSalário · Conta corrente\n+R$ 2.433,36\nrecebida\nsáb · 5 de dezembro, 2026\nEditar\nExcluir\nSalário\nFixaConta corrente\n+R$ 9.960,00\nrecebida\nsex · 27 de novembro, 2026\nEditar\nExcluir\n13º salário · 1ª parcela\nSalário · Conta corrente\n+R$ 4.980,00\nrecebida\nqui · 5 de novembro, 2026\nEditar\nExcluir\nSalário\nFixaConta corrente\n+R$ 9.960,00\nrecebida\nseg · 5 de outubro, 2026\nEditar\nExcluir\nSalário\nFixaConta corrente\n+R$ 9.960,00\nrecebida\nsáb · 5 de setembro, 2026\nEditar\nExcluir\nSalário\nConta corrente\n+R$ 9.960,00\nrecebida\nqua · 5 de agosto, 2026\nEditar\nExcluir\nSalário\nConta corrente\n+R$ 9.960,00\nrecebida\ndom · 5 de julho, 2026\nEditar\nExcluir\nSalário\nConta corrente\n+R$ 9.960,00\nrecebida\nsex · 5 de junho, 2026\nEditar\nExcluir\nSalário\nConta corrente\n+R$ 9.960,00\nrecebida\nter · 5 de maio, 2026\nEditar\nExcluir\nSalário\nConta corrente\n+R$ 9.960,00\nrecebida\ndom · 5 de abril, 2026\nEditar\nExcluir\nSalário\nConta corrente\n+R$ 9.960,00\nrecebida\nqui · 5 de março, 2026\nEditar\nExcluir\nSalário\nConta corrente\n+R$ 9.960,00\nrecebida\nqui · 5 de fevereiro, 2026\nEditar\nExcluir\nSalário\nConta corrente\n+R$ 9.480,00\nrecebida\nseg · 5 de janeiro, 2026\nEditar\nExcluir\nSalário\nConta corrente\n+R$ 9.480,00\nrecebida"
+ },
+ "1702_realizado": {
+  "Visão geral": [
+   64,
+   25,
+   90,
+   26
+  ],
+  "Fevereiro 2027": [
+   62,
+   76,
+   108,
+   32
+  ],
+  "Realizado": [
+   17,
+   141,
+   117,
+   34
+  ],
+  "Previsto": [
+   136,
+   141,
+   117,
+   34
+  ],
+  "Ambos": [
+   256,
+   141,
+   117,
+   34
+  ],
+  "Patrimônio": [
+   31,
+   209,
+   328,
+   20
+  ],
+  "Movimento de fevereiro 2027": [
+   31,
+   432,
+   328,
+   40
+  ],
+  "Guardou": [
+   31,
+   478,
+   328,
+   18
+  ],
+  "Deve guardar": null,
+  "Receitas R$": null,
+  "Despesas R$": null,
+  "Resultado do período": [
+   31,
+   587,
+   123,
+   18
+  ],
+  "Resultado previsto": null,
+  "Comparado com a média": [
+   14,
+   737,
+   362,
+   15
+  ],
+  "Com os pendentes": null,
+  "Concluído": null,
+  "Faltam": null,
+  "Deve fechar em": null,
+  "Fluxo mensal": [
+   29,
+   785,
+   332,
+   23
+  ],
+  "painel:Movimento de fevereiro 2027": [
+   14,
+   192,
+   362,
+   432
+  ],
+  "painel:Com os pendentes": null,
+  "sel:seg": [
+   14,
+   138,
+   362,
+   40
+  ],
+  "texto": "Visão geral\nFevereiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nPatrimônio\nR$\n115.439\n,36\nalta de\n2,7% em relação a jan/27\n5 contas somadas\nMar/26\nFev/27\nMovimento de fevereiro 2027\nPARCIAL\nGuardou 30,7% da receita\n30,7%\n69,3%\nReceitas R$ 9.960,00\nDespesas R$ 6.904,40\nResultado do período\nR$ 3.055,60\nReceitas\nR$ 9.960\nqueda de\n5,7%\nDespesas\nR$ 6.904\nqueda de\n20,0%\nResultado\nR$ 3.055\nalta de\n58,1%\nComparado com a média por mês de Fev/26 a Jan/27\nÚltimos 12 meses\nFluxo mensal\nMar/26 a Fev/27\nMédia por mês · Fev/26 a Jan/27\nReceitas\nR$ 10.564,45\nDespesas\nR$ 8.631,22\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nReceita média\nR$ 10.564,45\nFev/26 a Jan/27 · meses fechados\n↓ 5,7% (este mês vs média)\nDespesa média\nR$ 8.631,22\nFev/26 a Jan/27 · meses fechados\n↓ 20,0% (este mês vs média)\nSaldo acumulado\nR$ 115.439,36\n+R$ 22.554,36\nMar/26\nFev/27\nReserva financeira\n13,4\nmeses\nR$ 115.439,36 ÷ R$ 8.631,22/mês (despesa média)\nmédia de 12 meses com movimento\nPor categoria\nDespesas do período\nDespesas\nReceitas\nPeríodo global\nDespesas\nR$ 6.904,40\n9 categorias\nTop saídas\nMaiores despesas do período\nCasa\nR$ 2.300,00 33%\nEducação\nR$ 1.450,00 21%\nMercado\nR$ 1.418,80 21%\nTransporte\nR$ 550,40 8%\nBares e restaurantes\nR$ 467,20 7%\nLazer e hobbies\nR$ 353,90 5%\nMinhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 115.439,36\nPOSITIVAS\nR$ 115.439,36\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nReserva\nINVESTIMENTO\nR$ 25.974,60\nConta corrente\nR$ 17.894,16\nBanco na Europa\nINVESTIMENTO\nR$ 11.525,40\nCarteira do Carnaval\nDINHEIRO\nR$ 45,20\nÚltimas transações\n"
+ },
+ "1702_previsto": {
+  "Visão geral": [
+   64,
+   25,
+   90,
+   26
+  ],
+  "Fevereiro 2027": [
+   62,
+   76,
+   108,
+   32
+  ],
+  "Realizado": [
+   17,
+   141,
+   117,
+   34
+  ],
+  "Previsto": [
+   136,
+   141,
+   117,
+   34
+  ],
+  "Ambos": [
+   256,
+   141,
+   117,
+   34
+  ],
+  "Patrimônio": [
+   31,
+   209,
+   328,
+   20
+  ],
+  "Movimento de fevereiro 2027": [
+   31,
+   432,
+   328,
+   40
+  ],
+  "Guardou": null,
+  "Deve guardar": [
+   31,
+   478,
+   328,
+   18
+  ],
+  "Receitas R$": null,
+  "Despesas R$": null,
+  "Resultado do período": null,
+  "Resultado previsto": [
+   31,
+   587,
+   107,
+   18
+  ],
+  "Comparado com a média": [
+   14,
+   737,
+   362,
+   15
+  ],
+  "Com os pendentes": null,
+  "Concluído": null,
+  "Faltam": null,
+  "Deve fechar em": null,
+  "Fluxo mensal": [
+   29,
+   785,
+   332,
+   23
+  ],
+  "painel:Movimento de fevereiro 2027": [
+   14,
+   192,
+   362,
+   432
+  ],
+  "painel:Com os pendentes": null,
+  "sel:seg": [
+   14,
+   138,
+   362,
+   40
+  ],
+  "texto": "Visão geral\nFevereiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nPatrimônio\nR$\n115.439\n,36\nalta de\n2,7% em relação a jan/27\n5 contas somadas\nMar/26\nFev/27\nMovimento de fevereiro 2027\nPREVISTO\nPARCIAL\nDeve guardar 26,6% da receita\n26,6%\n73,4%\nReceitas R$ 9.960,00\nDespesas R$ 7.306,40\nResultado previsto\nR$ 2.653,60\nReceitas\nR$ 9.960\nqueda de\n5,7%\nDespesas\nR$ 7.306\nqueda de\n15,3%\nResultado\nR$ 2.653\nalta de\n37,3%\nComparado com a média por mês de Fev/26 a Jan/27\nÚltimos 12 meses\nFluxo mensal\nMar/26 a Fev/27\nMédia por mês · Fev/26 a Jan/27\nReceitas\nR$ 10.564,45\nDespesas\nR$ 8.631,22\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nReceita média\nR$ 10.564,45\nFev/26 a Jan/27 · meses fechados\n↓ 5,7% (este mês vs média)\nDespesa média\nR$ 8.631,22\nFev/26 a Jan/27 · meses fechados\n↓ 20,0% (este mês vs média)\nSaldo acumulado\nR$ 115.439,36\n+R$ 22.554,36\nMar/26\nFev/27\nReserva financeira\n13,4\nmeses\nR$ 115.439,36 ÷ R$ 8.631,22/mês (despesa média)\nmédia de 12 meses com movimento\nPor categoria\nDespesas do período\nDespesas\nReceitas\nPeríodo global\nDespesas\nR$ 7.306,40\n10 categorias\nTop saídas\nMaiores despesas do período\nCasa\nR$ 2.300,00 31%\nEducação\nR$ 1.450,00 20%\nMercado\nR$ 1.418,80 19%\nTransporte\nR$ 550,40 8%\nBares e restaurantes\nR$ 467,20 6%\nCompras\nR$ 360,00 5%\nMinhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 115.439,36\nPOSITIVAS\nR$ 115.439,36\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nReserva\nINVESTIMENTO\nR$ 25.974,60\nConta corrente\nR$ 17.894,16\nBanco na Europa\nINVESTIMENTO\nR$ 11.525,40\nCarteira do Carnaval\nDINHEIRO\nR$ 45,20\nÚltimas transa"
+ },
+ "1702_ambos": {
+  "Visão geral": [
+   64,
+   25,
+   90,
+   26
+  ],
+  "Fevereiro 2027": [
+   62,
+   76,
+   108,
+   32
+  ],
+  "Realizado": [
+   17,
+   141,
+   117,
+   34
+  ],
+  "Previsto": [
+   136,
+   141,
+   117,
+   34
+  ],
+  "Ambos": [
+   256,
+   141,
+   117,
+   34
+  ],
+  "Patrimônio": [
+   31,
+   209,
+   328,
+   20
+  ],
+  "Movimento de fevereiro 2027": [
+   31,
+   432,
+   328,
+   40
+  ],
+  "Guardou": [
+   31,
+   478,
+   328,
+   18
+  ],
+  "Deve guardar": null,
+  "Receitas R$": null,
+  "Despesas R$": null,
+  "Resultado do período": [
+   31,
+   587,
+   123,
+   18
+  ],
+  "Resultado previsto": null,
+  "Comparado com a média": null,
+  "Com os pendentes": [
+   31,
+   712,
+   193,
+   18
+  ],
+  "Concluído": [
+   29,
+   814,
+   58,
+   18
+  ],
+  "Faltam": [
+   29,
+   911,
+   103,
+   18
+  ],
+  "Deve fechar em": [
+   29,
+   1009,
+   151,
+   17
+  ],
+  "Fluxo mensal": [
+   29,
+   1095,
+   332,
+   23
+  ],
+  "painel:Movimento de fevereiro 2027": [
+   14,
+   192,
+   362,
+   432
+  ],
+  "painel:Com os pendentes": [
+   14,
+   642,
+   362,
+   421
+  ],
+  "sel:seg": [
+   14,
+   138,
+   362,
+   40
+  ],
+  "texto": "Visão geral\nFevereiro 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nPatrimônio\nR$\n115.439\n,36\nalta de\n2,7% em relação a jan/27\n5 contas somadas\nMar/26\nFev/27\nMovimento de fevereiro 2027\nPARCIAL\nGuardou 30,7% da receita\n30,7%\n69,3%\nReceitas R$ 9.960,00\nDespesas R$ 6.904,40\nResultado do período\nR$ 3.055,60\nPatrimônio\nR$\n115.439\n,36\nCom os pendentes, R$ 115.037,36\n−R$ 402,00 pendentes\nReceitas\nR$\n9.960\nConcluído\n100% já aconteceu\nDespesas\nR$\n6.904\n,40\nFaltam R$ 402,00\n94% já aconteceu\nResultado\nR$\n3.055\n,60\nDeve fechar em R$ 2.653,60\nÚltimos 12 meses\nFluxo mensal\nMar/26 a Fev/27\nMédia por mês · Fev/26 a Jan/27\nReceitas\nR$ 10.564,45\nDespesas\nR$ 8.631,22\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nReceita média\nR$ 10.564,45\nFev/26 a Jan/27 · meses fechados\n↓ 5,7% (este mês vs média)\nDespesa média\nR$ 8.631,22\nFev/26 a Jan/27 · meses fechados\n↓ 20,0% (este mês vs média)\nSaldo acumulado\nR$ 115.439,36\n+R$ 22.554,36\nMar/26\nFev/27\nReserva financeira\n13,4\nmeses\nR$ 115.439,36 ÷ R$ 8.631,22/mês (despesa média)\nmédia de 12 meses com movimento\nPor categoria\nDespesas do período\nDespesas\nReceitas\nPeríodo global\nDespesas\nR$ 6.904,40\n9 categorias\nTop saídas\nMaiores despesas do período\nCasa\nR$ 2.300,00 33%\nEducação\nR$ 1.450,00 21%\nMercado\nR$ 1.418,80 21%\nTransporte\nR$ 550,40 8%\nBares e restaurantes\nR$ 467,20 7%\nLazer e hobbies\nR$ 353,90 5%\nMinhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 115.439,36\nPOSITIVAS\nR$ 115.439,36\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nReserva\nINVESTIMENTO\nR$ 25.974,60\nConta corrente\nR$ 17.894,16\nBanco na Europa\n"
+ },
+ "1702_marco_previsto": {
+  "texto": "Visão geral\nMarço 2027\nTodas\nas contas\nRealizado\nPrevisto\nAmbos\nPatrimônio\nR$\n115.439\n,36\nalta de\n2,7% em relação a jan/27\n5 contas somadas\nMar/26\nFev/27\nMovimento de março 2027\nPREVISTO\nDeve guardar 55,4% da receita\n55,4%\n44,6%\nReceitas R$ 9.960,00\nDespesas R$ 4.444,80\nResultado previsto\nR$ 5.515,20\nReceitas\nR$ 9.960\nqueda de\n5,7%\nDespesas\nR$ 4.444\nqueda de\n48,5%\nResultado\nR$ 5.515\nalta de\n185,3%\nComparado com a média por mês de Fev/26 a Jan/27\nÚltimos 12 meses\nFluxo mensal\nMar/26 a Fev/27\nMédia por mês · Fev/26 a Jan/27\nReceitas\nR$ 10.564,45\nDespesas\nR$ 8.631,22\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nReceita média\nR$ 10.564,45\nFev/26 a Jan/27 · meses fechados\n↓ 100,0% (março vs média)\nDespesa média\nR$ 8.631,22\nFev/26 a Jan/27 · meses fechados\n↓ 100,0% (março vs média)\nSaldo acumulado\nR$ 115.439,36\n+R$ 22.554,36\nMar/26\nFev/27\nReserva financeira\n13,4\nmeses\nR$ 115.439,36 ÷ R$ 8.631,22/mês (despesa média)\nmédia de 12 meses com movimento\nPor categoria\nDespesas do período\nDespesas\nReceitas\nPeríodo global\nDespesas\nR$ 4.444,80\n5 categorias\nTop saídas\nMaiores despesas do período\nCasa\nR$ 2.300,00 52%\nEducação\nR$ 1.450,00 33%\nCompras\nR$ 360,00 8%\nImpostos e Taxas\nR$ 215,00 5%\nAssinaturas e serviços\nR$ 119,80 3%\nMinhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 115.439,36\nPOSITIVAS\nR$ 115.439,36\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nReserva\nINVESTIMENTO\nR$ 25.974,60\nConta corrente\nR$ 17.894,16\nBanco na Europa\nINVESTIMENTO\nR$ 11.525,40\nCarteira do Carnaval\nDINHEIRO\nR$ 45,20\nÚltimas transações\nToque em uma para editar\nVer todas →\nsáb · 27 de março\nEditar\nExcluir\nNotebook (5/10)\n5/10Compras · Conta corrente\n−R$ 360,00\npendente\nsáb · 20 de março\nEditar\nExcluir\nArmazenamento na nuvem\nFixaAssinaturas e serviços · Conta corrente\n−R$ 42,00\npendente\nseg · 15 de março\nEditar\nExcluir\nStreaming de música\nFixaAssinaturas e serviços · Conta corrente\n−R$ 21,90\npendente\nsex · 12 de março\nEditar\nExcluir\nStreaming de vídeo\nFixaAssinaturas e serviços · Conta corrente\n−R$ 55,90\npendente\nqua · 10 de março\nEditar\nExcluir\nIPTU 2027 · 2ª parcela\nImpostos e Taxas · Conta corrente\n−R$ 215,00\npendente\nEditar\nExcluir\nEscola\nFixaEducação · Conta corrente\n−R$ 1.450,00\npendente\nEditar\nExcluir\nAluguel\nFixaCasa · Conta corrente\n−R$ 2.300,00\npendente\nsex · 5 de março\nEditar\nExcluir\nSalário\nFixaConta corrente\n+R$ 9.960,00\npendente\nInsights\nAnálise automática do período\nMaior receita guardada em 12 meses\nVocê deve guardar 55% da receita em março.\nCasa: 52% das despesas\nConcentra R$ 2.300,00 dos seus gastos, proporção elevada que vale analisar."
+ },
+ "1902_fechamentos": {
+  "Quanto havia no fim de cada ano": [
+   17,
+   122,
+   322,
+   30
+  ],
+  "Com o saldo de 31": [
+   17,
+   155,
+   322,
+   54
+  ],
+  "SALDO EM US$": null,
+  "O botão ao lado": [
+   54,
+   1076,
+   306,
+   90
+  ],
+  "Cancelar": [
+   17,
+   1184,
+   95,
+   50
+  ],
+  "Salvar": [
+   122,
+   1184,
+   251,
+   50
+  ],
+  "sel:modal": [
+   0,
+   100,
+   390,
+   1150
+  ],
+  "linhas": [
+   [
+    "Saldo em US$ no fim de 2023",
+    "4.120,00",
+    210,
+    303,
+    150,
+    48
+   ],
+   [
+    "Câmbio de 31/12/2023",
+    "4,8407",
+    187,
+    359,
+    92,
+    48
+   ],
+   [
+    "Saldo em US$ no fim de 2024",
+    "12.480,00",
+    210,
+    461,
+    150,
+    48
+   ],
+   [
+    "Câmbio de 31/12/2024",
+    "6,1917",
+    187,
+    517,
+    92,
+    48
+   ],
+   [
+    "Saldo em US$ no fim de 2025",
+    "12.960,00",
+    210,
+    619,
+    150,
+    48
+   ],
+   [
+    "Câmbio de 31/12/2025",
+    "5,5018",
+    187,
+    675,
+    92,
+    48
+   ],
+   [
+    "Saldo em US$ no fim de 2026",
+    "13.380,00",
+    210,
+    777,
+    150,
+    48
+   ],
+   [
+    "Câmbio de 31/12/2026",
+    "",
+    187,
+    833,
+    92,
+    48
+   ]
+  ],
+  "texto": "Quanto havia no fim de cada ano\nCom o saldo de 31 de dezembro, o timtimcash separa o rendimento ano a ano. Sem ele, só dá para medir o período inteiro.\nSALDO EM US$ NO ÚLTIMO DIA DO ANO\n202331/12/2023\nR$\nPTAX\n202431/12/2024\nR$\nPTAX\n202531/12/2025\nR$\nPTAX\n202631/12/2026\nR$\nPTAX\n2027hoje, em curso\n13.450,00\nR$\n5,0515\nO botão ao lado de cada câmbio busca o PTAX de compra do fecho daquele ano no Banco Central. O campo é opcional: sem ele o ano aparece só em US$, porque converter pelo câmbio de hoje daria um rendimento em reais que não aconteceu naquele ano.\nCancelar\nSalvar"
+ },
+ "1902_remessas_eur": {
+  "Remetido": [
+   29,
+   2759,
+   161,
+   17
+  ],
+  "Custo total": [
+   200,
+   2759,
+   161,
+   17
+  ],
+  "Câmbio médio efetivo": [
+   29,
+   2846,
+   161,
+   17
+  ],
+  "IOF pago": [
+   200,
+   2846,
+   161,
+   17
+  ],
+  "Remessas": [
+   64,
+   25,
+   82,
+   26
+  ],
+  "Por remessa": null,
+  "01/12/2026": [
+   29,
+   1561,
+   161,
+   21
+  ],
+  "Banco na Europa": [
+   81,
+   3164,
+   96,
+   18
+  ],
+  "Total": [
+   41,
+   3300,
+   31,
+   20
+  ],
+  "A coluna Hoje": null,
+  "painel:Remetido": [
+   14,
+   2744,
+   362,
+   178
+  ],
+  "painel:Por remessa": null,
+  "texto": "Remessas\nFevereiro 2027\nTodas\nas contas\n🇺🇸 USD\n🇪🇺 EUR\nInvestido no exterior\n🇵🇹\nPortugal\nno patrimônio · conta de destino\n€2.018 na carteira hoje\n+€ 18,00\n+0,9% em €\n−R$ 105,13\n−0,9% em R$\nR$ 11.420,27 ao câmbio de hoje (R$ 5,6592)\nAtualizar\n· há 21 dias\nResgate\nNova remessa\nDe onde veio o resultado em reais\nRendimento dos investimentos convertido no câmbio de hoje, e o efeito do câmbio sobre o que você enviou.\n11,5 mil\nvocê enviou\n+102\nrendimento\n−207\nefeito do câmbio\n11,4 mil\nhoje\nOs investimentos renderam +€ 18,00 (+0,9%). O câmbio caiu 1,8% desde o câmbio médio do que ainda está lá fora (R$ 5,7627 → R$ 5,6592) e devolveu R$ 207. Falta −R$ 105,13 (−0,9%).\nCâmbio: onde você está\nO equilíbrio é o câmbio que zera o resultado em reais: abaixo dele, prejuízo.\nR$ 5,6592\nhoje\nR$ 5,7113\nR$ 5,7627\nNo equilíbrio (R$ 5,7113)\nR$ 0\nHoje (R$ 5,6592)\n−R$ 105,13\nNo seu médio (R$ 5,7627)\n+R$ 103,73\nResultado em reais da carteira de hoje em cada cotação. No seu câmbio médio, o resultado em reais igualaria o retorno na moeda.\nA jornada, desde dez/26\nO afastamento entre o degrau e a trajetória é o rendimento.\nenviado acumulado\ntrajetória na taxa medida\nvalor informado\n0\n1 mil\n2 mil\ndez/26\ndez/26\njan/27\n€ 2.018\nenviados: € 2.000\nPrimeira remessa\n01/12/2026\n3 meses atrás\nEnvios\n1\nMaior envio\n2.000,00\n01/12/2026\nMédia por envio\n2.000,00\nO degrau soma as remessas nas datas reais. A linha tracejada não é medição nova: é a mesma TIR (taxa interna de retorno) de Ritmo do retorno, desenhada como trajetória de taxa constante. O timtimcash conhece o valor da carteira só no ponto verde, informado em 29/01/2027.\nRitmo do retorno\nTIR (taxa interna de retorno) das datas reais\nno período\nao ano\nao mês\n0,9%\nna moeda\n+€ 18,00no total\n−0,9%\nem reais\n−R$ 105,13no total\nDe 01/12/2026 a 29/01/2027 (1,9 meses) · capital médio € 2.000,00 (R$ 11.525,40)\nComo o retorno é calculado\nRendimento ano a ano\nTaxa de cada ano, em € e em reais\nEditar fechamentos\n2026\n+8,9%\n+14,00\nfalta o câmbio de 31/12\naportes 2.000,00 · a R$ 5,7627 · fim 2.014,00\n2027\naté hoje\n+2,6%\n+4,00\nfalta o câmbio do ano anterior\nhoje 2.018,00\nDesde 2026\n+5,7%\n+18,00\n−5,5%\n−R$ 105,13\nas taxas ao ano que o painel de rendimento já mostra\na barra de cima é a taxa em €\na de baixo, a mesma em R$\nrégua até +9%\nEm € é o rendimento do investimento. Em R$ é o mesmo rendimento mais a variação do câmbio no ano. Cada ano usa as datas reais dos envios: aporte de novembro pesa dois meses, não doze.\nRemetido\n€ 2.000,00\n1 remessa · desde dez/26\nCusto total\nR$ 11.525,40\ntudo que saiu do Brasil, com IOF\nCâmbio médio efetivo\nR$ 5,7627\ncom IOF · sem IOF R$ 5,7000\nIOF pago\nR$ 125,40\n1,10% do valor enviado\nRemessas\n1 envio · o câmbio efetivo já inclui o IOF · planilha modelo\nExcluir as de EUR\nA coluna Hoje em R$ converte a mesma quantia em EUR pela cotação de R$ 5,6592 que você informou. O percentual compara com o que a remessa custou: ele mede a variação do câmbio, não o rendimento do investimento.\n01/12/2026\nReserva\n🇵🇹\nBanco na Europa\n€ 2.000,00\nR$ 5,7627\nR$ 11.525,40\nR$ 11.318,40\n−1,8%\n2,6 meses\nTotal\n1 remessa\n€ 2.000,00\nR$ 11.525,40\nR$ 11.318,40\n−1,8%"
+ }
+}

@@ -1,0 +1,1323 @@
+{
+ "1102_exame": {
+  "Ano 2026": {
+   "x": 62,
+   "y": 76,
+   "w": 90,
+   "h": 32,
+   "tag": "DIV"
+  },
+  "Transações": {
+   "x": -274,
+   "y": 248.5,
+   "w": 256,
+   "h": 48,
+   "tag": "BUTTON"
+  },
+  "Agir sobre": {
+   "x": 33,
+   "y": 602.09375,
+   "w": 324,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "Exame de rotina": {
+   "x": 81,
+   "y": 760,
+   "w": 107.421875,
+   "h": 16.796875,
+   "tag": "SPAN"
+  },
+  "Farmácia": null,
+  "qui · 24 de setembro": {
+   "x": 15,
+   "y": 706.09375,
+   "w": 360,
+   "h": 33.5,
+   "tag": "DIV"
+  },
+  "sex · 11 de dezembro": null,
+  "_rolagem": 0,
+  "busca": [
+   68,
+   422,
+   276,
+   38
+  ],
+  "filtros": [
+   32,
+   540,
+   79,
+   36
+  ],
+  "_resumo": "1 transação · 1 paga · 0 pendentes · somam R$ 150,00"
+ },
+ "1102_farmacia": {
+  "Ano 2026": {
+   "x": 62,
+   "y": 76,
+   "w": 90,
+   "h": 32,
+   "tag": "DIV"
+  },
+  "Transações": {
+   "x": -274,
+   "y": 248.5,
+   "w": 256,
+   "h": 48,
+   "tag": "BUTTON"
+  },
+  "Agir sobre": {
+   "x": 33,
+   "y": 602.09375,
+   "w": 324,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "Exame de rotina": null,
+  "Farmácia": {
+   "x": 81,
+   "y": 760,
+   "w": 63,
+   "h": 16.796875,
+   "tag": "SPAN"
+  },
+  "qui · 24 de setembro": null,
+  "sex · 11 de dezembro": {
+   "x": 15,
+   "y": 706.09375,
+   "w": 360,
+   "h": 33.5,
+   "tag": "DIV"
+  },
+  "_rolagem": 0,
+  "busca": [
+   68,
+   422,
+   276,
+   38
+  ],
+  "filtros": [
+   32,
+   540,
+   79,
+   36
+  ],
+  "_resumo": "23 transações · 23 pagas · 0 pendentes · somam R$ 3.279,44"
+ },
+ "1102_educacao": {
+  "Ano 2026": {
+   "x": 62,
+   "y": 76,
+   "w": 90,
+   "h": 32,
+   "tag": "DIV"
+  },
+  "Transações": {
+   "x": -274,
+   "y": 248.5,
+   "w": 256,
+   "h": 48,
+   "tag": "BUTTON"
+  },
+  "Agir sobre": {
+   "x": 33,
+   "y": 620.09375,
+   "w": 324,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "Escola": {
+   "x": 81,
+   "y": 777.1875,
+   "w": 44.421875,
+   "h": 16.796875,
+   "tag": "SPAN"
+  },
+  "_rolagem": 0,
+  "_resumo": "12 transações · 12 pagas · 0 pendentes · somam R$ 17.400,00",
+  "_texto": "Transações | Ano 2026 | Todas | as contas | Realizado | Previsto | Ambos | Saldo acumulado | R$ | 113.563 | ,66 | em 31/12/2026 | Ver detalhes | Transações filtrado | 12 transações · 12 pagas · 0 pendentes · somam R$ 17.400,00 · 815 no histórico | Selecionar | 1 | 1 categoria | Todas | Pagas | Pendentes | Transf. | Data ↓ | Exportar | Agir sobre as 12 filtradas | Recategorizar todas | Trocar conta | Limpar filtro | qui · 10 de dezembro, 2026 | Editar | Excluir | Escola | FixaEducação · Conta corrente | −R$ 1.450,00 | paga | ter · 10 de novembro, 2026 | Editar | Excluir | Escola | FixaEducação · Conta corrente | −R$ 1.450,00 | paga | sáb · 10 de outubro, 2026 | Editar | Excluir | Escola | FixaEducação · Conta corrente | −R$ 1.450,00 | paga | qui · 10 de setembro, 2026 | Editar | Excluir | Escola | Educação · Conta corrente | −R$ 1.450,00 | paga | seg · 10 de agosto, 2026 | Editar | Excluir | Escola | Educação · Conta corrente | −R$ 1.450,00 | paga | sex · 10 de julho, 2026 | Editar | Excluir | Escola | Educação · Conta corrente | −R$ 1.450,00 | paga | qua · 10 de junho, 2026 | Editar | Excluir | Escola | Educação · Conta corrente | −R$ 1.450,00 | paga | dom · 10 de maio, 2026 | Editar | Excluir | Escola | Educação · Conta corrente | −R$ 1.450,00 | paga | sex · 10 de abril, 2026 | Editar | Excluir | Escola | Educação · Conta corrente | −R$ 1.450,00 | paga | ter · 10 de março, 2026 | Editar | Excluir | Escola | Educação · Conta corrente | −R$ 1.450,00 | paga | ter · 10 de fevereiro, 2026 | Editar | Excluir | Escola | Educação · Conta corrente | −R$ 1.450,00 | paga | sáb · 10 de janeiro, 2026 | Editar | Excluir | Escola | Educação · Conta corrente | −R$ 1.450,00 | paga"
+ },
+ "1302_visao_fev": {
+  "Movimento de fevereiro 2027": {
+   "x": 31,
+   "y": 432,
+   "w": 328,
+   "h": 40,
+   "tag": "DIV"
+  },
+  "Guardou": {
+   "x": 31,
+   "y": 478,
+   "w": 328,
+   "h": 18,
+   "tag": "DIV"
+  },
+  "Receitas R$": null,
+  "Despesas R$": null,
+  "Resultado do período": {
+   "x": 31,
+   "y": 587,
+   "w": 122.75,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "PARCIAL": null,
+  "_rolagem": 0,
+  "_texto": "Visão geral | Fevereiro 2027 | Todas | as contas | Realizado | Previsto | Ambos | Patrimônio | R$ | 115.733 | ,66 | alta de | 3,0% em relação a jan/27 | 5 contas somadas | Mar/26 | Fev/27 | Movimento de fevereiro 2027 | PARCIAL | Guardou 33,6% da receita | 33,6% | 66,4% | Receitas R$ 9.960,00 | Despesas R$ 6.610,10 | Resultado do período | R$ 3.349,90 | Receitas | R$ 9.960 | queda de | 5,7% | Despesas | R$ 6.610 | queda de | 23,4% | Resultado | R$ 3.349 | alta de | 73,3% | Comparado com a média por mês de Fev/26 a Jan/27 | Últimos 12 meses | Fluxo mensal | Mar/26 a Fev/27 | Média por mês · Fev/26 a Jan/27 | Receitas | R$ 10.564,45 | Despesas | R$ 8.631,22 | Análise do período | Últimos 12 meses · meses sem lançamentos são ignorados | Receita média | R$ 10.564,45 | Fev/26 a Jan/27 · meses fechados | ↓ 5,7% (este mês vs média) | Despesa média | R$ 8.631,22 | Fev/26 a Jan/27 · meses fechado"
+ },
+ "1302_transf_fev": {
+  "Fevereiro 2027": {
+   "x": 62,
+   "y": 76,
+   "w": 108.234375,
+   "h": 32,
+   "tag": "DIV"
+  },
+  "Transações": {
+   "x": -274,
+   "y": 248.5,
+   "w": 256,
+   "h": 48,
+   "tag": "BUTTON"
+  },
+  "Agir sobre": {
+   "x": 33,
+   "y": 602.09375,
+   "w": 324,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "sex · 5 de fevereiro": {
+   "x": 15,
+   "y": 706.09375,
+   "w": 360,
+   "h": 33.5,
+   "tag": "DIV"
+  },
+  "Aplicação na reserva": {
+   "x": 81,
+   "y": 754.1875,
+   "w": 142.09375,
+   "h": 16.796875,
+   "tag": "SPAN"
+  },
+  "qui · 4 de fevereiro": {
+   "x": 15,
+   "y": 802.59375,
+   "w": 360,
+   "h": 49.5,
+   "tag": "DIV"
+  },
+  "Dinheiro para a folia": {
+   "x": 81,
+   "y": 866.6875,
+   "w": 134.171875,
+   "h": 16.796875,
+   "tag": "SPAN"
+  },
+  "_rolagem": 0,
+  "_resumo": "2 transações · 2 pagas · 0 pendentes · somam R$ 2.000,00"
+ },
+ "1302_reserva_2026": {
+  "Ano 2026": {
+   "x": 62,
+   "y": 76,
+   "w": 90,
+   "h": 32,
+   "tag": "DIV"
+  },
+  "Transações": {
+   "x": -274,
+   "y": 248.5,
+   "w": 256,
+   "h": 48,
+   "tag": "BUTTON"
+  },
+  "Agir sobre": {
+   "x": 33,
+   "y": 620.09375,
+   "w": 324,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "seg · 7 de dezembro": {
+   "x": 15,
+   "y": 724.09375,
+   "w": 360,
+   "h": 33.5,
+   "tag": "DIV"
+  },
+  "sex · 6 de novembro": {
+   "x": 15,
+   "y": 820.59375,
+   "w": 360,
+   "h": 49.5,
+   "tag": "DIV"
+  },
+  "ter · 6 de outubro": {
+   "x": 15,
+   "y": 933.09375,
+   "w": 360,
+   "h": 49.5,
+   "tag": "DIV"
+  },
+  "_rolagem": 0,
+  "_resumo": "12 transações · 12 pagas · 0 pendentes · somam R$ 18.000,00"
+ },
+ "1302_visao_2026": {
+  "Movimento de 2026": {
+   "x": 31,
+   "y": 432,
+   "w": 328,
+   "h": 40,
+   "tag": "DIV"
+  },
+  "Guardou": {
+   "x": 31,
+   "y": 478,
+   "w": 328,
+   "h": 18,
+   "tag": "DIV"
+  },
+  "Receitas R$": null,
+  "Despesas R$": null,
+  "Resultado do período": {
+   "x": 31,
+   "y": 587,
+   "w": 122.75,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "_rolagem": 0,
+  "_texto": "Visão geral | Ano 2026 | Todas | as contas | Realizado | Previsto | Ambos | Patrimônio | R$ | 115.733 | ,66 | alta de | 3,0% em relação a jan/27 | 5 contas somadas | Mar/26 | Fev/27 | Movimento de 2026 | Guardou 19,4% da receita | 19,4% | 80,6% | Receitas R$ 126.293,36 | Despesas R$ 101.854,70 | Resultado do período | R$ 24.438,66 | Receitas | R$ 126.293 | alta de | 17,3% | Despesas | R$ 101.854 | alta de | 23,7% | Resultado | R$ 24.438 | queda de | 11,3% | Comparado com a média por mês de Fev/26 a Jan/27 | Últimos 12 meses | Fluxo mensal | Mar/26 a Fev/27 | Média por mês · Fev/26 a Jan/27 | Receitas | R$ 10.564,45 | Despesas | R$ 8.631,22 | Análise do período | Últimos 12 meses · meses sem lançamentos são ignorados | Receita média | R$ 10.564,45 | Fev/26 a Jan/27 · meses fechados | Despesa média | R$ 8.631,22 | Fev/26 a Jan/27 · meses fechados | Saldo acumulado | R$ 115.733,66 | +R$ 22."
+ },
+ "1302_transferencia": {
+  "Nova transação": {
+   "x": 23,
+   "y": 333.75,
+   "w": 129.3125,
+   "h": 25.5,
+   "tag": "H2"
+  },
+  "Valor": {
+   "x": 19,
+   "y": 442.5,
+   "w": 352,
+   "h": 16.5,
+   "tag": "DIV"
+  },
+  "Data": {
+   "x": 67,
+   "y": 577.5,
+   "w": 174.15625,
+   "h": 24,
+   "tag": "DIV"
+  },
+  "Marcar como feita": {
+   "x": 67,
+   "y": 626.5,
+   "w": 248,
+   "h": 24,
+   "tag": "DIV"
+  },
+  "De": {
+   "x": 58.0625,
+   "y": 396,
+   "w": 58.453125,
+   "h": 17,
+   "tag": "SPAN"
+  },
+  "Para": {
+   "x": 67,
+   "y": 750,
+   "w": 185.28125,
+   "h": 24,
+   "tag": "DIV"
+  },
+  "Aplicação na reserva": null,
+  "Registrar transferência": {
+   "x": 136.125,
+   "y": 940,
+   "w": 230.875,
+   "h": 44,
+   "tag": "BUTTON"
+  },
+  "_rolagem": 0,
+  "sheet": [
+   1,
+   318,
+   388,
+   57
+  ],
+  "_texto": "Nova transação | Despesa | Receita | Transferência | Valor | R$ |   | Data | 05/03/2027 | Marcar como feita | Fica como pendente até você confirmar | De | Conta corrente | Para | Reserva | Remessa ao exterior | Dinheiro indo para fora, ou voltando de lá | Cancelar | Registrar transferência"
+ },
+ "0102_pendentes": {
+  "A pagar": {
+   "x": 31,
+   "y": 159.203125,
+   "w": 49.921875,
+   "h": 15.59375,
+   "tag": "SPAN"
+  },
+  "A receber": {
+   "x": 63,
+   "y": 267.09375,
+   "w": 64.375,
+   "h": 16.796875,
+   "tag": "SPAN"
+  },
+  "Total pendente": {
+   "x": 63,
+   "y": 313.09375,
+   "w": 98.546875,
+   "h": 16.796875,
+   "tag": "SPAN"
+  },
+  "Nada vencido": {
+   "x": 54,
+   "y": 375,
+   "w": 83.53125,
+   "h": 15,
+   "tag": "B"
+  },
+  "A vencer": {
+   "x": 29,
+   "y": 434,
+   "w": 159.5,
+   "h": 22.5,
+   "tag": "H2"
+  },
+  "EM 4 DIAS": null,
+  "10/02/2027": {
+   "x": 29,
+   "y": 606.296875,
+   "w": 72.0625,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "Aluguel": {
+   "x": 75,
+   "y": 646.296875,
+   "w": 89.328125,
+   "h": 16.796875,
+   "tag": "DIV"
+  },
+  "Escola": {
+   "x": 75,
+   "y": 707.09375,
+   "w": 89.328125,
+   "h": 16.796875,
+   "tag": "DIV"
+  },
+  "IPTU 2027": {
+   "x": 75,
+   "y": 767.890625,
+   "w": 101.796875,
+   "h": 16.796875,
+   "tag": "DIV"
+  },
+  "12/02/2027": {
+   "x": 29,
+   "y": 829.078125,
+   "w": 71.625,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "15/02/2027": {
+   "x": 29,
+   "y": 931.875,
+   "w": 71.5,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "20/02/2027": {
+   "x": 29,
+   "y": 1034.671875,
+   "w": 74.46875,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "27/02/2027": {
+   "x": 29,
+   "y": 1137.46875,
+   "w": 73.46875,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "Notebook": {
+   "x": 75,
+   "y": 1177.46875,
+   "w": 101.796875,
+   "h": 16.796875,
+   "tag": "DIV"
+  },
+  "_rolagem": 0,
+  "_texto": "Pendentes | Fevereiro 2027 | Todas | as contas | A pagar | R$ | 4.444 | ,80 | 7 transações | A receber | R$ | 9.960 | Total pendente | 8 | Nada vencido. Tudo dentro do prazo. | A vencer | 8 transações ainda no prazo | EM 4 DIAS | · 05/02/2027 | Editar | Excluir | Salário | FIXA·Salário·Conta corrente | +R$ 9.960,00 | pendente | 10/02/2027 | Editar | Excluir | Aluguel | FIXA·Casa·Conta corrente | −R$ 2.300,00 | pendente | Editar | Excluir | Escola | FIXA·Educação·Conta corrente | −R$ 1.450,00 | pendente | Editar | Excluir | IPTU 2027 · 1ª parcela | Impostos e Taxas·Conta corrente | −R$ 215,00 | pendente | 12/02/2027 | Editar | Excluir | Streaming de vídeo | FIXA·Assinaturas e serviços·Conta corrente | −R$ 55,90 | pendente | 15/02/2027 | Editar | Excluir | Streaming de música | FIXA·Assinaturas e serviços·Conta corrente | −R$ 21,90 | pendente | 20/02/2027 | Editar | Excluir | Armazenamento na nuvem | FIXA·Assinaturas e serviços·Conta corrente | −R$ 42,00 | pendente | 27/02/2027 | Editar | Excluir | Notebook (4/10) | 4/10·Compras·Conta corrente | −R$ 360,00 | pendente"
+ },
+ "0402_menu": {
+  "Investido no exterior": {
+   "x": 29,
+   "y": 153,
+   "w": 332,
+   "h": 45.5,
+   "tag": "DIV"
+  },
+  "Importar planilha": {
+   "x": 153,
+   "y": 202.5,
+   "w": 112.21875,
+   "h": 17,
+   "tag": "SPAN"
+  },
+  "Baixar planilha modelo": {
+   "x": 153,
+   "y": 246.5,
+   "w": 150.171875,
+   "h": 17,
+   "tag": "SPAN"
+  },
+  "Atualizar": {
+   "x": 29,
+   "y": 315,
+   "w": 152.265625,
+   "h": 30,
+   "tag": "BUTTON"
+  },
+  "Resgate": {
+   "x": 94.265625,
+   "y": 373,
+   "w": 50.46875,
+   "h": 16,
+   "tag": "SPAN"
+  },
+  "_rolagem": 0,
+  "menu": [
+   107,
+   188,
+   260,
+   94
+  ],
+  "botao": [
+   335,
+   148,
+   32,
+   32
+  ],
+  "cab": [
+   14,
+   138,
+   362,
+   280
+  ]
+ },
+ "0402_modal": {
+  "Importar planilha": {
+   "x": 17,
+   "y": 363,
+   "w": 288.609375,
+   "h": 30,
+   "tag": "H2"
+  },
+  "A planilha precisa": {
+   "x": 36,
+   "y": 458,
+   "w": 318,
+   "h": 36,
+   "tag": "DIV"
+  },
+  "Data": {
+   "x": 36,
+   "y": 504,
+   "w": 46.84375,
+   "h": 24.5,
+   "tag": "SPAN"
+  },
+  "Conta de origem": {
+   "x": 88.84375,
+   "y": 504,
+   "w": 108.453125,
+   "h": 24.5,
+   "tag": "SPAN"
+  },
+  "Valor em moeda": {
+   "x": 36,
+   "y": 534.5,
+   "w": 107.1875,
+   "h": 24.5,
+   "tag": "SPAN"
+  },
+  "TOTAL em R$": {
+   "x": 149.1875,
+   "y": 534.5,
+   "w": 92.515625,
+   "h": 24.5,
+   "tag": "SPAN"
+  },
+  "IOF": {
+   "x": 36,
+   "y": 565,
+   "w": 39.515625,
+   "h": 24.5,
+   "tag": "SPAN"
+  },
+  "Moeda": {
+   "x": 81.515625,
+   "y": 565,
+   "w": 58.3125,
+   "h": 24.5,
+   "tag": "SPAN"
+  },
+  "As cinco primeiras": {
+   "x": 36,
+   "y": 599.5,
+   "w": 318,
+   "h": 148.5,
+   "tag": "DIV"
+  },
+  "Baixar modelo em Excel": {
+   "x": 36,
+   "y": 760,
+   "w": 182.171875,
+   "h": 30,
+   "tag": "BUTTON"
+  },
+  "Escolher arquivo": {
+   "x": 122.484375,
+   "y": 834,
+   "w": 250.515625,
+   "h": 50,
+   "tag": "BUTTON"
+  },
+  "_rolagem": 0,
+  "sheet": [
+   0,
+   341,
+   390,
+   559
+  ],
+  "_texto": "Importar planilha | Confira o formato; se quiser, baixe o modelo pronto. | A planilha precisa de uma linha por remessa, com estas colunas: | Data | Conta de origem | Conta de destino | Valor em moeda | TOTAL em R$ | Valor em R$ | IOF | Moeda | As cinco primeiras são obrigatórias (no lugar do total, dá para informar Valor em R$ e IOF, que o timtimcash soma). As contas viram a transferência entre elas, já vinculada à remessa; conta que não existir é criada na hora. A planilha registra só envios: resgates entram pelo botão Resgate. Sem a coluna Moeda, tudo entra como dólar. Números no formato brasileiro (1.234,56) e datas dd/mm/aaaa. Aceita .xlsx, .xls e .csv, inclusive a planilha que você já usa; faltando as contas, dá para escolhê-las na revisão, sem refazer o arquivo. | Baixar modelo em Excel | Cancelar | Escolher arquivo"
+ },
+ "0402_revisao": {
+  "modal": [
+   170,
+   160,
+   1100,
+   681
+  ],
+  "cab": [
+   188,
+   364,
+   1064,
+   31
+  ],
+  "lista": [
+   187,
+   363,
+   1066,
+   321
+  ],
+  "rodape": [
+   171,
+   692,
+   1098,
+   69
+  ],
+  "foot": [
+   171,
+   761,
+   1098,
+   79
+  ],
+  "nota": [
+   191,
+   269,
+   1058,
+   42
+  ],
+  "titulo": [
+   199,
+   185,
+   373,
+   30
+  ],
+  "linhas": [
+   [
+    188,
+    395,
+    1064,
+    96,
+    "🇺🇸 USD 🇪🇺 EUR 🇬🇧 GBP 🇨🇭 CHF 🇨🇦 CAD 🇦🇺 AUD 🇯🇵 JPY 🇸🇬 SGD 🇭🇰 HKD 🇦🇪 AED "
+   ],
+   [
+    188,
+    491,
+    1064,
+    96,
+    "🇺🇸 USD 🇪🇺 EUR 🇬🇧 GBP 🇨🇭 CHF 🇨🇦 CAD 🇦🇺 AUD 🇯🇵 JPY 🇸🇬 SGD 🇭🇰 HKD 🇦🇪 AED "
+   ],
+   [
+    188,
+    587,
+    1064,
+    96,
+    "🇺🇸 USD 🇪🇺 EUR 🇬🇧 GBP 🇨🇭 CHF 🇨🇦 CAD 🇦🇺 AUD 🇯🇵 JPY 🇸🇬 SGD 🇭🇰 HKD 🇦🇪 AED "
+   ]
+  ],
+  "colunas": [
+   [
+    238,
+    374,
+    282,
+    15,
+    "INSTITUIÇÃO"
+   ],
+   [
+    528,
+    374,
+    104,
+    15,
+    "DATA"
+   ],
+   [
+    640,
+    374,
+    92,
+    15,
+    "MOEDA"
+   ],
+   [
+    740,
+    374,
+    116,
+    15,
+    "ENVIADO"
+   ],
+   [
+    864,
+    374,
+    122,
+    15,
+    "TOTAL EM R$"
+   ],
+   [
+    994,
+    374,
+    104,
+    15,
+    "IOF"
+   ],
+   [
+    1106,
+    374,
+    96,
+    15,
+    "CÂMBIO EFETIVO"
+   ]
+  ],
+  "_texto": "Revisar importação | 3 linhas lidas de minhas-remessas.csv · confira antes de confirmar | 3 linhas ficam vinculadas às transferências que já existem no timtimcash, sem mudar o saldo. | Marcar todas | Desmarcar todas | INSTITUIÇÃO | DATA | MOEDA | ENVIADO | TOTAL EM R$ | IOF | CÂMBIO EFETIVO | 🇺🇸 USD | 🇪🇺 EUR | 🇬🇧 GBP | 🇨🇭 CHF | 🇨🇦 CAD | 🇦🇺 AUD | 🇯🇵 JPY | 🇸🇬 SGD | 🇭🇰 HKD | 🇦🇪 AED | 🇳🇿 NZD | 🇸🇪 SEK | 🇳🇴 NOK | 🇩🇰 DKK | 🇮🇱 ILS | 🇨🇳 CNY | 🇲🇽 MXN | 🇺🇾 UYU | R$ 4,9000 | vincula à transferência que já existe | escolher... | Banco na Europa | Carteira do Carnaval | Conta corrente | Corretora no exterior | Reserva | → | escolher... | Banco na Europa | Carteira do Carnaval | Conta corrente | Corretora no exterior | Reserva | 🇺🇸 USD | 🇪🇺 EUR | 🇬🇧 GBP | 🇨🇭 CHF | 🇨🇦 CAD | 🇦🇺 AUD | 🇯🇵 JPY | 🇸🇬 SGD | 🇭🇰 HKD | 🇦🇪 AED | 🇳🇿 NZD | 🇸🇪 SEK | 🇳🇴 NOK | 🇩🇰 DKK | 🇮🇱 ILS | 🇨🇳 CNY | 🇲🇽 MXN | 🇺🇾 UYU | R$ 5,0000 | vincula à transferência que já existe | escolher... | Banco na Europa | Carteira do Carnaval | Conta corrente | Corretora no exterior | Reserva | → | escolher... | Banco na Europa | Carteira do Carnaval | Conta corrente | Corretora no exterior | Reserva | 🇺🇸 USD | 🇪🇺 EUR | 🇬🇧 GBP | 🇨🇭 CHF | 🇨🇦 CAD | 🇦🇺 AUD | 🇯🇵 JPY | 🇸🇬 SGD | 🇭🇰 HKD | 🇦🇪 AED | 🇳🇿 NZD | 🇸🇪 SEK | 🇳🇴 NOK | 🇩🇰 DKK | 🇮🇱 ILS | 🇨🇳 CNY | 🇲🇽 MXN | 🇺🇾 UYU | R$ 5,1000 | vincula à transferência que já existe | escolher... | Banco na Europa | Carteira do Carnaval | Conta corrente | Corretora no exterior | Reserva | → | escolher... | Banco na Europa | Carteira do Carnaval | Conta corrente | Corretora no exterior | Reserva | 3 | SELECIONADAS | US$ 12.000,00 | ENVIADO | R$ 60.000,00 | TOTAL EM R$ | R$ 0,00 | IOF | Cancelar | Importar 3 remessas"
+ },
+ "0402_depois": {
+  "Rendimento ano a ano": {
+   "x": 29,
+   "y": 2109.5,
+   "w": 211.984375,
+   "h": 22.5,
+   "tag": "H2"
+  },
+  "Taxa de cada ano": {
+   "x": 29,
+   "y": 2135,
+   "w": 211.984375,
+   "h": 18,
+   "tag": "DIV"
+  },
+  "Editar fechamentos": {
+   "x": 29,
+   "y": 2174,
+   "w": 137.078125,
+   "h": 30,
+   "tag": "BUTTON"
+  },
+  "2023": {
+   "x": 29,
+   "y": 2251.75,
+   "w": 258.59375,
+   "h": 22.5,
+   "tag": "SPAN"
+  },
+  "2024": {
+   "x": 29,
+   "y": 2379.25,
+   "w": 241.875,
+   "h": 22.5,
+   "tag": "SPAN"
+  },
+  "2025": {
+   "x": 29,
+   "y": 2506.75,
+   "w": 248.828125,
+   "h": 22.5,
+   "tag": "SPAN"
+  },
+  "2026": {
+   "x": 29,
+   "y": 2634.25,
+   "w": 196.0625,
+   "h": 22.5,
+   "tag": "SPAN"
+  },
+  "2027": {
+   "x": 29,
+   "y": 2736,
+   "w": 164.984375,
+   "h": 38.5,
+   "tag": "SPAN"
+  },
+  "Desde 2023": {
+   "x": 29,
+   "y": 2866.25,
+   "w": 248.828125,
+   "h": 19.5,
+   "tag": "SPAN"
+  },
+  "Remetido": {
+   "x": 29,
+   "y": 3155.5,
+   "w": 161,
+   "h": 16.5,
+   "tag": "DIV"
+  },
+  "Custo total": {
+   "x": 200,
+   "y": 3155.5,
+   "w": 161,
+   "h": 16.5,
+   "tag": "DIV"
+  },
+  "Câmbio médio efetivo": {
+   "x": 29,
+   "y": 3242.5,
+   "w": 161,
+   "h": 16.5,
+   "tag": "DIV"
+  },
+  "IOF pago": {
+   "x": 200,
+   "y": 3242.5,
+   "w": 161,
+   "h": 16.5,
+   "tag": "DIV"
+  },
+  "aportes 4.000,00": null,
+  "aportes 8.000,00": null,
+  "fim 12.960,00": null,
+  "_rolagem": 0,
+  "painel_ano": [
+   14,
+   2095,
+   362,
+   1028
+  ],
+  "custos": [
+   14,
+   3141,
+   362,
+   178
+  ],
+  "chips": [
+   29,
+   153,
+   332,
+   30
+  ],
+  "_texto": "Remessas | Fevereiro 2027 | Todas | as contas | 🇪🇺 EUR | 🇺🇸 USD | Investido no exterior | 🇺🇸 | Estados Unidos | no patrimônio · conta de destino | US$13.450 na carteira hoje | +US$ 1.450,00 | +12,1% em US$ | +R$ 7.942,68 | +13,2% em R$ | R$ 67.942,68 ao câmbio de hoje (R$ 5,0515) | Atualizar | · há 6 dias | Resgate | Nova remessa | De onde veio o resultado em reais | Rendimento dos investimentos convertido no câmbio de hoje, e o efeito do câmbio sobre o que você enviou. | 60 mil | você enviou | +7,3 mil | rendimento | +618 | efeito do câmbio | 67,9 mil | hoje | Os investimentos renderam +US$ 1.450,00 (+12,1%). O câmbio subiu 1,0% desde o câmbio médio do que ainda está lá fora (R$ 5,00 → R$ 5,0515) e somou R$ 618. Sobrou +R$ 7.942,68 (+13,2%). | Câmbio: onde você está | O equilíbrio é o câmbio que zera o resultado em reais: abaixo dele, prejuízo. | R$ 5,0515 | hoje | R$ 4,461 | R$ 5,00 | No equilíbrio (R$ 4,461) | R$ 0 | Hoje (R$ 5,0515) | +R$ 7.942,68 | No seu médio (R$ 5,00) | +R$ 7.250,00 | Resultado em reais da carteira de hoje em cada cotação. No seu câmbio médio, o resultado em reais igualaria o retorno na moeda. | A jornada, desde jul/23 | O afastamento entre o degrau e a trajetória é o rendimento. | enviado acumulado | trajetória na taxa medida | valor informado | 0 | 5 mil | 10 mil | jul/23 | abr/25 | jan/27 | US$ 13.450 | enviados: US$ 12.000 | Primeira remessa | 12/07/2023 | 3 anos atrás | Envios | 3 | a cada 14 meses, em média | Maior envio | 4.000,00 | 12/07/2023 | Média por envio | 4.000,00 | O degrau soma as remessas nas datas reais. A linha tracejada não é medição nova: é a mesma TIR (taxa interna de retorno) de Ritmo do retorno, desenhada como trajetória de taxa constante. O timtimcash conhece o valor da carteira só no ponto verde, informado em 29/01/2027. | Ritmo do retorno | TIR (taxa interna de retorno) das datas reais | no período | ao ano | ao mês | 14,1% | na moeda | +US$ 1.450,00no total | 15,5% | em reais | +R$ 7.942,68no total | De 12/07/2023 a 29/01/2027 (3,6 anos) · capital médio US$ 10.374,71 (R$ 51.786,89) | Como o retorno é calculado | Rendimento ano a ano | Taxa de cada ano, em US$ e em reais | Editar fechamentos | 2023 | +6,5% | +120,00 | +3,8% | +R$ 343,68 | aportes 4.000,00 · a R$ 4,90 · fim 4.120,00 | 2024 | +3,6% | +360,00 | +34,4% | +R$ 16.928,73 | aportes 8.000,00 · a R$ 5,05 · fim 12.480,00 | 2025 | +3,9% | +480,00 | −7,7% | −R$ 5.969,09 | fim 12.960,00 | 2026 | +3,2% | +420,00 | falta o câmbio de 31/12 | fim 13.380,00 | 2027 | até hoje | +7,0% | +70,00 | falta o câmbio do ano anterior | hoje 13.450,00 | Desde 2023 | +3,8% | +1.450,00 | +4,1% | +R$ 7.942,68 | as taxas ao ano que o painel de rendimento já mostra | a barra de cima é a taxa em US$ | a de baixo, a mesma em R$ | régua até +34% | Em US$ é o rendimento do investimento. Em R$ é o mesmo rendimento mais a variação do câmbio no ano. Cada ano usa as datas reais dos envios: aporte de novembro pesa dois meses, não doze. | Remetido | US$ 12.000,00 | 3 remessas · desde jul/23 | Custo total | R$ 60.000,00 | tudo que saiu do Brasil, com IOF | Câmbio médio efetivo | R$ 5,0000 | com IOF · sem IOF R$ 5,0000 | IOF pago | R$ 0,00 | 0,00% do valor enviado | Remessas | 3 envios · o câmbio efetivo já inclui o IOF · planilha modelo | Por remessa | Por ano | Excluir as de USD | A coluna Hoje em R$ converte a mesma quantia em USD pela cotação de R$ 5,0515 que você informou. O percentual compara com o que a remessa custou: ele mede a variação do câmbio, não o rendimento do investimento. | 18/04/2024 | Conta corrente | 🇺🇸 | Corretora no exterior | US$ 4.000,00 | R$ 5,1000 | R$ 20.400,00 | R$ 20.206,00 | −1,0% | 33,6 meses | 14/03/2024 | Conta corrente | 🇺🇸 | Corretora no exterior | US$ 4.000,00 | R$ 5,0000 | R$ 20.000,00 | R$ 20.206,00 | +1,0% | 34,7 meses | 12/07/2023 | Conta corrente | 🇺🇸 | Corretora no exterior | US$ 4.000,00 | R$ 4,9000 | R$ 19.600,00 | R$ 20.206,00 | +3,1% | 42,8 meses | Total | 3 remessas | US$ 12.000,00 | R$ 60.000,00 | R$ 60.618,00 | +1,0%"
+ },
+ "0602_presentes": {
+  "Ano 2026": {
+   "x": 62,
+   "y": 76,
+   "w": 90,
+   "h": 32,
+   "tag": "DIV"
+  },
+  "Transações": {
+   "x": -274,
+   "y": 248.5,
+   "w": 256,
+   "h": 48,
+   "tag": "BUTTON"
+  },
+  "Agir sobre": {
+   "x": 33,
+   "y": 602.09375,
+   "w": 324,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "seg · 21 de dezembro": {
+   "x": 15,
+   "y": 706.09375,
+   "w": 360,
+   "h": 33.5,
+   "tag": "DIV"
+  },
+  "qui · 17 de dezembro": {
+   "x": 15,
+   "y": 812.59375,
+   "w": 360,
+   "h": 49.5,
+   "tag": "DIV"
+  },
+  "sáb · 12 de dezembro": {
+   "x": 15,
+   "y": 935.09375,
+   "w": 360,
+   "h": 49.5,
+   "tag": "DIV"
+  },
+  "_rolagem": 0,
+  "linhas": [
+   [
+    15,
+    740,
+    360,
+    73,
+    "Editar Excluir Presentes de Natal Presentes e doações · Conta corrente −R$ 198,00 paga"
+   ],
+   [
+    15,
+    862,
+    360,
+    73,
+    "Editar Excluir Presentes de Natal Presentes e doações · Conta corrente −R$ 264,50 paga"
+   ],
+   [
+    15,
+    985,
+    360,
+    73,
+    "Editar Excluir Presentes de Natal Presentes e doações · Conta corrente −R$ 389,90 paga"
+   ]
+  ],
+  "_resumo": "3 transações · 3 pagas · 0 pendentes · somam R$ 852,40"
+ },
+ "0602_regra": {
+  "Impostos e Taxas": {
+   "x": 25,
+   "y": 1397,
+   "w": 163.28125,
+   "h": 30,
+   "tag": "H2"
+  },
+  "Ajuste o valor mês a mês": {
+   "x": 25,
+   "y": 1430,
+   "w": 163.28125,
+   "h": 18,
+   "tag": "DIV"
+  },
+  "Valor base": {
+   "x": 17,
+   "y": 1475,
+   "w": 356,
+   "h": 78,
+   "tag": "DIV"
+  },
+  "Preencher base com média": {
+   "x": 17,
+   "y": 1567,
+   "w": 356,
+   "h": 40,
+   "tag": "BUTTON"
+  },
+  "Regras": {
+   "x": 30,
+   "y": 1645,
+   "w": 40.625,
+   "h": 18,
+   "tag": "SPAN"
+  },
+  "Todo mês de": {
+   "x": 30,
+   "y": 1681.75,
+   "w": 65.671875,
+   "h": 16.5,
+   "tag": "SPAN"
+  },
+  "+ A partir de um mês": {
+   "x": 30,
+   "y": 1764,
+   "w": 162,
+   "h": 36,
+   "tag": "BUTTON"
+  },
+  "+ Um mês específico": {
+   "x": 30,
+   "y": 1806,
+   "w": 330,
+   "h": 36,
+   "tag": "BUTTON"
+  },
+  "Resultado nos 24 meses": {
+   "x": 30,
+   "y": 1876,
+   "w": 330,
+   "h": 18,
+   "tag": "DIV"
+  },
+  "22 meses em": {
+   "x": 30,
+   "y": 1896,
+   "w": 330,
+   "h": 15,
+   "tag": "DIV"
+  },
+  "fev/27": {
+   "x": 30,
+   "y": 1952,
+   "w": 29.75,
+   "h": 15,
+   "tag": "SPAN"
+  },
+  "jan/29": {
+   "x": 329.890625,
+   "y": 1952,
+   "w": 30.109375,
+   "h": 15,
+   "tag": "SPAN"
+  },
+  "Ver mês a mês": {
+   "x": 17,
+   "y": 2013,
+   "w": 356,
+   "h": 44,
+   "tag": "BUTTON"
+  },
+  "Concluir": {
+   "x": 17,
+   "y": 2084,
+   "w": 356,
+   "h": 50,
+   "tag": "BUTTON"
+  },
+  "_rolagem": 850,
+  "sheet": [
+   0,
+   1375,
+   390,
+   775
+  ],
+  "regra": [
+   30,
+   1672,
+   330,
+   82
+  ],
+  "faixa": [
+   30,
+   1921,
+   330,
+   26
+  ],
+  "res": [
+   17,
+   1864,
+   356,
+   139
+  ],
+  "rg": [
+   17,
+   1633,
+   356,
+   221
+  ],
+  "_texto": "Impostos e Taxas | Ajuste o valor mês a mês | Valor base: R$ 0 em 24 meses. Uma regra muda vários meses de uma vez; o ajuste de um mês solto continua embaixo. | Preencher base com média | Regras | 1 regra | Todo mês de | janeiro | fevereiro | março | abril | maio | junho | julho | agosto | setembro | outubro | novembro | dezembro | R$ | + A partir de um mês | + Um mês do ano | + Um mês específico | Resultado nos 24 meses | 22 meses em R$ 0 · 2 em R$ 1.236 | fev/27 | jan/29 | base | Todo mês de janeiro | Ver mês a mês | 24 campos | Concluir"
+ },
+ "0602_fixa": {
+  "Nova transação": {
+   "x": 23,
+   "y": 350.75,
+   "w": 129.3125,
+   "h": 25.5,
+   "tag": "H2"
+  },
+  "Valor": {
+   "x": 19,
+   "y": 459.5,
+   "w": 352,
+   "h": 16.5,
+   "tag": "DIV"
+  },
+  "Data": {
+   "x": 67,
+   "y": 594.5,
+   "w": 176.4375,
+   "h": 24,
+   "tag": "DIV"
+  },
+  "Marcar como pago": {
+   "x": 67,
+   "y": 643.5,
+   "w": 248,
+   "h": 24,
+   "tag": "DIV"
+  },
+  "Categoria": {
+   "x": 67,
+   "y": 714,
+   "w": 132.046875,
+   "h": 24,
+   "tag": "DIV"
+  },
+  "Pago via": {
+   "x": 67,
+   "y": 767,
+   "w": 133.796875,
+   "h": 24,
+   "tag": "DIV"
+  },
+  "IPVA": null,
+  "Recorrência": {
+   "x": 23,
+   "y": 868,
+   "w": 344,
+   "h": 19.5,
+   "tag": "DIV"
+  },
+  "Lançamentos automáticos": {
+   "x": 23,
+   "y": 995.5,
+   "w": 344,
+   "h": 19.5,
+   "tag": "DIV"
+  },
+  "Lançar despesa": {
+   "x": 136.125,
+   "y": 1040,
+   "w": 230.875,
+   "h": 44,
+   "tag": "BUTTON"
+  },
+  "_rolagem": 0,
+  "sheet": [
+   1,
+   335,
+   388,
+   57
+  ],
+  "fixa": [
+   23,
+   942,
+   344,
+   48
+  ],
+  "_texto": "Nova transação | Despesa | Receita | Transferência | Valor | R$ |   | Data | 20/01/2028 | Marcar como pago | Fica como pendente até você confirmar | Categoria | Impostos e Taxas | Pago via | Conta corrente | Recorrência | Única | Fixa | Parcelada | Diário | Semanal | Quinzenal | Mensal | Bimestral | Trimestral | Semestral | Anual | Lançamentos automáticos · anual | Cancelar | Lançar despesa",
+  "_valor": "1.236,00"
+ },
+ "0402_revisao_celular": {
+  "Revisar importação": {
+   "x": 17,
+   "y": 142,
+   "w": 322,
+   "h": 30,
+   "tag": "H2"
+  },
+  "3 linhas lidas": {
+   "x": 17,
+   "y": 175,
+   "w": 322,
+   "h": 36,
+   "tag": "DIV"
+  },
+  "3 linhas ficam vinculadas": {
+   "x": 51,
+   "y": 247,
+   "w": 228.984375,
+   "h": 14,
+   "tag": "B"
+  },
+  "Marcar todas": {
+   "x": 15,
+   "y": 299,
+   "w": 94.734375,
+   "h": 30,
+   "tag": "BUTTON"
+  },
+  "12/07/2023": null,
+  "14/03/2024": null,
+  "R$ 4,9000": {
+   "x": 216,
+   "y": 594,
+   "w": 147,
+   "h": 30,
+   "tag": "DIV"
+  },
+  "vincula à transferência": {
+   "x": 80,
+   "y": 635,
+   "w": 185.125,
+   "h": 16.5,
+   "tag": "SPAN"
+  },
+  "Importar 3 remessas": {
+   "x": 122.484375,
+   "y": 1434,
+   "w": 250.515625,
+   "h": 50,
+   "tag": "BUTTON"
+  },
+  "_rolagem": 0,
+  "modal": [
+   0,
+   120,
+   390,
+   1380
+  ],
+  "rodape": [
+   1,
+   1364,
+   388,
+   58
+  ],
+  "linhas": [
+   [
+    15,
+    337,
+    360,
+    392,
+    "🇺🇸 USD 🇪🇺 EUR 🇬🇧 GBP 🇨🇭 CHF 🇨🇦 CAD 🇦🇺 AUD 🇯🇵 JPY 🇸🇬 SGD 🇭🇰 HKD 🇦🇪 AED "
+   ],
+   [
+    15,
+    737,
+    360,
+    392,
+    "🇺🇸 USD 🇪🇺 EUR 🇬🇧 GBP 🇨🇭 CHF 🇨🇦 CAD 🇦🇺 AUD 🇯🇵 JPY 🇸🇬 SGD 🇭🇰 HKD 🇦🇪 AED "
+   ],
+   [
+    15,
+    1136,
+    360,
+    392,
+    "🇺🇸 USD 🇪🇺 EUR 🇬🇧 GBP 🇨🇭 CHF 🇨🇦 CAD 🇦🇺 AUD 🇯🇵 JPY 🇸🇬 SGD 🇭🇰 HKD 🇦🇪 AED "
+   ]
+  ]
+ },
+ "0402_menu_pc": {
+  "Investido no exterior": {
+   "x": 339,
+   "y": 133,
+   "w": 444.4375,
+   "h": 19.5,
+   "tag": "DIV"
+  },
+  "Importar planilha": {
+   "x": 1185,
+   "y": 187,
+   "w": 104.015625,
+   "h": 16,
+   "tag": "SPAN"
+  },
+  "Baixar planilha modelo": {
+   "x": 1185,
+   "y": 221,
+   "w": 139.203125,
+   "h": 16,
+   "tag": "SPAN"
+  },
+  "Resgate": {
+   "x": 1109.703125,
+   "y": 143,
+   "w": 50.46875,
+   "h": 16,
+   "tag": "SPAN"
+  },
+  "Nova remessa": {
+   "x": 1225.171875,
+   "y": 143,
+   "w": 88.828125,
+   "h": 16,
+   "tag": "SPAN"
+  },
+  "_rolagem": 0,
+  "menu": [
+   1139,
+   177,
+   238,
+   74
+  ],
+  "botao": [
+   1341,
+   133,
+   36,
+   36
+  ],
+  "cab": [
+   312,
+   108,
+   1092,
+   191
+  ],
+  "acoes": [
+   1072,
+   133,
+   261,
+   36
+  ]
+ },
+ "1302_volta": {
+  "Nova transação": {
+   "x": 23,
+   "y": 333.75,
+   "w": 129.3125,
+   "h": 25.5,
+   "tag": "H2"
+  },
+  "Valor": {
+   "x": 19,
+   "y": 442.5,
+   "w": 352,
+   "h": 16.5,
+   "tag": "DIV"
+  },
+  "Data": {
+   "x": 67,
+   "y": 577.5,
+   "w": 174.90625,
+   "h": 24,
+   "tag": "DIV"
+  },
+  "Já foi feita": {
+   "x": 67,
+   "y": 626.5,
+   "w": 248,
+   "h": 24,
+   "tag": "DIV"
+  },
+  "Para": {
+   "x": 67,
+   "y": 750,
+   "w": 133.796875,
+   "h": 24,
+   "tag": "DIV"
+  },
+  "Remessa ao exterior": {
+   "x": 67,
+   "y": 799,
+   "w": 248,
+   "h": 24,
+   "tag": "DIV"
+  },
+  "Registrar transferência": {
+   "x": 136.125,
+   "y": 940,
+   "w": 230.875,
+   "h": 44,
+   "tag": "BUTTON"
+  },
+  "_rolagem": 0,
+  "_texto": "Nova transação | Despesa | Receita | Transferência | Valor | R$ |   | Data | Hoje 13/02 | Já foi feita | Afeta o saldo das duas contas agora | De | Reserva | Para | Conta corrente | Remessa ao exterior | Dinheiro indo para fora, ou voltando de lá | Cancelar | Registrar transferência",
+  "_valor": "1.000,00"
+ }
+}

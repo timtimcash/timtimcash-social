@@ -1,0 +1,596 @@
+{
+ "teclas": [],
+ "computador-0-visao-geral.jpg": {
+  "nova": [
+   1194.7,
+   32,
+   82.6,
+   36
+  ],
+  "topo": [
+   312,
+   12,
+   1092,
+   76
+  ],
+  "lateral": [
+   12,
+   12,
+   252,
+   876
+  ],
+  "texto": "Pular para o conteúdo\n$\n$\ntimtimcash\nSalvando...\nMENU\nVisão geral\nTransações\nPendentes\n2\nFluxo\nRelatórios\nComparar\nResultado (DRE)\nOrçamentos\nSimulação futura\nRemessas ao exterior\nImportar\nExportar\nCONFIGURAR\nContas e carteiras\nCartões de crédito\nCategorias\nPreferências\nCONTAS\n5\n+\nBanco na Europa\nR$ 11.525,40\nCarteira do Carnaval\nR$ 45,20\nConta corrente\nR$ 17.894,16\nCorretora no exterior\nR$ 60.000,00\nReserva\nR$ 25.974,60\nTotal geral\nR$ 115.439,36\n5 contas\nMA\nMarina Alves\nmarina@exemplo.com\nMês\nAno\nPersonalizado\nFevereiro 2027\nTodas as contas\nNova\nVisão geral\nRealizado\nPrevisto\nAmbos\nSó o que já entrou e saiu da conta.\nInclui o que ainda está pendente de pagamento.\nO que já aconteceu, e quanto falta para o mês fechar.\nPatrimônio\nR$\n115.439\n,36\ntodas as contas\n5 contas\nEste mês\n+R$ 3.055,60\n↑ 2,7% no patrimônio\nem relação a janeiro\nReceitas\nR$\n9.960\nqueda de\n5,7%\nvs média R$ 10.564\nDespesas\nR$\n6.904\n,40\nqueda de\n20,0%\nvs média R$ 8.631\n2 pendentes\nResultado\nR$\n3.055\n,60\nalta de\n58,1%\nvs média R$ 1.933\nMédia por mês de Fev/26 a Jan/27 · meses fechados\nFluxo mensal\nReceitas e despesas agrupadas por mês\nÚltimos 12 meses\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nPersonalizar\nReceita média\nR$ 10.564,45\nFev/26 a Jan/27 · meses fechados\n↓ 5,7% (este mês vs média)\nDespesa média\nR$ 8.631,22\nFev/26 a Jan/27 · meses fechados\n↓ 20,0% (este mês vs média)\nSaldo acumulado\nR$ 115.439,36\n+R$ 22.554,36\nMar/26\nFev/27\nReserva financeira\n13,4\nmeses\nR$ 115.439,36 ÷ R$ 8.631,22/mês (despesa média)\nmédia de 12 meses com movimento\nPor categoria\nDespesas do período\nDespesas\nReceitas\nPeríodo global\nDespesas\nR$ 6.904,40\n9 categorias\nTop saídas\nMaiores despesas do período\nCasa\nR$ 2.300,00 33%\nEducação\nR$ 1.450,00 21%\nMercado\nR$ 1.418,80 21%\nTransporte\nR$ 550,40 8%\nBares e restaurantes\nR$ 467,20 7%\nLazer e hobbies\nR$ 353,90 5%\nMinhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 115.439,36\nPOSITIVAS\nR$ 115.439,36\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nReserva\nINVESTIMENTO\nR$ 25.974,60\nConta corrente\nR$ 17.894,16\nBanco na Europa\nINVESTIMENTO\nR$ 11.525,40\nCarteira do Carnaval\nDINHEIRO\nR$ 45,20\nÚltimas transações\nClique em uma para editar\nVer todas →\nInsights\nAnálise automática do período\nExcelente! Receita guardada: 31%\nVocê guardou R$ 3.055,60 de R$ 9.960,00 recebidos. Continue assim!\nCasa: 33% das despesas\nConcentra R$ 2.300,00 dos seus gastos.\n3 orçamentos acima de 70%\nMercado, Bares e restaurantes, Lazer e hobbies",
+  "rolagem": 0
+ },
+ "computador-1-tecla-n.jpg": {
+  "folha": [
+   450,
+   103.3,
+   540,
+   693.5
+  ],
+  "valor": [
+   686,
+   261.8,
+   104,
+   59
+  ],
+  "cat": [
+   451,
+   482.8,
+   538,
+   53
+  ],
+  "desc": [
+   517,
+   600.3,
+   450,
+   29
+  ],
+  "lancar": [
+   586.1,
+   735.8,
+   380.9,
+   44
+  ],
+  "sug": null,
+  "data": [
+   451,
+   367.8,
+   538,
+   53
+  ],
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 18/02\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa",
+  "rolagem": 0
+ },
+ "foco_depois_do_n": "f-valor",
+ "computador-2-valor-1.jpg": {
+  "folha": [
+   450,
+   103.3,
+   540,
+   693.5
+  ],
+  "valor": "0,03",
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 18/02\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa",
+  "rolagem": 0
+ },
+ "computador-2-valor-2.jpg": {
+  "folha": [
+   450,
+   103.3,
+   540,
+   693.5
+  ],
+  "valor": "0,32",
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 18/02\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa",
+  "rolagem": 0
+ },
+ "computador-2-valor-3.jpg": {
+  "folha": [
+   450,
+   103.3,
+   540,
+   693.5
+  ],
+  "valor": "3,20",
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 18/02\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa",
+  "rolagem": 0
+ },
+ "computador-2-valor-4.jpg": {
+  "folha": [
+   450,
+   103.3,
+   540,
+   693.5
+  ],
+  "valor": "32,00",
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 18/02\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa",
+  "rolagem": 0
+ },
+ "clique_desc": [
+  517,
+  600.3,
+  450,
+  29
+ ],
+ "computador-3-descricao.jpg": {
+  "folha": [
+   450,
+   103.3,
+   540,
+   693.5
+  ],
+  "valor": [
+   671,
+   261.8,
+   134,
+   59
+  ],
+  "cat": [
+   451,
+   482.8,
+   538,
+   53
+  ],
+  "desc": [
+   517,
+   600.3,
+   450,
+   29
+  ],
+  "lancar": [
+   586.1,
+   735.8,
+   380.9,
+   44
+  ],
+  "sug": null,
+  "data": [
+   451,
+   367.8,
+   538,
+   53
+  ],
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 18/02\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa",
+  "rolagem": 0
+ },
+ "computador-4-desc-1.jpg": {
+  "folha": [
+   450,
+   103.3,
+   540,
+   693.5
+  ],
+  "valor": [
+   671,
+   116.8,
+   134,
+   59
+  ],
+  "cat": [
+   451,
+   337.8,
+   538,
+   53
+  ],
+  "desc": [
+   517,
+   455.3,
+   450,
+   29
+  ],
+  "lancar": [
+   586.1,
+   735.8,
+   380.9,
+   44
+  ],
+  "sug": null,
+  "data": [
+   451,
+   222.8,
+   538,
+   53
+  ],
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 18/02\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nEscola\nEducação · 72x\nStreaming de música\nAssinaturas e serviços · 72x\nMercado da Vila\nMercado · 68x\nIPTU 2027 · 2ª parcela\nImpostos e Taxas · 1x\nIPTU 2027 · 3ª parcela\nImpostos e Taxas · 1x\nIPTU 2027 · 4ª parcela\nImpostos e Taxas · 1x\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa",
+  "rolagem": 0
+ },
+ "computador-4-desc-2.jpg": {
+  "folha": [
+   450,
+   103.3,
+   540,
+   693.5
+  ],
+  "valor": [
+   671,
+   228.8,
+   134,
+   59
+  ],
+  "cat": [
+   451,
+   449.8,
+   538,
+   53
+  ],
+  "desc": [
+   517,
+   567.3,
+   450,
+   29
+  ],
+  "lancar": [
+   586.1,
+   735.8,
+   380.9,
+   44
+  ],
+  "sug": null,
+  "data": [
+   451,
+   334.8,
+   538,
+   53
+  ],
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 18/02\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nFarmácia\nSaúde · 32x\nCinema\nLazer e hobbies · 16x\nEstacionamento\nTransporte · 6x\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa",
+  "rolagem": 0
+ },
+ "computador-4-desc-3.jpg": {
+  "folha": [
+   450,
+   103.3,
+   540,
+   693.5
+  ],
+  "valor": [
+   671,
+   261.8,
+   134,
+   59
+  ],
+  "cat": [
+   451,
+   482.8,
+   538,
+   53
+  ],
+  "desc": [
+   517,
+   600.3,
+   450,
+   29
+  ],
+  "lancar": [
+   586.1,
+   735.8,
+   380.9,
+   44
+  ],
+  "sug": null,
+  "data": [
+   451,
+   367.8,
+   538,
+   53
+  ],
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 18/02\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nCinema\nLazer e hobbies · 16x\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa",
+  "rolagem": 0
+ },
+ "computador-4-desc-4.jpg": {
+  "folha": [
+   450,
+   103.3,
+   540,
+   693.5
+  ],
+  "valor": [
+   671,
+   261.8,
+   134,
+   59
+  ],
+  "cat": [
+   451,
+   482.8,
+   538,
+   53
+  ],
+  "desc": [
+   517,
+   600.3,
+   450,
+   29
+  ],
+  "lancar": [
+   586.1,
+   735.8,
+   380.9,
+   44
+  ],
+  "sug": null,
+  "data": [
+   451,
+   367.8,
+   538,
+   53
+  ],
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 18/02\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nCinema\nLazer e hobbies · 16x\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa",
+  "rolagem": 0
+ },
+ "computador-4-desc-5.jpg": {
+  "folha": [
+   450,
+   103.3,
+   540,
+   693.5
+  ],
+  "valor": [
+   671,
+   261.8,
+   134,
+   59
+  ],
+  "cat": [
+   451,
+   482.8,
+   538,
+   53
+  ],
+  "desc": [
+   517,
+   600.3,
+   450,
+   29
+  ],
+  "lancar": [
+   586.1,
+   735.8,
+   380.9,
+   44
+  ],
+  "sug": null,
+  "data": [
+   451,
+   367.8,
+   538,
+   53
+  ],
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 18/02\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nAlimentação\nPago via\nConta corrente\nCinema\nLazer e hobbies · 16x\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa",
+  "rolagem": 0
+ },
+ "computador-4-desc-6.jpg": {
+  "folha": [
+   450,
+   103.3,
+   540,
+   693.5
+  ],
+  "valor": [
+   671,
+   261.8,
+   134,
+   59
+  ],
+  "cat": [
+   451,
+   482.8,
+   538,
+   53
+  ],
+  "desc": [
+   517,
+   600.3,
+   450,
+   29
+  ],
+  "lancar": [
+   586.1,
+   735.8,
+   380.9,
+   44
+  ],
+  "sug": [
+   889.5,
+   502.3,
+   53.5,
+   16
+  ],
+  "data": [
+   451,
+   367.8,
+   538,
+   53
+  ],
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 18/02\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nLazer e hobbies sugerida\nPago via\nConta corrente\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa",
+  "rolagem": 0
+ },
+ "computador-5-sugerida.jpg": {
+  "folha": [
+   450,
+   103.3,
+   540,
+   693.5
+  ],
+  "valor": [
+   671,
+   261.8,
+   134,
+   59
+  ],
+  "cat": [
+   451,
+   482.8,
+   538,
+   53
+  ],
+  "desc": [
+   517,
+   600.3,
+   450,
+   29
+  ],
+  "lancar": [
+   586.1,
+   735.8,
+   380.9,
+   44
+  ],
+  "sug": [
+   889.5,
+   502.3,
+   53.5,
+   16
+  ],
+  "data": [
+   451,
+   367.8,
+   538,
+   53
+  ],
+  "texto": "Nova transação\nDespesa\nReceita\nTransferência\nValor\nR$\n \nData\nHoje 18/02\nJá foi pago\nAfeta o saldo real da conta agora\nCategoria\nLazer e hobbies sugerida\nPago via\nConta corrente\nRecorrência\nÚnica\nFixa\nParcelada\nCancelar\nLançar despesa",
+  "rolagem": 0
+ },
+ "categoria_sugerida": "Categoria\nLazer e hobbies sugerida",
+ "computador-6-lancou.jpg": {
+  "aviso": [
+   610.9,
+   822.5,
+   218.1,
+   49.5
+  ],
+  "texto": "Transação adicionada\nTransação adicionada\nPular para o conteúdo\n$\n$\ntimtimcash\nSalvando...\nMENU\nVisão geral\nTransações\nPendentes\n2\nFluxo\nRelatórios\nComparar\nResultado (DRE)\nOrçamentos\nSimulação futura\nRemessas ao exterior\nImportar\nExportar\nCONFIGURAR\nContas e carteiras\nCartões de crédito\nCategorias\nPreferências\nCONTAS\n5\n+\nBanco na Europa\nR$ 11.525,40\nCarteira do Carnaval\nR$ 45,20\nConta corrente\nR$ 17.862,16\nCorretora no exterior\nR$ 60.000,00\nReserva\nR$ 25.974,60\nTotal geral\nR$ 115.407,36\n5 contas\nMA\nMarina Alves\nmarina@exemplo.com\nMês\nAno\nPersonalizado\nFevereiro 2027\nTodas as contas\nNova\nVisão geral\nRealizado\nPrevisto\nAmbos\nSó o que já entrou e saiu da conta.\nInclui o que ainda está pendente de pagamento.\nO que já aconteceu, e quanto falta para o mês fechar.\nPatrimônio\nR$\n115.407\n,36\ntodas as contas\n5 contas\nEste mês\n+R$ 3.023,60\n↑ 2,7% no patrimônio\nem relação a janeiro\nReceitas\nR$\n9.960\nqueda de\n5,7%\nvs média R$ 10.564\nDespesas\nR$\n6.936\n,40\nqueda de\n19,6%\nvs média R$ 8.631\n2 pendentes\nResultado\nR$\n3.023\n,60\nalta de\n56,4%\nvs média R$ 1.933\nMédia por mês de Fev/26 a Jan/27 · meses fechados\nFluxo mensal\nReceitas e despesas agrupadas por mês\nÚltimos 12 meses\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nPersonalizar\nReceita média\nR$ 10.564,45\nFev/26 a Jan/27 · meses fechados\n↓ 5,7% (este mês vs média)\nDespesa média\nR$ 8.631,22\nFev/26 a Jan/27 · meses fechados\n↓ 19,6% (este mês vs média)\nSaldo acumulado\nR$ 115.407,36\n+R$ 22.522,36\nMar/26\nFev/27\nReserva financeira\n13,4\nmeses\nR$ 115.407,36 ÷ R$ 8.631,22/mês (despesa média)\nmédia de 12 meses com movimento\nPor categoria\nDespesas do período\nDespesas\nReceitas\nPeríodo global\nDespesas\nR$ 6.936,40\n9 categorias\nTop saídas\nMaiores despesas do período\nCasa\nR$ 2.300,00 33%\nEducação\nR$ 1.450,00 21%\nMercado\nR$ 1.418,80 20%\nTransporte\nR$ 550,40 8%\nBares e restaurantes\nR$ 467,20 7%\nLazer e hobbies\nR$ 385,90 6%\nMinhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 115.407,36\nPOSITIVAS\nR$ 115.407,36\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nReserva\nINVESTIMENTO\nR$ 25.974,60\nConta corrente\nR$ 17.862,16\nBanco na Europa\nINVESTIMENTO\nR$ 11.525,40\nCarteira do Carnaval\nDINHEIRO\nR$ 45,20\nÚltimas transações\nClique em uma para editar\nVer todas →\nInsights\nAnálise automática do período\nLazer e hobbies 46% acima da média\nR$ 385,90 este mês vs média de R$ 264,38 (últimos 5 meses).\nExcelente! Receita guardada: 30%\nVocê guardou R$ 3.023,60 de R$ 9.960,00 recebidos. Continue assim!\nCasa: 33% das despesas\nConcentra R$ 2.300,00 dos seus gastos.",
+  "rolagem": 0
+ },
+ "aviso": "Transação adicionada",
+ "janela_fechou": true,
+ "lancado": [
+  [
+   "Cinema",
+   "Lazer e hobbies",
+   32,
+   "despesa"
+  ]
+ ],
+ "erros1": [],
+ "computador-7-busca-vazia.jpg": {
+  "caixa": [
+   410,
+   90,
+   620,
+   601
+  ],
+  "campo": [
+   459,
+   109.3,
+   500.8,
+   20
+  ],
+  "texto": "ESC\nNova transação\nLançar receita, despesa ou transferência\nAÇÃO\nContas e carteiras\nGerenciar contas\nAÇÃO\nCartões de crédito\nGerenciar cartões e faturas\nAÇÃO\nPreferências\nTema, backup e dados da conta\nAÇÃO\nImportar planilha\nExtrato .ofx ou planilha .xlsx e .csv\nAÇÃO\nExportar Excel\nBaixar transações do período\nAÇÃO\nVisão geral\nPatrimônio, mês atual e gráficos\nTELA\nTransações\nLista completa de lançamentos\nTELA\n↑↓ navegar\nenter abrir\nesc fechar",
+  "rolagem": 0
+ },
+ "busca_caixa": [
+  410,
+  90,
+  620,
+  601
+ ],
+ "computador-8-busca-1.jpg": {
+  "campo": [
+   459,
+   109.3,
+   500.8,
+   20
+  ],
+  "texto": "ESC\nNova transação\nLançar receita, despesa ou transferência\nAÇÃO\nContas e carteiras\nGerenciar contas\nAÇÃO\nCartões de crédito\nGerenciar cartões e faturas\nAÇÃO\nPreferências\nTema, backup e dados da conta\nAÇÃO\nExportar Excel\nBaixar transações do período\nAÇÃO\nTransações\nLista completa de lançamentos\nTELA\nComparar\nUm período contra outro\nTELA\nOrçamentos\nLimites por categoria\nTELA\nSimulação futura\nCenários do seu saldo nos próximos meses\nTELA\nCategorias\nOrganizar as categorias de despesas e receitas\nAÇÃO\nVisão geral\nPatrimônio, mês atual e gráficos\nTELA\nRelatórios\nAnálises por categoria\nTELA\nPendentes\nTransações não pagas\nTELA\nImportar extrato\nArquivo .ofx baixado do seu banco\nAÇÃO\nImportar planilha\nExtrato .ofx ou planilha .xlsx e .csv\nAÇÃO\nResultado (DRE)\nQuanto entrou, saiu e sobrou por categoria\nTELA\nConta corrente\nBanco / Digital · Saldo R$ 17.894,16\nCONTA\nCorretora no exterior\nInvestimento · Saldo R$ 60.000,00\nCONTA\nBanco na Europa\nInvestimento · Saldo R$ 11.525,40\nCONTA\nCarteira do Carnaval\nDinheiro / Carteira · Saldo R$ 45,20\nCONTA\nAlimentação\nCategoria de despesa\nCATEGORIA\nAssinaturas e serviços\nCategoria de despesa\nCATEGORIA\nCasa\nCategoria de despesa\nCATEGORIA\nCompras\nCategoria de despesa\nCATEGORIA\nCuidados pessoais\nCategoria de despesa\nCATEGORIA\nEducação\nCategoria de despesa\nCATEGORIA\nArmazenamento na nuvem\n20 set 2031 · Assinaturas e serviços · −R$ 42,00\nTRANSAÇÃO\nStreaming de música\n15 set 2031 · Assinaturas e serviços · −R$ 21,90\nTRANSAÇÃO\nStreaming de vídeo\n12 set 2031 · Assinaturas e serviços · −R$ 55,90\nTRANSAÇÃO\nAluguel\n10 set 2031 · Casa · −R$ 2.300,00\nTRANSAÇÃO\nEscola\n10 set 2031 · Educação · −R$ 1.450,00\nTRANSAÇÃO\nArmazenamento na nuvem\n20 ago 2031 · Assinaturas e serviços · −R$ 42,00\nTRANSAÇÃO\nStreaming de música\n15 ago 2031 · Assinaturas e serviços · −R$ 21,90\nTRANSAÇÃO\nStreaming de vídeo\n12 ago 2031 · Assinaturas e serviços · −R$ 55,90\nTRANSAÇÃO\nAluguel\n10 ago 2031 · Casa · −R$ 2.300,00\nTRANSAÇÃO\nEscola\n10 ago 2031 · Educação · −R$ 1.450,00\nTRANSAÇÃO\nArmazenamento na nuvem\n20 jul 2031 · Assinaturas e serviços · −R$ 42,00\nTRANSAÇÃO\nStreaming de música\n15 jul 2031 · Assinaturas e serviços · −R$ 21,90\nTRANSAÇÃO\nStreaming de vídeo\n12 jul 2031 · Assinaturas e serviços · −R$ 55,90\nTRANSAÇÃO\nAluguel\n10 jul 2031 · Casa · −R$ 2.300,00\nTRANSAÇÃO\nEscola\n10 jul 2031 · Educação · −R$ 1.450,00\nTRANSAÇÃO\nArmazenamento na nuvem\n20 jun 2031 · Assinaturas e serviços · −R$ 42,00\nTRANSAÇÃO\nStreaming de música\n15 jun 2031 · Assinaturas e serviços · −R$ 21,90\nTRANSAÇÃO\nStreaming de vídeo\n12 jun 2031 · Assinaturas e serviços · −R$ 55,90\nTRANSAÇÃO\nAluguel\n10 jun 2031 · Casa · −R$ 2.300,00\nTRANSAÇÃO\nEscola\n10 jun 2031 · Educação · −R$ 1.450,00\nTRANSAÇÃO\nArmazenamento na nuvem\n20 mai 2031 · Assinaturas e serviços · −R$ 42,00\nTRANSAÇÃO\nStreaming de música\n15 mai 2031 · Assinaturas e serviços · −R$ 21,90\nTRANSAÇÃO\nStreaming de vídeo\n12 mai 2031 · Assinaturas e serviços · −R$ 55,90\nTRANSAÇÃO\nAluguel\n10 mai 2031 · Casa · −R$ 2.300,00\nTRANSAÇÃO\nEscola\n10 mai 2",
+  "rolagem": 0
+ },
+ "computador-8-busca-2.jpg": {
+  "campo": [
+   459,
+   109.3,
+   500.8,
+   20
+  ],
+  "texto": "ESC\nContas e carteiras\nGerenciar contas\nAÇÃO\nTransações\nLista completa de lançamentos\nTELA\nComparar\nUm período contra outro\nTELA\nRelatórios\nAnálises por categoria\nTELA\nPendentes\nTransações não pagas\nTELA\nImportar extrato\nArquivo .ofx baixado do seu banco\nAÇÃO\nPreferências\nTema, backup e dados da conta\nAÇÃO\nExportar Excel\nBaixar transações do período\nAÇÃO\nVisão geral\nPatrimônio, mês atual e gráficos\nTELA\nConta corrente\nBanco / Digital · Saldo R$ 17.894,16\nCONTA\nCorretora no exterior\nInvestimento · Saldo R$ 60.000,00\nCONTA\nBanco na Europa\nInvestimento · Saldo R$ 11.525,40\nCONTA\nAssinaturas e serviços\nCategoria de despesa\nCATEGORIA\nCompras\nCategoria de despesa\nCATEGORIA\nPresentes e doações\nCategoria de despesa\nCATEGORIA\nArmazenamento na nuvem\n20 set 2031 · Assinaturas e serviços · −R$ 42,00\nTRANSAÇÃO\nStreaming de música\n15 set 2031 · Assinaturas e serviços · −R$ 21,90\nTRANSAÇÃO\nStreaming de vídeo\n12 set 2031 · Assinaturas e serviços · −R$ 55,90\nTRANSAÇÃO\nEscola\n10 set 2031 · Educação · −R$ 1.450,00\nTRANSAÇÃO\nArmazenamento na nuvem\n20 ago 2031 · Assinaturas e serviços · −R$ 42,00\nTRANSAÇÃO\nStreaming de música\n15 ago 2031 · Assinaturas e serviços · −R$ 21,90\nTRANSAÇÃO\nStreaming de vídeo\n12 ago 2031 · Assinaturas e serviços · −R$ 55,90\nTRANSAÇÃO\nEscola\n10 ago 2031 · Educação · −R$ 1.450,00\nTRANSAÇÃO\nArmazenamento na nuvem\n20 jul 2031 · Assinaturas e serviços · −R$ 42,00\nTRANSAÇÃO\nStreaming de música\n15 jul 2031 · Assinaturas e serviços · −R$ 21,90\nTRANSAÇÃO\nStreaming de vídeo\n12 jul 2031 · Assinaturas e serviços · −R$ 55,90\nTRANSAÇÃO\nEscola\n10 jul 2031 · Educação · −R$ 1.450,00\nTRANSAÇÃO\nArmazenamento na nuvem\n20 jun 2031 · Assinaturas e serviços · −R$ 42,00\nTRANSAÇÃO\nStreaming de música\n15 jun 2031 · Assinaturas e serviços · −R$ 21,90\nTRANSAÇÃO\nStreaming de vídeo\n12 jun 2031 · Assinaturas e serviços · −R$ 55,90\nTRANSAÇÃO\nEscola\n10 jun 2031 · Educação · −R$ 1.450,00\nTRANSAÇÃO\nArmazenamento na nuvem\n20 mai 2031 · Assinaturas e serviços · −R$ 42,00\nTRANSAÇÃO\nStreaming de música\n15 mai 2031 · Assinaturas e serviços · −R$ 21,90\nTRANSAÇÃO\nStreaming de vídeo\n12 mai 2031 · Assinaturas e serviços · −R$ 55,90\nTRANSAÇÃO\nEscola\n10 mai 2031 · Educação · −R$ 1.450,00\nTRANSAÇÃO\nArmazenamento na nuvem\n20 abr 2031 · Assinaturas e serviços · −R$ 42,00\nTRANSAÇÃO\nStreaming de música\n15 abr 2031 · Assinaturas e serviços · −R$ 21,90\nTRANSAÇÃO\nStreaming de vídeo\n12 abr 2031 · Assinaturas e serviços · −R$ 55,90\nTRANSAÇÃO\nEscola\n10 abr 2031 · Educação · −R$ 1.450,00\nTRANSAÇÃO\nArmazenamento na nuvem\n20 mar 2031 · Assinaturas e serviços · −R$ 42,00\nTRANSAÇÃO\nStreaming de música\n15 mar 2031 · Assinaturas e serviços · −R$ 21,90\nTRANSAÇÃO\nStreaming de vídeo\n12 mar 2031 · Assinaturas e serviços · −R$ 55,90\nTRANSAÇÃO\nEscola\n10 mar 2031 · Educação · −R$ 1.450,00\nTRANSAÇÃO\nArmazenamento na nuvem\n20 fev 2031 · Assinaturas e serviços · −R$ 42,00\nTRANSAÇÃO\nStreaming de música\n15 fev 2031 · Assinaturas e serviços · −R$ 21,90\nTRANSAÇÃO\nStreaming de vídeo\n12 fev 2031 · Assinaturas e serviço",
+  "rolagem": 0
+ },
+ "computador-8-busca-3.jpg": {
+  "campo": [
+   459,
+   109.3,
+   500.8,
+   20
+  ],
+  "texto": "ESC\nContas e carteiras\nGerenciar contas\nAÇÃO\nPendentes\nTransações não pagas\nTELA\nPreferências\nTema, backup e dados da conta\nAÇÃO\nComparar\nUm período contra outro\nTELA\nConta corrente\nBanco / Digital · Saldo R$ 17.894,16\nCONTA\nConta de luz\n28 jan 2027 · Casa · −R$ 228,40\nTRANSAÇÃO\nConta de luz\n29 dez 2026 · Casa · −R$ 214,70\nTRANSAÇÃO\nConfraternização do trabalho\n11 dez 2026 · Bares e restaurantes · −R$ 148,00\nTRANSAÇÃO\nConta de luz\n30 nov 2026 · Casa · −R$ 201,80\nTRANSAÇÃO\nConta de luz\n29 out 2026 · Casa · −R$ 192,60\nTRANSAÇÃO\nConta de luz\n30 set 2026 · Casa · −R$ 186,40\nTRANSAÇÃO\nConta de luz\n28 ago 2026 · Casa · −R$ 231,20\nTRANSAÇÃO\nConta de luz\n28 jul 2026 · Casa · −R$ 205,80\nTRANSAÇÃO\nConta de luz\n28 jun 2026 · Casa · −R$ 192,30\nTRANSAÇÃO\nConta de luz\n28 mai 2026 · Casa · −R$ 188,90\nTRANSAÇÃO\nConta de luz\n28 abr 2026 · Casa · −R$ 188,90\nTRANSAÇÃO\nConta de luz\n28 mar 2026 · Casa · −R$ 205,80\nTRANSAÇÃO\nConta de luz\n28 fev 2026 · Casa · −R$ 231,20\nTRANSAÇÃO\nConta de luz\n28 jan 2026 · Casa · −R$ 214,40\nTRANSAÇÃO\nConta de luz\n28 dez 2025 · Casa · −R$ 205,80\nTRANSAÇÃO\nConta de luz\n28 nov 2025 · Casa · −R$ 231,20\nTRANSAÇÃO\nConta de luz\n28 out 2025 · Casa · −R$ 205,80\nTRANSAÇÃO\n↑↓ navegar\nenter abrir\nesc fechar\n22 resultados",
+  "rolagem": 0
+ },
+ "computador-8-busca-4.jpg": {
+  "campo": [
+   459,
+   109.3,
+   500.8,
+   20
+  ],
+  "texto": "ESC\nContas e carteiras\nGerenciar contas\nAÇÃO\nPendentes\nTransações não pagas\nTELA\nPreferências\nTema, backup e dados da conta\nAÇÃO\nComparar\nUm período contra outro\nTELA\nConta corrente\nBanco / Digital · Saldo R$ 17.894,16\nCONTA\nConta de luz\n28 jan 2027 · Casa · −R$ 228,40\nTRANSAÇÃO\nConta de luz\n29 dez 2026 · Casa · −R$ 214,70\nTRANSAÇÃO\nConta de luz\n30 nov 2026 · Casa · −R$ 201,80\nTRANSAÇÃO\nConta de luz\n29 out 2026 · Casa · −R$ 192,60\nTRANSAÇÃO\nConta de luz\n30 set 2026 · Casa · −R$ 186,40\nTRANSAÇÃO\nConta de luz\n28 ago 2026 · Casa · −R$ 231,20\nTRANSAÇÃO\nConta de luz\n28 jul 2026 · Casa · −R$ 205,80\nTRANSAÇÃO\nConta de luz\n28 jun 2026 · Casa · −R$ 192,30\nTRANSAÇÃO\nConta de luz\n28 mai 2026 · Casa · −R$ 188,90\nTRANSAÇÃO\nConta de luz\n28 abr 2026 · Casa · −R$ 188,90\nTRANSAÇÃO\nConta de luz\n28 mar 2026 · Casa · −R$ 205,80\nTRANSAÇÃO\nConta de luz\n28 fev 2026 · Casa · −R$ 231,20\nTRANSAÇÃO\nConta de luz\n28 jan 2026 · Casa · −R$ 214,40\nTRANSAÇÃO\nConta de luz\n28 dez 2025 · Casa · −R$ 205,80\nTRANSAÇÃO\nConta de luz\n28 nov 2025 · Casa · −R$ 231,20\nTRANSAÇÃO\nConta de luz\n28 out 2025 · Casa · −R$ 205,80\nTRANSAÇÃO\n↑↓ navegar\nenter abrir\nesc fechar\n21 resultados",
+  "rolagem": 0
+ },
+ "computador-8-busca-5.jpg": {
+  "campo": [
+   459,
+   109.3,
+   500.8,
+   20
+  ],
+  "texto": "ESC\nContas e carteiras\nGerenciar contas\nAÇÃO\nPendentes\nTransações não pagas\nTELA\nPreferências\nTema, backup e dados da conta\nAÇÃO\nConta corrente\nBanco / Digital · Saldo R$ 17.894,16\nCONTA\nConta de luz\n28 jan 2027 · Casa · −R$ 228,40\nTRANSAÇÃO\nConta de luz\n29 dez 2026 · Casa · −R$ 214,70\nTRANSAÇÃO\nConta de luz\n30 nov 2026 · Casa · −R$ 201,80\nTRANSAÇÃO\nConta de luz\n29 out 2026 · Casa · −R$ 192,60\nTRANSAÇÃO\nConta de luz\n30 set 2026 · Casa · −R$ 186,40\nTRANSAÇÃO\nConta de luz\n28 ago 2026 · Casa · −R$ 231,20\nTRANSAÇÃO\nConta de luz\n28 jul 2026 · Casa · −R$ 205,80\nTRANSAÇÃO\nConta de luz\n28 jun 2026 · Casa · −R$ 192,30\nTRANSAÇÃO\nConta de luz\n28 mai 2026 · Casa · −R$ 188,90\nTRANSAÇÃO\nConta de luz\n28 abr 2026 · Casa · −R$ 188,90\nTRANSAÇÃO\nConta de luz\n28 mar 2026 · Casa · −R$ 205,80\nTRANSAÇÃO\nConta de luz\n28 fev 2026 · Casa · −R$ 231,20\nTRANSAÇÃO\nConta de luz\n28 jan 2026 · Casa · −R$ 214,40\nTRANSAÇÃO\nConta de luz\n28 dez 2025 · Casa · −R$ 205,80\nTRANSAÇÃO\nConta de luz\n28 nov 2025 · Casa · −R$ 231,20\nTRANSAÇÃO\nConta de luz\n28 out 2025 · Casa · −R$ 205,80\nTRANSAÇÃO\n↑↓ navegar\nenter abrir\nesc fechar\n20 resultados",
+  "rolagem": 0
+ },
+ "busca_caixa_fim": [
+  410,
+  90,
+  620,
+  640
+ ],
+ "computador-9-modo-foco.jpg": {
+  "aviso": [
+   552.4,
+   822.5,
+   335.2,
+   49.5
+  ],
+  "selo": null,
+  "selo2": null,
+  "texto": "Modo foco ativado · pressione F para sair\nModo foco ativado. Pressione F para sair\nPular para o conteúdo\nMês\nAno\nPersonalizado\nFevereiro 2027\nTodas as contas\nNova\nVisão geral\nRealizado\nPrevisto\nAmbos\nSó o que já entrou e saiu da conta.\nInclui o que ainda está pendente de pagamento.\nO que já aconteceu, e quanto falta para o mês fechar.\nPatrimônio\nR$\n115.439\n,36\ntodas as contas\n5 contas\nEste mês\n+R$ 3.055,60\n↑ 2,7% no patrimônio\nem relação a janeiro\nReceitas\nR$\n9.960\nqueda de\n5,7%\nvs média R$ 10.564\nDespesas\nR$\n6.904\n,40\nqueda de\n20,0%\nvs média R$ 8.631\n2 pendentes\nResultado\nR$\n3.055\n,60\nalta de\n58,1%\nvs média R$ 1.933\nMédia por mês de Fev/26 a Jan/27 · meses fechados\nFluxo mensal\nReceitas e despesas agrupadas por mês\nÚltimos 12 meses\nAnálise do período\nÚltimos 12 meses · meses sem lançamentos são ignorados\nPersonalizar\nReceita média\nR$ 10.564,45\nFev/26 a Jan/27 · meses fechados\n↓ 5,7% (este mês vs média)\nDespesa média\nR$ 8.631,22\nFev/26 a Jan/27 · meses fechados\n↓ 20,0% (este mês vs média)\nSaldo acumulado\nR$ 115.439,36\n+R$ 22.554,36\nMar/26\nFev/27\nReserva financeira\n13,4\nmeses\nR$ 115.439,36 ÷ R$ 8.631,22/mês (despesa média)\nmédia de 12 meses com movimento\nPor categoria\nDespesas do período\nDespesas\nReceitas\nPeríodo global\nDespesas\nR$ 6.904,40\n9 categorias\nTop saídas\nMaiores despesas do período\nCasa\nR$ 2.300,00 33%\nEducação\nR$ 1.450,00 21%\nMercado\nR$ 1.418,80 21%\nTransporte\nR$ 550,40 8%\nBares e restaurantes\nR$ 467,20 7%\nLazer e hobbies\nR$ 353,90 5%\nMinhas contas\nSaldos em tempo real\n+ Nova conta\nPATRIMÔNIO TOTAL\nR$ 115.439,36\nPOSITIVAS\nR$ 115.439,36\nCorretora no exterior\nINVESTIMENTO\nR$ 60.000,00\nReserva\nINVESTIMENTO\nR$ 25.974,60\nConta corrente\nR$ 17.894,16\nBanco na Europa\nINVESTIMENTO\nR$ 11.525,40\nCarteira do Carnaval\nDINHEIRO\nR$ 45,20\nÚltimas transações\nClique em uma para editar\nVer todas →\nInsights\nAnálise automática do período\nExcelente! Receita guardada: 31%\nVocê guardou R$ 3.055,60 de R$ 9.960,00 recebidos. Continue assim!\nCasa: 33% das despesas\nConcentra R$ 2.300,00 dos seus gastos.\n3 orçamentos acima de 70%\nMercado, Bares e restaurantes, Lazer e hobbies",
+  "rolagem": 0
+ },
+ "aviso_foco": "Modo foco ativado · pressione F para sair",
+ "corpo_foco": true,
+ "saiu_do_foco": true,
+ "computador-10-atalhos.jpg": {
+  "janela": [
+   510,
+   218,
+   420,
+   464
+  ],
+  "fechar": [
+   537,
+   545,
+   89.3,
+   21
+  ],
+  "texto": "R$ 25.974,60\nConta corrente\nR$ 17.894,16\nBanco na Europa\nINVESTIMENTO\nR$ 11.525,40\nCarteira do Carnaval\nDINHEIRO\nR$ 45,20\nÚltimas transações\nClique em uma para editar\nVer todas →\nInsights\nAnálise automática do período\nExcelente! Receita guardada: 31%\nVocê guardou R$ 3.055,60 de R$ 9.960,00 recebidos. Continue assim!\nCasa: 33% das despesas\nConcentra R$ 2.300,00 dos seus gastos.\n3 orçamentos acima de 70%\nMercado, Bares e restaurantes, Lazer e hobbies\nAtalhos de teclado\nBusca global\nCmd+K\nNova transação\nN\nLançar ou salvar a transação\nCmd+Enter\nBuscar na lista\n/\nModo foco\nF\nPeríodo anterior / seguinte\n← →\nIr para o período atual\nH\nDesfazer a última ação\nCmd+Z\nFechar modal\nEsc\nEsta ajuda\n?\nFechar",
+  "rolagem": 0
+ },
+ "atalhos_caixa": [
+  510,
+  218,
+  420,
+  464,
+  "Atalhos de teclado Busca global Cmd+K Nova transação N Lançar ou salvar a transação Cmd+Enter Buscar na lista / Modo foco F Período anterior / seguinte ← → Ir para o período atual H Desfazer a última ação Cmd+Z Fechar modal Esc Esta ajuda ? Fechar"
+ ],
+ "erros2": [],
+ "relogio": "Thu Feb 18 2027 10:00:21 GMT-0300 (Horário Padrão de Brasília)",
+ "tempo_lancamento_s": 2.0
+}

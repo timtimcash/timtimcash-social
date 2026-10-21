@@ -1,0 +1,1008 @@
+{
+ "0401_contas": {
+  "Contas e carteiras": [
+   17,
+   796,
+   214,
+   30
+  ],
+  "4 contas": [
+   17,
+   829,
+   214,
+   18
+  ],
+  "PATRIMÔNIO CONSOLIDADO": null,
+  "Banco na Europa": [
+   75,
+   945,
+   166,
+   21
+  ],
+  "Conta corrente": [
+   75,
+   1014,
+   166,
+   21
+  ],
+  "Corretora no exterior": [
+   75,
+   1083,
+   166,
+   21
+  ],
+  "Reserva": [
+   75,
+   1152,
+   166,
+   21
+  ],
+  "Nova conta": [
+   17,
+   1234,
+   356,
+   50
+  ],
+  "modal": [
+   0,
+   774,
+   390,
+   526
+  ]
+ },
+ "1001_visao": {
+  "Por categoria": [
+   29,
+   1945,
+   118,
+   22
+  ],
+  "Top saídas": [
+   29,
+   2325,
+   151,
+   20
+  ],
+  "Casa": [
+   69,
+   2382,
+   176,
+   20
+  ],
+  "Educação": [
+   69,
+   2440,
+   176,
+   20
+  ],
+  "Saúde": [
+   69,
+   2672,
+   203,
+   20
+  ],
+  "Minhas contas": [
+   29,
+   2759,
+   121,
+   22
+  ],
+  "painel_por_categoria": [
+   14,
+   1930,
+   362,
+   796
+  ]
+ },
+ "1801_sim": {
+  "Saldo em set/27": [
+   29,
+   1740,
+   332,
+   20
+  ],
+  "Definir uma meta": [
+   29,
+   1832,
+   132,
+   24
+  ],
+  "E se…": [
+   29,
+   2104,
+   35,
+   18
+  ],
+  "Testa um susto": [
+   29,
+   2124,
+   332,
+   15
+  ],
+  "Receita −10%": [
+   29,
+   2147,
+   163,
+   36
+  ],
+  "Outro valor": [
+   29,
+   2231,
+   332,
+   36
+  ],
+  "Cruza R$ 15 mil": null,
+  "Cruza R$ 25 mil": null,
+  "Receitas / mês": [
+   43,
+   2362,
+   133,
+   16
+  ],
+  "es": [
+   29,
+   2092,
+   332,
+   175
+  ],
+  "chips": [
+   29,
+   2147,
+   332,
+   120
+  ]
+ },
+ "1401_sem_limites": {
+  "Sem limites definidos": [
+   49,
+   265,
+   292,
+   22
+  ],
+  "Defina limites": [
+   49,
+   294,
+   292,
+   39
+  ],
+  "Comece pela sua média": [
+   65,
+   364,
+   260,
+   39
+  ],
+  "Arredondada": [
+   65,
+   406,
+   260,
+   33
+  ],
+  "Casa": [
+   65,
+   456,
+   29,
+   18
+  ],
+  "Lazer e hobbies": [
+   65,
+   610,
+   88,
+   18
+  ],
+  "e mais 7 categorias": [
+   65,
+   636,
+   260,
+   22
+  ],
+  "Usar estes limites": [
+   65,
+   670,
+   260,
+   36
+  ],
+  "Definir do zero": [
+   65,
+   714,
+   260,
+   36
+  ],
+  "cartao_media": [
+   49,
+   351,
+   292,
+   414
+  ]
+ },
+ "1401_orc": {
+  "Gasto total no período": [
+   33,
+   155,
+   138,
+   20
+  ],
+  "Limite definido": [
+   46,
+   374,
+   131,
+   16
+  ],
+  "Sobra do limite": [
+   46,
+   480,
+   298,
+   16
+  ],
+  "Onde definir limite primeiro": [
+   30,
+   602,
+   330,
+   21
+  ],
+  "Educação": [
+   73,
+   690,
+   287,
+   20
+  ],
+  "Assinaturas e serviços": [
+   73,
+   898,
+   287,
+   20
+  ],
+  "Progresso por categoria": [
+   29,
+   1040,
+   168,
+   22
+  ],
+  "a marca vertical": [
+   38,
+   1161,
+   323,
+   33
+  ],
+  "VÃO ESTOURAR": null,
+  "Bares e restaurantes": [
+   71,
+   1250,
+   138,
+   21
+  ],
+  "NO LIMITE": null,
+  "Mercado": [
+   71,
+   1416,
+   59,
+   21
+  ],
+  "TRANQUILAS": null,
+  "Transporte": [
+   71,
+   1582,
+   73,
+   21
+  ],
+  "Saúde": [
+   71,
+   1698,
+   43,
+   21
+  ],
+  "Lazer e hobbies": [
+   71,
+   1816,
+   105,
+   21
+  ],
+  "Mostrar as outras": [
+   29,
+   1886,
+   332,
+   39
+  ],
+  "painel_onde": [
+   14,
+   587,
+   362,
+   420
+  ],
+  "sug_itens": [
+   [
+    "EducaçãoR$ 2.390no período",
+    30,
+    690,
+    330,
+    94
+   ],
+   [
+    "CasaR$ 2.300no período",
+    30,
+    784,
+    330,
+    104
+   ],
+   [
+    "Assinaturas e serviçosR$ 55no ",
+    30,
+    888,
+    330,
+    104
+   ]
+  ],
+  "rolagem": 0,
+  "painel_progresso": [
+   14,
+   1025,
+   362,
+   916
+  ],
+  "faixas": {
+   "titulos": {
+    "Vão estourar no ritmo atual": [
+     29,
+     1206,
+     332,
+     17
+    ],
+    "No limite": [
+     29,
+     1372,
+     332,
+     17
+    ],
+    "Tranquilas": [
+     29,
+     1537,
+     332,
+     17
+    ]
+   },
+   "linhas": {
+    "Bares e restaurantes": [
+     29,
+     1239,
+     332,
+     103
+    ],
+    "Mercado": [
+     29,
+     1404,
+     332,
+     103
+    ],
+    "Transporte": [
+     29,
+     1570,
+     332,
+     103
+    ],
+    "Saúde": [
+     29,
+     1687,
+     332,
+     103
+    ],
+    "Lazer e hobbies": [
+     29,
+     1804,
+     332,
+     71
+    ]
+   },
+   "legenda": [
+    29,
+    1161,
+    332,
+    33
+   ]
+  },
+  "cabecalho": [
+   14,
+   138,
+   362,
+   431
+  ]
+ },
+ "1401_orc_aberto": {
+  "Progresso por categoria": [
+   29,
+   1040,
+   168,
+   22
+  ],
+  "VÃO ESTOURAR": null,
+  "NO LIMITE": null,
+  "TRANQUILAS": null,
+  "SEM LIMITE DEFINIDO": null,
+  "Lazer e hobbies": [
+   71,
+   1816,
+   105,
+   21
+  ],
+  "Assinaturas e serviços": [
+   73,
+   898,
+   287,
+   20
+  ],
+  "painel_progresso": [
+   14,
+   1025,
+   362,
+   1154
+  ],
+  "faixas": {
+   "titulos": {
+    "Vão estourar no ritmo atual": [
+     29,
+     1206,
+     332,
+     17
+    ],
+    "No limite": [
+     29,
+     1372,
+     332,
+     17
+    ],
+    "Tranquilas": [
+     29,
+     1537,
+     332,
+     17
+    ],
+    "Sem limite definido": [
+     29,
+     1914,
+     332,
+     17
+    ]
+   },
+   "linhas": {
+    "Bares e restaurantes": [
+     29,
+     1239,
+     332,
+     103
+    ],
+    "Mercado": [
+     29,
+     1404,
+     332,
+     103
+    ],
+    "Transporte": [
+     29,
+     1570,
+     332,
+     103
+    ],
+    "Saúde": [
+     29,
+     1687,
+     332,
+     103
+    ],
+    "Lazer e hobbies": [
+     29,
+     1804,
+     332,
+     80
+    ],
+    "Educação": [
+     29,
+     1946,
+     332,
+     66
+    ],
+    "Casa": [
+     29,
+     2026,
+     332,
+     66
+    ],
+    "Assinaturas e serviços": [
+     29,
+     2106,
+     332,
+     57
+    ]
+   },
+   "legenda": [
+    29,
+    1161,
+    332,
+    33
+   ]
+  }
+ },
+ "1101_lista": {
+  "Categorias": [
+   17,
+   102,
+   202,
+   30
+  ],
+  "Toque em": [
+   17,
+   136,
+   202,
+   15
+  ],
+  "Despesas": [
+   28,
+   183,
+   166,
+   34
+  ],
+  "Buscar categoria": null,
+  "Alimentação": [
+   76,
+   322,
+   232,
+   21
+  ],
+  "Casa": [
+   76,
+   562,
+   232,
+   21
+  ],
+  "Educação": [
+   76,
+   882,
+   232,
+   21
+  ],
+  "Mais": [
+   17,
+   934,
+   87,
+   50
+  ],
+  "modal": [
+   0,
+   80,
+   390,
+   920
+  ],
+  "lista": [
+   1,
+   298,
+   388,
+   623
+  ]
+ },
+ "1101_receitas": {
+  "Categorias": [
+   17,
+   391,
+   202,
+   30
+  ],
+  "Receitas": [
+   196,
+   472,
+   166,
+   34
+  ],
+  "Empréstimos": [
+   76,
+   612,
+   232,
+   21
+  ],
+  "Investimentos": [
+   76,
+   692,
+   232,
+   21
+  ],
+  "Outras receitas": [
+   76,
+   772,
+   232,
+   21
+  ],
+  "Salário": [
+   76,
+   852,
+   232,
+   21
+  ],
+  "Mais": [
+   17,
+   934,
+   87,
+   50
+  ],
+  "modal": [
+   0,
+   369,
+   390,
+   631
+  ]
+ },
+ "1101_acoes": {
+  "Renomear": [
+   0,
+   556,
+   390,
+   50
+  ],
+  "Aparência": [
+   0,
+   606,
+   390,
+   50
+  ],
+  "Mover para outra categoria": [
+   0,
+   656,
+   390,
+   50
+  ],
+  "Nova subcategoria": [
+   0,
+   706,
+   390,
+   50
+  ],
+  "Excluir categoria": [
+   0,
+   881,
+   390,
+   50
+  ],
+  "Cancelar": [
+   20,
+   941,
+   350,
+   45
+  ],
+  "folha": [
+   0,
+   483,
+   390,
+   517
+  ]
+ },
+ "1101_nova_sub": {
+  "Nova subcategoria": [
+   21,
+   374,
+   348,
+   56
+  ],
+  "Subcategoria de Casa": [
+   21,
+   430,
+   348,
+   31
+  ],
+  "Cancelar": [
+   47,
+   550,
+   143,
+   50
+  ],
+  "OK": [
+   200,
+   550,
+   143,
+   50
+  ]
+ },
+ "1101_casa_subs": {
+  "Bares e restaurantes": [
+   76,
+   482,
+   232,
+   21
+  ],
+  "Casa": [
+   76,
+   562,
+   232,
+   21
+  ],
+  "Aluguel": [
+   74,
+   625,
+   240,
+   20
+  ],
+  "Luz": [
+   74,
+   680,
+   240,
+   20
+  ],
+  "Compras": [
+   76,
+   752,
+   232,
+   21
+  ],
+  "grupo_casa": [
+   17,
+   538,
+   356,
+   180
+  ]
+ },
+ "1101_aparencia": {
+  "Aparência": [
+   76,
+   560,
+   84,
+   26
+  ],
+  "Cor": [
+   -232,
+   761,
+   202,
+   20
+  ],
+  "Ícone": [
+   18,
+   706,
+   354,
+   18
+  ],
+  "Salvar": [
+   122,
+   935,
+   250,
+   50
+  ],
+  "dialogo": [
+   0,
+   543,
+   390,
+   457
+  ]
+ },
+ "1101_excluir": {
+  "Excluir categoria": [
+   17,
+   599,
+   157,
+   30
+  ],
+  "Migração obrigatória": [
+   17,
+   632,
+   157,
+   18
+  ],
+  "1 transação": [
+   31,
+   692,
+   92,
+   16
+  ],
+  "Mover transações para": [
+   17,
+   799,
+   356,
+   18
+  ],
+  "Categoria que será excluída": [
+   17,
+   889,
+   356,
+   18
+  ],
+  "Migrar e excluir": [
+   122,
+   934,
+   251,
+   50
+  ],
+  "modal": [
+   0,
+   577,
+   390,
+   423
+  ],
+  "sel": [
+   17,
+   825,
+   356,
+   48
+  ]
+ },
+ "0601_form": {
+  "Nova transação": [
+   23,
+   332,
+   129,
+   26
+  ],
+  "Valor": [
+   19,
+   441,
+   352,
+   16
+  ],
+  "Data": [
+   67,
+   576,
+   181,
+   24
+  ],
+  "Categoria": [
+   67,
+   696,
+   188,
+   24
+  ],
+  "Pago via": [
+   67,
+   748,
+   134,
+   24
+  ],
+  "Recorrência": [
+   23,
+   850,
+   344,
+   20
+  ],
+  "Lançar despesa": [
+   136,
+   940,
+   231,
+   44
+  ],
+  "modal": [
+   0,
+   302,
+   390,
+   698
+  ],
+  "jp": [
+   1,
+   615,
+   388,
+   67
+  ]
+ },
+ "0601_busca": {
+  "busca": [
+   68,
+   422,
+   276,
+   38
+  ],
+  "rolagem": 0,
+  "titulo": [
+   64,
+   25,
+   94,
+   26
+  ],
+  "seg · 18 de janeiro": [
+   15,
+   706,
+   360,
+   34
+  ],
+  "Uniforme escolar": [
+   81,
+   760,
+   115,
+   17
+  ],
+  "ter · 12 de janeiro": [
+   15,
+   813,
+   360,
+   50
+  ],
+  "Material escolar": [
+   81,
+   883,
+   108,
+   17
+  ]
+ },
+ "0601_pendentes": {
+  "A pagar": [
+   31,
+   159,
+   50,
+   16
+  ],
+  "A receber": [
+   63,
+   267,
+   64,
+   17
+  ],
+  "Material escolar": [
+   75,
+   768,
+   102,
+   17
+  ],
+  "Uniforme escolar": [
+   75,
+   972,
+   102,
+   17
+  ],
+  "IPVA 2027": [
+   75,
+   1134,
+   89,
+   17
+  ]
+ },
+ "0801_visao": {
+  "Patrimônio": [
+   31,
+   209,
+   328,
+   20
+  ],
+  "Movimento de janeiro": [
+   31,
+   432,
+   328,
+   40
+  ],
+  "Guardou": [
+   31,
+   478,
+   328,
+   18
+  ],
+  "Resultado do período": [
+   31,
+   587,
+   123,
+   18
+  ],
+  "Receitas": [
+   31,
+   543,
+   121,
+   18
+  ],
+  "Despesas": [
+   241,
+   543,
+   118,
+   18
+  ],
+  "Comparado com": [
+   14,
+   737,
+   362,
+   15
+  ],
+  "fab": [
+   328,
+   766,
+   48,
+   48
+  ],
+  "pat": [
+   14,
+   192,
+   362,
+   432
+  ],
+  "fab_visivel": [
+   328,
+   766,
+   48,
+   48
+  ]
+ }
+}
