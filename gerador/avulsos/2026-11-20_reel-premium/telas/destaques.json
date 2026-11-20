@@ -1,0 +1,218 @@
+{
+ "menu": {
+  "selo": [
+   87,
+   64,
+   76.1,
+   12,
+   "SPAN",
+   "PREMIUM"
+  ],
+  "logo": [
+   86,
+   36,
+   113.9,
+   22,
+   "DIV",
+   "timtimcash"
+  ],
+  "relatorios": [
+   26,
+   448.5,
+   256,
+   48,
+   "BUTTON",
+   "Relatórios"
+  ],
+  "remessas": [
+   26,
+   648.5,
+   256,
+   48,
+   "BUTTON",
+   "Remessas ao exterior"
+  ],
+  "orcamentos": [
+   26,
+   398.5,
+   256,
+   48,
+   "BUTTON",
+   "Orçamentos"
+  ]
+ },
+ "relatorios_out": {
+  "resumo": [
+   29,
+   332.5,
+   332,
+   122,
+   "DIV",
+   "20% Acima do seu padrão · +4,9 pontos percentuais Sua média de 12 meses é 15,2% "
+  ],
+  "diag": [
+   29,
+   215,
+   266.6,
+   22.5,
+   "H2",
+   "Diagnóstico de outubro 2026"
+  ]
+ },
+ "dre_out": {
+  "resultado": [
+   29,
+   235.5,
+   332,
+   66.5,
+   "DIV",
+   "RESULTADO Receitas menos despesas +R$ 2.065,00"
+  ],
+  "receitas": [
+   29,
+   310,
+   332,
+   38.5,
+   "DIV",
+   "RECEITAS R$ 10.280,00"
+  ],
+  "despesas": [
+   29,
+   454.5,
+   332,
+   46,
+   "DIV",
+   "DESPESAS 79,9% R$ 8.215,00"
+  ]
+ },
+ "comparar_out_2025": {
+  "diferenca": [
+   29,
+   582.5,
+   332,
+   74.5,
+   "DIV",
+   "Diferença +R$275 +3%"
+  ],
+  "out26": [
+   14,
+   1284.5,
+   362,
+   584.5,
+   "DIV",
+   "Ponte de variação out/25 para out/26 · o que causou a diferença Despesas Receita"
+  ],
+  "out25": [
+   14,
+   1284.5,
+   362,
+   584.5,
+   "DIV",
+   "Ponte de variação out/25 para out/26 · o que causou a diferença Despesas Receita"
+  ],
+  "forca": [
+   29,
+   739,
+   332,
+   36,
+   "DIV",
+   "A maior força foi Alimentação, +R$ 396. O resto caiu R$ 121."
+  ]
+ },
+ "simulacao": {
+  "base": [
+   29,
+   188.5,
+   332,
+   124.5,
+   "DIV",
+   "Cenário base BASE 11 meses · até set/27 · +R$ 1.743 por mês R$ 33,4 mil +135%"
+  ],
+  "carro": [
+   44,
+   402.5,
+   266,
+   18,
+   "SPAN",
+   "−R$ 17,6 mil que a base"
+  ],
+  "cartao_carro": [
+   29,
+   323,
+   332,
+   144.5,
+   "DIV",
+   "Trocar de carro 11 meses · até set/27 · +R$ 143 por mês −R$ 17,6 mil que a base "
+  ]
+ },
+ "remessas": {
+  "usd": [
+   124.7,
+   259.5,
+   85.8,
+   16.5,
+   "SMALL",
+   "+10,5% em US$"
+  ],
+  "brl": [
+   116.8,
+   292,
+   77.8,
+   16.5,
+   "SMALL",
+   "+11,6% em R$"
+  ],
+  "carteira": [
+   162.6,
+   216.5,
+   115,
+   19,
+   "SMALL",
+   "na carteira hoje"
+  ],
+  "cartao": [
+   14,
+   138,
+   362,
+   312.5,
+   "DIV",
+   "Investido no exterior 🇺🇸 Estados Unidos no patrimônio · conta de destino US$13"
+  ],
+  "pilula_usd": [
+   29,
+   255.5,
+   191.4,
+   24.5,
+   "SPAN",
+   "+US$ 1.260,00 +10,5% em US$"
+  ],
+  "pilula_brl": [
+   29,
+   288,
+   175.5,
+   24.5,
+   "SPAN",
+   "+R$ 6.982,89 +11,6% em R$"
+  ]
+ },
+ "planos_gratis": {
+  "ops": [
+   33,
+   796.5,
+   324,
+   109.375
+  ],
+  "cartao": [
+   14,
+   605.125,
+   362,
+   671.03125
+  ],
+  "seguro": [
+   33,
+   1218.375,
+   324,
+   36.78125
+  ]
+ }
+}
