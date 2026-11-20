@@ -40,7 +40,7 @@ POST = {
         "PARA O SEU DINHEIRO · Uma rotina de 2 minutos. · Num momento fixo do dia, como no estudo: o mesmo contexto todo dia. · Três passos com ícones: Lance o que gastou (o “+” abre a Nova transação); Olhe o mês (o Resultado do período fica na Visão geral); Confira o que vence (Pendentes mostra o que vence nos próximos dias).",
         "NO TIMTIMCASH · 08/01 · Tudo na primeira tela. · O “+” lança um gasto. O Resultado do período mostra como o mês vai. · Tela real da Visão geral no celular (08/01/2027): Movimento de janeiro 2027, parcial; Guardou 91% da receita; Receitas R$ 9.960,00; Despesas R$ 896,00; Resultado do período R$ 9.064,00; os três mini cartões e o botão “+”. · Nota: Tela real do timtimcash, com dados de exemplo.",
         "SE VOCÊ COMEÇAR HOJE · Daqui a 66 dias: 15 de março. · No estudo, 66 foi a mediana: para uns, antes; para outros, depois. · Calendário de março de 2027, com o rótulo “daqui a 66 dias” e o dia 15 marcado em verde. · Nota: 66 dias depois de sexta, 08/01/2027: segunda, 15/03/2027.",
-        "Fechamento (fundo verde) · Comece hoje. Faltar um dia faz parte. · Visão geral no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. · Botão: Link na bio.",
+        "Fechamento (fundo verde) · Comece hoje. Faltar um dia faz parte. · Visão geral no timtimcash. No plano Grátis, no computador ou no celular. · Botão: Link na bio.",
     ],
     "legenda": (
         "Quanto tempo leva para um hábito pegar? Num estudo de 2010, a mediana foi de 66 dias.\n\n"
@@ -65,7 +65,7 @@ POST = {
         "Para o seu dinheiro, uma rotina de 2 minutos, num momento fixo do dia, como no estudo. Três passos: lance o que gastou, com o botão mais da Nova transação; olhe o mês, no Resultado do período da Visão geral; e confira o que vence, em Pendentes.",
         "No timtimcash, em 8 de janeiro: tudo na primeira tela. O botão mais lança um gasto e o Resultado do período mostra como o mês vai. Tela real da Visão geral no celular, com dados de exemplo: receitas de R$ 9.960,00, despesas de R$ 896,00, resultado do período de R$ 9.064,00, guardou 91% da receita.",
         "Se você começar hoje: daqui a 66 dias, 15 de março. No estudo, 66 foi a mediana: para uns, antes; para outros, depois. Calendário de março de 2027, com o rótulo daqui a 66 dias e o dia 15 marcado. 66 dias depois de sexta, 8 de janeiro de 2027, é segunda, 15 de março de 2027.",
-        "Comece hoje. Faltar um dia faz parte. Visão geral no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. Link na bio.",
+        "Comece hoje. Faltar um dia faz parte. Visão geral no timtimcash. No plano Grátis, no computador ou no celular. Link na bio.",
     ],
     "fontes": [
         ("Lally, van Jaarsveld, Potts e Wardle (2010) · How are habits formed: Modelling habit formation in the real world · European Journal of Social Psychology, 40(6), 998-1009 · DOI 10.1002/ejsp.674", "https://doi.org/10.1002/ejsp.674"),

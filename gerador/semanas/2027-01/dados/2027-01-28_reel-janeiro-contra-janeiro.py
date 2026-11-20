@@ -52,6 +52,7 @@ POST = {
         "IPVA subiu de R$ 1.180 para R$ 1.236, mas a 1ª parcela do IPTU, que em 2026 caiu em janeiro (R$ 210), em 2027 vence em fevereiro. "
         "Por isso Impostos e Taxas ficou R$ 154 abaixo.\n\n"
         "Comparar com o mesmo mês do ano passado mostra o que é da época do ano e o que é novo.\n\n"
+        "Comparar é do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#controlefinanceiro #financaspessoais #organizacaofinanceira #orcamentofamiliar #timtimcash"

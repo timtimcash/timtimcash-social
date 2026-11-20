@@ -47,7 +47,7 @@ POST = {
         "está pendente: as mensalidades de fevereiro a dezembro já estão lá, porque foram lançadas como Fixa. Um toque em Educação "
         "abre os 14 lançamentos: 3 pagos e 11 pendentes.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
-        "Crie sua conta com nome, e-mail e senha. Gratuito para o controle financeiro.\n\n"
+        "Crie sua conta com nome, e-mail e senha e comece no plano Grátis.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#voltaasaulas #educacaofinanceira #controlefinanceiro #financaspessoais #timtimcash"
     ),

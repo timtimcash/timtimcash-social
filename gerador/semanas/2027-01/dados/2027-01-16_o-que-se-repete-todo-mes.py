@@ -35,7 +35,7 @@ POST = {
         "O QUE SE REPETE · Fixa, parcela e o que se repete. · Três linhas reais da lista de dez/26: Aluguel (Fixa) R$ 2.300,00, ao lado “Fixa: lançada como Fixa: aluguel, escola, assinaturas”; Notebook (Parcela 2/10) R$ 360,00, “Parcela: compra parcelada: o notebook em 10 vezes”; Mercado da Vila (Repetida) R$ 452,30, “Repetida: mesma descrição em 3 ou mais meses: mercado, combustível”. Embaixo, a regra da tela: “Entram como recorrentes as despesas lançadas como Fixa ou Parcelada e as que se repetem com a mesma descrição em 3 ou mais meses, com valor na mesma ordem de grandeza.” · Nota: Tela real do timtimcash, com dados de exemplo.",
         "O PONTUAL · O pontual tem data. · Em 2026, R$ 6.063,50 vieram uma vez só. Janeiro, julho e dezembro levaram a maior parte. · Barras do pontual por mês em 2026 (R$): jan 1.390, jul 640, set 264, out 276, nov 519, dez 2.974,50; os outros meses vazios. Tela real da lista Pontual · Jan/26, R$ 1.390,00, 15% do mês: IPVA · parcela única R$ 1.180,00 e IPTU · 1ª parcela R$ 210,00. · Nota: Tela real do timtimcash, com dados de exemplo.",
         "POR QUE SEPARAR · Cada parte pede um cuidado. · Recorrente, 94%, R$ 7.982,60 por mês: entra no plano do mês, e um ajuste nele vale 12 vezes: R$ 50 a menos por mês são R$ 600 no ano. Pontual, 6%, R$ 6.063,50 no ano: não vem todo mês, mas vem; separe antes: no exemplo, janeiro, julho e dezembro. · Nota: Exemplo: a conta fictícia dos nossos posts, despesas pagas de janeiro a dezembro de 2026.",
-        "Fechamento (fundo verde) · Veja o que se repete no seu ano. · Relatórios no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. · Botão: Link na bio.",
+        "Fechamento (fundo verde) · Veja o que se repete no seu ano. · Relatórios no timtimcash. No plano Grátis, no computador ou no celular. · Botão: Link na bio.",
     ],
     "legenda": (
         "Quanto do seu gasto se repete?\n\n"
@@ -47,7 +47,8 @@ POST = {
         "O recorrente entra no plano do mês, e um ajuste nele vale 12 vezes: R$ 50 a menos por mês são R$ 600 no ano. O pontual não vem "
         "todo mês, mas vem: dá para separar antes.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
-        "Gratuito para o controle financeiro. Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
+        "No plano Grátis, os Relatórios mostram os últimos 12 meses; o histórico completo, como o ano de 2026 inteiro, é do Premium.\n\n"
+        "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#planejamentofinanceiro #orcamento #controlefinanceiro #financaspessoais #timtimcash"
     ),
     "justificativa": [
@@ -62,7 +63,7 @@ POST = {
         "Fixa, parcela e o que se repete. Três linhas reais da lista de dezembro: aluguel, marcado como Fixa, 2.300 reais, lançado como fixa, como aluguel, escola e assinaturas; notebook, parcela 2 de 10, 360 reais, compra parcelada; Mercado da Vila, marcado como Repetida, 452 reais e 30 centavos, a mesma descrição em 3 ou mais meses, como mercado e combustível. Embaixo, a regra da tela: entram como recorrentes as despesas lançadas como Fixa ou Parcelada e as que se repetem com a mesma descrição em 3 ou mais meses, com valor na mesma ordem de grandeza.",
         "O pontual tem data. Em 2026, 6.063 reais e 50 centavos vieram uma vez só; janeiro, julho e dezembro levaram a maior parte. Barras do pontual por mês: janeiro, 1.390 reais; julho, 640; setembro, 264; outubro, 276; novembro, 519; dezembro, 2.974 reais e 50 centavos. Tela real da lista pontual de janeiro de 2026: IPVA, parcela única, 1.180 reais, e IPTU, primeira parcela, 210 reais.",
         "Por que separar: cada parte pede um cuidado. Recorrente, 94%, 7.982 reais e 60 centavos por mês: entra no plano do mês, e um ajuste nele vale 12 vezes; 50 reais a menos por mês são 600 no ano. Pontual, 6%, 6.063 reais e 50 centavos no ano: não vem todo mês, mas vem; separe antes, no exemplo em janeiro, julho e dezembro.",
-        "Veja o que se repete no seu ano. Relatórios no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. Link na bio.",
+        "Veja o que se repete no seu ano. Relatórios no timtimcash. No plano Grátis, no computador ou no celular. Link na bio.",
     ],
     "fontes": [],
     "telas": [

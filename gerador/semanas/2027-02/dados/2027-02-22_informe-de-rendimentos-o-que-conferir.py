@@ -43,7 +43,7 @@ POST = {
         "BRUTO E LÍQUIDO · Por que o informe mostra mais que o extrato? · No extrato cai o líquido. O informe mostra os rendimentos e, à parte, o que foi descontado. · Ilustração sem valores: “No informe” (rendimentos, antes dos descontos), uma barra com líquido, INSS e IR; “No extrato” (o que caiu na conta), só a parte do líquido. · Nota: Ilustração, sem valores. O contracheque mostra os descontos de cada mês; o informe soma o ano.",
         "NOVIDADE NA DECLARAÇÃO DE 2027 · Até R$ 60 mil no ano, imposto zero. · Vale para os rendimentos tributáveis de 2026. Por isso, confira o total do informe. · Esquema “Rendimentos tributáveis em 2026”: até R$ 60 mil, a redução zera o imposto; até R$ 88,2 mil, a redução diminui; acima disso, sem redução. · Nota: Esquema sem escala. Lei 15.270/2025, que incluiu o art. 11-A na Lei 9.250/1995: redução anual a partir da declaração de 2027.",
         "NO TIMTIMCASH · O que caiu na conta em 2026. · Em Transações, o Ano 2026 e a busca “salário” somam o que entrou, com o 13º: R$ 125.973,36. · Recortes da tela real de Transações no celular (relógio em 22/02/2027): o período “Ano 2026” e “Todas as contas”; “Transações · filtrado · 14 transações · 14 pagas · 0 pendentes · somam R$ 125.973,36 · 824 no histórico” e a busca “salário”. · Nota: Tela real do timtimcash, com dados de exemplo. · Aviso em âmbar: O timtimcash organiza os números e não faz a declaração. Confira o seu caso com um contador.",
-        "Fechamento (fundo verde) · Informe na mão, números no lugar. · Transações no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. · Botão: Link na bio.",
+        "Fechamento (fundo verde) · Informe na mão, números no lugar. · Transações no timtimcash. No plano Grátis, no computador ou no celular. · Botão: Link na bio.",
     ],
     "legenda": (
         "O informe de rendimentos chega até 26/02. Antes de guardar, confira.\n\n"
@@ -69,7 +69,7 @@ POST = {
         "Por que o informe mostra mais que o extrato? No extrato cai o líquido. O informe mostra os rendimentos e, à parte, o que foi descontado. Ilustração sem valores: no informe, uma barra com o líquido, o INSS e o IR; no extrato, só o líquido.",
         "Novidade na declaração de 2027: até 60 mil reais no ano, imposto zero. Vale para os rendimentos tributáveis de 2026. Esquema: até 60 mil reais, a redução zera o imposto; até 88,2 mil reais, a redução diminui; acima disso, sem redução. Lei 15.270/2025.",
         "No timtimcash: o que caiu na conta em 2026. Em Transações, o Ano 2026 e a busca salário somam o que entrou, com o 13º: 125.973,36 reais. Recortes da tela real com dados de exemplo: período Ano 2026; 14 transações, 14 pagas, somam 125.973,36 reais; a busca salário. Aviso: o timtimcash organiza os números e não faz a declaração. Confira o seu caso com um contador.",
-        "Informe na mão, números no lugar. Transações no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. Link na bio.",
+        "Informe na mão, números no lugar. Transações no timtimcash. No plano Grátis, no computador ou no celular. Link na bio.",
     ],
     "fontes": [
         ("Receita Federal · Instrução Normativa RFB nº 2.060/2021, art. 3º (comprovante até o último dia útil de fevereiro do ano seguinte ao pagamento); sistema Normas, página dinâmica; texto do art. 3º conferido em reprodução da norma (J/FATOS.md 5a.1)", "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/122177/visao/multivigente"),

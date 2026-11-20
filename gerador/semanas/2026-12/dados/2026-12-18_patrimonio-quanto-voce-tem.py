@@ -45,6 +45,7 @@ POST = {
         "No timtimcash, cada remessa entra no patrimônio pelo custo em reais (R$ 71.525,40 no exemplo). O valor de hoje fica em Remessas, "
         "cada moeda na sua: US$ 13.310 valem R$ 67.235,47 ao câmbio salvo, e € 2.012, R$ 11.386,31.\n\n"
         "Em Contas e carteiras, você vê o patrimônio consolidado e escolhe, em cada conta, o que entra no total.\n\n"
+        "Remessas ao exterior são do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#patrimonio #financaspessoais #investimentonoexterior #controlefinanceiro #timtimcash"

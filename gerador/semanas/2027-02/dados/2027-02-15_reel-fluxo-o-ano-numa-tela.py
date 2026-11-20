@@ -52,7 +52,7 @@ POST = {
         "aqui, de 01/03/2026 a 28/02/2027.\n\n"
         "O Fluxo mostra o que já aconteceu: só entram lançamentos pagos ou recebidos. O futuro fica na Simulação futura.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
-        "Crie sua conta com nome, e-mail e senha. Gratuito para o controle financeiro.\n\n"
+        "Crie sua conta com nome, e-mail e senha e comece no plano Grátis.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#fluxodecaixa #controlefinanceiro #organizacaofinanceira #financaspessoais #timtimcash"
     ),

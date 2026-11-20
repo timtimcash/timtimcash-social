@@ -59,6 +59,7 @@ POST = {
         "· IOF: o imposto sobre operações financeiras; no câmbio, 1,10% numa remessa para investir e 3,5% no cartão lá fora.\n"
         "· CET: o custo efetivo total de um crédito, com juros, tarifas, tributos e seguros, numa taxa ao ano; compare antes de contratar.\n\n"
         "No timtimcash, PTAX, TIR, CDI e IOF aparecem nas Remessas ao exterior, com o câmbio efetivo de cada envio.\n\n"
+        "Remessas ao exterior são do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Fontes: Banco Central; B3; IBGE; Decreto 6.306/2007; Res. CMN 4.881/2020.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"

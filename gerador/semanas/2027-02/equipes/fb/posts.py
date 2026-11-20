@@ -299,7 +299,7 @@ def post_modos():
     s.append(slide("light", EXTRA_F + topo("Quando usar cada um", "Um modo para cada pergunta.", cls="h3") + v_quando(), 5, T))
 
     s.append(fechamento_verde("Realizado, Previsto ou Ambos: um toque.",
-                              "Visão geral no timtimcash. Gratuito para o controle financeiro, no computador ou no celular.", 6, T))
+                              "Visão geral no\u00a0timtimcash. No\u00a0plano\u00a0Grátis, no\u00a0computador ou no\u00a0celular.", 6, T))
     return [sem_quebra_fb(h) for h in s]
 
 
@@ -531,7 +531,7 @@ def post_dividas():
     s.append(slide("light", EXTRA_F + f"<div style='display:flex;gap:36px;align-items:center'>{esq}{dir_}</div>", 6, T))
 
     s.append(fechamento_verde("Liste. Escolha a ordem. Comece pela primeira.",
-                              "Pendentes no timtimcash. Gratuito para o controle financeiro, no computador ou no celular.", 7, T))
+                              "Pendentes no\u00a0timtimcash. No\u00a0plano\u00a0Grátis, no\u00a0computador ou no\u00a0celular.", 7, T))
     return [sem_quebra_fb(h) for h in s]
 
 
@@ -596,7 +596,7 @@ def post_fim_do_mes():
                       recorte(arq, px(y0), px(y1), largura=660, x0=px(14), x1=px(376)), 6, T))
 
     s.append(fechamento_verde("Feche o mês com respostas.",
-                              "Visão geral, Pendentes, Relatórios e Orçamentos no timtimcash. Gratuito para o controle financeiro, no computador ou no celular.", 7, T))
+                              "Visão\u00a0geral, Pendentes, Relatórios e Orçamentos, no\u00a0plano\u00a0Grátis, no\u00a0computador ou no\u00a0celular.", 7, T))
     return [sem_quebra_fb(h) for h in s]
 
 
@@ -857,7 +857,7 @@ def post_informe():
 {aviso("O timtimcash organiza os números e não faz a declaração. Confira o seu caso com um contador.")}</div>""", 6, T))
 
     s.append(fechamento_verde("Informe na mão, números no lugar.",
-                              "Transações no timtimcash. Gratuito para o controle financeiro, no computador ou no celular.", 7, T))
+                              "Transações no\u00a0timtimcash. No\u00a0plano\u00a0Grátis, no\u00a0computador ou no\u00a0celular.", 7, T))
     return [sem_quebra_fb(h) for h in s]
 
 

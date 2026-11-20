@@ -38,7 +38,7 @@ POST = {
         "NO TIMTIMCASH · Guardar é Transferência. · De uma conta para a outra, sem categoria. O patrimônio fica igual. · Tela real da “Nova transação” no celular, relógio em 13/02/2027: Transferência, R$ 1.500,00; Data 05/03/2027; “Marcar como feita · Fica como pendente até você confirmar”; De Conta corrente; Para Reserva. · Nota: Tela real do timtimcash, com dados de exemplo.",
         "TODO MÊS, R$ 1.500 · Em 2026, R$ 18.000 guardados. · Doze transferências para a Reserva. Nenhum real como despesa. · Tela real de Transações no celular, relógio em 13/02/2027, Ano 2026, busca “reserva”: “12 transações · 12 pagas · 0 pendentes · somam R$ 18.000,00”. · Nota: Tela real do timtimcash, com dados de exemplo. · Cartão: Guardado da receita em 2026, na Visão geral, com a reserva como transferência: 19,4%; como despesa, seria 5,1%.",
         "NA VOLTA TAMBÉM · Tirou da reserva? Não é receita. · A volta para a Conta corrente também é Transferência. · Selo coral: Se fosse receita. Cartão: 39,7% guardado da receita, em vez de 33,6%; Receitas R$ 10.960,00; Resultado R$ 4.349,90. · Nota: Fevereiro até o dia 13, na conta de exemplo: o mês pareceria ter guardado mais do que guardou. · Tela real da “Nova transação” no celular, relógio em 13/02/2027: Transferência, R$ 1.000,00; Data Hoje 13/02; Já foi feita; De Reserva; Para Conta corrente. · Nota: Tela real do timtimcash, com dados de exemplo.",
-        "Fechamento (fundo verde) · Guardou? É transferência. · Transações no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. · Botão: Link na bio.",
+        "Fechamento (fundo verde) · Guardou? É transferência. · Transações no timtimcash. No plano Grátis, no computador ou no celular. · Botão: Link na bio.",
     ],
     "legenda": (
         "Guardar não é gastar. O dinheiro que vai para a reserva é transferência, não despesa.\n\n"
@@ -61,7 +61,7 @@ POST = {
         "No timtimcash, guardar é transferência: de uma conta para a outra, sem categoria, e o patrimônio fica igual. Tela real da Nova transação no celular, com dados de exemplo: transferência de R$ 1.500 em 5 de março de 2027, ainda não feita, da conta corrente para a reserva.",
         "Todo mês, R$ 1.500: em 2026, R$ 18.000 guardados, em doze transferências para a reserva, nenhum real como despesa. Tela real de Transações no celular, com dados de exemplo, no ano de 2026, com a busca reserva: 12 transações que somam R$ 18.000. O ano mostrou 19,4% da receita guardada; como despesa, seriam 5,1%.",
         "Na volta também: tirou da reserva? Não é receita. A volta para a conta corrente também é transferência. Se fosse receita, fevereiro até o dia 13 apareceria com 39,7% da receita guardada em vez de 33,6%, com receitas de R$ 10.960 e resultado de R$ 4.349,90: o mês pareceria ter guardado mais do que guardou. Tela real da Nova transação no celular, com dados de exemplo: transferência de R$ 1.000, hoje, 13 de fevereiro, já feita, da reserva para a conta corrente.",
-        "Guardou? É transferência. Transações no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. Link na bio.",
+        "Guardou? É transferência. Transações no timtimcash. No plano Grátis, no computador ou no celular. Link na bio.",
     ],
     "fontes": [],
     "telas": [

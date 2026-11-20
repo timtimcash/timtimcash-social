@@ -136,7 +136,7 @@ CORPO = f"""
   <div id="chips"><span class="ch" id="ch1"><i>1</i>Visão geral</span><span class="ch" id="ch2"><i>2</i>Pendentes</span><span class="ch" id="ch3"><i>3</i>Orçamentos</span></div>
 </div>
 
-{K.fim("Comece 2027 organizado.", "Crie sua conta com nome, e-mail e senha. Gratuito para o controle financeiro, no computador ou no celular.")}
+{K.fim("Comece 2027 organizado.", 'Crie sua conta com nome, <span style="white-space:nowrap">e-mail</span> e senha. No plano Grátis, no computador ou no celular.')}
 """
 
 JS = f"""

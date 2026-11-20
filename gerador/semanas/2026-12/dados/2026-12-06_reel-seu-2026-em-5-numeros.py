@@ -46,7 +46,7 @@ POST = {
         "3. Janeiro foi o mês mais caro: R$ 9.420, com IPVA e IPTU.\n"
         "4. Lá fora, a carteira rendeu US$ 350 em 2026, numa taxa de 3,0% ao ano em dólar. Em reais, com o dólar mais barato, a taxa do ano está em −6,2%.\n"
         "5. 25,6% da receita ficou guardada: entraram R$ 123.860 e saíram R$ 92.090.\n\n"
-        "Para ver os seus, escolha o período Ano no timtimcash: Transações, Visão geral, Fluxo e Remessas mostram cada número.\n\n"
+        "Para ver os seus, escolha o período Ano no timtimcash: Transações, Visão geral e Fluxo mostram cada número, e Remessas também, no Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#retrospectiva2026 #controlefinanceiro #financaspessoais #organizacaofinanceira #timtimcash"

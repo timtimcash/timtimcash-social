@@ -45,6 +45,7 @@ POST = {
         "Exemplo ilustrativo, só com o efeito do câmbio; o post não recomenda investimento.\n\n"
         "No timtimcash, o botão Resgate, em Remessas ao exterior, registra a volta: o que saiu lá fora e o que entrou na conta, com o câmbio efetivo na hora. "
         "Teve IOF? Informe o do comprovante. Depois, atualize a carteira para o ganho incluir o resgate.\n\n"
+        "Remessas ao exterior são do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#investimentonoexterior #cambio #dolar #educacaofinanceira #timtimcash"

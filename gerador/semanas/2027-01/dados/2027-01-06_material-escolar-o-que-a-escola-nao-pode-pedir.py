@@ -44,7 +44,7 @@ POST = {
         "AO COMPRAR · A loja e a marca são escolha sua. · A loja: a escola não pode determinar a loja ou o site de compra. A marca: nem exigir marca; nos dois casos, a exceção são as apostilas do sistema de ensino. O uniforme: em regra, não pode obrigar a comprar numa loja só; pelo Procon-SP, a exceção é o uniforme de marca registrada. · Nota: Procon-SP, folheto Material Escolar (fev/2026); Procon Paulistano, cartilha Volta às aulas (jan/2026).",
         "PARA GASTAR MENOS · Três jeitos de gastar menos. · Reaproveite: antes da lista, veja o que sobrou do ano passado. Compare item por item: na pesquisa divulgada pelo Procon-SP em janeiro de 2026, R$ 1,30 ou R$ 4,90, a mesma caneta esferográfica, em lugares diferentes. Combine com outras famílias: dá para pesquisar preço e comprar junto.",
         "NO TIMTIMCASH · 06/01 · Lance antes, com a data. · Material (R$ 940, dia 12) e uniforme (R$ 286, dia 18), em Educação: pendentes até o dia de pagar. · Tela real de Transações no celular (06/01/2027), em dois recortes: a cabeça do cartão com a busca escolar (2 transações · 0 pagas · 2 pendentes · somam R$ 1.226,00) e as duas linhas, Uniforme escolar em 18/01, −R$ 286,00, pendente, e Material escolar em 12/01, −R$ 940,00, pendente, ambas em Educação. · Nota: Tela real do timtimcash, com dados de exemplo.",
-        "Fechamento (fundo verde) · Volta às aulas sem susto. · Transações e Pendentes no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. · Botão: Link na bio.",
+        "Fechamento (fundo verde) · Volta às aulas sem susto. · Transações e Pendentes no timtimcash. No plano Grátis, no computador ou no celular. · Botão: Link na bio.",
     ],
     "legenda": (
         "A lista de material chegou? A escola não pode pedir o que é de uso coletivo.\n\n"
@@ -71,7 +71,7 @@ POST = {
         "Ao comprar, a loja e a marca são escolha sua. A escola não pode determinar a loja ou o site de compra, nem exigir marca; nos dois casos, a exceção são as apostilas do sistema de ensino. O uniforme: em regra, não pode obrigar a comprar numa loja só; pelo Procon-SP, a exceção é o uniforme de marca registrada.",
         "Três jeitos de gastar menos: reaproveite o que sobrou do ano passado; compare item por item, porque na pesquisa divulgada pelo Procon-SP em janeiro de 2026 a mesma caneta esferográfica custava R$ 1,30 num lugar e R$ 4,90 em outro; e combine com outras famílias para pesquisar preço e comprar junto.",
         "No timtimcash, em 6 de janeiro: lance antes, com a data. Material de R$ 940 no dia 12 e uniforme de R$ 286 no dia 18, em Educação, pendentes até o dia de pagar. Tela real de Transações no celular, com dados de exemplo: a busca escolar mostra 2 transações pendentes que somam R$ 1.226,00, o uniforme escolar em 18 de janeiro e o material escolar em 12 de janeiro.",
-        "Volta às aulas sem susto. Transações e Pendentes no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. Link na bio.",
+        "Volta às aulas sem susto. Transações e Pendentes no timtimcash. No plano Grátis, no computador ou no celular. Link na bio.",
     ],
     "fontes": [
         ("Planalto · Lei nº 12.886/2013 (inclui o § 7º no art. 1º da Lei 9.870/1999: nula a cláusula que obrigue ao pagamento adicional ou ao fornecimento de material escolar de uso coletivo)", "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/l12886.htm"),

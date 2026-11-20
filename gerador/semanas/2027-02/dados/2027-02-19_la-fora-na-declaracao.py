@@ -48,6 +48,7 @@ POST = {
         "A declaração relaciona os bens e direitos, no Brasil ou no exterior, que você tinha em 31 de dezembro. A de 2027 conta o seu 2026.\n\n"
         "Para aplicações financeiras no exterior, vale a Lei 14.754/2023: os rendimentos vão para a declaração anual, separados dos outros, com 15% e sem deduções. A variação do câmbio também é rendimento, com uma exceção: a conta-corrente lá fora sem rendimento. E a conversão para reais usa a cotação de venda do Banco Central na data do fato gerador.\n\n"
         "No timtimcash, as Remessas guardam cada envio com data, valor em reais e IOF, e o Editar fechamentos guarda o saldo de 31/12 de cada ano, na moeda. São os números para levar ao contador. O timtimcash não faz a declaração: confira o seu caso com um contador.\n\n"
+        "Remessas ao exterior são do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Fontes: Receita Federal (Perguntas e Respostas IRPF 2026); Lei 14.754/2023.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"

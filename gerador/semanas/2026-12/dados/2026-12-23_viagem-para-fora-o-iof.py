@@ -37,7 +37,7 @@ POST = {
         "O QUE MUDA · O câmbio e as tarifas. · Cada R$ 0,10 a mais no câmbio custa R$ 103,50 a mais em US$ 1.000, já com o IOF. · Câmbio R$ 5,05, total com IOF R$ 5.226,75 (a base); R$ 5,15, R$ 5.330,25, +R$ 103,50; R$ 5,25, R$ 5.433,75, +R$ 207,00 (barras em coral). · Nota: Câmbios hipotéticos, só para comparar; sem tarifas.",
         "ANTES DE COMPRAR · Compare o VET. · Peças: câmbio + tarifas + IOF = VET. Citação: “O Valor Efetivo Total (VET) representa o custo de uma operação de câmbio em reais por moeda estrangeira, englobando a taxa de câmbio, as tarifas e tributos incidentes sobre essa operação.” Banco Central, Ranking do VET. Caixa âmbar: No ranking, o Banco Central mostra o VET médio de cada instituição. Os valores são de meses anteriores: confira o de hoje antes de comprar.",
         "NO TIMTIMCASH · Um teto para a viagem. · Em Orçamentos, Definir limites: busque Viagem. Os US$ 1.000 com IOF, e uma folga, dão R$ 5.300. · Tela real no celular (relógio em 23/12/2026, sem salvar): Definir orçamentos, “Limite mensal de despesa e meta mensal de receita”, Despesas, busca “Viagem”, 21 categorias; Viagem, média R$ 640, R$ 5.300,00, usar R$ 700; 8 categorias sem movimento em 12 meses. · Nota: Tela real do timtimcash, com dados de exemplo.",
-        "Fechamento (fundo verde) · Viaje com um teto. · Orçamentos no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. · Botão: Link na bio.",
+        "Fechamento (fundo verde) · Viaje com um teto. · Orçamentos no timtimcash. No plano Grátis, no computador ou no celular. · Botão: Link na bio.",
     ],
     "legenda": (
         "Viagem para fora: o IOF é igual. O câmbio, não.\n\n"
@@ -65,7 +65,7 @@ POST = {
         "O que muda: o câmbio e as tarifas. Cada R$ 0,10 a mais no câmbio custa R$ 103,50 a mais em US$ 1.000, já com o IOF. Com câmbio de R$ 5,05, o total com IOF é de R$ 5.226,75, a base; com R$ 5,15, R$ 5.330,25, mais R$ 103,50; com R$ 5,25, R$ 5.433,75, mais R$ 207,00. Câmbios hipotéticos, sem tarifas.",
         "Antes de comprar, compare o VET: câmbio mais tarifas mais IOF é igual ao VET. Citação do Banco Central: o Valor Efetivo Total, VET, representa o custo de uma operação de câmbio em reais por moeda estrangeira, englobando a taxa de câmbio, as tarifas e tributos incidentes sobre essa operação. No ranking, o Banco Central mostra o VET médio de cada instituição; os valores são de meses anteriores, então confira o de hoje antes de comprar.",
         "No timtimcash, um teto para a viagem. Em Orçamentos, Definir limites: busque Viagem; os US$ 1.000 com IOF, e uma folga, dão R$ 5.300. Tela real no celular, com dados de exemplo: Definir orçamentos, aba Despesas, busca por Viagem; a categoria Viagem, com média de R$ 640, recebe o limite de R$ 5.300,00.",
-        "Viaje com um teto. Orçamentos no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. Link na bio.",
+        "Viaje com um teto. Orçamentos no timtimcash. No plano Grátis, no computador ou no celular. Link na bio.",
     ],
     "fontes": [
         ("Planalto · Decreto nº 6.306, de 2007, texto compilado (art. 15-B, incisos VII, IX, X, XX, XXI e XXI-A), lido em 16/10/2026", "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6306compilado.htm"),

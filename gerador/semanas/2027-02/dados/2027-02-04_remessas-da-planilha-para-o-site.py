@@ -50,6 +50,7 @@ POST = {
         "Em Remessas, o menu “Mais ações” tem “Baixar planilha modelo” e “Importar planilha”. A planilha precisa de uma linha por remessa e de 5 colunas: data, conta de origem, conta de destino, valor na moeda e o total em reais. IOF e moeda são opcionais, e moeda em branco entra como dólar. Vale .xlsx, .xls e .csv, inclusive a planilha que você já usa.\n\n"
         "Antes de importar, você revisa linha por linha, com o câmbio efetivo calculado na hora. No exemplo, 3 remessas de US$ 4.000: R$ 4,90, R$ 5,00 e R$ 5,10 por dólar.\n\n"
         "Depois, o rendimento ano a ano passa a contar com todas elas: os aportes de 2023 a R$ 4,90, os de 2024 a R$ 5,05, e um câmbio médio efetivo de R$ 5,0000.\n\n"
+        "Remessas ao exterior são do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#investimentonoexterior #remessas #dolar #planilha #timtimcash"

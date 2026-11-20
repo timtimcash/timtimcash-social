@@ -52,6 +52,7 @@ POST = {
         "No vídeo, com valores de exemplo: saíram R$ 10.110 da conta, chegaram US$ 2.000 e o IOF do comprovante foi de R$ 110. "
         "Cada dólar custou R$ 5,0550, já com o IOF.\n\n"
         "Cada remessa lançada entra no seu câmbio médio efetivo, em Remessas ao exterior.\n\n"
+        "Remessas ao exterior são do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#investimentonoexterior #cambio #dolar #remessa #timtimcash"

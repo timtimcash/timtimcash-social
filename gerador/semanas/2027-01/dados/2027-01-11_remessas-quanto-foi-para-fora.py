@@ -45,6 +45,7 @@ POST = {
         "R$ 11.525,40, câmbio médio efetivo de R$ 5,7627 e R$ 125,40 de IOF.\n\n"
         "Em reais dá para somar: R$ 71.525,40 em 4 remessas, R$ 40.400 só em 2024. Olhar por ano mostra o seu ritmo e ajuda a planejar "
         "2027 com o histórico na mão. O timtimcash organiza os números; não recomenda investimento.\n\n"
+        "Remessas ao exterior são do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#investimentonoexterior #remessa #dolar #euro #timtimcash"

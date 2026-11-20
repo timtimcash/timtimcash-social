@@ -330,7 +330,7 @@ def post_fevereiro():
         estilo_p="font-size:33px;margin-top:16px") + f"<div class='visual' style='margin-top:28px'>{crop}{NOTA_TELA}</div>", 6, T))
 
     s.append(fechamento_verde("Seu fevereiro, com data marcada.",
-        "Pendentes no timtimcash. Gratuito para o controle financeiro, no computador ou no celular.", 7, T))
+        "Pendentes no\u00a0timtimcash. No\u00a0plano\u00a0Grátis, no\u00a0computador ou no\u00a0celular.", 7, T))
     return [sem_quebra_fa(h) for h in s]
 
 
@@ -629,7 +629,7 @@ def post_anual():
     s.append(slide("light", EXTRA_F + dois(esq, dir_, 520, gap=36), 5, T))
 
     s.append(fechamento_verde("Janeiro sem susto.",
-        "Simulação futura no timtimcash. Gratuito para o controle financeiro, no computador ou no celular.", 6, T))
+        "Simulação futura no\u00a0timtimcash. No\u00a0plano\u00a0Grátis, no\u00a0computador ou no\u00a0celular.", 6, T))
     return [sem_quebra_fa(h) for h in s]
 
 
@@ -792,7 +792,7 @@ def post_ir():
         "O timtimcash organiza os números. A declaração é sua.", estilo_p="font-size:36px;margin-top:20px") + v_faz_nao_faz(), 6, T))
 
     s.append(fechamento_verde("Seu ano de saúde e escola, somado.",
-        "Transações no timtimcash. Gratuito para o controle financeiro, no computador ou no celular.", 7, T))
+        "Transações no\u00a0timtimcash. No\u00a0plano\u00a0Grátis, no\u00a0computador ou no\u00a0celular.", 7, T))
     return [sem_quebra_fa(h) for h in s]
 
 
@@ -921,7 +921,7 @@ def post_guardar():
     s.append(slide("light", EXTRA_F + dois(esq, dir_, 420, gap=40), 5, T))
 
     s.append(fechamento_verde("Guardou? É transferência.",
-        "Transações no timtimcash. Gratuito para o controle financeiro, no computador ou no celular.", 6, T))
+        "Transações no\u00a0timtimcash. No\u00a0plano\u00a0Grátis, no\u00a0computador ou no\u00a0celular.", 6, T))
     return [sem_quebra_fa(h) for h in s]
 
 

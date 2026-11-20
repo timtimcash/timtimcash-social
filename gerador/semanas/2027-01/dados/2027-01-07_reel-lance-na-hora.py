@@ -52,7 +52,7 @@ POST = {
         "No timtimcash: toque no +, digite o valor e escreva o que foi. Enquanto você digita, o site sugere a categoria. Já foi pago fica ligado, e Lançar despesa põe a linha em Transações. No exemplo do vídeo, R$ 18,50 no hortifruti, em Mercado.\n\n"
         "No computador, Cmd+Enter (ou Ctrl+Enter) lança sem tirar a mão do teclado.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
-        "Crie sua conta com nome, e-mail e senha. Gratuito para o controle financeiro.\n\n"
+        "Crie sua conta com nome, e-mail e senha e comece no plano Grátis.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#controlefinanceiro #organizacaofinanceira #financaspessoais #controledegastos #timtimcash"
     ),

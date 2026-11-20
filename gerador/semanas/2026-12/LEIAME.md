@@ -27,3 +27,6 @@ Quatro posts usam o dado mais recente de 16/10/2026 e podem ganhar um número no
 
 ## Para o site
 No relatório em PDF (Exportar), os percentuais de "Despesas por categoria" saem com ponto ("30.1%"). O Reel de 20/12 não mostra esses percentuais.
+
+## Premium (19/11/2026)
+No lançamento do Premium, os posts ainda agendados que diziam "Gratuito para o controle financeiro" foram refeitos e aprovados pelo dono em 19/11/2026, e os que mostram recursos do Premium ganharam uma frase na legenda. O último slide de 02, 04, 07, 10, 16, 21 e 23/12 trocou "Gratuito para o controle financeiro" por "No plano Grátis", com o texto alternativo junto. O Diagnóstico de 11 e 21/12 é o de Relatórios, que fica no Grátis. As legendas de 09, 12, 17, 18 e 28/12 ganharam "Remessas ao exterior são do timtimcash Premium.", e a de 06/12 diz que Remessas é do Premium. As trocas dos roteiros estão em `equipes/` e as de legenda e texto alternativo, em `dados/`; nas artes, só o último slide mudou.

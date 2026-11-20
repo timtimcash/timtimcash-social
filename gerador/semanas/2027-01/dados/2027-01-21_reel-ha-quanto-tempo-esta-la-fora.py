@@ -48,6 +48,7 @@ POST = {
         "Cada data trouxe um câmbio efetivo: R$ 4,90, R$ 5,00 e R$ 5,10 por dólar, e R$ 5,7627 por euro. Por isso cada remessa tem o "
         "seu resultado, e o Ritmo do retorno calcula a TIR com a data real de cada envio. No computador, o tempo aparece na coluna "
         "“Investido há”.\n\n"
+        "Remessas ao exterior são do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo. Os valores de hoje em reais usam o câmbio salvo de exemplo, a PTAX de compra de "
         "15/10/2026 (dólar R$ 5,0515; euro R$ 5,6592).\n\n"
         "Fonte: Banco Central do Brasil, PTAX de 15/10/2026.\n\n"

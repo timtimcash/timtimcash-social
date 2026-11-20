@@ -494,7 +494,7 @@ def post_503020():
 {NOTA_TELA}</div>""", 5, T))
 
     s.append(fechamento_verde("Descubra a sua proporção.",
-                              "Resultado (DRE) no timtimcash. Gratuito para o controle financeiro, no computador ou no celular.", 6, T))
+                              "Resultado (DRE) no timtimcash\u00a0Premium, no\u00a0computador ou no\u00a0celular.", 6, T))
     return [sem_quebra(h) for h in s]
 
 
@@ -637,7 +637,7 @@ def post_concentracao():
 <div class='visual' style='margin-top:44px'>{recorte(conc, 12, hc - 12, largura=760, x0=12, x1=wc - 12)}{NOTA_TELA}</div>""", 5, T))
 
     s.append(fechamento_verde("Comece pelas categorias que pesam.",
-                              "Relatórios no timtimcash. Gratuito para o controle financeiro, no computador ou no celular.", 6, T))
+                              "Relatórios no\u00a0timtimcash. No\u00a0plano\u00a0Grátis, no\u00a0computador ou no\u00a0celular.", 6, T))
     return [sem_quebra(h) for h in s]
 
 

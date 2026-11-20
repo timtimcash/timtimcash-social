@@ -40,6 +40,7 @@ POST = {
         "Sua história lá fora cabe num gráfico.\n\n"
         "No exemplo do vídeo, a primeira remessa foi em 12/07/2023: US$ 4.000. Vieram mais duas em 2024, e o total enviado chegou a US$ 12.000. Hoje a carteira tem US$ 13.310: +US$ 1.310, ou +10,9% em dólar.\n\n"
         "Em Remessas, o cartão “A jornada” desenha essa história. O degrau soma o que você enviou, nas datas reais. A linha tracejada é a trajetória na taxa medida: 3,6% ao ano em dólar, no exemplo. A distância entre os dois é o rendimento. E os marcos ficam anotados: a primeira remessa, o maior envio e o ritmo dos envios.\n\n"
+        "Remessas ao exterior são do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#investimentonoexterior #remessainternacional #dolar #financaspessoais #timtimcash"

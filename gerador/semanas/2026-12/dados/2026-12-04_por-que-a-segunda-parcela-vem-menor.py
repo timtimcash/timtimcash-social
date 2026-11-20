@@ -33,7 +33,7 @@ POST = {
         "IR DO 13º · Na fonte, sem somar com o salário. · O imposto do 13º é calculado sozinho, na 2ª parcela. · Conta armada: 13º inteiro R$ 9.960,00; menos INSS do 13º R$ 988,09; igual a base do IR R$ 8.971,91; vezes a alíquota da faixa de cima, 27,5%; menos a parcela a deduzir, R$ 908,73; igual a IR do 13º, R$ 1.558,55. · Nota: Tabela mensal de 2026 (Receita Federal), sem dependentes. Acima de R$ 7.350, a redução de 2026 não vale. Lei 8.134/1990, art. 16.",
         "NOVIDADE DE 2026 · Até R$ 5 mil, IR zero também no 13º. · Entre R$ 5 mil e R$ 7.350, o imposto diminui. · Dois cartões: salário de R$ 4.500, R$ 0 de IR no 13º (a redução zera o imposto), 2ª parcela R$ 1.818,49; salário de R$ 6.000, R$ 385,10 de IR no 13º (sem a redução, R$ 564,85, riscado), 2ª parcela R$ 1.973,39. · Nota: Exemplos sem dependentes. Lei 15.270/2025 (Lei 9.250/1995, art. 3º-A, §3º); Receita Federal, tabelas de 2026.",
         "NO TIMTIMCASH · Lance a 2ª parcela antes de ela cair. · Com a data e sem marcar como recebida: fica em Pendentes e já entra no Previsto do mês. · Tela real de “Nova transação” no celular, relógio em 04/12/2026: Receita; Valor R$ 2.433,36; Data 18/12/2026; “Marcar como recebido” desligado, “Fica como pendente até você confirmar”; Categoria Salário; Recebido em Conta corrente; descrição “13º salário · 2ª parcela”. · Nota: Tela real do timtimcash, com dados de exemplo.",
-        "Fechamento (fundo verde) · A 2ª parcela, sem surpresa. · Pendentes no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. · Botão: Link na bio.",
+        "Fechamento (fundo verde) · A 2ª parcela, sem surpresa. · Pendentes no timtimcash. No plano Grátis, no computador ou no celular. · Botão: Link na bio.",
     ],
     "legenda": (
         "A 2ª parcela do 13º vem menor que a 1ª. Não é erro: é a conta.\n\n"
@@ -59,7 +59,7 @@ POST = {
         "IR do 13º: na fonte, sem somar com o salário. O imposto do 13º é calculado sozinho, na 2ª parcela. A conta: R$ 9.960 menos R$ 988,09 de INSS dá a base de R$ 8.971,91; vezes 27,5%, menos a parcela a deduzir de R$ 908,73, dá R$ 1.558,55 de IR. Tabela mensal de 2026, sem dependentes; acima de R$ 7.350, a redução de 2026 não vale.",
         "Novidade de 2026: até R$ 5 mil, IR zero também no 13º; entre R$ 5 mil e R$ 7.350, o imposto diminui. Dois exemplos, sem dependentes: salário de R$ 4.500, IR do 13º igual a zero e 2ª parcela de R$ 1.818,49; salário de R$ 6.000, IR de R$ 385,10 em vez de R$ 564,85 e 2ª parcela de R$ 1.973,39.",
         "No timtimcash, lance a 2ª parcela antes de ela cair: com a data e sem marcar como recebida, ela fica em Pendentes e já entra no Previsto do mês. Tela real do formulário Nova transação no celular, com dados de exemplo: receita de R$ 2.433,36, data 18 de dezembro de 2026, Marcar como recebido desligado, categoria Salário, recebido em Conta corrente, descrição 13º salário, 2ª parcela.",
-        "A 2ª parcela, sem surpresa. Pendentes no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. Link na bio.",
+        "A 2ª parcela, sem surpresa. Pendentes no timtimcash. No plano Grátis, no computador ou no celular. Link na bio.",
     ],
     "fontes": [
         ("Planalto · Lei nº 4.749, de 12 de agosto de 1965 (13º: 1ª parcela sem descontos até novembro, art. 2º; quitação até 20 de dezembro, art. 1º)", "https://www.planalto.gov.br/ccivil_03/leis/l4749.htm"),

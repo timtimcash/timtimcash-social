@@ -46,7 +46,7 @@ POST = {
         "ANTES DE CONFIRMAR · Você revisa cada linha. · No exemplo, 47 de 93 linhas vieram com categoria. As 3 aplicações na reserva saíram: não são gasto. · Tela real de “Revisar importação”: “Extrato OFX detectado · Conta de destino: Conta corrente. 47 de 93 linhas vieram com categoria sugerida pelo nome do estabelecimento. Confira; 46 ficam como Sem categoria”; e a linha SUPERMERCADO DA VILA, −R$ 298,40, 28/12/2026, Mercado (sugerida), Pago, Conta corrente. · Nota: Tela real do timtimcash, com dados de exemplo.",
         "SE O SALDO NÃO BATER · O site confere com o banco. · Se a conta foi criada com o saldo de hoje, o site oferece o ajuste. As transações não mudam. · Tela real: “O saldo não bate com o banco · O extrato do Conta corrente termina com R$ 19.063,66 em 31/12/2026. No timtimcash, a conta ficou com R$ 28.633,72 nessa data. Isso acontece quando o saldo informado ao criar a conta já incluía estas transações. Ajustar o saldo inicial deixa o timtimcash igual ao banco; as transações não mudam.” Botões Ajustar para R$ 19.063,66 e Manter como está. · Nota: Tela real do timtimcash, com dados de exemplo.",
         "DEPOIS DE IMPORTAR · Pronto: janeiro ganha uma média. · Antes, só janeiro: Receitas R$ 9.960, Despesas R$ 9.018, Resultado R$ 941, com “1º mês”. Depois, com out, nov e dez: os mesmos números com queda de 20,6%, 3,5% e 70,5% e “Comparado com a média por mês de Jan/26 a Dez/26”. · Notas: A média usa os meses com lançamento: no exemplo, out, nov e dez. Janeiro até o dia 20. Tela real do timtimcash, com dados de exemplo.",
-        "Fechamento (fundo verde) · Comece 2027 com uma média. · Crie sua conta com nome, e-mail e senha. Gratuito para o controle financeiro, no computador ou no celular. · Botão: Link na bio.",
+        "Fechamento (fundo verde) · Comece 2027 com uma média. · Crie sua conta com nome, e-mail e senha. No plano Grátis, no computador ou no celular. · Botão: Link na bio.",
     ],
     "legenda": (
         "Comece 2027 com uma média: traga 3 meses do passado.\n\n"
@@ -58,7 +58,7 @@ POST = {
         "banco, o site avisa e oferece o ajuste.\n\n"
         "Pronto: janeiro passa a ser comparado com a média de out, nov e dez.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
-        "Comece hoje: crie sua conta com nome, e-mail e senha. Gratuito para o controle financeiro.\n\n"
+        "Comece hoje no plano Grátis: crie sua conta com nome, e-mail e senha.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#organizacaofinanceira #controlefinanceiro #financaspessoais #extratobancario #timtimcash"
     ),
@@ -75,7 +75,7 @@ POST = {
         "Antes de confirmar, você revisa cada linha. No exemplo, 47 de 93 linhas vieram com categoria, e as 3 aplicações na reserva saíram, porque não são gasto. Tela real de Revisar importação: extrato OFX detectado, conta de destino Conta corrente, 47 de 93 linhas com categoria sugerida pelo nome do estabelecimento; e a linha Supermercado da Vila, 298 reais e 40 centavos, 28 de dezembro de 2026, categoria Mercado sugerida, paga, na Conta corrente.",
         "Se o saldo não bater, o site confere com o banco. Tela real do aviso O saldo não bate com o banco: o extrato da Conta corrente termina com 19.063 reais e 66 centavos em 31 de dezembro de 2026, e no timtimcash a conta ficou com 28.633 reais e 72 centavos nessa data. Isso acontece quando o saldo informado ao criar a conta já incluía estas transações; ajustar o saldo inicial deixa o timtimcash igual ao banco, e as transações não mudam. Botões Ajustar para 19.063,66 e Manter como está.",
         "Depois de importar, janeiro ganha uma média. Antes, só janeiro: receitas de 9.960 reais, despesas de 9.018 e resultado de 941, cada um com o selo 1º mês. Depois, com outubro, novembro e dezembro: queda de 20,6% nas receitas, de 3,5% nas despesas e de 70,5% no resultado, comparado com a média por mês. A média usa os meses com lançamento; janeiro vai até o dia 20.",
-        "Comece 2027 com uma média. Crie sua conta com nome, e-mail e senha. Gratuito para o controle financeiro, no computador ou no celular. Link na bio.",
+        "Comece 2027 com uma média. Crie sua conta com nome, e-mail e senha. No plano Grátis, no computador ou no celular. Link na bio.",
     ],
     "fontes": [],
     "telas": [

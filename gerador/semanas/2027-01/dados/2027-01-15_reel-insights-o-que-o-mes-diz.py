@@ -52,7 +52,7 @@ POST = {
         "Em 15/01, no exemplo do vídeo: Educação 65% acima da média, porque o material escolar de R$ 940,00 entrou; receita guardada de 35% até aqui, acima da meta padrão de 20%; e Educação com 37% das despesas do mês.\n\n"
         "São regras fixas: comparam o seu mês com a sua média e com as suas metas. Também há cartões para orçamento acima de 70%, conta no negativo e lançamento vencido. Já leu? O X dispensa o cartão até o fim do mês.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
-        "Crie sua conta com nome, e-mail e senha. Gratuito para o controle financeiro.\n\n"
+        "Crie sua conta com nome, e-mail e senha e comece no plano Grátis.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#controlefinanceiro #organizacaofinanceira #financaspessoais #educacaofinanceira #timtimcash"
     ),

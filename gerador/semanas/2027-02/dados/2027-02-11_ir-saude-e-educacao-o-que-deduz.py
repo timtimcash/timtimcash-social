@@ -39,7 +39,7 @@ POST = {
         "EDUCAÇÃO · COM LIMITE · Até R$ 3.561,50 por pessoa no ano. · Escola entra até esse teto. Material e uniforme, não. · Cartão “Escola em 2026 · conta de exemplo”, R$ 17.400,00: barra com R$ 3.561,50 em verde (entra) e R$ 13.838,50 listrado (acima do limite). Não entra: Material, Uniforme, Transporte escolar, Idioma, Cursinho, Música, dança e esportes. · Nota: Declare o valor total, mesmo acima do limite (Receita Federal). Lei 9.250/1995, art. 8º, II, “b”. Escola de 2026: Transações, categoria Educação.",
         "NO TIMTIMCASH · O seu 2026 em duas buscas. · Em Transações, no Ano 2026: “exame” e “farmácia”. · Selo verde “Exame, R$ 150: entra” sobre a tela real da busca “exame” (1 transação · 1 paga · 0 pendentes · somam R$ 150,00); selo coral “Farmácia, R$ 3.279,44: fora da lista” sobre a tela real da busca “farmácia” (23 transações · 23 pagas · 0 pendentes · somam R$ 3.279,44). Relógio em 11/02/2027. · Nota: Tela real do timtimcash, com dados de exemplo.",
         "ANTES DE DECLARAR · Confira com um contador. · O timtimcash organiza os números. A declaração é sua. · Cartão “O timtimcash faz”: Soma por busca e por categoria, no ano que você escolher; Exporta a lista filtrada em Excel ou CSV, para levar ao contador. “Não faz”: A declaração do imposto de renda.",
-        "Fechamento (fundo verde) · Seu ano de saúde e escola, somado. · Transações no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. · Botão: Link na bio.",
+        "Fechamento (fundo verde) · Seu ano de saúde e escola, somado. · Transações no timtimcash. No plano Grátis, no computador ou no celular. · Botão: Link na bio.",
     ],
     "legenda": (
         "Saúde e educação entram no IR como dedução, mas cada uma tem a sua regra.\n\n"
@@ -64,7 +64,7 @@ POST = {
         "Educação, com limite: até R$ 3.561,50 por pessoa no ano. Escola entra até esse teto; material e uniforme, não. Na conta de exemplo, a escola custou R$ 17.400 em 2026: R$ 3.561,50 entram e R$ 13.838,50 ficam acima do limite. Não entram material, uniforme, transporte escolar, idioma, cursinho, música, dança e esportes. Declare o valor total, mesmo acima do limite.",
         "No timtimcash, o seu 2026 em duas buscas, em Transações, no Ano 2026. Telas reais do celular, com dados de exemplo: a busca exame mostra 1 transação que soma R$ 150, que entra; a busca farmácia mostra 23 transações que somam R$ 3.279,44, fora da lista.",
         "Antes de declarar, confira com um contador. O timtimcash organiza os números; a declaração é sua. O timtimcash faz: soma por busca e por categoria, no ano que você escolher, e exporta a lista filtrada em Excel ou CSV, para levar ao contador. Não faz: a declaração do imposto de renda.",
-        "Seu ano de saúde e escola, somado. Transações no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. Link na bio.",
+        "Seu ano de saúde e escola, somado. Transações no timtimcash. No plano Grátis, no computador ou no celular. Link na bio.",
     ],
     "fontes": [
         ("Planalto · Lei nº 9.250/1995, art. 8º, II, “a” e “b”, e § 2º (despesas médicas e com instrução; limite de R$ 3.561,50; dependentes; reembolso)", "https://www.planalto.gov.br/ccivil_03/leis/l9250.htm"),

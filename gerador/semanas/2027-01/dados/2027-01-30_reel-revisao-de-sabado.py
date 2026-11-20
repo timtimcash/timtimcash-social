@@ -14,7 +14,8 @@ Interação real, nas três telas da revisão:
    R$ 2.000, 105%, "Excedeu em R$ 99"); Bares e restaurantes no limite (97%); Transporte, Lazer e hobbies e Saúde tranquilas.
 Fecho da série: os 4 selos (equipes/ja/selo_comece2027.py, selo_com_nome de 1 a 4: O retrato, O caminho, Os limites, A rota) e
 "Os 4 passos de janeiro viram 5 minutos por semana." O relógio de 0:00 a 5:00 é desenho: os 5 minutos são a proposta do hábito.
-O fechamento verde traz o chamado do mês: nome, e-mail e senha; "Gratuito para o controle financeiro" (não é post de exterior)."""
+O fechamento verde traz o chamado do mês: nome, e-mail e senha; "No plano Grátis" (até 19/11/2026, "Gratuito para o controle
+financeiro"; trocado no lançamento do Premium)."""
 
 POST = {
     "pasta": "2027-01-30_reel-revisao-de-sabado",
@@ -39,7 +40,7 @@ POST = {
         "6,9 a 11,0 s · 2 · Pendentes: o que vem por aí? · Em 6 dias, o salário. No dia 10, aluguel, escola e IPTU. · Pendentes de janeiro “Tudo em dia”; toque na seta para fevereiro: anel no salário (+R$ 9.960,00, em 6 dias, 05/02) e nas contas de 10/02 (aluguel R$ 2.300,00, escola R$ 1.450,00 e IPTU 2027, 1ª parcela, R$ 215,00).",
         "11,1 a 15,2 s · 3 · Orçamentos: o ritmo do mês. · Mercado passou do limite (105%). As outras quatro, dentro. · Tela real de Orçamentos: anel em “30 de 31 dias · 97% do período” e “77% do limite”; depois, em Progresso por categoria, anel vermelho em Mercado (R$ 2.099 de R$ 2.000, 105%).",
         "15,4 a 18,6 s · Fecho da série (tinta) · Os 4 passos de janeiro viram 5 minutos por semana. · Os 4 selos com o nome de cada passo (O retrato, O caminho, Os limites, A rota) ganham um visto. · Todo sábado: Visão geral, Pendentes e Orçamentos.",
-        "18,7 a 21,4 s · Fechamento (verde) · Comece 2027 organizado. · Crie sua conta com nome, e-mail e senha. Gratuito para o controle financeiro, no computador ou no celular. · Link na bio.",
+        "18,7 a 21,4 s · Fechamento (verde) · Comece 2027 organizado. · Crie sua conta com nome, e-mail e senha. No plano Grátis, no computador ou no celular. · Link na bio.",
     ],
     "legenda": (
         "5 minutos no sábado, 3 telas: a revisão que fecha a série Comece 2027.\n\n"
@@ -48,8 +49,7 @@ POST = {
         "2. Pendentes: o que vem por aí. Janeiro está em dia; em fevereiro, o salário entra em 6 dias, e no dia 10 vencem aluguel, escola "
         "e a 1ª parcela do IPTU.\n"
         "3. Orçamentos: o ritmo do mês. Com 97% do período corrido, 77% do limite foi usado; só Mercado passou do limite (105%).\n\n"
-        "Os 4 passos de janeiro (o retrato, o caminho, os limites e a rota) viram 5 minutos por semana. Comece hoje: crie sua conta com "
-        "nome, e-mail e senha. Gratuito para o controle financeiro.\n\n"
+        "Os 4 passos de janeiro (o retrato, o caminho, os limites e a rota) viram 5 minutos por semana. Comece hoje no plano Grátis: crie sua conta com nome, e-mail e senha.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#organizacaofinanceira #controlefinanceiro #financaspessoais #habitosfinanceiros #timtimcash"
@@ -67,7 +67,7 @@ POST = {
         "IPVA e material escolar. Em Pendentes, janeiro está em dia; um toque na seta mostra fevereiro: o salário de R$ 9.960,00 em 6 dias e, no "
         "dia 10, aluguel, escola e a 1ª parcela do IPTU. Em Orçamentos, 30 de 31 dias, 97% do período, e 77% do limite usado; Mercado passou do "
         "limite, com 105%. Os 4 selos da série, o retrato, o caminho, os limites e a rota, ganham um visto: os 4 passos de janeiro viram 5 minutos "
-        "por semana. Comece 2027 organizado: crie sua conta com nome, e-mail e senha. Gratuito para o controle financeiro. Link na bio."
+        "por semana. Comece 2027 organizado: crie sua conta com nome, e-mail e senha. No plano Grátis, no computador ou no celular. Link na bio."
     ],
     "fontes": [],
     "telas": [

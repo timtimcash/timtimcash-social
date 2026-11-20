@@ -26,3 +26,6 @@ Os dois são conferidos na tarefa agendada de 04/01/2027, com a mesma regra de j
 
 ### Para refazer
 `python3 gerador/restaurar_pasta.py <pasta> janfev`, como em `../2027-01/LEIAME.md`.
+
+## Premium (19/11/2026)
+No lançamento do Premium, os posts ainda agendados que diziam "Gratuito para o controle financeiro" foram refeitos e aprovados pelo dono em 19/11/2026, e os que mostram recursos do Premium ganharam uma frase na legenda. O último slide de 01, 06, 11, 13, 17, 22, 24 e 26/02 trocou "Gratuito para o controle financeiro" por "No plano Grátis", com o texto alternativo junto (26/02: "Visão geral, Pendentes, Relatórios e Orçamentos, no plano Grátis"; o Diagnóstico do post é o de Relatórios, do Grátis). Nas legendas: "comece no plano Grátis" em 03, 05, 10 e 15/02 e "Remessas ao exterior são do timtimcash Premium." em 04, 12, 19 e 25/02. As trocas dos roteiros estão em `equipes/` e as de legenda e texto alternativo, em `dados/`; nas artes, só o último slide mudou.

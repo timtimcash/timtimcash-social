@@ -19,3 +19,6 @@ Os fundos alternam entre papel, tinta, verde suave e verde, com no máximo uma c
 
 ## Reels
 Desde novembro, cada Reel abre em movimento, com a pergunta e um número já no primeiro segundo, e tem capa própria para a grade. Em outubro, o tempo médio assistido foi de 3 segundos, e a capa parada no começo segurava pouco. Zona segura: nada importante nos 270 px de cima nem abaixo de 1600 px.
+
+## Premium (19/11/2026)
+No lançamento do Premium, os posts ainda agendados que diziam "Gratuito para o controle financeiro" foram refeitos e aprovados pelo dono em 19/11/2026, e os que mostram recursos do Premium ganharam uma frase na legenda. O último slide de 23 e 26/11 trocou "Gratuito para o controle financeiro" por "timtimcash Premium" (23/11, o Resultado (DRE) é do Premium) e "No plano Grátis" (26/11), com o texto alternativo junto. Nas legendas, 23/11 diz "No timtimcash Premium, o Resultado (DRE)" e 25 e 28/11 ganharam "Remessas ao exterior são do timtimcash Premium.". Os posts publicados até 19/11 ficam como estão. As trocas dos roteiros estão em `equipes/` e as de legenda e texto alternativo, em `dados/`; nas artes, só o último slide mudou.

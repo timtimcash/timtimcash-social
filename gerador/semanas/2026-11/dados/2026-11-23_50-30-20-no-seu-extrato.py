@@ -32,7 +32,7 @@ POST = {
         "NO EXEMPLO · 68 · 12 · 20. · Outubro de 2026, com R$ 10.280 de receita. · Barra 68 · 12 · 20 e três linhas: necessidades (casa, educação, mercado, transporte e saúde) 68%, R$ 7.018,90; desejos (bares e restaurantes, lazer, assinaturas e presentes) 12%, R$ 1.196,10; futuro (o que sobrou, com os R$ 1.500 da reserva) 20%, R$ 2.065,00. · Nota: A divisão das categorias é deste exemplo. Cada pessoa classifica as suas.",
         "LEIA ASSIM · Necessidade acima de 50% é comum. · Com aluguel e escola, acontece. O que pesa é o futuro chegar aos 20%. · Régua com a regra e o exemplo: necessidades, regra 50% e exemplo 68%, +18 pontos; desejos, regra 30% e exemplo 12%, −18 pontos; futuro, 20%, nos 20%. · Nota: Os 18 pontos a mais nas necessidades saíram dos desejos.",
         "NO RESULTADO (DRE) · Cada categoria em % da receita. · Recorte da tela real do Resultado (DRE) de outubro de 2026 (relógio em 23/11/2026, janela de 800 px no computador): Casa 24,2% R$ 2.492,60; Mercado 16,8% R$ 1.725,00; Educação 14,1% R$ 1.450,00; Transporte 11,7% R$ 1.207,00; Bares e restaurantes 6,6% R$ 681,40; Lazer e hobbies 2,1% R$ 214,90; Presentes e doações 1,8% R$ 180,00; Saúde 1,4% R$ 144,30; Assinaturas e serviços 1,2% R$ 119,80. Ao lado de cada linha, fora da tela, uma marca coral (necessidade) ou coral claro (desejo), com a legenda “necessidade · desejo · some cada parte”. · Nota: Tela real do timtimcash, com dados de exemplo.",
-        "Fechamento (fundo verde) · Descubra a sua proporção. · Resultado (DRE) no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. · Botão: Link na bio.",
+        "Fechamento (fundo verde) · Descubra a sua proporção. · Resultado (DRE) no timtimcash Premium, no computador ou no celular. · Botão: Link na bio.",
     ],
     "legenda": (
         "50/30/20: metade para as necessidades, 30% para os desejos e 20% para o futuro. E no seu extrato?\n\n"
@@ -41,7 +41,7 @@ POST = {
         "desejos (bares e restaurantes, lazer, assinaturas e presentes), R$ 1.196,10, ou 12%; e o futuro, o que sobrou com os R$ 1.500 da reserva, R$ 2.065, ou 20%. "
         "A divisão das categorias é deste exemplo.\n\n"
         "Com aluguel e escola, passar dos 50% nas necessidades é comum. O que pesa é o futuro chegar aos 20% e os desejos caberem no resto.\n\n"
-        "No timtimcash, o Resultado (DRE) mostra cada categoria em % da receita: some as suas três partes.\n\n"
+        "No timtimcash Premium, o Resultado (DRE) mostra cada categoria em % da receita: some as suas três partes.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Fonte: Elizabeth Warren e Amelia Warren Tyagi, All Your Worth (2005).\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
@@ -59,7 +59,7 @@ POST = {
         "No exemplo: 68, 12 e 20. Outubro de 2026, com R$ 10.280 de receita. Necessidades, com casa, educação, mercado, transporte e saúde: 68%, R$ 7.018,90. Desejos, com bares e restaurantes, lazer, assinaturas e presentes: 12%, R$ 1.196,10. Futuro, o que sobrou, com os R$ 1.500 da reserva: 20%, R$ 2.065,00. A divisão das categorias é deste exemplo; cada pessoa classifica as suas.",
         "Leia assim: necessidade acima de 50% é comum. Com aluguel e escola, acontece; o que pesa é o futuro chegar aos 20%. Na régua: necessidades, 50% na regra e 68% no exemplo, 18 pontos a mais; desejos, 30% na regra e 12% no exemplo, 18 pontos a menos; futuro, 20% nos dois. Os 18 pontos a mais nas necessidades saíram dos desejos.",
         "No Resultado (DRE), cada categoria em % da receita. Tela real de outubro de 2026, com dados de exemplo: Casa, 24,2%, R$ 2.492,60; Mercado, 16,8%, R$ 1.725,00; Educação, 14,1%, R$ 1.450,00; Transporte, 11,7%, R$ 1.207,00; Bares e restaurantes, 6,6%, R$ 681,40; Lazer e hobbies, 2,1%, R$ 214,90; Presentes e doações, 1,8%, R$ 180,00; Saúde, 1,4%, R$ 144,30; Assinaturas e serviços, 1,2%, R$ 119,80. Marcas ao lado de cada linha indicam necessidade ou desejo, como no exemplo: some cada parte.",
-        "Descubra a sua proporção. Resultado (DRE) no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. Link na bio.",
+        "Descubra a sua proporção. Resultado (DRE) no timtimcash Premium, no computador ou no celular. Link na bio.",
     ],
     "fontes": [
         ("Simon & Schuster · All Your Worth: The Ultimate Lifetime Money Plan, de Elizabeth Warren e Amelia Warren Tyagi (2005); a editora descreve a divisão do dinheiro em três partes (consultado em 16/10/2026)", "https://www.simonandschuster.com/books/All-Your-Worth/Elizabeth-Warren/9780743551106"),

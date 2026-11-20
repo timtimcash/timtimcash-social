@@ -408,7 +408,7 @@ def post_20():
   {nota_tela('margin-top:4px')}</div>""", 6, T))
 
     s.append(fechamento_verde("Comece 2027 com uma média.",
-                              "Crie sua conta com nome, e-mail e senha. Gratuito para o controle financeiro, no computador ou no celular.", 7, T))
+                              "Crie sua conta com nome, <span style='white-space:nowrap'>e-mail</span> e senha. No\u00a0plano\u00a0Grátis, no\u00a0computador ou no\u00a0celular.", 7, T))
     return [sem_quebra(h) for h in s]
 
 
@@ -543,7 +543,7 @@ def post_22():
 {NOTA_TELA}""", 6, T))
 
     s.append(fechamento_verde("Seus dados, guardados todo dia.",
-                              "Gratuito para o controle financeiro, no computador ou no celular.", 7, T))
+                              "No\u00a0plano\u00a0Grátis do\u00a0timtimcash, no\u00a0computador ou no\u00a0celular.", 7, T))
     return [sem_quebra(h) for h in s]
 
 
@@ -809,7 +809,7 @@ def post_29():
 </div>{nota('Exemplo: a conta fictícia dos nossos posts, despesas pagas de janeiro a dezembro de 2026.')}""", 5, T))
 
     s.append(fechamento_verde("Veja o que se repete no seu ano.",
-                              "Relatórios no timtimcash. Gratuito para o controle financeiro, no computador ou no celular.", 6, T))
+                              "Relatórios no\u00a0timtimcash. No\u00a0plano\u00a0Grátis, no\u00a0computador ou no\u00a0celular.", 6, T))
     return [sem_quebra(h) for h in s]
 
 

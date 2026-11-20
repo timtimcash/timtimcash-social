@@ -37,7 +37,7 @@ POST = {
         "10/02 · QUARTA-FEIRA DE CINZAS · As contas do dia 10 vêm logo depois. · No exemplo, aluguel, escola e a 1ª parcela do IPTU vencem juntos. · Cartão “Quarta, 10/02 · no exemplo”: R$ 3.965, numa barra dividida em Aluguel R$ 2.300, Escola R$ 1.450 e IPTU 2027, 1ª parcela, R$ 215. · Selo: Deixe o saldo pronto antes da folia.",
         "ATÉ 26/02 · IMPOSTO DE RENDA · O informe de rendimentos chega. · Empresa e banco entregam até o último dia útil de fevereiro. · Cartão com um envelope: 26/02, sexta, o último dia útil de fevereiro; a semana de 22 a 28 com o 26 em verde e o fim de semana (27 e 28) apagado. · Selo: Quinta (11/02): saúde e educação no IR. · Nota: Regras da Receita Federal para o comprovante de rendimentos: IN RFB 2.060/2021, art. 3º, e IN SRF 698/2006, art. 2º, I.",
         "NO TIMTIMCASH · O mês inteiro, já com data. · Em Pendentes: R$ 4.444,80 a pagar em 7 contas, e o salário no dia 5. · Tela real de Pendentes no celular, relógio em 01/02/2027: “A vencer · 8 transações ainda no prazo”; Em 4 dias · 05/02/2027, Salário +R$ 9.960,00 (pendente); 10/02/2027, Aluguel −R$ 2.300,00, Escola −R$ 1.450,00 e “IPTU 2027 · 1…” −R$ 215,00 (pendentes). · Nota: Tela real do timtimcash, com dados de exemplo.",
-        "Fechamento (fundo verde) · Seu fevereiro, com data marcada. · Pendentes no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. · Botão: Link na bio.",
+        "Fechamento (fundo verde) · Seu fevereiro, com data marcada. · Pendentes no timtimcash. No plano Grátis, no computador ou no celular. · Botão: Link na bio.",
     ],
     "legenda": (
         "Fevereiro tem 28 dias e quatro datas que mexem no seu dinheiro.\n\n"
@@ -64,7 +64,7 @@ POST = {
         "10 de fevereiro, Quarta-feira de Cinzas. As contas do dia 10 vêm logo depois: no exemplo, aluguel de R$ 2.300, escola de R$ 1.450 e a 1ª parcela do IPTU, de R$ 215, vencem juntos, R$ 3.965 no mesmo dia. Deixe o saldo pronto antes da folia.",
         "Até 26 de fevereiro, imposto de renda: o informe de rendimentos chega. Empresa e banco entregam até o último dia útil de fevereiro, que em 2027 é sexta, dia 26. Na quinta, 11 de fevereiro, saúde e educação no IR. Regras da Receita Federal: Instrução Normativa 2.060 de 2021, artigo 3º, e Instrução Normativa 698 de 2006, artigo 2º.",
         "No timtimcash, o mês inteiro, já com data: em Pendentes, R$ 4.444,80 a pagar em 7 contas e o salário no dia 5. Tela real de Pendentes no celular, com dados de exemplo, em 1º de fevereiro de 2027: em 5 de fevereiro, salário de R$ 9.960; em 10 de fevereiro, aluguel de R$ 2.300, escola de R$ 1.450 e IPTU de R$ 215, todos pendentes.",
-        "Seu fevereiro, com data marcada. Pendentes no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. Link na bio.",
+        "Seu fevereiro, com data marcada. Pendentes no timtimcash. No plano Grátis, no computador ou no celular. Link na bio.",
     ],
     "fontes": [
         ("Receita Federal · Instrução Normativa RFB nº 2.060/2021, art. 3º (comprovante de rendimentos da fonte pagadora até o último dia útil de fevereiro)", "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/122177/visao/multivigente"),

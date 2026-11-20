@@ -285,7 +285,7 @@ def post_dezembro():
         + f"<div class='visual' style='margin-top:34px'>{recorte(pend, 2880, 3797, largura=690, x0=36, x1=1134)}{NOTA_TELA}</div>", 6, T))
 
     s.append(fechamento_verde("Dezembro, com data marcada.",
-        "Pendentes no timtimcash. Gratuito para o controle financeiro, no computador ou no celular.", 7, T))
+        "Pendentes no\u00a0timtimcash. No\u00a0plano\u00a0Grátis, no\u00a0computador ou no\u00a0celular.", 7, T))
     return [sem_quebra_dc1(h) for h in s]
 
 
@@ -447,7 +447,7 @@ def post_parcela():
         + f"<div class='visual' style='margin-top:32px'>{recorte(form, 1305, 2510, largura=560)}{NOTA_TELA}</div>", 6, T))
 
     s.append(fechamento_verde("A 2ª parcela, sem surpresa.",
-        "Pendentes no timtimcash. Gratuito para o controle financeiro, no computador ou no celular.", 7, T))
+        "Pendentes no\u00a0timtimcash. No\u00a0plano\u00a0Grátis, no\u00a0computador ou no\u00a0celular.", 7, T))
     return [sem_quebra_dc1(h) for h in s]
 
 
@@ -610,7 +610,7 @@ def post_janeiro():
         estilo_p="font-size:36px;margin-top:22px") + v_cobre(), 6, T))
 
     s.append(fechamento_verde("Janeiro chega. Você já sabe quanto.",
-        "Previsto no timtimcash. Gratuito para o controle financeiro, no computador ou no celular.", 7, T))
+        "Previsto no\u00a0timtimcash. No\u00a0plano\u00a0Grátis, no\u00a0computador ou no\u00a0celular.", 7, T))
     return [sem_quebra_dc1(h) for h in s]
 
 
@@ -780,7 +780,7 @@ def post_juros():
     s.append(slide("light", EXTRA_D + f"<div style='display:flex;gap:36px;align-items:center'>{esq}{dir_}</div>", 6, T))
 
     s.append(fechamento_verde("Antes de assinar, faça a conta inteira.",
-        "Dívidas e empréstimos no timtimcash. Gratuito para o controle financeiro, no computador ou no celular.", 7, T))
+        "Dívidas e empréstimos no\u00a0timtimcash. No\u00a0plano\u00a0Grátis, no\u00a0computador ou no\u00a0celular.", 7, T))
     return [sem_quebra_dc1(h) for h in s]
 
 

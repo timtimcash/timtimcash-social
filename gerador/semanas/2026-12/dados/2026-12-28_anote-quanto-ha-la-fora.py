@@ -50,6 +50,7 @@ POST = {
         "O botão PTAX busca o câmbio no Banco Central.\n\n"
         "A declaração do IR também relaciona os bens e direitos, no Brasil e no exterior, de 31 de dezembro. Desde 2024, os rendimentos de aplicações no exterior "
         "pagam 15% na declaração anual. Confira o seu caso com um contador.\n\n"
+        "Remessas ao exterior são do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Fontes: Receita Federal (Perguntas e Respostas IRPF 2026; taxas de câmbio para fins fiscais); Lei 14.754/2023.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"

@@ -39,7 +39,7 @@ POST = {
         "BACKUP COMPLETO · E um arquivo com tudo, quando quiser. · Guarde onde preferir. Para voltar, é só restaurar dele. · Telas reais: “Exportar backup completo · Arquivo JSON com contas, transações, categorias e orçamentos. Guarde em local seguro para restaurar depois.” com o botão Baixar; “Restaurar de backup · Restaura um JSON exportado anteriormente. Atenção: os dados atuais serão substituídos.” com o botão Restaurar. · Nota: Tela real do timtimcash, com dados de exemplo.",
         "SESSÃO · A sessão se fecha sozinha. · Depois de 30 minutos sem uso, com aviso um minuto antes. E a cada 24 horas. · Tela real do aviso: “Você ainda está por aqui? Você sai em 59 segundos.” com Continuar usando e Sair agora. Dois cartões: 30 min, sem uso; 24 h, mesmo em uso. · Nota: Tela real do timtimcash, com dados de exemplo.",
         "MAIS CUIDADOS · Na tela e no servidor. · Tela real da Visão geral com os valores ocultos (Patrimônio ••••••, o olho riscado no topo). Ao lado: Ocultar valores, o olho no topo esconde os números, até nos gráficos; Dados criptografados, no envio e no armazenamento; Sem conexão com o banco, você decide o que entra. · Nota: Tela real do timtimcash, com dados de exemplo.",
-        "Fechamento (fundo verde) · Seus dados, guardados todo dia. · Gratuito para o controle financeiro, no computador ou no celular. · Botão: Link na bio.",
+        "Fechamento (fundo verde) · Seus dados, guardados todo dia. · No plano Grátis do timtimcash, no computador ou no celular. · Botão: Link na bio.",
     ],
     "legenda": (
         "Seus dados, guardados todo dia.\n\n"
@@ -50,7 +50,8 @@ POST = {
         "valores da tela. Os dados ficam criptografados no envio e no armazenamento, e o site não se conecta ao banco: você decide o que "
         "entra.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
-        "Gratuito para o controle financeiro. Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
+        "Tudo isso está no plano Grátis.\n\n"
+        "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#privacidade #segurancadigital #controlefinanceiro #financaspessoais #timtimcash"
     ),
     "justificativa": [
@@ -66,7 +67,7 @@ POST = {
         "E um arquivo com tudo, quando quiser: guarde onde preferir e, para voltar, restaure dele. Telas reais de Exportar backup completo, um arquivo JSON com contas, transações, categorias e orçamentos, com o botão Baixar; e de Restaurar de backup, que restaura um JSON exportado antes e avisa que os dados atuais serão substituídos.",
         "A sessão se fecha sozinha: depois de 30 minutos sem uso, com aviso um minuto antes, e a cada 24 horas. Tela real do aviso Você ainda está por aqui? Você sai em 59 segundos, com os botões Continuar usando e Sair agora. Dois cartões: 30 minutos sem uso e 24 horas mesmo em uso.",
         "Mais cuidados, na tela e no servidor. Tela real da Visão geral com os valores ocultos: o patrimônio aparece como pontos e o ícone do olho está riscado. Ao lado: Ocultar valores, o olho no topo esconde os números, até nos gráficos; dados criptografados no envio e no armazenamento; sem conexão com o banco, você decide o que entra.",
-        "Seus dados, guardados todo dia. Gratuito para o controle financeiro, no computador ou no celular. Link na bio.",
+        "Seus dados, guardados todo dia. No plano Grátis do timtimcash, no computador ou no celular. Link na bio.",
     ],
     "fontes": [],
     "telas": [

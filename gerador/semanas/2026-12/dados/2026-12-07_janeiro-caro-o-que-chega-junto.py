@@ -36,7 +36,7 @@ POST = {
         "TAMBÉM NO COMEÇO DO ANO · Escola, parcelas e a fatura das festas. · Material escolar e matrícula: no exemplo, R$ 940 de material, com vencimento em 12/01. Parcelas da Black Friday: o notebook em 10x, a 3ª parcela, R$ 360, cai em 27/01. Fatura das festas: o que vai no cartão em dezembro pode vencer só em janeiro.",
         "NO TIMTIMCASH · Veja janeiro antes de ele chegar. · Em Previsto, a Visão geral soma o que já tem data em janeiro de 2027. · Tela real da Visão geral de Janeiro 2027 em Previsto, relógio em 07/12/2026: “Movimento de janeiro 2027 · PREVISTO · Deve guardar 35,7% da receita”, Receitas R$ 9.960,00, Despesas R$ 6.405,80, Resultado previsto R$ 3.554,20. · Cartão: Janeiro de 2027, visto em 07/12 · 76% da despesa média; barra com fixas R$ 3.869,80 + IPVA R$ 1.236 + material R$ 940 + notebook R$ 360 = R$ 6.405,80, contra uma despesa média de R$ 8.419,65 por mês.",
         "ANTES DE GASTAR O 13º · A 2ª parcela cobre o IPVA e o material. · Na conta do exemplo, com sobra. Olhar janeiro antes ajuda a decidir. · Barras: 2ª parcela do 13º · 18/12, R$ 2.433,36; IPVA + material · janeiro, R$ 2.176,00 (IPVA R$ 1.236 e material R$ 940); sobra, se ela for para janeiro, R$ 257,36. · Nota: Conta do exemplo: 2ª parcela de R$ 2.433,36; IPVA 2027 de R$ 1.236 e material escolar de R$ 940, lançados em dezembro.",
-        "Fechamento (fundo verde) · Janeiro chega. Você já sabe quanto. · Previsto no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. · Botão: Link na bio.",
+        "Fechamento (fundo verde) · Janeiro chega. Você já sabe quanto. · Previsto no timtimcash. No plano Grátis, no computador ou no celular. · Botão: Link na bio.",
     ],
     "legenda": (
         "Janeiro costuma trazer várias contas de uma vez. Dá para ver antes.\n\n"
@@ -61,7 +61,7 @@ POST = {
         "Também no começo do ano: escola, parcelas e a fatura das festas. Material escolar e matrícula: no exemplo, R$ 940 de material, com vencimento em 12 de janeiro. Parcelas da Black Friday: o notebook em 10 vezes, com a 3ª parcela, de R$ 360, em 27 de janeiro. Fatura das festas: o que vai no cartão em dezembro pode vencer só em janeiro.",
         "No timtimcash, veja janeiro antes de ele chegar: em Previsto, a Visão geral soma o que já tem data em janeiro de 2027. Tela real no celular, com dados de exemplo: movimento de janeiro de 2027 previsto, receitas de R$ 9.960, despesas de R$ 6.405,80, resultado previsto de R$ 3.554,20. Abaixo, uma barra: fixas de R$ 3.869,80, IPVA de R$ 1.236, material de R$ 940 e notebook de R$ 360, 76% da despesa média de um mês, de R$ 8.419,65.",
         "Antes de gastar o 13º: na conta do exemplo, a 2ª parcela cobre o IPVA e o material, com sobra. Barras: a 2ª parcela do 13º, de R$ 2.433,36, em 18 de dezembro; o IPVA de R$ 1.236 e o material de R$ 940, R$ 2.176 em janeiro; sobram R$ 257,36 se ela for para janeiro.",
-        "Janeiro chega. Você já sabe quanto. Previsto no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. Link na bio.",
+        "Janeiro chega. Você já sabe quanto. Previsto no timtimcash. No plano Grátis, no computador ou no celular. Link na bio.",
     ],
     "fontes": [
         ("Assembleia Legislativa de SP · Decreto estadual nº 70.087, de 12/11/2025 (IPVA 2026: à vista em janeiro com 3% de desconto, à vista em fevereiro sem desconto, ou 5 parcelas de janeiro a maio)", "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2025/decreto-70087-12.11.2025.html"),

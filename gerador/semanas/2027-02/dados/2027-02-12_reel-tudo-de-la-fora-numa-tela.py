@@ -63,6 +63,7 @@ POST = {
         "rendeu na moeda (+12,1%) e em reais (+13,2%), de onde veio o resultado (R$ 7.325 de rendimento e R$ 618 de câmbio), o câmbio que "
         "zeraria o resultado em reais (R$ 4,461), cada ano em dólar e em reais e cada remessa, com o câmbio que custou.\n\n"
         "Com dólar e euro, cada moeda tem o seu botão: um clique troca a página.\n\n"
+        "Remessas ao exterior são do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo. O câmbio de hoje do exemplo é o salvo na carteira: a PTAX de compra de 15/10/2026 "
         "(dólar R$ 5,0515; euro R$ 5,6592).\n\n"
         "Fonte: Banco Central do Brasil, PTAX de 15/10/2026.\n\n"

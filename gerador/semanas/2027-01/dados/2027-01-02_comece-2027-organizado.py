@@ -36,7 +36,7 @@ POST = {
         "COMECE 2027 · PASSO 2 DE 4 · selo 2 · O caminho · Para onde vai? · Lance cada gasto com a categoria. Na Visão geral, o painel Por categoria mostra para onde foi. · Tela real da Visão geral no celular (10/01/2027): Por categoria, Despesas do período, a rosca com R$ 4.820,00 em 6 categorias. · Nota: Tela real do timtimcash, com dados de exemplo.",
         "COMECE 2027 · PASSO 3 DE 4 · selo 3 · Os limites · Quanto cabe? · Em Orçamentos, dê um limite a cada categoria. Comece pela sua média. · Tela real de Orçamentos no celular (14/01/2027, numa cópia da conta sem limites): Comece pela sua média dos últimos 12 meses, arredondada para cima; Casa R$ 2.600, Mercado R$ 1.600, Educação R$ 1.500, Transporte R$ 1.200, Bares e restaurantes R$ 700, Lazer e hobbies R$ 370 e mais 7 categorias; Usar estes limites; Definir do zero. · Nota: Tela real do timtimcash, com dados de exemplo.",
         "COMECE 2027 · PASSO 4 DE 4 · selo 4 · A rota · E se 2027 apertar? · Na Simulação futura, o E se… testa um susto sobre o cenário, sem mudar nada. · Tela real do painel E se… no celular (18/01/2027): Testa um susto sobre o cenário, sem alterar nada; Receita −10%, Despesa +10%, Perde a maior renda, Inflação 5% a.a., Outro valor. · Nota: Tela real do timtimcash, com dados de exemplo.",
-        "Fechamento (fundo verde) · Comece hoje: crie sua conta com nome, e-mail e senha. · Gratuito para o controle financeiro, no computador ou no celular. · Botão: Link na bio.",
+        "Fechamento (fundo verde) · Comece hoje: crie sua conta com nome, e-mail e senha. · No plano Grátis do timtimcash, no computador ou no celular. · Botão: Link na bio.",
     ],
     "legenda": (
         "2027 começa organizado: 4 passos, um de cada vez.\n\n"
@@ -46,7 +46,7 @@ POST = {
         "3 · Os limites (14/01): quanto cabe em cada categoria, a partir da sua média.\n"
         "4 · A rota (18/01): e se 2027 apertar? Um teste na Simulação futura, sem mudar nada.\n"
         "Em 30/01, a revisão de sábado fecha a série.\n\n"
-        "Salve este post e siga o perfil para fazer junto. Comece hoje: crie sua conta com nome, e-mail e senha. Gratuito para o controle financeiro.\n\n"
+        "Salve este post e siga o perfil para fazer junto. Comece hoje no plano Grátis: crie sua conta com nome, e-mail e senha.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#organizacaofinanceira #controlefinanceiro #financaspessoais #anonovo #timtimcash"
@@ -64,7 +64,7 @@ POST = {
         "Passo 2 de 4, O caminho: para onde vai? Lance cada gasto com a categoria; na Visão geral, o painel Por categoria mostra para onde foi. Tela real no celular, com dados de exemplo: gráfico de rosca com despesas de R$ 4.820,00 em seis categorias.",
         "Passo 3 de 4, Os limites: quanto cabe? Em Orçamentos, dê um limite a cada categoria, começando pela sua média. Tela real no celular, com dados de exemplo: o quadro Comece pela sua média dos últimos 12 meses, com Casa R$ 2.600, Mercado R$ 1.600, Educação R$ 1.500, Transporte R$ 1.200, Bares e restaurantes R$ 700 e Lazer e hobbies R$ 370, e os botões Usar estes limites e Definir do zero.",
         "Passo 4 de 4, A rota: e se 2027 apertar? Na Simulação futura, o E se testa um susto sobre o cenário, sem mudar nada. Tela real no celular, com dados de exemplo: os botões Receita menos 10%, Despesa mais 10%, Perde a maior renda, Inflação 5% ao ano e Outro valor.",
-        "Comece hoje: crie sua conta com nome, e-mail e senha. Gratuito para o controle financeiro, no computador ou no celular. Link na bio.",
+        "Comece hoje: crie sua conta com nome, e-mail e senha. No plano Grátis do timtimcash, no computador ou no celular. Link na bio.",
     ],
     "fontes": [],
     "telas": [

@@ -35,7 +35,7 @@ POST = {
         "REGRA 3 · NOME, COR E ÍCONE · 3 · Do seu jeito. · Toque nos três pontos da categoria: Renomear muda o nome; Aparência, a cor e o ícone. · Tela real da janela Aparência de Casa no celular (11/01/2027): Cor, com as bolinhas de cor; Ícone, com a grade de ícones; Cancelar e Salvar. · Nota: Tela real do timtimcash, com dados de exemplo.",
         "REGRA 4 · RECEITAS · 4 · Receitas também. · Salário, Investimentos, Empréstimos e Outras receitas: o que entra também conta a história. · Tela real da aba Receitas de Categorias no celular (11/01/2027): Empréstimos, Investimentos, Outras receitas e Salário. · Nota: Tela real do timtimcash, com dados de exemplo.",
         "REGRA 5 · EXCLUIR · 5 · Antes de excluir, mova. · O site pede um destino para os lançamentos. Aqui, Roupas vai para Compras. · Tela real de Excluir categoria no celular (11/01/2027): Migração obrigatória; 1 transação está classificada em Roupas ou suas subcategorias; Escolha para qual categoria mover essa transação antes de excluir; Mover transações para: Compras; Cancelar e Migrar e excluir. · Nota: Tela real do timtimcash, com dados de exemplo.",
-        "Fechamento (fundo verde) · Categorias que falam a língua da sua casa. · Configurar › Categorias no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. · Botão: Link na bio.",
+        "Fechamento (fundo verde) · Categorias que falam a língua da sua casa. · Configurar › Categorias no timtimcash. No plano Grátis, no computador ou no celular. · Botão: Link na bio.",
     ],
     "legenda": (
         "Categorias boas fazem o relatório falar a língua da sua casa.\n\n"
@@ -63,7 +63,7 @@ POST = {
         "Regra 3, nome, cor e ícone: do seu jeito. Toque nos três pontos da categoria: Renomear muda o nome; Aparência, a cor e o ícone. Tela real da janela Aparência da categoria Casa no celular, com dados de exemplo: uma fileira de cores e uma grade de ícones, com os botões Cancelar e Salvar.",
         "Regra 4, receitas: receitas também têm categoria. Salário, Investimentos, Empréstimos e Outras receitas: o que entra também conta a história. Tela real da aba Receitas de Categorias no celular, com dados de exemplo: Empréstimos, Investimentos, Outras receitas e Salário.",
         "Regra 5, excluir: antes de excluir, mova. O site pede um destino para os lançamentos; aqui, Roupas vai para Compras. Tela real no celular, com dados de exemplo: Excluir categoria, migração obrigatória, 1 transação está classificada em Roupas, mover transações para Compras, e os botões Cancelar e Migrar e excluir.",
-        "Categorias que falam a língua da sua casa. Configurar, Categorias no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. Link na bio.",
+        "Categorias que falam a língua da sua casa. Configurar, Categorias no timtimcash. No plano Grátis, no computador ou no celular. Link na bio.",
     ],
     "fontes": [],
     "telas": [

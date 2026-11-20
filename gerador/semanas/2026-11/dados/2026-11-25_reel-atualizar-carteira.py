@@ -46,6 +46,7 @@ POST = {
         "No exemplo do vídeo, US$ 13.240 com a PTAX de compra de 15/10/2026, de R$ 5,0515, dão R$ 66.881,86. O topo de Remessas passa a "
         "mostrar a carteira em dólar e em reais, com o resultado nas duas moedas.\n\n"
         "A cotação é só uma sugestão: vale o que você confirmar no campo.\n\n"
+        "Remessas ao exterior são do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo. A cotação é a PTAX real de 15/10/2026.\n\n"
         "Fonte: Banco Central do Brasil, PTAX de 15/10/2026.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"

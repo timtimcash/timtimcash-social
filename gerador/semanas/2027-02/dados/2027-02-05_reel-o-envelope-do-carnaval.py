@@ -53,7 +53,7 @@ POST = {
         "Pago via Carteira do Carnaval. A fantasia de R$ 89,90 já saiu dela, e sobram R$ 410,10.\n\n"
         "Dica: escreva Carnaval na descrição de cada gasto. Depois da folia, a busca em Transações junta tudo e mostra a soma.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
-        "Crie sua conta com nome, e-mail e senha. Gratuito para o controle financeiro.\n\n"
+        "Crie sua conta com nome, e-mail e senha e comece no plano Grátis.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#carnaval #controledegastos #controlefinanceiro #financaspessoais #timtimcash"
     ),

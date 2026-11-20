@@ -45,11 +45,11 @@ POST = {
         "PROGRESSO POR CATEGORIA · 14/01 · Cada categoria cai numa faixa. · A marca vertical é hoje: a barra à esquerda dela está dentro do ritmo. · Tela real de Progresso por categoria no celular (14/01/2027): a legenda da marca (dia 14 de 31 do período); Vão estourar no ritmo atual: Bares e restaurantes, R$ 284 de R$ 600, 47%; No limite: Mercado, R$ 840 de R$ 2.000, 42%. · Nota: Tela real do timtimcash, com dados de exemplo.",
         "AS FAIXAS · CONTA DE EXEMPLO EM 14/01 · Cinco faixas dizem onde olhar. · Quadro com uma barrinha no desenho do site (a marca preta em 45% do mês) e a regra de cada faixa, com as categorias do exemplo: Já passaram do limite (o gasto já passou do limite): nenhuma em 14/01; Vão estourar no ritmo atual (no ritmo de hoje, o mês fecha acima do limite): Bares e restaurantes; No limite (no ritmo, fecha entre 90% e 102% do limite): Mercado; Tranquilas (no ritmo, fecha abaixo de 90% do limite): Transporte, Saúde, Lazer e hobbies; Sem limite definido (a categoria ainda não tem limite): Educação, Casa, Assinaturas e serviços. · Nota: A marca preta é hoje: dia 14 de 31.",
         "SUGESTÕES DO SITE · Onde definir limite primeiro. · A categoria sem limite que mais pesa no mês vem com um valor pela sua média. · Tela real do painel no celular (14/01/2027), recortada no cabeçalho e na primeira sugestão: Onde definir limite primeiro, SUGESTÕES; R$ 4.745,90 do período está em categorias sem limite. Os valores abaixo vêm da sua própria média e servem de ponto de partida; Educação, R$ 2.390 no período, sugestão pela média de 12 meses, Usar R$ 1.500, outro valor. · Nota: Tela real do timtimcash, com dados de exemplo.",
-        "Fechamento (fundo verde) · Passo 3: os limites. · Orçamentos no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. · Botão: Link na bio.",
+        "Fechamento (fundo verde) · Passo 3: os limites. · Orçamentos no timtimcash. No plano Grátis, no computador ou no celular. · Botão: Link na bio.",
     ],
     "legenda": (
         "Passo 3 de 4: quanto cabe em cada categoria?\n\n"
-        "Em Orçamentos, sem nenhum limite, o timtimcash sugere um valor por categoria: a sua média dos últimos 12 meses, arredondada para cima. Dá para usar todos de uma vez ou definir do zero.\n\n"
+        "Em Orçamentos, sem nenhum limite, o timtimcash sugere um valor por categoria: a sua média dos últimos 12 meses, arredondada para cima. Dá para usar todos de uma vez ou definir do zero. No plano Grátis, são até 3 limites de despesa e 3 metas de receita; no Premium, sem limite.\n\n"
         "Depois, Progresso por categoria mostra o mês em cinco faixas: já passaram do limite, vão estourar no ritmo atual, no limite, tranquilas e sem limite definido. A marca vertical é hoje: a barra à esquerda dela está dentro do ritmo.\n\n"
         "Na conta de exemplo, em 14/01, uma categoria vai estourar no ritmo atual, uma está no limite e três seguem tranquilas. Para as que ainda não têm limite, o site aponta onde definir primeiro.\n\n"
         "Próximo passo, segunda (18/01): a rota, e se 2027 apertar?\n\n"
@@ -69,7 +69,7 @@ POST = {
         "Progresso por categoria em 14 de janeiro: cada categoria cai numa faixa. A marca vertical é hoje: a barra à esquerda dela está dentro do ritmo. Tela real no celular, com dados de exemplo: Vão estourar no ritmo atual, Bares e restaurantes, R$ 284 de R$ 600, 47%; No limite, Mercado, R$ 840 de R$ 2.000, 42%.",
         "As cinco faixas na conta de exemplo em 14 de janeiro. Já passaram do limite: nenhuma. Vão estourar no ritmo atual, quando no ritmo de hoje o mês fecha acima do limite: Bares e restaurantes. No limite, entre 90% e 102%: Mercado. Tranquilas, abaixo de 90%: Transporte, Saúde e Lazer e hobbies. Sem limite definido: Educação, Casa e Assinaturas e serviços. A marca preta é hoje, dia 14 de 31.",
         "Sugestões do site: onde definir limite primeiro. A categoria sem limite que mais pesa no mês vem com um valor pela sua média. Tela real no celular, com dados de exemplo: R$ 4.745,90 do período está em categorias sem limite; Educação, R$ 2.390 no período, sugestão pela média de 12 meses: usar R$ 1.500, ou outro valor.",
-        "Passo 3: os limites. Orçamentos no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. Link na bio.",
+        "Passo 3: os limites. Orçamentos no timtimcash. No plano Grátis, no computador ou no celular. Link na bio.",
     ],
     "fontes": [],
     "telas": [

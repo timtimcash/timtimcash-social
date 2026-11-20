@@ -48,6 +48,7 @@ POST = {
         "O euro conta outra história. Os € 2.000 enviados em 1º de dezembro viraram € 2.012: +0,6% em euro. Em reais, −1,2%: "
         "o envio custou R$ 5,7627 por euro, já com o IOF, e hoje o euro vale R$ 5,6592.\n\n"
         "Por isso, em Remessas, o timtimcash não soma moedas diferentes num total: cada uma é medida na própria moeda e em reais. São 18 moedas e 41 destinos.\n\n"
+        "Remessas ao exterior são do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo. Os câmbios do exemplo são as PTAX de compra reais de 15/10/2026 "
         "(dólar R$ 5,0515; euro R$ 5,6592).\n\n"
         "Fonte: Banco Central do Brasil, PTAX de 15/10/2026.\n\n"

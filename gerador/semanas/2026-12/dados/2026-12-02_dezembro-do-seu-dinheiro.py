@@ -31,7 +31,7 @@ POST = {
         "31/12 · LÁ FORA · Anote o saldo da carteira no último dia. · Cada ano fecha com o saldo de 31/12 e a PTAX de compra do último dia útil. · Tela real de Remessas › “Quanto havia no fim de cada ano” no celular, relógio em 02/12/2026: 2025 (31/12/2025), saldo 12.960,00, câmbio R$ 5,5018 e o botão PTAX; 2026, “hoje, em curso”, saldo 13.310,00, câmbio R$ 5,0515. · Nota: Tela real do timtimcash (Remessas), com dados de exemplo.",
         "LOGO DEPOIS · JANEIRO · Janeiro chega com as contas do ano. · IPVA, IPTU, material escolar e as parcelas das compras de fim de ano. · Quatro cartões com ícones de traço: IPVA (à vista ou parcelado); IPTU (em SP, a partir de fevereiro); Escola (material e matrícula); Parcelas (das compras de novembro). · Selo: Segunda (07/12): o que chega junto.",
         "NO TIMTIMCASH · A 2ª parcela já espera nos Pendentes. · Lançada com a data, ela aparece no dia certo. · Tela real de Pendentes no celular, relógio em 02/12/2026: 18/12/2026, “13º salário …” (Salário, Conta corrente) +R$ 2.433,36, pendente; 20/12/2026, “Armazename…” (Fixa, Assinaturas) −R$ 42,00, pendente; 27/12/2026, “Notebook (2/…” (2/10, Compras) −R$ 360,00, pendente. · Nota: Tela real do timtimcash, com dados de exemplo.",
-        "Fechamento (fundo verde) · Dezembro, com data marcada. · Pendentes no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. · Botão: Link na bio.",
+        "Fechamento (fundo verde) · Dezembro, com data marcada. · Pendentes no timtimcash. No plano Grátis, no computador ou no celular. · Botão: Link na bio.",
     ],
     "legenda": (
         "Dezembro tem quatro datas que mexem no seu dinheiro. Marque no calendário.\n\n"
@@ -58,7 +58,7 @@ POST = {
         "31 de dezembro, lá fora. Anote o saldo da carteira no último dia: cada ano fecha com o saldo de 31 de dezembro e a PTAX de compra do último dia útil. Tela real do timtimcash, com dados de exemplo, na tela Quanto havia no fim de cada ano, das Remessas: em 2025, saldo de 12.960 dólares e câmbio de R$ 5,5018, com o botão PTAX; em 2026, ainda em curso, 13.310 dólares a R$ 5,0515.",
         "Logo depois, janeiro. Janeiro chega com as contas do ano: IPVA, IPTU, material escolar e as parcelas das compras de fim de ano. Quatro cartões com ícones: IPVA, à vista ou parcelado; IPTU, em São Paulo, a partir de fevereiro; Escola, material e matrícula; Parcelas, das compras de novembro. Na segunda, 7 de dezembro, o que chega junto.",
         "No timtimcash, a 2ª parcela já espera nos Pendentes: lançada com a data, ela aparece no dia certo. Tela real de Pendentes no celular, com dados de exemplo, em 2 de dezembro de 2026: em 18 de dezembro, 13º salário, mais R$ 2.433,36, pendente; em 20 de dezembro, armazenamento na nuvem, R$ 42; em 27 de dezembro, a parcela 2 de 10 do notebook, R$ 360.",
-        "Dezembro, com data marcada. Pendentes no timtimcash. Gratuito para o controle financeiro, no computador ou no celular. Link na bio.",
+        "Dezembro, com data marcada. Pendentes no timtimcash. No plano Grátis, no computador ou no celular. Link na bio.",
     ],
     "fontes": [
         ("Planalto · Lei nº 4.749, de 12 de agosto de 1965 (13º salário: quitação até 20 de dezembro, art. 1º; 1ª parcela até novembro, art. 2º)", "https://www.planalto.gov.br/ccivil_03/leis/l4749.htm"),

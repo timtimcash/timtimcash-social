@@ -173,7 +173,7 @@ def post_comece():
                          "sem mudar nada.", recorte(sim, px(es[1] - 6), px(es[1] + es[3] + 8), largura=780, x0=px(es[0] - 10), x1=px(es[0] + es[2] + 10))))
 
     s.append(fechamento_verde("Comece hoje: crie sua conta com nome, e-mail e senha.",
-                              "Gratuito para o controle financeiro, no computador ou no celular.", 7, T))
+                              "No\u00a0plano\u00a0Grátis do\u00a0timtimcash, no\u00a0computador ou no\u00a0celular.", 7, T))
     return [sem_quebra_ja(h) for h in s]
 
 
@@ -299,7 +299,7 @@ def post_limites():
         + f"<div class='visual' style='margin-top:34px'>{recorte(orc, px(po[1]), px(y_fim), largura=640, x0=px(po[0]), x1=px(po[0] + po[2]))}{NOTA_TELA}</div>", 5, T))
 
     s.append(fechamento_verde("Passo 3: os limites.",
-                              "Orçamentos no timtimcash. Gratuito para o controle financeiro, no computador ou no celular.", 6, T))
+                              "Orçamentos no\u00a0timtimcash. No\u00a0plano\u00a0Grátis, no\u00a0computador ou no\u00a0celular.", 6, T))
     return [sem_quebra_ja(h) for h in s]
 
 
@@ -396,7 +396,7 @@ def post_categorias():
                    f"<div class='visual' style='margin-top:30px'>{recorte(exc, px(e[1] + 6), px(e[1] + e[3]), largura=560)}{NOTA_TELA}</div>", 6, T))
 
     s.append(fechamento_verde("Categorias que falam a língua da sua casa.",
-                              "Configurar › Categorias no timtimcash. Gratuito para o controle financeiro, no computador ou no celular.", 7, T))
+                              "Configurar › Categorias no\u00a0timtimcash. No\u00a0plano\u00a0Grátis, no\u00a0computador ou no\u00a0celular.", 7, T))
     return [sem_quebra_ja(h) for h in s]
 
 
@@ -578,7 +578,7 @@ def post_habito():
         cls="h3", estilo_p="font-size:34px;margin-top:20px") + cal, 6, T))
 
     s.append(fechamento_verde("Comece hoje. Faltar um dia faz parte.",
-                              "Visão geral no timtimcash. Gratuito para o controle financeiro, no computador ou no celular.", 7, T))
+                              "Visão geral no\u00a0timtimcash. No\u00a0plano\u00a0Grátis, no\u00a0computador ou no\u00a0celular.", 7, T))
     return [sem_quebra_ja(h) for h in s]
 
 
@@ -684,7 +684,7 @@ def post_material():
         + f"<div class='visual' style='margin-top:26px'>{crop}{NOTA_TELA}</div>", 6, T))
 
     s.append(fechamento_verde("Volta às aulas sem susto.",
-                              "Transações e Pendentes no timtimcash. Gratuito para o controle financeiro, no computador ou no celular.", 7, T))
+                              "Transações e Pendentes no\u00a0timtimcash. No\u00a0plano\u00a0Grátis, no\u00a0computador ou no\u00a0celular.", 7, T))
     return [sem_quebra_ja(h) for h in s]
 
 

@@ -50,7 +50,7 @@ POST = {
         "Um toque numa categoria abre os lançamentos dela. Em Educação, a escola já foi paga e o material escolar, de R$ 940,00, vence dia 12.\n\n"
         "Quinta, 14/01, vem o passo 3: quanto cabe em cada categoria. Salve para fazer junto.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
-        "Crie sua conta com nome, e-mail e senha. Gratuito para o controle financeiro.\n\n"
+        "Crie sua conta com nome, e-mail e senha e comece no plano Grátis.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#organizacaofinanceira #controledegastos #controlefinanceiro #financaspessoais #timtimcash"
     ),

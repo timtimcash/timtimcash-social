@@ -47,10 +47,10 @@ POST = {
         "Quanto você tem, somando tudo?\n\n"
         "É o passo 1 da série Comece 2027: o retrato. Liste todas as suas contas, cada uma com o saldo de hoje: banco, carteira, investimento, lá fora. Em Contas e carteiras, o timtimcash mostra o Patrimônio consolidado, já somado.\n\n"
         "No exemplo do vídeo, 4 contas somam R$ 112.730,86. Faltou alguma? Toque em Nova conta, escolha o tipo, informe o Saldo atual e deixe ligado Incluir no patrimônio total.\n\n"
-        "As contas lá fora entram pelo que custaram em reais. O valor de hoje, ao câmbio do dia, fica em Remessas ao exterior.\n\n"
+        "As contas lá fora entram pelo que custaram em reais. O valor de hoje, ao câmbio do dia, fica em Remessas ao exterior, no Premium.\n\n"
         "Domingo, 10/01, vem o passo 2: para onde vai o seu dinheiro. Salve para fazer junto.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
-        "Crie sua conta com nome, e-mail e senha. Gratuito para o controle financeiro.\n\n"
+        "Crie sua conta com nome, e-mail e senha e comece no plano Grátis.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#organizacaofinanceira #controlefinanceiro #financaspessoais #patrimonio #timtimcash"
     ),

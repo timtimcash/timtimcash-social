@@ -54,6 +54,7 @@ POST = {
         "Em dólar, o ano já fecha: de US$ 12.960 para US$ 13.380, sem envios em dólar no ano, +3,2%. Para ver o ano em reais, toque em "
         "PTAX: o site busca no Banco Central a PTAX de compra do último boletim de 2026 e diz a data. Sem o câmbio, 2026 aparece só em US$, "
         "porque converter pelo câmbio de hoje daria um rendimento em reais que não aconteceu naquele ano.\n\n"
+        "Remessas ao exterior são do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#investimentonoexterior #dolar #ptax #rendimento #timtimcash"

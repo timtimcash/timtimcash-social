@@ -49,7 +49,7 @@ POST = {
         "Os 5 saíram da Carteira do Carnaval, a conta que recebeu R$ 500 antes da folia. Sobraram R$ 45,20: o envelope segurou.\n\n"
         "O que sobrou pode voltar para a conta corrente ou para a reserva, com outra transferência.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
-        "Crie sua conta com nome, e-mail e senha. Gratuito para o controle financeiro.\n\n"
+        "Crie sua conta com nome, e-mail e senha e comece no plano Grátis.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#carnaval #controledegastos #controlefinanceiro #financaspessoais #timtimcash"
     ),
