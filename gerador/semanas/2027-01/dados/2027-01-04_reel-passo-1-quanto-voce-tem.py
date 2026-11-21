@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """Segunda 04/01/2027 · Reel "Comece 2027 · Passo 1 de 4: quanto você tem?" (série Comece 2027, passo 1, O retrato; capa verde).
+Telas refeitas em 21/11/2026 no build 2026-11-20.9, com a conta no Premium, porque o menu mudou com o Premium (selo PREMIUM sob o logotipo e bloco Premium com a coroa; a lista é rolada até Contas e carteiras). Na folha Nova conta, o nome agora é digitado no título. Roteiro, textos e tempos iguais.
 Equipe jr. Vídeo, capa e prévia gerados por equipes/jr/reel_04.py (assert nos números lidos da tela); telas capturadas por
 equipes/jr/captura_04.py no site build 2026-10-19.5, na cópia da conta da equipe (igual à da base, sem mudança),
 no celular (390 × 760 em escala 3), relógio da página em 04/01/2027 10:00, tudo pela interface: Visão geral › "Menu" (rolado até
@@ -69,7 +70,7 @@ POST = {
     ],
     "fontes": [],
     "telas": [
-        "telas/a-visao-geral.jpg · Visão geral no celular, Janeiro 2027, site build 2026-10-19.5, cópia da conta sem mudança, relógio em 04/01/2027 10:00 (o botão “Menu” no alto) · 5,6 a 6,6 s",
+        "telas/a-visao-geral.jpg · Visão geral no celular, Janeiro 2027, site build 2026-11-20.9, cópia da conta sem mudança, relógio em 04/01/2027 10:00 (o botão “Menu” no alto) · 5,6 a 6,6 s",
         "telas/b0-menu-aberto.jpg e b-menu.jpg · o menu recém-aberto e rolado até “Configurar · Contas e carteiras” · 6,6 a 7,4 s",
         "telas/c-contas-e-carteiras.jpg · “Contas e carteiras”: “4 contas · todas no total do patrimônio”, PATRIMÔNIO CONSOLIDADO R$ 112.730,86, Banco na Europa R$ 11.525,40, Conta corrente R$ 18.230,86, Corretora no exterior R$ 60.000,00, Reserva R$ 22.974,60, botão “Nova conta” · 7,4 a 10,9 s",
         "telas/d-nova-conta-0.jpg e d-nova-conta-nome-1.jpg a d-nova-conta-nome-8.jpg · a folha “Nova conta” e o nome “Carteira” letra a letra · 10,9 a 13,1 s",

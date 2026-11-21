@@ -14,6 +14,8 @@ Série "Comece 2027" (passo 1, O retrato), com o selo da equipe ja (equipes/ja/s
   patrimônio total" ligado), sem salvar: o patrimônio continua R$ 112.730,86.
 - Fechamento verde: "Passo 1: o retrato. Contas e carteiras no timtimcash."
 
+Telas refeitas em 21/11/2026 no build 2026-11-20.9, com a conta no Premium, porque o menu mudou com o Premium (selo PREMIUM sob o logotipo e bloco Premium com a coroa; a lista é rolada até Contas e carteiras). Na folha Nova conta, o nome agora é digitado no título. Roteiro, textos e tempos iguais.
+
 python3 reel_04.py  |  REEL_PREVIA="0 0.5 1 2.6 4.6 7 9 10.6 12.9 15.2 17 19.5" python3 reel_04.py
 """
 import os, sys

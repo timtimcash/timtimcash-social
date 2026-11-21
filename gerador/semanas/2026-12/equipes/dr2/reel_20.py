@@ -10,6 +10,8 @@ Revisão de 16/10: a aba do relatório em PDF entra no vídeo (revisao/captura_2
 Display e a Inter; a captura entrega essas mesmas fontes, locais, e a aba sai como a pessoa vê no celular: a página de 980 px reduzida
 à largura da tela, com o botão "Imprimir / Salvar PDF" no canto. O aviso "Relatório de 328 transações gerado" fica na aba de origem.
 
+Telas refeitas em 21/11/2026 no build 2026-11-20.9, com a conta no Premium, porque o menu mudou com o Premium (bloco Premium com a coroa; a lista do menu é rolada até o Exportar; Preferências ganhou abas e o toque em Backup leva à seção). Roteiro, textos e tempos iguais.
+
 python3 reel_20.py  |  REEL_PREVIA="0 0.5 1 3 6 10 14 18" python3 reel_20.py
 """
 import os, sys, json

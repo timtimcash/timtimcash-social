@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """Domingo 20/12/2026 · Reel "Seu ano num arquivo" (produto: Exportar e backup; capa verde). Equipe dr2.
+Telas refeitas em 21/11/2026 no build 2026-11-20.9, com a conta no Premium, porque o menu mudou com o Premium (bloco Premium com a coroa; a lista do menu é rolada até o Exportar; Preferências ganhou abas e o toque em Backup leva à seção). Roteiro, textos e tempos iguais.
 Vídeo, capa e prévia gerados por equipes/dr2/reel_20.py (com assert nos textos lidos da tela e na conta); telas capturadas por
 equipes/dr2/captura_20.py no site build 2026-10-16.1, na conta de base (N/base_app, sem mudança), no celular (390 × 844 em escala 3,
 a tela de um iPhone 12 a 14, para a janela "Exportar transações" aparecer inteira sem rolar a página), relógio em 20/12/2026 10:00.
@@ -73,7 +74,7 @@ POST = {
     ],
     "fontes": [],
     "telas": [
-        "telas/celular-exportar-1-visao-geral.jpg · Visão geral de dezembro de 2026, antes do toque em Menu (celular 390 × 844 em escala 3, build 2026-10-16.1, relógio da página em 20/12/2026 10:00) · 2,8 a 3,6 s",
+        "telas/celular-exportar-1-visao-geral.jpg · Visão geral de dezembro de 2026, antes do toque em Menu (celular 390 × 844 em escala 3, build 2026-11-20.9, relógio da página em 20/12/2026 10:00) · 2,8 a 3,6 s",
         "telas/celular-exportar-2-menu.jpg · o menu aberto, com Importar e Exportar no fim (mesmo relógio) · 3,6 a 5,0 s",
         "telas/celular-exportar-3-janela.jpg · “Exportar transações” ao abrir: “Período atual filtrado · Dezembro 2026”, 24 lançamentos (mesmo relógio) · 5,0 a 6,0 s",
         "telas/celular-exportar-4-ano.jpg · depois do toque em “Ano atual · 2026”: 328 lançamentos (mesmo relógio) · 6,0 a 7,8 s",
@@ -82,7 +83,7 @@ POST = {
         "telas/celular-exportar-7b-relatorio-aba.jpg · depois do toque em Exportar: a aba do relatório no celular (página de 980 px reduzida à tela de 390 × 844, com o botão “Imprimir / Salvar PDF”), capturada por revisao/captura_20_relatorio.py com as fontes que a página pede · 12,0 a 13,9 s",
         "telas/celular-relatorio-pdf-topo.png · o topo da mesma aba em tamanho real (980 px, escala 3), para conferência; relatorio_pdf.json traz o texto da página e as fontes carregadas",
         "telas/celular-exportar-7-relatorio-gerado.jpg · o aviso “Relatório de 328 transações gerado” na aba de origem (conferido no código; não entra mais no vídeo)",
-        "telas/celular-preferencias-backup.jpg · Preferências rolada até Backup: “Exportar backup completo”, “Cópias no servidor”, “Restaurar de backup”; o CPF da conta de exemplo fica fora da tela · 13,9 a 16,8 s",
+        "telas/celular-preferencias-backup.jpg · Preferências, depois do toque na aba Backup: “Exportar backup completo”, “Cópias no servidor”, “Restaurar de backup”; o CPF da conta de exemplo fica fora da tela · 13,9 a 16,8 s",
         "telas/caixas.json · posições medidas na captura, os textos de cada tela, o texto da aba do relatório e a conferência de que o CPF não aparece",
     ],
 }
