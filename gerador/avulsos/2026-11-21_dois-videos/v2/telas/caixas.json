@@ -1,0 +1,240 @@
+{
+ "relatorios": {
+  "resumo": [
+   29,
+   332.5,
+   332,
+   122,
+   "20% Acima do seu padrão · +4,9 pontos percentuais Sua média de 12 meses é 15,2% da receita. O maior desvio veio de Mercado: +R$ 204,75 em relação à média."
+  ],
+  "guardada": [
+   75,
+   473.5,
+   224.6,
+   19.5,
+   "Receita guardada"
+  ],
+  "diag": [
+   29,
+   215,
+   266.6,
+   22.5,
+   "Diagnóstico de outubro 2026"
+  ],
+  "pct": [
+   311.6,
+   475,
+   49.4,
+   24,
+   "20,1%"
+  ],
+  "texto": "Diagnóstico | O que mudou | Concentração | Receitas × Despesas | Cascata | Receitas | Despesas | Mapa de calor | Variações | Recorrentes | Sazonalidade | Saldo | Diagnóstico de outubro 2026 | Comparado com seus últimos 12 meses | Ajustar cálculo | Todas as categorias | 20% | Acima do seu padrão · +4,9 pontos percentuais | Sua média de 12 meses é 15,2% da receita. O maior desvio veio de Mercado: +R$ 204,75 em relação à média. | Receita guardada  | sua média (12m): 15,2% · meta: 20% | 20,1% | +4,9 p.p. | sua média 15,2% | Despesas do período | sua média mensal (12m): R$ 8.333,87 | R$ 8.215,00 | −1,4% | Reserva | quanto tempo o patrimônio cobre seus gastos | 13,0 meses | meta 6m | O que mudou | Maiores desvios em relação à sua média de 12 meses | Mercado | média R$ 1.520,25 · agora R$ 1.725,00 | +R$ 204,75 | +13% | Lazer e hobbies | média R$ 418,12 · agora R$ 214,90 | −R$ 203,22 | −49% | Saúde | média R$ 335,79 · agora R$ 144,30 | −R$ 191,49 | −57% | Impostos e Taxas | média R$ 115,83 · agora R$ 0,00 | −R$ 115,83 | zerou | Concentração | 3 categorias respondem por 69% do que você gastou | Casa | 30,3% | R$ 2.492,60 | Mercado | 21,0% | R$ 1.725,00 | Educação | 17,7% | R$ 1.450,00 | Outras 6 categorias | 31,0% | R$ 2.547,40 | Receitas vs Despesas | Comparativo mensal · últimos 12 meses | Barras | Linha | Últimos 12 meses | Cascata do período | Da receita ao resultado · Outubro 2026 | Receitas por categoria | 2 categorias · Total R$ 10.280,00 | Salário | R$ 9.960,00 | 96,9% | Outras receitas | R$ 320,00 | 3,1% | TOTAL | R$ 10.280,00 | Despesas por categoria | 8 categorias · Total R$ 8.215,00 | Despesas | R$ 8.215,00 | 8 categorias | Casa | R$ 2.492,60 | 30,3% | Alimentação | 2 subcategorias | R$ 2.406,40 | 29,3% | Educação | R$ 1.450,00 | 17,7% | Transporte | R$ 1.207,00 | 14"
+ },
+ "comparar": {
+  "dif": [
+   29,
+   582.5,
+   332,
+   74.5,
+   "Diferença +R$275 +3%"
+  ],
+  "forca": [
+   29,
+   739,
+   332,
+   36,
+   "A maior força foi Alimentação, +R$ 396. O resto caiu R$ 121."
+  ],
+  "totais": [
+   14,
+   808,
+   362,
+   458.5,
+   "Totais lado a lado out/26 contra out/25 Consolidado Analítico Leia assim O resultado do período melhorou em R$ 525,00: R$ 1.540,00 em out/25 contra R$ 2.065,00 em out/26."
+  ],
+  "com": [
+   29,
+   371.5,
+   332,
+   112.5,
+   "Comparar com out/25 Período anterior Mesmo período em 2025 Escolher datas…"
+  ],
+  "texto": "Despesas | Receitas | Todas as categorias | Janela em foco | out/26 | Este mês | 3 meses | 6 meses | No ano | 12 meses | Escolher meses… | Comparar com | out/25 | Período anterior | Mesmo período em 2025 | Escolher datas… | out/26 | R$8.215 | Diferença | +R$275 | +3% | out/25 | R$7.940 | A maior força foi Alimentação, +R$ 396. O resto caiu R$ 121. | Totais lado a lado | out/26 contra out/25 | Consolidado | Analítico | Leia assim | O resultado do período melhorou em R$ 525,00: R$ 1.540,00 em out/25 contra R$ 2.065,00 em out/26. | Ponte de variação | out/25 para out/26 · o que causou a diferença | Despesas | Receitas | out/25 | R$ 7.940,00 | Alimentação | +R$ 396,91 | Presentes e doações | +R$ 180,00 | Transporte | +R$ 163,61 | Saúde | −R$ 203,50 | Lazer e hobbies | −R$ 248,82 | Demais 3 | −R$ 13,20 | out/26 | R$ 8.215,00 | O eixo começa em R$ 7,7 mil, não em zero. Dois períodos seguidos costumam ser parecidos, e um eixo desde o zero achataria justamente a diferença que este gráfico existe para mostrar. As colunas de total trazem a marca do corte no pé. | Leia assim | Alimentação é a maior força do período: empurrou R$ 396,91 para cima. O saldo de todas as forças é +R$ 275,00. | Cada categoria, nos dois períodos | Despesas · maior diferença primeiro | Despesas | Receitas | Halteres | Espelhado | out/26, em foco | out/25, base | subiu | caiu | Alimentação | +20% | Lazer e hobbies | −54% | Saúde | −59% | Presentes e doações | novo | Transporte | +16% | Casa | −0,5% | Educação | 0% | Assinaturas e serviços | 0% | Leia assim | Alimentação é a maior mudança: R$ 2.009,49 em out/25 contra R$ 2.406,40 em out/26. A ordem é pela diferença em reais, não pelo percentual: 200% em cima de uma base pequena mexe menos no bolso. | Quanto em cada dia | Despesas de cada dia · out/26 contra "
+ },
+ "dre": {
+  "resultado": [
+   29,
+   235.5,
+   332,
+   66.5,
+   "RESULTADO Receitas menos despesas +R$ 2.065,00"
+  ],
+  "receitas": [
+   29,
+   310,
+   332,
+   38.5,
+   "RECEITAS R$ 10.280,00"
+  ],
+  "despesas": [
+   29,
+   454.5,
+   332,
+   46,
+   "DESPESAS 79,9% R$ 8.215,00"
+  ],
+  "texto": "Demonstrativo de resultado | 1 a 31 de outubro de 2026 | RESULTADO | Receitas menos despesas | +R$ 2.065,00 | RECEITAS | R$ 10.280,00 | Salário | R$ 9.960,00 | Outras receitas | R$ 320,00 | DESPESAS | 79,9% | R$ 8.215,00 | Casa | R$ 2.492,60 | Alimentação | 2 itens | R$ 2.406,40 | Educação | R$ 1.450,00 | Transporte | R$ 1.207,00 | Lazer e hobbies | R$ 214,90 | Presentes e doações | R$ 180,00 | Saúde | R$ 144,30 | Assinaturas e serviços | R$ 119,80"
+ },
+ "simulacao": {
+  "base": [
+   29,
+   188.5,
+   332,
+   124.5,
+   "Cenário base BASE 11 meses · até set/27 · +R$ 1.743 por mês R$ 33,4 mil +135%"
+  ],
+  "carro": [
+   29,
+   323,
+   332,
+   144.5,
+   "Trocar de carro 11 meses · até set/27 · +R$ 143 por mês −R$ 17,6 mil que a base R$ 15,8 mil +11%"
+  ],
+  "menos": [
+   44,
+   402.5,
+   266,
+   18,
+   "−R$ 17,6 mil que a base"
+  ],
+  "texto": "Simulação de fluxo futuro | 2 cenários · partindo de R$ 14.180,00 · base: Cenário base | Comparar | Cenário base | BASE | 11 meses · até set/27 · +R$ 1.743 por mês | R$ 33,4 mil | +135% | Trocar de carro | 11 meses · até set/27 · +R$ 143 por mês | −R$ 17,6 mil que a base | R$ 15,8 mil | +11% | Novo cenário"
+ },
+ "sim_comparar": {
+  "base": [
+   29,
+   211.5,
+   89.4,
+   16.5,
+   "Cenário base"
+  ],
+  "carro": [
+   132.4,
+   211.5,
+   100.3,
+   16.5,
+   "Trocar de carro"
+  ],
+  "vs": [
+   200,
+   482,
+   161,
+   100.5,
+   "Trocar de carro R$ 15.760,00 −R$ 17.600,00 vs Cenário base"
+  ],
+  "graf": [
+   14,
+   125,
+   362,
+   472.5,
+   "Comparar cenários Saldo projetado mês a mês · até set/27 Cenário base Trocar de carro Cenário base R$ 33.360,00 base Trocar de carro R$ 15.760,00 −R$ 17.600,00 vs Cenário base"
+  ],
+  "v1": [
+   29,
+   482,
+   161,
+   100.5,
+   "Cenário base R$ 33.360,00 base"
+  ],
+  "texto": "Cenários | Comparar cenários | Saldo projetado mês a mês · até set/27 | Cenário base | Trocar de carro | Cenário base | R$ 33.360,00 | base | Trocar de carro | R$ 15.760,00 | −R$ 17.600,00 vs Cenário base"
+ },
+ "remessas": {
+  "cartao": [
+   14,
+   138,
+   362,
+   312.5,
+   "Investido no exterior 🇺🇸 Estados Unidos no patrimônio · conta de destino US$13.260 na carteira hoje +US$ 1.260,00 +10,5% em US$ +R$ 6.982,89 +11,6% em R$ R$ 66.982,89 ao câmbio de hoje (R$ 5,0515) A"
+  ],
+  "usd": [
+   29,
+   255.5,
+   191.4,
+   24.5,
+   "+US$ 1.260,00 +10,5% em US$"
+  ],
+  "brl": [
+   29,
+   288,
+   175.5,
+   24.5,
+   "+R$ 6.982,89 +11,6% em R$"
+  ],
+  "carteira": [
+   162.6,
+   216.5,
+   115,
+   19,
+   "na carteira hoje"
+  ],
+  "deonde": [
+   14,
+   468.5,
+   362,
+   351.1,
+   "De onde veio o resultado em reais Rendimento dos investimentos convertido no câmbio de hoje, e o efeito do câmbio sobre o que você enviou. 60 mil você enviou +6,4 mil rendimento +618 efeito do câmbio "
+  ],
+  "texto": "Investido no exterior | 🇺🇸 | Estados Unidos | no patrimônio · conta de destino | US$13.260 na carteira hoje | +US$ 1.260,00 | +10,5% em US$ | +R$ 6.982,89 | +11,6% em R$ | R$ 66.982,89 ao câmbio de hoje (R$ 5,0515) | Atualizar | · há 22 dias | Resgate | Nova remessa | De onde veio o resultado em reais | Rendimento dos investimentos convertido no câmbio de hoje, e o efeito do câmbio sobre o que você enviou. | 60 mil | você enviou | +6,4 mil | rendimento | +618 | efeito do câmbio | 67 mil | hoje | Os investimentos renderam +US$ 1.260,00 (+10,5%). O câmbio subiu 1,0% desde o câmbio médio do que ainda está lá fora (R$ 5,00 → R$ 5,0515) e somou R$ 618. Sobrou +R$ 6.982,89 (+11,6%). | Câmbio: onde você está | O equilíbrio é o câmbio que zera o resultado em reais: abaixo dele, prejuízo. | R$ 5,0515 | hoje | R$ 4,5249 | R$ 5,00 | No equilíbrio (R$ 4,5249) | R$ 0 | Hoje (R$ 5,0515) | +R$ 6.982,89 | No seu médio (R$ 5,00) | +R$ 6.300,00 | Resultado em reais da carteira de hoje em cada cotação. No seu câmbio médio, o resultado em reais igualaria o retorno na moeda. | A jornada, desde jul/23 | O afastamento entre o degrau e a trajetória é o rendimento. | enviado acumulado | trajetória na taxa medida | valor informado | 0 | 5 mil | 10 mil | jul/23 | mar/25 | out/26 | US$ 13.260 | enviados: US$ 12.000 | Primeira remessa | 12/07/2023 | 3 anos atrás | Envios | 3 | a cada 13 meses, em média | Maior envio | 4.000,00 | 12/07/2023 | Média por envio | 4.000,00 | O degrau soma as remessas nas datas reais. A linha tracejada não é medição nova: é a mesma TIR (taxa interna de retorno) de Ritmo do retorno, desenhada como trajetória de taxa constante. O timtimcash conhece o valor da carteira só no ponto verde, informado em 30/10/2026. | Ritmo do retorno | TIR (taxa interna de retorno) das datas r"
+ },
+ "planos": {
+  "cartao": [
+   14,
+   605.1,
+   362,
+   671,
+   "TIMTIMCASH PREMIUM Veja o seu dinheiro por inteiro. Os relatórios, as análises mais fundas, a simulação do futuro e nenhum limite. Mensal R$ 14,90 por mês Cobrado todo mês Anual 2 meses grátis R$ 149 "
+  ],
+  "mensal": [
+   33,
+   796.5,
+   157,
+   109.4,
+   "Mensal R$ 14,90 por mês Cobrado todo mês"
+  ],
+  "anual": [
+   200,
+   796.5,
+   157,
+   109.4,
+   "Anual 2 meses grátis R$ 149 por ano Sai a R$ 12,42 por mês"
+  ],
+  "selo": [
+   212,
+   788.5,
+   89.3,
+   19.8,
+   "2 meses grátis"
+  ],
+  "assinar": [
+   33,
+   1160.4,
+   324,
+   46,
+   "Assinar o Premium"
+  ],
+  "seguro": [
+   69.8,
+   1237.8,
+   250.4,
+   17.4,
+   "Desista em até 7 dias e receba tudo de volta."
+  ],
+  "texto": "PLANOS | Escolha o seu plano |  | Seu plano hoje: Grátis, sem prazo. Assine o Premium quando quiser. |  | GRÁTIS | Seu plano hoje | R$ 0 | sem prazo |  | Para organizar o dia a dia. |  | Lançamentos, contas, cartões e categorias sem limite | Visão geral, Transações, Pendentes e Fluxo | 3 orçamentos e 3 metas | Importar 1 planilha por mês | Exportar, backup e verificação em duas etapas |  | Sem prazo e sem cartão: use pelo tempo que quiser. |  | TIMTIMCASH PREMIUM | Veja o seu dinheiro por inteiro. | Os relatórios, as análises mais fundas, a simulação do futuro e nenhum limite. | Mensal | R$ 14,90 | por mês | Cobrado todo mês | Anual | 2 meses grátis | R$ 149 | por ano | Sai a R$ 12,42 por mês | Tudo do Grátis, e mais: | Relatórios, Comparar, Resultado (DRE) e Diagnóstico | Simulação futura | Orçamentos e metas sem limite | Remessas ao exterior, com TIR | Aviso por e-mail dos vencimentos | Importar planilhas sem limite | Assinar o Premium | Pagamento seguro pela Stripe | Desista em até 7 dias e receba tudo de volta. | Antes de assinar | Renova sozinho, todo mês, até você cancelar. | Cancele quando quiser: o Premium segue até o fim do período pago, sem devolução proporcional. | Desista em até 7 dias pelo próprio site e receba tudo de volta. | Só no cartão de crédito, na página de pagamento da Stripe. | Dúvidas sobre a assinatura: contato@timtimcash.com",
+  "ops": [
+   33,
+   796.5,
+   324,
+   109.4,
+   "Mensal R$ 14,90 por mês Cobrado todo mês Anual 2 meses grátis R$ 149 por ano Sai a R$ 12,42 por mês"
+  ]
+ }
+}

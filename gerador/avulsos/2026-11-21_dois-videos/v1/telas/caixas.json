@@ -1,0 +1,222 @@
+{
+ "folha": {
+  "valor": [
+   1,
+   187,
+   388,
+   135,
+   "Valor R$ toque para digitar o valor"
+  ],
+  "cat": [
+   67,
+   455.5,
+   169.1,
+   24,
+   "Categoria"
+  ],
+  "desc": [
+   67,
+   557.5,
+   300,
+   32,
+   ""
+  ],
+  "cta": [
+   136.1,
+   700,
+   230.9,
+   44,
+   "Lançar despesa"
+  ],
+  "modal": [
+   0,
+   62,
+   390,
+   698,
+   "Nova transação Despesa Receita Transferência Valor R$ toque para digitar o valor Data Hoje 21/11 Já foi pago Afeta o saldo real da conta agora Categoria Alimentação Pago via Conta corrente Recorrência"
+  ],
+  "data": [
+   261,
+   339,
+   40.9,
+   20.5,
+   "Hoje"
+  ]
+ },
+ "folha_fim": {
+  "cat": [
+   1,
+   441.5,
+   388,
+   53,
+   "Categoria Padaria e lanches sugerida"
+  ],
+  "cta": [
+   136.1,
+   700,
+   230.9,
+   44,
+   "Lançar despesa"
+  ],
+  "desc": [
+   67,
+   557.5,
+   300,
+   32,
+   "Padaria"
+  ],
+  "texto": "Nova transação | Despesa | Receita | Transferência | Valor | R$ |   | Data | Hoje 21/11 | Já foi pago | Afeta o saldo real da conta agora | Categoria | Padaria e lanches sugerida | Pago via | Conta corrente | Recorrência | Única | Fixa | Parcelada | Cancelar | Lançar despesa"
+ },
+ "dashboard": {
+  "mov": [
+   14,
+   192,
+   362,
+   431.5,
+   "Patrimônio R$ 108.687 ,40 alta de 2,5% em relação a out/26 3 contas somadas Dez/25 Nov/26 Movimento de novembro 2026 PARCIAL Guardou 26,4% da receita 26,4% 73,6% Receitas R$ 9.960,00 Despesas R$ 7.331"
+  ],
+  "pat": [
+   14,
+   192,
+   362,
+   431.5,
+   "Patrimônio R$ 108.687 ,40 alta de 2,5% em relação a out/26 3 contas somadas Dez/25 Nov/26 Movimento de novembro 2026 PARCIAL Guardou 26,4% da receita 26,4% 73,6% Receitas R$ 9.960,00 Despesas R$ 7.331"
+  ],
+  "fluxo": [
+   14,
+   770.4,
+   362,
+   1141.5,
+   "Últimos 12 meses Fluxo mensal Dez/25 a Nov/26 Média por mês · Nov/25 a Out/26 Receitas R$ 9.826,67 Despesas R$ 8.333,87 Análise do período Últimos 12 meses · meses sem lançamentos são ignorados Receit"
+  ],
+  "despesas": [
+   230.4,
+   543,
+   128.6,
+   18,
+   "Despesas R$ 7.331,20"
+  ],
+  "resultado": [
+   31,
+   587,
+   122.8,
+   18,
+   "Resultado do período"
+  ],
+  "guardou": [
+   31,
+   478,
+   328,
+   18,
+   "Guardou 26,4% da receita"
+  ],
+  "texto": "Realizado | Previsto | Ambos | Patrimônio | R$ | 108.687 | ,40 | alta de | 2,5% em relação a out/26 | 3 contas somadas | Dez/25 | Nov/26 | Movimento de novembro 2026 | PARCIAL | Guardou 26,4% da receita | 26,4% | 73,6% | Receitas R$ 9.960,00 | Despesas R$ 7.331,20 | Resultado do período | R$ 2.628,80 | Receitas | R$ 9.960 | alta de | 1,4% | Despesas | R$ 7.331 | queda de | 12,0% | Resultado | R$ 2.628 | alta de | 76,1% | Comparado com a média por mês de Nov/25 a Out/26 | Últimos 12 meses | Fluxo mensal | Dez/25 a Nov/26 | Média por mês · Nov/25 a Out/26 | Receitas | R$ 9.826,67 | Despesas | R$ 8.333,87 | Análise do período | Últimos 12 meses · meses sem lançamentos são ignorados | Receita média | R$ 9.826,67 | Nov/25 a Out/26 · meses fechados | ↑ 1,4% (este mês vs média) | Despesa média | R$ 8.333,87 | Nov/25 a Out/26 · meses fechados | ↓ 12,0% (este mês vs média) | Saldo acumulado | R$ 108.687,40 | +R$ 19.562,40 | Dez/25 | Nov/26 | Reserva financeira | 13,0 | meses | R$ 108.687,40 ÷ R$ 8.333,87/mês (despesa média) | média de 12 meses com movimento | Por categoria | Despesas do período | Despesas | Receitas | Período global | Despesas | R$ 7.331,20 | 7 categorias | Maiores despesas | Do período | Casa | R$ 2.300,00 31% | Alimentação | 3 subcategorias | R$ 2.294,50 31% | Educação | R$ 1.450,00 20% | Transporte | R$ 892,00 12% | Lazer e hobbies | R$ 220,00 3% | Assinaturas e serviços | R$ 119,80 2% | Minhas contas | Saldos em tempo real | + Nova conta | PATRIMÔNIO TOTAL | R$ 108.687,40 | POSITIVAS | R$ 108.687,40 | Corretora no exterior | INVESTIMENTO | R$ 60.000,00 | Reserva | INVESTIMENTO | R$ 33.000,00 | Conta corrente | R$ 15.687,40 | Últimas transações | Toque em uma para editar | Ver todas → | sex · 27 de novembro | Editar | Excluir | 13º salário · 1ª parcela | Salário · Conta corrente | +R$ 4.980,00 | pendente | sáb · 21 de novembro | Editar | Excluir | Padaria | Padaria e lanches · Conta corrente | −R$ 24,50 | paga | Editar | Excluir | Hortifruti do Bairro | Mercado · Conta corrente | −R$ 201,30 | paga | sex · 20 de novembro | Editar | Excluir | Pedido delivery | Bares e restaurantes · Conta corrente | −R$ 79,90 | paga | Editar | Excluir | Armazenamento na nuvem | FixaAssinaturas e serviços · Conta corrente | −R$ 42,00 | paga | qui · 19 de novembro | Editar | Excluir | Combustível | Transporte · Conta corrente | −R$ 412,00 | paga | seg · 16 de novembro | Editar | Excluir | Mercado da Vila | Mercado · Conta corrente | −R$ 395,20 | paga | dom · 15 de n"
+ },
+ "pendentes": {
+  "avencer": [
+   14,
+   415,
+   362,
+   175.7,
+   "A vencer 1 transação ainda no prazo EM 6 DIAS · 27/11/2026 Editar Excluir 13º salário · 1ª parcela Salário·Conta corrente +R$ 4.980,00 pendente"
+  ],
+  "decimo": [
+   75,
+   543.5,
+   89.3,
+   16.8,
+   "13º salário · 1ª parcela"
+  ],
+  "em": [
+   29,
+   503.5,
+   64.3,
+   18,
+   "EM 6 DIAS"
+  ],
+  "nada": [
+   54,
+   375,
+   83.5,
+   15,
+   "Nada vencido."
+  ],
+  "areceber": [
+   63,
+   267.1,
+   64.4,
+   16.8,
+   "A receber"
+  ],
+  "texto": "A pagar | R$ | 0 | nenhuma | A receber | R$ | 4.980 | Total pendente | 1 | Nada vencido. Tudo dentro do prazo. | A vencer | 1 transação ainda no prazo | EM 6 DIAS | · 27/11/2026 | Editar | Excluir | 13º salário · 1ª parcela | Salário·Conta corrente | +R$ 4.980,00 | pendente"
+ },
+ "fluxo": {
+  "resumo": [
+   14,
+   138,
+   362,
+   238,
+   "Resultado · Novembro 2026 até dia 21 R$ 2.628 ,80 Guardou 26,4% da receita Receitas R$ 9.960 1 recebida Despesas R$ 7.331 ,20 22 pagas 26% 74% despesas"
+  ],
+  "detalhado": [
+   14,
+   394,
+   362,
+   597.5,
+   "Fluxo detalhado Dez/25 a Nov/26 · 12 meses Receitas R$ 118.400 Despesas R$ 99.217 Resultado R$ 19.182 Saldo acumulado Últimos 12 meses +R$ 19.182 em 12 meses · média de R$ 1.598 por mês · Dez/25 a Nov"
+  ],
+  "maiores": [
+   14,
+   1173,
+   362,
+   377.5,
+   "Maiores despesas Por categoria, no período Casa R$ 2.300,00 31% Mercado R$ 1.477,40 20% Educação R$ 1.450,00 20% Transporte R$ 892,00 12% Bares e restaurantes R$ 792,60 11%"
+  ],
+  "texto": "Resultado · Novembro 2026 até dia 21 | R$ | 2.628 | ,80 | Guardou 26,4% da receita | Receitas | R$ | 9.960 | 1 recebida | Despesas | R$ | 7.331 | ,20 | 22 pagas | 26% | 74% despesas | Fluxo detalhado | Dez/25 a Nov/26 · 12 meses | Receitas | R$ 118.400 | Despesas | R$ 99.217 | Resultado | R$ 19.182 | Saldo acumulado | Últimos 12 meses | +R$ 19.182 em 12 meses | · | média de R$ 1.598 por mês | · | Dez/25 a Nov/26 | Maiores receitas | Por categoria, no período | Salário | R$ 9.960,00 100% | Maiores despesas | Por categoria, no período | Casa | R$ 2.300,00 31% | Mercado | R$ 1.477,40 20% | Educação | R$ 1.450,00 20% | Transporte | R$ 892,00 12% | Bares e restaurantes | R$ 792,60 11% | Resumo mensal | Fluxo mês a mês do período | MÊS\tRECEITAS\tDESPESAS\tRESULTADO\tSALDO | Nov de 2026\tR$ 9.960,00\t−R$ 7.331,20\tR$ 2.628,80\tR$ 108.687,40"
+ },
+ "orcamentos": {
+  "gasto": [
+   14,
+   138,
+   362,
+   430.5,
+   "Gasto total no período R$7.331,20 Novembro 2026 21 de 30 dias · 70% do período 69% do limite 70% do período R$ 3.162,00 no orçamento de R$ 4.550,00 R$ 4.169,20 sem limite · 57% do gasto · 6 categorias"
+  ],
+  "progresso": [
+   14,
+   818,
+   362,
+   727.5,
+   "Progresso por categoria Novembro 2026 · 3 categorias Risco Só com limite Definir limites a marca vertical é hoje (dia 21 de 30 do período), e a barra à esquerda dela está dentro do ritmo JÁ PASSARAM D"
+  ],
+  "bares": [
+   71,
+   1044,
+   137.8,
+   21,
+   "Bares e restaurantes"
+  ],
+  "mercado": [
+   71,
+   1232,
+   59.4,
+   21,
+   "Mercado"
+  ],
+  "transporte": [
+   71,
+   1397.5,
+   73.2,
+   21,
+   "Transporte"
+  ],
+  "sobra": [
+   33,
+   469.5,
+   324,
+   82,
+   "Sobra do limite R$ 1.388,00 R$ 154 por dia nos 9 dias que faltam"
+  ],
+  "texto": "Gasto total no período | R$7.331,20 | Novembro 2026 | 21 de 30 dias · 70% do período | 69% do limite | 70% do período | R$ 3.162,00 no orçamento de R$ 4.550,00 | R$ 4.169,20 sem limite · 57% do gasto · 6 categorias | Limite definido | R$ 4.550,00 | 3 de 10 categorias | Usado do limite | R$ 3.162,00 | 69% do limite · o período está em 70% | Sobra do limite | R$ 1.388,00 | R$ 154 por dia nos 9 dias que faltam | Os 3 limites do Grátis estão em uso GRÁTIS · 3 DE 3 LIMITES | Para pôr limite em mais categorias, o Premium não tem teto. | Os três de hoje continuam valendo, e dá para mudar os valores ou trocar as categorias. | Conhecer o Premium | Progresso por categoria | Novembro 2026 · 3 categorias | Risco | Só com limite | Definir limites | a marca vertical é hoje (dia 21 de 30 do período), e a barra à esquerda dela está dentro do ritmo | JÁ PASSARAM DO LIMITE | 1 categoria | = hoje | Bares e restaurantes | R$ 792 de R$ 600 | 132% | Excedeu em R$ 192 | e, no ritmo, fecha em | R$ 1.132 | 89% ACIMA | VÃO ESTOURAR NO RITMO ATUAL | 1 categoria | = hoje | Mercado | R$ 1.477 de R$ 2.000 | 74% | no ritmo, fecha em | R$ 2.110 | 6% ACIMA | TRANQUILAS | 1 categoria | = hoje | Transporte | R$ 892 de R$ 1.950 | 46% | no ritmo, fecha em | R$ 1.274 | 65% DO LIMITE | Mostrar as outras 1 categoria com gasto e sem limite"
+ }
+}
