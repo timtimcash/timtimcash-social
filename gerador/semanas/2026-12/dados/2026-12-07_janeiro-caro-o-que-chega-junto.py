@@ -43,6 +43,7 @@ POST = {
         "Na conta do exemplo, janeiro só perde para dezembro, o mês das festas: em 2026, levou R$ 9.420, com IPVA e IPTU.\n\n"
         "O que chega junto: o IPVA (em São Paulo, em 2026, à vista em janeiro com 3% de desconto ou em 5 parcelas), o IPTU (na capital paulista, a partir de fevereiro, à vista com 3% de desconto ou em 10 parcelas), material escolar e matrícula, as parcelas da Black Friday e a fatura das festas. O calendário de 2027 sai pelo seu estado e pela sua cidade: confira.\n\n"
         "No timtimcash, a Visão geral em Previsto mostra janeiro de 2027 ainda em dezembro: R$ 6.405,80 já têm data, 76% de um mês médio. No exemplo, a 2ª parcela do 13º cobre o IPVA e o material escolar.\n\n"
+        "A Sazonalidade do slide 2 fica em Relatórios, no timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Fontes: Decreto estadual 70.087/2025 (SP); Prefeitura de São Paulo.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"

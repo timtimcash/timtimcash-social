@@ -40,13 +40,14 @@ POST = {
         "A REGRA · Guarde 1/12 por mês. · Começando em fevereiro, o dinheiro de janeiro fica pronto antes de janeiro chegar. · Gráfico “O fundo do ano, mês a mês · + R$ 455,37 todo mês”: 12 barras verdes, de fev a jan, que crescem até R$ 2.403,70 em novembro, descem em dezembro e chegam a quase zero em janeiro. Legenda: fev a nov: paga o IPTU e cresce; dez: paga o Natal; jan: paga IPVA, material e uniforme. · Nota: Conta de exemplo, com os valores de 2027 repetidos até janeiro de 2028, quando o fundo paga a última conta do ciclo.",
         "NO TIMTIMCASH · SIMULAÇÃO FUTURA · Um gasto em todo janeiro. · Em “Ajustar por mês”, a regra “+ Um mês do ano” põe o IPVA em cada janeiro do cenário. · Tela real no celular, relógio em 06/02/2027: Regras, 1 regra, “Todo mês de janeiro”, R$ 1.236; os botões “+ A partir de um mês”, “+ Um mês do ano” e “+ Um mês específico”; “Resultado nos 24 meses · 22 meses em R$ 0 · 2 em R$ 1.236”, com a faixa de fev/27 a jan/29 e os dois janeiros em verde. · Nota: Tela real do timtimcash, com dados de exemplo.",
         "NO TIMTIMCASH · NOVA TRANSAÇÃO · Ou lance o IPVA como Fixa anual. · O de 2028 já fica em Pendentes, com a data. E todo janeiro aparece de novo. · Tela real da “Nova transação” no celular, relógio em 06/02/2027: Despesa, R$ 1.236,00; Data 20/01/2028; “Marcar como pago” desligado; Categoria Impostos e Taxas; Pago via Conta corrente; IPVA; Recorrência Fixa; Anual; “Lançamentos automáticos · anual”. · Nota: Tela real do timtimcash, com dados de exemplo.",
-        "Fechamento (fundo verde) · Janeiro sem susto. · Simulação futura no timtimcash. No plano Grátis, no computador ou no celular. · Botão: Link na bio.",
+        "Fechamento (fundo verde) · Janeiro sem susto. · Simulação futura no timtimcash Premium, no computador ou no celular. · Botão: Link na bio.",
     ],
     "legenda": (
         "O gasto que vem uma vez por ano cabe no mês, se você dividir por 12.\n\n"
         "Na conta de exemplo: IPVA de R$ 1.236, IPTU de R$ 2.150 (10 × R$ 215), material e uniforme de R$ 1.226 e R$ 852,40 de presentes de Natal. São R$ 5.464,40 no ano, ou R$ 455,37 por mês.\n\n"
         "A regra: guarde 1/12 por mês. Começando em fevereiro, o fundo paga o IPTU de fevereiro a novembro, o Natal em dezembro e o IPVA, o material e o uniforme em janeiro de 2028.\n\n"
         "No timtimcash, a Simulação futura tem a regra “+ Um mês do ano”: o IPVA entra em todo janeiro do cenário. E na Nova transação, a recorrência Fixa anual deixa o IPVA de 2028 em Pendentes, com a data.\n\n"
+        "A Simulação futura é do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#planejamentofinanceiro #ipva #iptu #financaspessoais #timtimcash"
@@ -63,7 +64,7 @@ POST = {
         "A regra: guarde 1/12 por mês. Começando em fevereiro, o dinheiro de janeiro fica pronto antes de janeiro chegar. Gráfico do fundo do ano, com R$ 455,37 guardados todo mês: as barras crescem de fevereiro a novembro, quando chegam a R$ 2.403,70, mesmo pagando o IPTU; em dezembro o fundo paga o Natal; em janeiro paga IPVA, material e uniforme e fica perto de zero.",
         "No timtimcash, na Simulação futura: um gasto em todo janeiro. Em Ajustar por mês, a regra Um mês do ano põe o IPVA em cada janeiro do cenário. Tela real do celular, com dados de exemplo: regra Todo mês de janeiro, R$ 1.236; resultado nos 24 meses, 22 meses em zero e 2 em R$ 1.236, com os dois janeiros destacados na faixa de fevereiro de 2027 a janeiro de 2029.",
         "No timtimcash, na Nova transação: ou lance o IPVA como Fixa anual. O de 2028 já fica em Pendentes, com a data, e todo janeiro aparece de novo. Tela real do celular, com dados de exemplo: despesa de R$ 1.236, data 20 de janeiro de 2028, ainda não paga, categoria Impostos e Taxas, descrição IPVA, recorrência Fixa, anual.",
-        "Janeiro sem susto. Simulação futura no timtimcash. No plano Grátis, no computador ou no celular. Link na bio.",
+        "Janeiro sem susto. Simulação futura no timtimcash Premium, no computador ou no celular. Link na bio.",
     ],
     "fontes": [],
     "telas": [

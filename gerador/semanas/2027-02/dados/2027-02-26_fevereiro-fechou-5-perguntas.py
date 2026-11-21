@@ -38,7 +38,7 @@ POST = {
         "PERGUNTA 3 DE 5 · RELATÓRIOS · 3 Quanto da receita ficou? · 11,4% até hoje, abaixo da sua média de 18,3%. A meta é 20%. · Recorte da tela real do Diagnóstico de fevereiro 2027 no celular: 11%, Abaixo do seu padrão · −6,9 pontos percentuais; Você costuma guardar 18,3% da receita. O maior desvio veio de Mercado: +R$ 453,50 em relação à média.; Receita guardada 11,4%, −6,9 p.p., sua média (12m): 18,3% · meta: 20%. · Nota: Tela real do timtimcash, com dados de exemplo.",
         "PERGUNTA 4 DE 5 · RELATÓRIOS · 4 O que fugiu do normal? · Mercado: R$ 453,50 acima da média, +28%. Saúde ficou 52% abaixo. · Recorte da tela real de “O que mudou” (Maiores desvios em relação à sua média de 12 meses): Mercado, média R$ 1.646,10 · agora R$ 2.099,60, +R$ 453,50, +28%; Saúde, média R$ 268,11 · agora R$ 129,90, −R$ 138,21, −52%. · Nota: Tela real do timtimcash, com dados de exemplo.",
         "PERGUNTA 5 DE 5 · ORÇAMENTOS · 5 Como ficaram os limites? · Bares e restaurantes passou R$ 101; Mercado, R$ 99. As outras 3 categorias ficaram dentro do limite. · Recorte da tela real de Orçamentos no celular, faixa “Já passaram do limite”: Bares e restaurantes, R$ 701 de R$ 600, 117%, Excedeu em R$ 101, no ritmo fecha em R$ 755; Mercado, R$ 2.099 de R$ 2.000, 105%, Excedeu em R$ 99, no ritmo fecha em R$ 2.261. · Nota: Tela real do timtimcash, com dados de exemplo.",
-        "Fechamento (fundo verde) · Feche o mês com respostas. · Visão geral, Pendentes, Relatórios e Orçamentos, no plano Grátis, no computador ou no celular. · Botão: Link na bio.",
+        "Fechamento (fundo verde) · Feche o mês com respostas. · Visão geral, Pendentes e Orçamentos no plano Grátis. Relatórios no timtimcash Premium. · Botão: Link na bio.",
     ],
     "legenda": (
         "Fevereiro fechou. 5 perguntas antes de março.\n\n"
@@ -49,6 +49,7 @@ POST = {
         "5. Como ficaram os limites? Bares e restaurantes passou R$ 101; Mercado, R$ 99.\n\n"
         "Em Bares, R$ 112,50 foram do Carnaval, pagos pelo envelope: sem eles, a categoria ficaria dentro do limite. O envelope separa o dinheiro, mas o gasto conta na categoria.\n\n"
         "No timtimcash, as respostas estão na Visão geral (em Ambos), em Pendentes, em Relatórios e em Orçamentos.\n\n"
+        "Relatórios são do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#controlefinanceiro #organizacaofinanceira #financaspessoais #planejamentofinanceiro #timtimcash"
@@ -66,7 +67,7 @@ POST = {
         "Pergunta 3 de 5: quanto da receita ficou? 11,4% até hoje, abaixo da sua média de 18,3%; a meta é 20%. Recorte da tela real do Diagnóstico de fevereiro: abaixo do seu padrão, menos 6,9 pontos percentuais; você costuma guardar 18,3% da receita; o maior desvio veio de Mercado, 453,50 reais acima da média; receita guardada de 11,4%.",
         "Pergunta 4 de 5: o que fugiu do normal? Mercado ficou 453,50 reais acima da média, mais 28%; Saúde ficou 52% abaixo. Recorte da tela real de O que mudou, em Relatórios: Mercado, média de 1.646,10 reais e agora 2.099,60; Saúde, média de 268,11 reais e agora 129,90.",
         "Pergunta 5 de 5: como ficaram os limites? Bares e restaurantes passou 101 reais do limite; Mercado, 99 reais; as outras 3 categorias ficaram dentro. Recorte da tela real de Orçamentos, faixa já passaram do limite: Bares e restaurantes, 701 de 600 reais, 117%; Mercado, 2.099 de 2.000 reais, 105%.",
-        "Feche o mês com respostas. Visão geral, Pendentes, Relatórios e Orçamentos, no plano Grátis, no computador ou no celular. Link na bio.",
+        "Feche o mês com respostas. Visão geral, Pendentes e Orçamentos no plano Grátis. Relatórios no timtimcash Premium. Link na bio.",
     ],
     "fontes": [],
     "telas": [

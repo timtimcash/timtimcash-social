@@ -51,6 +51,7 @@ POST = {
         "traz tudo de volta.\n\n"
         "O passo da semana: abra a sua simulação e teste um susto antes que ele chegue. Saber o tamanho do aperto ajuda a decidir hoje "
         "quanto guardar. A simulação usa as receitas e as despesas que você estima; ela não calcula juros nem rendimento.\n\n"
+        "A Simulação futura é do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#planejamentofinanceiro #organizacaofinanceira #financaspessoais #controlefinanceiro #timtimcash"

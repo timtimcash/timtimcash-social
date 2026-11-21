@@ -52,6 +52,7 @@ POST = {
         "6 meses (+R$ 2.464): sobrou R$ 284 por mês a mais.\n\n"
         "Com uma meta de R$ 35 mil, o site mostra o mês em que ela chega: nov/27, no plano.\n\n"
         "A simulação projeta o saldo com as receitas e as despesas que você estima. Ela não calcula juros nem rendimento.\n\n"
+        "A Simulação futura é do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#planejamentofinanceiro #metasfinanceiras #financaspessoais #organizacaofinanceira #timtimcash"

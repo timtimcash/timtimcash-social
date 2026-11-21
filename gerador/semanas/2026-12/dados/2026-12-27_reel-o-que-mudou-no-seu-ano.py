@@ -53,6 +53,7 @@ POST = {
         "Lazer e hobbies: R$ 311,60 abaixo da média (−77%).\n\n"
         "Em Maiores variações, contra novembro até o mesmo dia, presentes e roupas aparecem como novos.\n\n"
         "Antes de virar o ano, veja o que mudou e o que vale levar para 2027.\n\n"
+        "Relatórios são do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#financaspessoais #controlefinanceiro #organizacaofinanceira #fimdeano #timtimcash"

@@ -38,7 +38,7 @@ POST = {
         "NO EXEMPLO · A sua cesta tem outros pesos. · Barras em par (cinza: IPCA, setembro de 2026; coral: exemplo, novembro de 2026): Alimentação 21,5% e 30,3%; Habitação 15,3% e 27,3%; Educação 6,2% e 15,8% (destaque); Transportes 20,2% e 13,2%; Saúde 13,8% e 1,4%. · Nota: Em % do gasto. No exemplo (novembro de 2026), Alimentação soma mercado e bares e restaurantes; Habitação, aluguel e luz.",
         "LEIA ASSIM · Onde a sua cesta pesa mais, a alta pesa mais. · Cartão: Educação no IPCA 6,2% → no exemplo 15,8% · 2,5× o peso. “Em 12 meses, Educação subiu 5,95%, mais que o índice (4,58%). Nessa casa, a alta da escola pesa duas vezes e meia o que pesa no IPCA.” · Citação em verde suave: “O seu índice pessoal de inflação pode ser maior ou menor do que o IPCA.” IBGE, “Inflação”, na série IBGE Explica.",
         "NO TIMTIMCASH · Veja quanto cada categoria leva do seu gasto. · Em Relatórios, Despesas por categoria, no período que você escolher. · Tela real no celular (relógio em 16/12/2026, novembro de 2026): “Despesas por categoria · 9 categorias · Total R$ 9.149,40”; Casa R$ 2.501,80 27,3%; Mercado R$ 1.844,90 20,2%; Educação R$ 1.450,00 15,8%; Transporte R$ 1.210,00 13,2%; Bares e restaurantes R$ 928,60 10,1%. Ao lado, o “GRUPO DO IPCA” de cada linha: Habitação, Alimentação, Educação (em coral), Transportes, Alimentação. · Nota: Tela real do timtimcash, com dados de exemplo.",
-        "Fechamento (fundo verde) · Conheça a sua cesta. · Relatórios no timtimcash. No plano Grátis, no computador ou no celular. · Botão: Link na bio.",
+        "Fechamento (fundo verde) · Conheça a sua cesta. · Relatórios no timtimcash Premium, no computador ou no celular. · Botão: Link na bio.",
     ],
     "legenda": (
         "A inflação oficial é uma média. A sua tem outros pesos.\n\n"
@@ -48,6 +48,7 @@ POST = {
         "No nosso exemplo, a escola leva 15,8% das despesas de novembro: duas vezes e meia o peso de Educação no IPCA. "
         "Quando a mensalidade sobe, essa casa sente mais do que o índice. O próprio IBGE lembra: a sua inflação pode ser maior ou menor do que o IPCA.\n\n"
         "No timtimcash, Relatórios mostra em Despesas por categoria quanto cada categoria leva do seu gasto, no período que você escolher.\n\n"
+        "Relatórios são do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Fonte: IBGE, IPCA de setembro de 2026 (divulgado em 09/10/2026).\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
@@ -66,7 +67,7 @@ POST = {
         "No exemplo, a sua cesta tem outros pesos. Barras em par, o IPCA de setembro de 2026 e o exemplo de novembro de 2026, em porcentagem do gasto: Alimentação, 21,5% e 30,3%; Habitação, 15,3% e 27,3%; Educação, 6,2% e 15,8%; Transportes, 20,2% e 13,2%; Saúde, 13,8% e 1,4%. No exemplo, Alimentação soma mercado e bares e restaurantes; Habitação, aluguel e luz.",
         "Leia assim: onde a sua cesta pesa mais, a alta pesa mais. Educação pesa 6,2% no IPCA e 15,8% no exemplo, 2,5 vezes o peso. Em 12 meses, Educação subiu 5,95%, mais que o índice, de 4,58%; nessa casa, a alta da escola pesa duas vezes e meia o que pesa no IPCA. Citação do IBGE: o seu índice pessoal de inflação pode ser maior ou menor do que o IPCA.",
         "No timtimcash: veja quanto cada categoria leva do seu gasto, em Relatórios, Despesas por categoria. Tela real no celular, novembro de 2026, com dados de exemplo: total de R$ 9.149,40 em 9 categorias; Casa, R$ 2.501,80, 27,3%; Mercado, R$ 1.844,90, 20,2%; Educação, R$ 1.450,00, 15,8%; Transporte, R$ 1.210,00, 13,2%; Bares e restaurantes, R$ 928,60, 10,1%. Ao lado de cada linha, o grupo do IPCA: Habitação, Alimentação, Educação, Transportes e Alimentação.",
-        "Conheça a sua cesta. Relatórios no timtimcash. No plano Grátis, no computador ou no celular. Link na bio.",
+        "Conheça a sua cesta. Relatórios no timtimcash Premium, no computador ou no celular. Link na bio.",
     ],
     "fontes": [
         ("IBGE · IPCA fica em 0,82% em setembro (4,58% em 12 meses), release de 09/10/2026", "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48246-ipca-fica-em-0-82-em-setembro"),

@@ -28,7 +28,7 @@ POST = {
         "NO EXEMPLO · As três maiores somam 69%. · Casa 30,3% R$ 2.492,60; Mercado 21,0% R$ 1.725,00; Educação 17,7% R$ 1.450,00; faixa “As 3 juntas 69% R$ 5.667,60”; Outras 6 categorias 31,0% R$ 2.547,40. · Nota: Despesas de outubro de 2026: R$ 8.215,00.",
         "ONDE MEXER PRIMEIRO · Comece pelo que pesa. · Um corte pequeno numa categoria grande vale mais que um corte inteiro numa pequena. · Barras: cortar 10% do Mercado (de R$ 1.725,00 para R$ 1.552,50), R$ 172,50; cancelar todas as assinaturas (vídeo, música e nuvem), R$ 119,80; “quanto fica no bolso por mês, no exemplo de outubro”.",
         "EM RELATÓRIOS · A Concentração faz essa conta. · No período que você escolher, ela mostra quantas categorias levam a maior parte do gasto. · Tela real do painel Concentração no celular, outubro de 2026 (relógio em 26/11/2026): “3 categorias respondem por 69% do que você gastou”, barra, Casa 30,3% R$ 2.492,60, Mercado 21,0% R$ 1.725,00, Educação 17,7% R$ 1.450,00, Outras 6 categorias 31,0% R$ 2.547,40. · Nota: Tela real do timtimcash, com dados de exemplo.",
-        "Fechamento (fundo verde) · Comece pelas categorias que pesam. · Relatórios no timtimcash. No plano Grátis, no computador ou no celular. · Botão: Link na bio.",
+        "Fechamento (fundo verde) · Comece pelas categorias que pesam. · Relatórios no timtimcash Premium, no computador ou no celular. · Botão: Link na bio.",
     ],
     "legenda": (
         "Três categorias levaram mais de 2/3 do gasto do mês no nosso exemplo.\n\n"
@@ -36,6 +36,7 @@ POST = {
         "As outras 6 categorias, juntas, ficaram com 31%.\n\n"
         "Por isso vale começar pelas categorias que pesam: cortar 10% do mercado (R$ 172,50 por mês) rende mais do que cancelar todas as assinaturas (R$ 119,80).\n\n"
         "No timtimcash, a Concentração, em Relatórios, mostra quantas categorias respondem pela maior parte do que você gastou no período escolhido.\n\n"
+        "Relatórios são do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#orcamento #controlefinanceiro #financaspessoais #educacaofinanceira #timtimcash"
@@ -52,7 +53,7 @@ POST = {
         "No exemplo, as três maiores somam 69%. Casa, 30,3%, R$ 2.492,60; Mercado, 21,0%, R$ 1.725,00; Educação, 17,7%, R$ 1.450,00. As 3 juntas: 69%, R$ 5.667,60. Outras 6 categorias: 31,0%, R$ 2.547,40. Despesas de outubro de 2026: R$ 8.215,00.",
         "Onde mexer primeiro: comece pelo que pesa. Um corte pequeno numa categoria grande vale mais que um corte inteiro numa pequena. Cortar 10% do Mercado, de R$ 1.725,00 para R$ 1.552,50, deixa R$ 172,50 por mês; cancelar todas as assinaturas, de vídeo, música e nuvem, deixa R$ 119,80.",
         "Em Relatórios, a Concentração faz essa conta: no período que você escolher, ela mostra quantas categorias levam a maior parte do gasto. Tela real no celular, outubro de 2026, com dados de exemplo: 3 categorias respondem por 69% do que você gastou. Casa, 30,3%, R$ 2.492,60; Mercado, 21,0%, R$ 1.725,00; Educação, 17,7%, R$ 1.450,00; outras 6 categorias, 31,0%, R$ 2.547,40.",
-        "Comece pelas categorias que pesam. Relatórios no timtimcash. No plano Grátis, no computador ou no celular. Link na bio.",
+        "Comece pelas categorias que pesam. Relatórios no timtimcash Premium, no computador ou no celular. Link na bio.",
     ],
     "fontes": [],
     "telas": [

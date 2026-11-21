@@ -46,7 +46,7 @@ POST = {
         "3 · Os limites (14/01): quanto cabe em cada categoria, a partir da sua média.\n"
         "4 · A rota (18/01): e se 2027 apertar? Um teste na Simulação futura, sem mudar nada.\n"
         "Em 30/01, a revisão de sábado fecha a série.\n\n"
-        "Salve este post e siga o perfil para fazer junto. Comece hoje no plano Grátis: crie sua conta com nome, e-mail e senha.\n\n"
+        "Salve este post e siga o perfil para fazer junto. Comece hoje no plano Grátis: crie sua conta com nome, e-mail e senha. A Simulação futura, do passo 4, é do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#organizacaofinanceira #controlefinanceiro #financaspessoais #anonovo #timtimcash"

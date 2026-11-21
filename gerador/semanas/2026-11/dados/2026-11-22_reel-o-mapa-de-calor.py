@@ -49,6 +49,7 @@ POST = {
         "em janeiro, R$ 1.390 de IPVA e IPTU; em julho, R$ 640 de hospedagem nas férias.\n\n"
         "Presentes, impostos do começo do ano, férias: esses gastos voltam todo ano. Anote os seus antes de 2027 começar.\n\n"
         "Para ver 12 meses no Mapa de calor, escolha em Relatórios um período personalizado de um ano.\n\n"
+        "Relatórios são do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#planejamentofinanceiro #controlefinanceiro #financaspessoais #organizacaofinanceira #timtimcash"

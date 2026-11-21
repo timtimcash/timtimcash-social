@@ -809,7 +809,7 @@ def post_29():
 </div>{nota('Exemplo: a conta fictícia dos nossos posts, despesas pagas de janeiro a dezembro de 2026.')}""", 5, T))
 
     s.append(fechamento_verde("Veja o que se repete no seu ano.",
-                              "Relatórios no\u00a0timtimcash. No\u00a0plano\u00a0Grátis, no\u00a0computador ou no\u00a0celular.", 6, T))
+                              "Relatórios no\u00a0timtimcash\u00a0Premium, no\u00a0computador ou no\u00a0celular.", 6, T))
     return [sem_quebra(h) for h in s]
 
 

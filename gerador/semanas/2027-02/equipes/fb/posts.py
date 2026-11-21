@@ -596,7 +596,7 @@ def post_fim_do_mes():
                       recorte(arq, px(y0), px(y1), largura=660, x0=px(14), x1=px(376)), 6, T))
 
     s.append(fechamento_verde("Feche o mês com respostas.",
-                              "Visão\u00a0geral, Pendentes, Relatórios e Orçamentos, no\u00a0plano\u00a0Grátis, no\u00a0computador ou no\u00a0celular.", 7, T))
+                              "Visão\u00a0geral, Pendentes e Orçamentos no\u00a0plano\u00a0Grátis. Relatórios no\u00a0timtimcash\u00a0Premium.", 7, T))
     return [sem_quebra_fb(h) for h in s]
 
 

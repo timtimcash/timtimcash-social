@@ -32,7 +32,7 @@ POST = {
         "META 3 · EM ORÇAMENTOS · Um limite por categoria. · No dia 21, o mercado do exemplo está em R$ 1.307. No ritmo, fecha dezembro em R$ 1.930, dentro dos R$ 2.000. · Tela real no celular (relógio em 21/12/2026): Progresso por categoria, Dezembro 2026 · 5 categorias; Mercado R$ 1.307 de R$ 2.000, 65%, no ritmo, fecha em R$ 1.930, NO LIMITE. · Nota: Tela real do timtimcash, com dados de exemplo.",
         "META 4 · NA SIMULAÇÃO FUTURA · Um saldo e o mês em que ele chega. · Em Definir uma meta, o cenário mostra quando chega lá. · Tela real no celular (relógio em 21/12/2026; Cenário base com horizonte de 1 ano e a meta de R$ 35.000 definida pela interface, sem gravar): Saldo em nov/27 R$ 35.540; +R$ 1.780 por mês · 12 meses; “Meta R$ 35 mil · atinge em nov/27”; gráfico de Hoje a nov/27 com a linha tracejada da meta. · Nota: Tela real do timtimcash, com dados de exemplo.",
         "SALVE ESTE POST · As suas 4 metas de 2027. · Folha para preencher: 1. Guardar ___% da receita (mede em: Relatórios › Diagnóstico); 2. Reserva de ___ meses de gastos (Relatórios › Diagnóstico); 3. ______ até R$ ___ por mês (Orçamentos); 4. R$ ___ até ___/2027 (Simulação futura).",
-        "Fechamento (fundo verde) · Meça as suas metas de 2027. · Relatórios, Orçamentos e Simulação futura no timtimcash. No plano Grátis, no computador ou no celular. · Botão: Link na bio.",
+        "Fechamento (fundo verde) · Meça as suas metas de 2027. · Orçamentos no plano Grátis. Relatórios e Simulação futura no timtimcash Premium. · Botão: Link na bio.",
     ],
     "legenda": (
         "Metas de 2027 que dá para medir: com número, prazo e um lugar para acompanhar.\n\n"
@@ -41,6 +41,7 @@ POST = {
         "3. Um limite por categoria. Em Orçamentos, o mercado do exemplo está em R$ 1.307 de R$ 2.000 no dia 21 e, no ritmo, fecha dezembro em R$ 1.930.\n"
         "4. Um saldo com data. Na Simulação futura, Definir uma meta mostra o mês em que o saldo chega lá: R$ 35 mil em nov/27, no cenário do exemplo.\n\n"
         "Salve o post e preencha as suas.\n\n"
+        "Relatórios e a Simulação futura são do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#metas #planejamentofinanceiro #orcamento #financaspessoais #timtimcash"
@@ -58,7 +59,7 @@ POST = {
         "Meta 3, em Orçamentos: um limite por categoria. No dia 21, o mercado do exemplo está em R$ 1.307; no ritmo, fecha dezembro em R$ 1.930, dentro dos R$ 2.000. Tela real no celular, com dados de exemplo: progresso por categoria em dezembro de 2026; Mercado, R$ 1.307 de R$ 2.000, 65%, no ritmo fecha em R$ 1.930, no limite.",
         "Meta 4, na Simulação futura: um saldo e o mês em que ele chega. Em Definir uma meta, o cenário mostra quando chega lá. Tela real no celular, com dados de exemplo: saldo em novembro de 2027 de R$ 35.540, mais R$ 1.780 por mês em 12 meses; meta de R$ 35 mil, atinge em novembro de 2027; gráfico subindo de hoje até novembro de 2027, com a linha tracejada da meta.",
         "Salve este post: as suas 4 metas de 2027. Uma folha para preencher: guardar tantos por cento da receita, medido em Relatórios, Diagnóstico; reserva de tantos meses de gastos, no Diagnóstico; uma categoria até tantos reais por mês, em Orçamentos; um saldo em reais até um mês de 2027, na Simulação futura.",
-        "Meça as suas metas de 2027. Relatórios, Orçamentos e Simulação futura no timtimcash. No plano Grátis, no computador ou no celular. Link na bio.",
+        "Meça as suas metas de 2027. Orçamentos no plano Grátis. Relatórios e Simulação futura no timtimcash Premium. Link na bio.",
     ],
     "fontes": [],
     "telas": [

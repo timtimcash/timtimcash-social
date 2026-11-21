@@ -57,6 +57,7 @@ POST = {
         "de out a dez vieram com categoria, e as 3 aplicações na reserva saíram, porque não são gasto. Se o saldo não bater com o do "
         "banco, o site avisa e oferece o ajuste.\n\n"
         "Pronto: janeiro passa a ser comparado com a média de out, nov e dez.\n\n"
+        "O Diagnóstico do slide 2 fica em Relatórios, no timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Comece hoje no plano Grátis: crie sua conta com nome, e-mail e senha.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"

@@ -45,6 +45,7 @@ POST = {
         "3. O que vence no começo do ano? IPVA, IPTU e material escolar. No exemplo, R$ 2.391: quase toda a 2ª parcela, de R$ 2.433,36.\n"
         "4. Qual é o plano para o resto? Lance a 2ª parcela como a receber e dê um destino antes de ela cair.\n\n"
         "A lei manda pagar a 2ª parcela até 20 de dezembro, que em 2026 é um domingo: confira a data com a empresa.\n\n"
+        "Relatórios são do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Fontes: Banco Central, taxas médias de agosto de 2026; Lei 4.749/1965.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"

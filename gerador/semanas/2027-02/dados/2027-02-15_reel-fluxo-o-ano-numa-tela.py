@@ -50,7 +50,7 @@ POST = {
         "No Fluxo, isso aparece num cartão, no gráfico Fluxo detalhado (receitas e despesas em barras, o resultado em linha e o saldo "
         "acumulado), nas maiores entradas e saídas e no Resumo mensal, mês a mês. Para ver 12 meses, escolha o período no calendário: "
         "aqui, de 01/03/2026 a 28/02/2027.\n\n"
-        "O Fluxo mostra o que já aconteceu: só entram lançamentos pagos ou recebidos. O futuro fica na Simulação futura.\n\n"
+        "O Fluxo mostra o que já aconteceu: só entram lançamentos pagos ou recebidos. O futuro fica na Simulação futura, do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Crie sua conta com nome, e-mail e senha e comece no plano Grátis.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"

@@ -46,7 +46,7 @@ POST = {
         "R$ 17.400,00. No pé da cascata, o resultado: R$ 24.438,66, 19,4% da receita.\n\n"
         "Os três maiores degraus levaram mais da metade da receita (R$ 66.567,60). Os degraus mais altos mostram para onde o dinheiro "
         "escorre, e são o primeiro lugar para olhar ao planejar 2027.\n\n"
-        "No plano Grátis, os Relatórios mostram os últimos 12 meses; o histórico completo, como o ano de 2026 inteiro, é do Premium.\n\n"
+        "Relatórios são do timtimcash Premium.\n\n"
         "Tela real do timtimcash, com dados de exemplo.\n\n"
         "Acesse pelo navegador, no computador ou no celular: timtimcash.com\n\n"
         "#relatoriofinanceiro #financaspessoais #organizacaofinanceira #controlefinanceiro #timtimcash"

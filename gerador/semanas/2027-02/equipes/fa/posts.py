@@ -629,7 +629,7 @@ def post_anual():
     s.append(slide("light", EXTRA_F + dois(esq, dir_, 520, gap=36), 5, T))
 
     s.append(fechamento_verde("Janeiro sem susto.",
-        "Simulação futura no\u00a0timtimcash. No\u00a0plano\u00a0Grátis, no\u00a0computador ou no\u00a0celular.", 6, T))
+        "Simulação\u00a0futura no\u00a0timtimcash\u00a0Premium, no\u00a0computador ou no\u00a0celular.", 6, T))
     return [sem_quebra_fa(h) for h in s]
 
 

@@ -367,7 +367,7 @@ def post_inflacao():
 {visual}{NOTA_TELA}""", 6, T))
 
     s.append(fechamento_verde("Conheça a sua cesta.",
-                              "Relatórios no\u00a0timtimcash. No\u00a0plano\u00a0Grátis, no\u00a0computador ou no\u00a0celular.", 7, T))
+                              "Relatórios no\u00a0timtimcash\u00a0Premium, no\u00a0computador ou no\u00a0celular.", 7, T))
     return [sem_quebra(h) for h in s]
 
 
@@ -703,7 +703,7 @@ def post_metas():
 <div class='visual' style='margin-top:42px'><div class='card' style='padding:4px 44px;background:#fff'>{linhas}</div></div>""", 6, T))
 
     s.append(fechamento_verde("Meça as suas metas de 2027.",
-                              "Relatórios, Orçamentos e Simulação\u00a0futura no\u00a0timtimcash. No\u00a0plano\u00a0Grátis, no\u00a0computador ou no\u00a0celular.", 7, T))
+                              "Orçamentos no\u00a0plano\u00a0Grátis. Relatórios e Simulação\u00a0futura no\u00a0timtimcash\u00a0Premium.", 7, T))
     return [sem_quebra(h) for h in s]
 
 
